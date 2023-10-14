@@ -14,4 +14,4 @@ run:
 	python3 -m src
 
 clean:
-	# rm -rf ./data/sin_procesar/*
+	# rm -rf ./data/original_Data/*
