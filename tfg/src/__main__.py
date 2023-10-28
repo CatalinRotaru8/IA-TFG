@@ -1,6 +1,6 @@
 """Main module for the TFG project."""
-from src.utils.fbref import Fbref
-from src.utils.downloader import get_big5_data
+from tfg.src.utils.fbref import Fbref
+from tfg.src.utils.downloader import get_big5_data
 
 
 def main():
