@@ -2,6 +2,7 @@
 import os
 import pandas as pd
 from src.utils.fbref import Fbref
+from src.config import OriginalData
 
 
 def make_url(season: str, stats: str) -> str:
@@ -35,7 +36,7 @@ def get_big5_data(stats: dict) -> pd.DataFrame:
 
 def save_data(data: pd.DataFrame, season: str, stat: str) -> None:
     """Save data to csv."""
-    folder_path = os.path.join(os.getcwd() + "/data/original_Data/", f"{season}")
+    folder_path = os.path.join(os.getcwd() + OriginalData.files, f"{season}")
     os.makedirs(folder_path, exist_ok=True)  # Create folder if it doesn't exist
     file_path = os.path.join(folder_path, f"{stat}.csv")
     data.to_csv(file_path, index=False)
