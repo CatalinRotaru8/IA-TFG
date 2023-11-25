@@ -1592,7 +1592,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 1529,Kostas Manolas,gr GRE,DF,Napoli,it Serie A,28,1991,24.2,6,0.25,6,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 1530,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,25,1994,17.8,21,1.18,17,2,1,0,1,0,4,0.23,2,1,0,0,1,0,Partidos
 1531,Giacomo Manzari,it ITA,"DL,CC",Sassuolo,it Serie A,18,2000,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
-1532,Myziane Maolida,fr FRA,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,33,4.40,25,0,3,2,3,0,2,0.27,2,0,0,0,0,0,Partidos
+1532,Myziane Maolida,km COM,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,33,4.40,25,0,3,2,3,0,2,0.27,2,0,0,0,0,0,Partidos
 1533,Faitout Maouassa,fr FRA,DF,Rennes,fr Ligue 1,21,1998,20.0,35,1.75,25,0,6,0,4,0,3,0.15,2,0,1,0,0,0,Partidos
 1534,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,30,1989,9.2,20,2.17,17,1,0,2,0,0,2,0.22,1,0,0,1,0,0,Partidos
 1535,Marcelo,br BRA,DF,Real Madrid,es La Liga,31,1988,14.4,59,4.10,51,0,5,1,2,0,7,0.49,5,0,0,0,2,0,Partidos
@@ -1613,7 +1613,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 1550,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,25,1994,19.5,11,0.56,9,0,0,1,0,1,1,0.05,1,0,0,0,0,0,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDead,HASTA,Dis,FR,Def,ACG,GCA90,PassLive,PassDead,HASTA,Dis,FR,Def,Partidos
 1551,Marlon,br BRA,DF,Sassuolo,it Serie A,23,1995,20.2,19,0.94,17,0,0,1,0,1,1,0.05,1,0,0,0,0,0,Partidos
-1552,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,20,1999,0.9,,,,,,,,,,,,,,,,,Partidos
+1552,Omar Marmoush,eg EGY,"CC,DL",Wolfsburg,de Bundesliga,20,1999,0.9,1,1.11,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 1553,Gonzalo Maroni,ar ARG,"CC,DL",Sampdoria,it Serie A,20,1999,2.0,19,9.45,11,3,2,2,0,1,2,0.99,1,1,0,0,0,0,Partidos
 1554,Marquinhos,br BRA,"CC,DF",Paris S-G,fr Ligue 1,25,1994,16.4,24,1.46,21,1,0,2,0,0,3,0.18,2,0,0,1,0,0,Partidos
 1555,Bruno Martella,it ITA,DF,Brescia,it Serie A,26,1992,14.1,34,2.41,27,2,2,2,0,1,2,0.14,2,0,0,0,0,0,Partidos
@@ -2424,7 +2424,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 2329,Daley Sinkgraven,nl NED,"DF,CC",Leverkusen,de Bundesliga,24,1995,10.1,18,1.78,16,1,1,0,0,0,1,0.10,1,0,0,0,0,0,Partidos
 2330,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,30,1988,21.3,16,0.75,11,2,1,2,0,0,1,0.05,0,0,0,1,0,0,Partidos
 2331,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,32,1987,36.0,7,0.19,4,3,0,0,0,0,1,0.03,1,0,0,0,0,0,Partidos
-2332,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,21,1997,17.8,36,2.03,29,0,4,1,1,1,3,0.17,3,0,0,0,0,0,Partidos
+2332,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,21,1997,17.8,36,2.03,29,0,4,1,1,1,3,0.17,3,0,0,0,0,0,Partidos
 2333,Moussa Sissoko,fr FRA,CC,Tottenham,eng Premier League,29,1989,27.2,37,1.36,33,0,3,1,0,0,4,0.15,3,0,1,0,0,0,Partidos
 2334,Sambou Sissoko,fr FRA,"CC,DL",Reims,fr Ligue 1,20,1999,0.4,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 2335,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,24,1995,9.9,27,2.73,19,3,3,0,2,0,2,0.20,1,1,0,0,0,0,Partidos
@@ -2501,7 +2501,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 2403,Vlatko Stojanovski,mk MKD,DL,Nîmes,fr Ligue 1,22,1997,1.4,5,3.66,3,0,1,1,0,0,0,0.00,0,0,0,0,0,0,Partidos
 2404,John Stones,eng ENG,DF,Manchester City,eng Premier League,25,1994,12.5,13,1.04,13,0,0,0,0,0,1,0.08,1,0,0,0,0,0,Partidos
 2405,Thomas Strakosha,al ALB,PO,Lazio,it Serie A,24,1995,38.0,10,0.26,8,2,0,0,0,0,2,0.05,2,0,0,0,0,0,Partidos
-2406,Gabriel Strefezza,,"DF,DL",SPAL,it Serie A,22,1997,23.4,,,,,,,,,,,,,,,,,Partidos
+2406,Gabriel Strefezza,br BRA,"DF,CC",SPAL,it Serie A,22,1997,23.4,75,3.19,49,1,10,7,6,2,5,0.21,2,0,1,2,0,0,Partidos
 2407,Tobias Strobl,de GER,"CC,DF",M'Gladbach,de Bundesliga,29,1990,6.8,6,0.88,5,0,0,0,0,1,1,0.15,0,0,0,0,0,1,Partidos
 2408,Christian Strohdiek,de GER,DF,Paderborn 07,de Bundesliga,31,1988,15.1,19,1.25,14,2,0,2,0,1,2,0.13,1,0,0,1,0,0,Partidos
 2409,Kevin Strootman,nl NED,CC,Marseille,fr Ligue 1,29,1990,15.7,28,1.78,25,1,0,2,0,0,5,0.32,5,0,0,0,0,0,Partidos
@@ -2555,7 +2555,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 2455,Georg Teigl,at AUT,"DF,CC",Augsburg,de Bundesliga,28,1991,1.2,1,0.81,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 2456,Álvaro Tejero,es ESP,DF,Eibar,es La Liga,23,1996,16.1,36,2.24,25,7,1,0,2,1,2,0.12,2,0,0,0,0,0,Partidos
 2457,Bernard Tekpetey,gh GHA,"DL,CC",Düsseldorf,de Bundesliga,21,1997,5.0,15,3.01,9,1,1,1,3,0,1,0.20,1,0,0,0,0,0,Partidos
-2458,Nathan Tella,eng ENG,DL,Southampton,eng Premier League,20,1999,0.0,1,30.00,0,0,0,0,1,0,0,0.00,0,0,0,0,0,0,Partidos
+2458,Nathan Tella,ng NGA,DL,Southampton,eng Premier League,20,1999,0.0,1,30.00,0,0,0,0,1,0,0,0.00,0,0,0,0,0,0,Partidos
 2459,Cristian Tello,es ESP,"CC,DL",Betis,es La Liga,27,1991,8.7,24,2.74,18,3,2,1,0,0,0,0.00,0,0,0,0,0,0,Partidos
 2460,Lino Tempelmann,de GER,CC,Freiburg,de Bundesliga,20,1999,0.4,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 2461,Łukasz Teodorczyk,pl POL,DL,Udinese,it Serie A,28,1991,2.5,4,1.63,4,0,0,0,0,0,2,0.81,2,0,0,0,0,0,Partidos
@@ -2615,7 +2615,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 2513,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,21,1997,16.2,19,1.17,17,0,1,1,0,0,2,0.12,2,0,0,0,0,0,Partidos
 2514,Cenk Tosun,tr TUR,DL,Crystal Palace,eng Premier League,28,1991,2.0,3,1.53,2,0,0,1,0,0,0,0.00,0,0,0,0,0,0,Partidos
 2515,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,28,1991,3.2,8,2.47,6,0,1,1,0,0,0,0.00,0,0,0,0,0,0,Partidos
-2516,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,25,1994,24.7,41,1.66,24,0,5,5,6,1,2,0.08,1,0,1,0,0,0,Partidos
+2516,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,25,1994,24.7,41,1.66,24,0,5,5,6,1,2,0.08,1,0,1,0,0,0,Partidos
 2517,Almamy Touré,ml MLI,DF,Eint Frankfurt,de Bundesliga,23,1996,16.6,40,2.41,35,0,0,4,0,1,6,0.36,5,0,0,1,0,0,Partidos
 2518,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,22,1997,19.6,30,1.53,20,1,1,3,2,3,4,0.20,4,0,0,0,0,0,Partidos
 2519,Andros Townsend,eng ENG,"DL,CC",Crystal Palace,eng Premier League,28,1991,14.4,32,2.23,24,1,3,3,1,0,2,0.14,2,0,0,0,0,0,Partidos

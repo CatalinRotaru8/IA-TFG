@@ -1592,7 +1592,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 1529,Kostas Manolas,gr GRE,DF,Napoli,it Serie A,28,1991,24.2,23,15,13,10,0,10,17,58.8,7,19,14,5,25,48,76,1,Partidos
 1530,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,25,1994,17.8,39,26,27,8,4,24,38,63.2,14,14,2,12,18,57,56,0,Partidos
 1531,Giacomo Manzari,it ITA,"DL,CC",Sassuolo,it Serie A,18,2000,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Partidos
-1532,Myziane Maolida,fr FRA,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,14,10,5,6,3,5,12,41.7,7,8,0,8,3,17,3,0,Partidos
+1532,Myziane Maolida,km COM,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,14,10,5,6,3,5,12,41.7,7,8,0,8,3,17,3,0,Partidos
 1533,Faitout Maouassa,fr FRA,DF,Rennes,fr Ligue 1,21,1998,20.0,51,33,27,20,4,14,26,53.8,12,13,5,8,23,74,59,0,Partidos
 1534,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,30,1989,9.2,28,18,18,7,3,13,26,50.0,13,7,3,4,26,54,32,0,Partidos
 1535,Marcelo,br BRA,DF,Real Madrid,es La Liga,31,1988,14.4,19,11,8,8,3,9,28,32.1,19,19,2,17,18,37,21,0,Partidos
@@ -1613,7 +1613,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 1550,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,25,1994,19.5,42,26,28,13,1,24,41,58.5,17,30,13,17,25,67,69,2,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º cent.,3.º ataq.,Tkl,Att,Tkl%,Pérdida,Bloqueos,Dis,Pases,Int,Tkl+Int,Desp.,Err,Partidos
 1551,Marlon,br BRA,DF,Sassuolo,it Serie A,23,1995,20.2,40,23,24,15,1,17,27,63.0,10,20,13,7,35,75,69,0,Partidos
-1552,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,20,1999,0.9,,1,,,,,,,,,,,1,,,,Partidos
+1552,Omar Marmoush,eg EGY,"CC,DL",Wolfsburg,de Bundesliga,20,1999,0.9,1,1,1,0,0,0,0,,0,1,0,1,1,2,0,0,Partidos
 1553,Gonzalo Maroni,ar ARG,"CC,DL",Sampdoria,it Serie A,20,1999,2.0,3,1,1,1,1,3,7,42.9,4,1,0,1,3,6,0,0,Partidos
 1554,Marquinhos,br BRA,"CC,DF",Paris S-G,fr Ligue 1,25,1994,16.4,39,20,17,18,4,11,26,42.3,15,25,8,17,25,64,31,1,Partidos
 1555,Bruno Martella,it ITA,DF,Brescia,it Serie A,26,1992,14.1,18,9,14,3,1,9,16,56.3,7,13,7,6,17,35,48,1,Partidos
@@ -2424,7 +2424,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2329,Daley Sinkgraven,nl NED,"DF,CC",Leverkusen,de Bundesliga,24,1995,10.1,20,16,11,6,3,8,24,33.3,16,12,3,9,10,30,16,0,Partidos
 2330,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,30,1988,21.3,42,31,24,15,3,19,28,67.9,9,14,1,13,46,88,69,0,Partidos
 2331,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,32,1987,36.0,0,0,0,0,0,0,0,,0,0,0,0,2,2,12,0,Partidos
-2332,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,21,1997,17.8,46,27,21,21,4,16,48,33.3,32,14,5,9,20,66,25,0,Partidos
+2332,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,21,1997,17.8,46,27,21,21,4,16,48,33.3,32,14,5,9,20,66,25,0,Partidos
 2333,Moussa Sissoko,fr FRA,CC,Tottenham,eng Premier League,29,1989,27.2,39,25,25,12,2,20,48,41.7,28,19,4,15,27,66,43,2,Partidos
 2334,Sambou Sissoko,fr FRA,"CC,DL",Reims,fr Ligue 1,20,1999,0.4,0,0,0,0,0,0,0,,0,0,0,0,1,1,2,0,Partidos
 2335,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,24,1995,9.9,17,8,5,6,6,4,19,21.1,15,18,0,18,6,23,4,1,Partidos
@@ -2501,7 +2501,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2403,Vlatko Stojanovski,mk MKD,DL,Nîmes,fr Ligue 1,22,1997,1.4,3,3,0,3,0,1,1,100.0,0,0,0,0,0,3,1,0,Partidos
 2404,John Stones,eng ENG,DF,Manchester City,eng Premier League,25,1994,12.5,16,10,8,7,1,3,5,60.0,2,5,3,2,9,25,32,2,Partidos
 2405,Thomas Strakosha,al ALB,PO,Lazio,it Serie A,24,1995,38.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,7,2,Partidos
-2406,Gabriel Strefezza,,"DF,DL",SPAL,it Serie A,22,1997,23.4,,39,,,,,,,,,,,22,,,,Partidos
+2406,Gabriel Strefezza,br BRA,"DF,CC",SPAL,it Serie A,22,1997,23.4,64,40,28,26,10,22,54,40.7,32,29,3,26,21,85,17,0,Partidos
 2407,Tobias Strobl,de GER,"CC,DF",M'Gladbach,de Bundesliga,29,1990,6.8,9,6,5,4,0,3,8,37.5,5,8,4,4,11,20,5,0,Partidos
 2408,Christian Strohdiek,de GER,DF,Paderborn 07,de Bundesliga,31,1988,15.1,26,22,21,5,0,20,42,47.6,22,16,10,6,25,51,92,0,Partidos
 2409,Kevin Strootman,nl NED,CC,Marseille,fr Ligue 1,29,1990,15.7,39,27,13,23,3,20,49,40.8,29,16,1,15,17,56,24,0,Partidos
@@ -2555,7 +2555,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2455,Georg Teigl,at AUT,"DF,CC",Augsburg,de Bundesliga,28,1991,1.2,3,1,1,2,0,2,4,50.0,2,0,0,0,3,6,1,0,Partidos
 2456,Álvaro Tejero,es ESP,DF,Eibar,es La Liga,23,1996,16.1,30,18,17,10,3,14,23,60.9,9,17,4,13,28,58,38,0,Partidos
 2457,Bernard Tekpetey,gh GHA,"DL,CC",Düsseldorf,de Bundesliga,21,1997,5.0,4,4,1,2,1,0,2,0.0,2,5,0,5,2,6,0,0,Partidos
-2458,Nathan Tella,eng ENG,DL,Southampton,eng Premier League,20,1999,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Partidos
+2458,Nathan Tella,ng NGA,DL,Southampton,eng Premier League,20,1999,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Partidos
 2459,Cristian Tello,es ESP,"CC,DL",Betis,es La Liga,27,1991,8.7,8,5,2,2,4,4,8,50.0,4,5,0,5,4,12,0,0,Partidos
 2460,Lino Tempelmann,de GER,CC,Freiburg,de Bundesliga,20,1999,0.4,1,0,1,0,0,1,1,100.0,0,1,1,0,0,1,0,0,Partidos
 2461,Łukasz Teodorczyk,pl POL,DL,Udinese,it Serie A,28,1991,2.5,7,5,1,5,1,3,7,42.9,4,2,0,2,0,7,1,0,Partidos
@@ -2615,7 +2615,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2513,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,21,1997,16.2,32,19,21,11,0,18,27,66.7,9,33,18,15,31,63,75,0,Partidos
 2514,Cenk Tosun,tr TUR,DL,Crystal Palace,eng Premier League,28,1991,2.0,2,2,2,0,0,0,2,0.0,2,0,0,0,0,2,1,0,Partidos
 2515,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,28,1991,3.2,2,0,0,0,2,0,1,0.0,1,1,0,1,0,2,1,0,Partidos
-2516,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,25,1994,24.7,32,21,10,21,1,10,30,33.3,20,31,11,20,29,61,18,1,Partidos
+2516,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,25,1994,24.7,32,21,10,21,1,10,30,33.3,20,31,11,20,29,61,18,1,Partidos
 2517,Almamy Touré,ml MLI,DF,Eint Frankfurt,de Bundesliga,23,1996,16.6,32,19,18,11,3,11,22,50.0,11,18,7,11,23,55,54,1,Partidos
 2518,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,22,1997,19.6,58,32,19,34,5,17,56,30.4,39,19,7,12,31,89,27,1,Partidos
 2519,Andros Townsend,eng ENG,"DL,CC",Crystal Palace,eng Premier League,28,1991,14.4,34,21,12,17,5,15,37,40.5,22,18,0,18,15,49,10,1,Partidos

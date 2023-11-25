@@ -1592,7 +1592,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 1529,Kostas Manolas,gr GRE,DF,Napoli,it Serie A,28,1991,24.2,1510,1455,52,48,0,5,0,4,0,0,0,0,1384,3,2,Partidos
 1530,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,25,1994,17.8,642,517,123,3,0,0,45,120,0,0,0,0,448,2,22,Partidos
 1531,Giacomo Manzari,it ITA,"DL,CC",Sassuolo,it Serie A,18,2000,0.2,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-1532,Myziane Maolida,fr FRA,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,315,312,3,0,0,1,9,3,0,0,0,0,254,0,4,Partidos
+1532,Myziane Maolida,km COM,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,315,312,3,0,0,1,9,3,0,0,0,0,254,0,4,Partidos
 1533,Faitout Maouassa,fr FRA,DF,Rennes,fr Ligue 1,21,1998,20.0,1011,797,212,11,1,2,61,201,0,0,0,0,757,2,20,Partidos
 1534,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,30,1989,9.2,752,662,89,15,0,4,30,74,0,0,0,0,609,1,6,Partidos
 1535,Marcelo,br BRA,DF,Real Madrid,es La Liga,31,1988,14.4,1064,935,126,11,2,18,58,115,0,0,0,0,872,3,18,Partidos
@@ -1613,7 +1613,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 1550,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,25,1994,19.5,1081,1050,31,29,0,13,4,2,0,0,0,0,949,0,6,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
 1551,Marlon,br BRA,DF,Sassuolo,it Serie A,23,1995,20.2,1468,1428,39,33,1,10,0,6,0,0,0,0,1383,1,6,Partidos
-1552,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,20,1999,0.9,,,,,,,1,,,,,,,,,Partidos
+1552,Omar Marmoush,eg EGY,"CC,DL",Wolfsburg,de Bundesliga,20,1999,0.9,17,17,0,0,0,0,1,0,0,0,0,0,10,0,1,Partidos
 1553,Gonzalo Maroni,ar ARG,"CC,DL",Sampdoria,it Serie A,20,1999,2.0,93,83,10,3,0,1,12,1,6,3,3,0,72,0,5,Partidos
 1554,Marquinhos,br BRA,"CC,DF",Paris S-G,fr Ligue 1,25,1994,16.4,1309,1283,23,16,5,12,3,6,0,0,0,0,1218,3,4,Partidos
 1555,Bruno Martella,it ITA,DF,Brescia,it Serie A,26,1992,14.1,577,466,109,15,0,4,66,91,3,2,0,0,406,2,17,Partidos
@@ -2424,7 +2424,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2329,Daley Sinkgraven,nl NED,"DF,CC",Leverkusen,de Bundesliga,24,1995,10.1,741,654,83,8,3,3,19,73,2,0,2,0,621,4,8,Partidos
 2330,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,30,1988,21.3,876,764,110,29,1,8,9,81,0,0,0,0,599,2,16,Partidos
 2331,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,32,1987,36.0,1158,687,469,136,0,3,0,0,0,0,0,0,825,2,1,Partidos
-2332,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,21,1997,17.8,654,636,17,10,0,14,19,6,0,0,0,0,535,1,14,Partidos
+2332,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,21,1997,17.8,654,636,17,10,0,14,19,6,0,0,0,0,535,1,14,Partidos
 2333,Moussa Sissoko,fr FRA,CC,Tottenham,eng Premier League,29,1989,27.2,1322,1245,74,24,3,9,23,50,0,0,0,0,1135,3,12,Partidos
 2334,Sambou Sissoko,fr FRA,"CC,DL",Reims,fr Ligue 1,20,1999,0.4,7,7,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
 2335,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,24,1995,9.9,445,415,29,8,2,3,38,8,13,6,7,0,341,1,11,Partidos
@@ -2501,7 +2501,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2403,Vlatko Stojanovski,mk MKD,DL,Nîmes,fr Ligue 1,22,1997,1.4,29,28,1,0,0,0,2,0,0,0,0,0,21,0,1,Partidos
 2404,John Stones,eng ENG,DF,Manchester City,eng Premier League,25,1994,12.5,1039,1029,9,6,0,12,0,3,0,0,0,0,977,1,7,Partidos
 2405,Thomas Strakosha,al ALB,PO,Lazio,it Serie A,24,1995,38.0,1233,859,370,79,0,2,0,0,0,0,0,0,959,4,1,Partidos
-2406,Gabriel Strefezza,,"DF,DL",SPAL,it Serie A,22,1997,23.4,,,,,,,71,,,,,,,,,Partidos
+2406,Gabriel Strefezza,br BRA,"DF,CC",SPAL,it Serie A,22,1997,23.4,858,777,81,6,1,4,73,72,2,0,2,0,658,0,29,Partidos
 2407,Tobias Strobl,de GER,"CC,DF",M'Gladbach,de Bundesliga,29,1990,6.8,387,377,10,9,1,3,0,1,0,0,0,0,337,0,5,Partidos
 2408,Christian Strohdiek,de GER,DF,Paderborn 07,de Bundesliga,31,1988,15.1,678,626,47,39,2,26,5,8,0,0,0,0,495,5,12,Partidos
 2409,Kevin Strootman,nl NED,CC,Marseille,fr Ligue 1,29,1990,15.7,966,917,47,36,3,4,6,11,0,0,0,0,823,2,13,Partidos
@@ -2555,7 +2555,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2455,Georg Teigl,at AUT,"DF,CC",Augsburg,de Bundesliga,28,1991,1.2,27,22,5,1,0,0,0,4,0,0,0,0,22,0,2,Partidos
 2456,Álvaro Tejero,es ESP,DF,Eibar,es La Liga,23,1996,16.1,791,600,190,13,0,4,75,177,0,0,0,0,563,1,18,Partidos
 2457,Bernard Tekpetey,gh GHA,"DL,CC",Düsseldorf,de Bundesliga,21,1997,5.0,103,97,6,0,0,0,14,5,0,0,0,0,61,0,7,Partidos
-2458,Nathan Tella,eng ENG,DL,Southampton,eng Premier League,20,1999,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+2458,Nathan Tella,ng NGA,DL,Southampton,eng Premier League,20,1999,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
 2459,Cristian Tello,es ESP,"CC,DL",Betis,es La Liga,27,1991,8.7,394,356,37,5,0,7,33,15,17,9,3,0,293,1,9,Partidos
 2460,Lino Tempelmann,de GER,CC,Freiburg,de Bundesliga,20,1999,0.4,10,10,0,0,0,0,0,0,0,0,0,0,6,0,1,Partidos
 2461,Łukasz Teodorczyk,pl POL,DL,Udinese,it Serie A,28,1991,2.5,72,68,3,0,0,1,0,1,0,0,0,0,50,1,1,Partidos
@@ -2615,7 +2615,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2513,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,21,1997,16.2,818,783,32,14,1,11,2,18,0,0,0,0,694,3,6,Partidos
 2514,Cenk Tosun,tr TUR,DL,Crystal Palace,eng Premier League,28,1991,2.0,44,42,0,0,0,0,2,0,0,0,0,0,28,2,0,Partidos
 2515,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,28,1991,3.2,60,59,1,0,0,3,2,0,0,0,0,0,39,0,2,Partidos
-2516,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,25,1994,24.7,1340,1324,13,12,1,15,10,0,0,0,0,0,1122,3,20,Partidos
+2516,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,25,1994,24.7,1340,1324,13,12,1,15,10,0,0,0,0,0,1122,3,20,Partidos
 2517,Almamy Touré,ml MLI,DF,Eint Frankfurt,de Bundesliga,23,1996,16.6,726,629,94,4,0,8,75,90,0,0,0,0,489,3,21,Partidos
 2518,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,22,1997,19.6,947,930,17,16,3,11,13,0,1,0,0,0,796,0,15,Partidos
 2519,Andros Townsend,eng ENG,"DL,CC",Crystal Palace,eng Premier League,28,1991,14.4,473,435,36,9,1,3,67,11,9,6,0,1,328,2,20,Partidos

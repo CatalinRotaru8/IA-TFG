@@ -667,7 +667,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 640,Abdoulaye Diallo,sn SEN,PO,Rennes,fr Ligue 1,26,1992,5.5,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0,Partidos
 641,Mustapha Diallo,sn SEN,CC,Nîmes,fr Ligue 1,32,1986,5.1,16,11,6,9,1,5,13,38.5,8,7,1,6,10,26,14,1,Partidos
 642,Mohamed Diamé,sn SEN,CC,Newcastle Utd,eng Premier League,31,1987,24.1,76,46,35,36,5,16,54,29.6,38,42,9,33,30,106,39,1,Partidos
-643,Grady Diangana,,"CC,DL",West Ham,eng Premier League,20,1998,6.8,20,9,8,8,4,5,14,35.7,9,11,0,11,1,21,4,0,Partidos
+643,Grady Diangana,cd COD,"CC,DL",West Ham,eng Premier League,20,1998,6.8,20,9,8,8,4,5,14,35.7,9,11,0,11,1,21,4,0,Partidos
 644,Lassana Diarra,fr FRA,CC,Paris S-G,fr Ligue 1,33,1985,1.8,2,1,0,2,0,0,1,0.0,1,0,0,0,2,4,3,0,Partidos
 645,Amadou Diawara,gn GUI,CC,Napoli,it Serie A,21,1997,7.3,12,4,1,9,2,4,5,80.0,1,6,0,6,11,23,12,0,Partidos
 646,Brahim Díaz,es ESP,DL,Real Madrid,es La Liga,18,1999,4.2,9,7,5,4,0,3,8,37.5,5,2,0,2,0,9,0,0,Partidos
@@ -1569,7 +1569,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 1507,Juan Manuel Valencia,co COL,DL,Bologna,it Serie A,20,1998,0.3,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Partidos
 1508,Harrison Manzala,cd COD,"CC,DL",Angers,fr Ligue 1,24,1994,0.8,2,2,1,0,1,0,0,,0,0,0,0,0,2,1,0,Partidos
 1509,Fran Manzanara,es ESP,"DF,CC",Levante,es La Liga,21,1996,1.7,7,5,3,3,1,4,4,100.0,0,3,2,1,1,8,7,0,Partidos
-1510,Myziane Maolida,fr FRA,DL,Nice,fr Ligue 1,19,1999,10.6,12,8,5,5,2,2,4,50.0,2,5,0,5,1,13,5,0,Partidos
+1510,Myziane Maolida,km COM,DL,Nice,fr Ligue 1,19,1999,10.6,12,8,5,5,2,2,4,50.0,2,5,0,5,1,13,5,0,Partidos
 1511,Faitout Maouassa,fr FRA,DF,Nîmes,fr Ligue 1,20,1998,23.7,55,30,35,15,5,23,39,59.0,16,24,5,19,23,78,81,1,Partidos
 1512,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,29,1989,9.8,25,16,17,7,1,12,15,80.0,3,9,3,6,30,55,42,0,Partidos
 1513,Iván Marcano,es ESP,DF,Roma,it Serie A,31,1987,9.0,8,4,4,4,0,5,8,62.5,3,13,6,7,24,32,45,0,Partidos
@@ -2379,7 +2379,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2286,Giovanni Sio,ci CIV,DL,Montpellier,fr Ligue 1,29,1989,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Partidos
 2287,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,29,1988,32.9,57,32,38,18,1,27,47,57.4,20,32,15,17,65,122,155,1,Partidos
 2288,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,31,1987,35.2,0,0,0,0,0,0,2,0.0,2,0,0,0,2,2,21,1,Partidos
-2289,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,20,1997,29.6,60,41,23,34,3,23,55,41.8,32,37,3,34,34,94,39,1,Partidos
+2289,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,20,1997,29.6,60,41,23,34,3,23,55,41.8,32,37,3,34,34,94,39,1,Partidos
 2290,Moussa Sissoko,fr FRA,"CC,DL",Tottenham,eng Premier League,28,1989,25.9,36,25,18,14,4,15,29,51.7,14,31,4,27,16,52,25,2,Partidos
 2291,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,23,1995,9.4,4,3,4,0,0,0,9,0.0,9,5,0,5,3,7,3,0,Partidos
 2292,Antonio Sivera,es ESP,PO,Alavés,es La Liga,21,1996,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,1,Partidos
@@ -2548,7 +2548,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2449,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,20,1997,12.9,34,30,23,10,1,18,28,64.3,10,19,7,12,29,63,55,0,Partidos
 2450,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,27,1991,11.8,13,9,3,6,4,4,13,30.8,9,12,0,12,5,18,3,0,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º cent.,3.º ataq.,Tkl,Att,Tkl%,Pérdida,Bloqueos,Dis,Pases,Int,Tkl+Int,Desp.,Err,Partidos
-2451,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,24,1994,30.5,48,31,14,28,6,19,56,33.9,37,25,10,15,47,95,29,1,Partidos
+2451,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,24,1994,30.5,48,31,14,28,6,19,56,33.9,37,25,10,15,47,95,29,1,Partidos
 2452,Almamy Touré,ml MLI,DF,Monaco,fr Ligue 1,22,1996,3.8,13,6,6,7,0,3,10,30.0,7,3,1,2,11,24,12,0,Partidos
 2453,Almamy Touré,ml MLI,"DF,CC",Eint Frankfurt,de Bundesliga,22,1996,5.8,18,11,7,11,0,5,8,62.5,3,4,1,3,9,27,25,0,Partidos
 2454,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,21,1997,19.2,74,38,33,34,7,25,59,42.4,34,30,13,17,26,100,27,0,Partidos

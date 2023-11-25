@@ -9,7 +9,7 @@ class Fbref:
     )
 
     stats_dict = {
-        "Estadisticas_estandar": "jugadores",
+        "Estadisticas_estandar": "stats",
         "Porteros": "keepers",
         "Portería_avanzada": "keepersadv",
         "Tiros": "shooting",

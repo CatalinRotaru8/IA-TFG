@@ -811,7 +811,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 778,Ibrahima Diallo,fr FRA,CC,Monaco,fr Ligue 1,18,1999,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
 779,Mustapha Diallo,sn SEN,CC,Guingamp,fr Ligue 1,31,1986,26,1384,53,40.5,15.4,16,79,10,10,13,6,1.35,21,20,+1,+0.07,+0.60,18.9,15.3,+3.6,+0.23,+0.55,Partidos
 780,Mohamed Diamé,sn SEN,CC,Newcastle Utd,eng Premier League,30,1987,31,2041,66,59.7,22.7,23,,14,8,,6,1.32,26,27,-1,-0.04,+0.41,27.5,32.5,-4.9,-0.22,+0.17,Partidos
-781,Grady Diangana,,"DL,CC",West Ham,eng Premier League,19,1998,0,,,,,0,,0,0,,2,,,,,,,,,,,,Partidos
+781,Grady Diangana,cd COD,"DL,CC",West Ham,eng Premier League,19,1998,0,,,,,0,,0,0,,2,,,,,,,,,,,,Partidos
 782,Lassana Diarra,fr FRA,CC,Paris S-G,fr Ligue 1,32,1985,10,606,61,17.7,6.7,8,69,3,2,27,2,2.30,17,3,+14,+2.08,0.00,13.7,5.8,+7.9,+1.17,-0.23,Partidos
 783,Tiago Dias,pt POR,DL,Milan,it Serie A,19,1998,0,,,,,0,,0,0,,2,,,,,,,,,,,,Partidos
 784,Amadou Diawara,gn GUI,CC,Napoli,it Serie A,20,1997,18,655,36,19.2,7.3,5,,5,13,,20,2.78,19,8,+11,+1.51,+0.31,14.3,6.0,+8.3,+1.14,+0.11,Partidos
@@ -907,7 +907,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 871,Maximilian Eggestein,de GER,CC,Werder Bremen,de Bundesliga,20,1996,33,2692,82,88.0,29.9,31,,21,2,,1,1.27,36,37,-1,-0.03,+0.46,33.9,39.4,-5.5,-0.18,-0.02,Partidos
 872,Albin Ekdal,se SWE,CC,Hamburger SV,de Bundesliga,28,1989,19,1108,58,36.2,12.3,12,,3,7,,0,1.26,12,16,-4,-0.32,+0.60,13.7,16.5,-2.7,-0.22,+0.49,Partidos
 873,Josip Elez,hr CRO,DF,Hannover 96,de Bundesliga,23,1994,11,774,70,25.3,8.6,9,,4,2,,4,1.00,9,14,-5,-0.58,-0.38,10.0,12.7,-2.7,-0.31,+0.02,Partidos
-874,Salvatore Elia,it ITA,DL,Atalanta,it Serie A,18,1999,0,,,,,0,,0,0,,2,,,,,,,,,,,,Partidos
+874,Salvatore Elia,it ITA,"DF,DL",Atalanta,it Serie A,18,1999,0,,,,,0,,0,0,,2,,,,,,,,,,,,Partidos
 875,Rob Elliot,ie IRL,PO,Newcastle Utd,eng Premier League,31,1986,16,1440,90,42.1,16.0,16,,16,0,,6,1.06,14,21,-7,-0.44,-0.39,15.6,22.8,-7.2,-0.45,-0.29,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titular,Mn/arranque,Compl,Sup,Mn/Sust,Partidos como sustituto,PPP,onG,onGA,+/-,+/-90,Dentro-Fuera,onxG,onxGA,xG+/-,xG+/-90,Dentro-Fuera,Partidos
 876,Mohamed Elneny,eg EGY,CC,Arsenal,eng Premier League,25,1992,13,867,67,25.4,9.6,11,,5,2,,11,1.92,18,12,+6,+0.62,+0.02,16.8,12.2,+4.7,+0.49,-0.07,Partidos
@@ -1542,7 +1542,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 1481,Ole Käuper,de GER,CC,Werder Bremen,de Bundesliga,20,1997,1,73,73,2.4,0.8,1,,0,0,,2,0.00,0,1,-1,-1.23,-1.17,0.1,1.5,-1.4,-1.74,-1.59,Partidos
 1482,Eiji Kawashima,jp JPN,PO,Metz,fr Ligue 1,34,1983,29,2569,89,75.1,28.5,29,89,28,0,,8,0.76,31,60,-29,-1.02,+0.36,29.5,54.4,-24.9,-0.87,-0.23,Partidos
 1483,Beram Kayal,il ISR,CC,Brighton,eng Premier League,29,1988,19,745,39,21.8,8.3,8,,3,11,,7,1.05,3,14,-11,-1.33,-1.03,6.5,14.7,-8.2,-0.99,-0.80,Partidos
-1484,Joris Kayembe,be BEL,"DL,CC",Nantes,fr Ligue 1,22,1994,3,89,30,2.6,1.0,1,45,0,2,22,0,0.67,1,0,+1,+1.01,+1.17,2.0,0.7,+1.3,+1.31,+1.24,Partidos
+1484,Joris Kayembe,cd COD,"DL,CC",Nantes,fr Ligue 1,22,1994,3,89,30,2.6,1.0,1,45,0,2,22,0,0.67,1,0,+1,+1.01,+1.17,2.0,0.7,+1.3,+1.31,+1.24,Partidos
 1485,Olarenwaju Kayode,ng NGA,"DL,CC",Girona,es La Liga,24,1993,12,383,32,11.2,4.3,2,86,1,10,21,5,1.25,3,5,-2,-0.47,-0.26,7.0,7.0,0.0,0.00,-0.01,Partidos
 1486,Moise Kean,it ITA,DL,Hellas Verona,it Serie A,17,2000,19,1131,60,33.1,12.6,12,,4,7,,2,0.79,13,24,-11,-0.88,+0.58,11.8,25.1,-13.2,-1.06,-0.12,Partidos
 1487,Moise Kean,it ITA,DL,Juventus,it Serie A,17,2000,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
@@ -1885,7 +1885,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 1811,José Manuel Jurado,es ESP,"CC,DL",Espanyol,es La Liga,31,1986,29,1501,52,43.9,16.7,20,67,4,9,19,4,1.24,14,19,-5,-0.30,-0.25,14.2,24.2,-10.0,-0.60,-0.55,Partidos
 1812,Juan Manuel Valencia,co COL,CC,Bologna,it Serie A,19,1998,0,,,,,0,,0,0,,3,,,,,,,,,,,,Partidos
 1813,Harrison Manzala,cd COD,"DL,CC",Amiens,fr Ligue 1,23,1994,37,1867,50,54.6,20.7,18,77,4,19,26,1,1.19,16,17,-1,-0.05,+0.18,16.2,28.9,-12.7,-0.61,-0.06,Partidos
-1814,Myziane Maolida,fr FRA,"DL,CC",Lyon,fr Ligue 1,18,1999,13,331,25,9.7,3.7,2,68,0,11,18,9,2.15,7,3,+4,+1.09,-0.08,5.7,3.5,+2.3,+0.61,0.00,Partidos
+1814,Myziane Maolida,km COM,"DL,CC",Lyon,fr Ligue 1,18,1999,13,331,25,9.7,3.7,2,68,0,11,18,9,2.15,7,3,+4,+1.09,-0.08,5.7,3.5,+2.3,+0.61,0.00,Partidos
 1815,Faitout Maouassa,fr FRA,"CC,DL",Rennes,fr Ligue 1,19,1998,19,887,47,25.9,9.9,9,75,3,10,21,7,1.68,12,10,+2,+0.20,+0.06,10.2,11.6,-1.4,-0.15,-0.21,Partidos
 1816,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,28,1989,18,1295,72,37.9,14.4,14,87,11,4,21,14,2.39,39,9,+30,+2.08,+1.49,24.6,15.1,+9.5,+0.66,+0.08,Partidos
 1817,Vincent Marcel,fr FRA,"CC,DL",Nice,fr Ligue 1,20,1997,2,48,24,1.4,0.5,0,,0,2,24,3,0.00,0,0,0,0.00,-0.03,0.4,0.1,+0.3,+0.60,+0.62,Partidos
@@ -3031,7 +3031,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 2913,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,26,1991,14,986,70,28.8,11.0,12,,5,2,,2,1.14,10,13,-3,-0.27,+0.13,11.8,12.8,-1.0,-0.09,+0.32,Partidos
 2914,Sabri Toufiqui,ma MAR,CC,Rennes,fr Ligue 1,20,1997,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
 2915,Jérémy Toulalan,fr FRA,DF,Bordeaux,fr Ligue 1,33,1983,21,1890,90,55.3,21.0,21,90,21,0,,0,1.10,23,31,-8,-0.38,-1.15,25.0,24.6,+0.4,+0.02,-0.40,Partidos
-2916,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,23,1994,36,2810,78,82.2,31.2,31,86,26,5,29,1,1.44,31,34,-3,-0.10,+0.20,33.5,31.7,+1.8,+0.06,-0.23,Partidos
+2916,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,23,1994,36,2810,78,82.2,31.2,31,86,26,5,29,1,1.44,31,34,-3,-0.10,+0.20,33.5,31.7,+1.8,+0.06,-0.23,Partidos
 2917,Almamy Touré,ml MLI,DF,Monaco,fr Ligue 1,21,1996,20,1248,62,36.5,13.9,13,88,12,7,14,12,1.90,24,21,+3,+0.22,-1.32,18.3,23.2,-4.9,-0.35,-1.12,Partidos
 2918,Thomas Touré,ci CIV,DL,Bordeaux,fr Ligue 1,23,1993,1,8,8,0.2,0.1,0,,0,1,8,0,1.00,0,1,-1,-11.25,-11.41,0.0,0.6,-0.6,-7.29,-7.50,Partidos
 2919,Thomas Touré,ci CIV,CC,Angers,fr Ligue 1,23,1993,7,128,18,3.7,1.4,0,,0,7,18,4,1.00,4,1,+3,+2.11,+2.46,4.5,2.4,+2.1,+1.47,+1.48,Partidos

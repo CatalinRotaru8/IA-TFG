@@ -1592,7 +1592,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 1529,Kostas Manolas,gr GRE,DF,Napoli,it Serie A,28,1991,24.2,4,17,7,41.2,0.70,0.29,0.24,0.57,11.4,0,0,0,1.6,1.6,0.10,+2.4,+2.4,Partidos
 1530,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,25,1994,17.8,0,1,0,0.0,0.06,0.00,0.00,,11.8,0,0,0,0.0,0.0,0.04,0.0,0.0,Partidos
 1531,Giacomo Manzari,it ITA,"DL,CC",Sassuolo,it Serie A,18,2000,0.2,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Partidos
-1532,Myziane Maolida,fr FRA,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,1,15,5,33.3,2.00,0.67,0.07,0.20,16.4,0,0,0,1.5,1.5,0.10,-0.5,-0.5,Partidos
+1532,Myziane Maolida,km COM,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,1,15,5,33.3,2.00,0.67,0.07,0.20,16.4,0,0,0,1.5,1.5,0.10,-0.5,-0.5,Partidos
 1533,Faitout Maouassa,fr FRA,DF,Rennes,fr Ligue 1,21,1998,20.0,3,12,7,58.3,0.60,0.35,0.25,0.43,22.9,0,0,0,0.6,0.6,0.05,+2.4,+2.4,Partidos
 1534,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,30,1989,9.2,0,4,1,25.0,0.43,0.11,0.00,0.00,25.7,0,0,0,0.1,0.1,0.04,-0.1,-0.1,Partidos
 1535,Marcelo,br BRA,DF,Real Madrid,es La Liga,31,1988,14.4,1,17,5,29.4,1.18,0.35,0.06,0.20,22.6,0,0,0,0.5,0.5,0.03,+0.5,+0.5,Partidos
@@ -1613,7 +1613,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 1550,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,25,1994,19.5,2,12,4,33.3,0.62,0.21,0.17,0.50,13.8,0,0,0,1.9,1.9,0.16,+0.1,+0.1,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90,TalArc/90,G/T,G/TalArc,Dist,FK,TP,TPint,xG,npxG,npxG/Sh,G-xG,np:G-xG,Partidos
 1551,Marlon,br BRA,DF,Sassuolo,it Serie A,23,1995,20.2,0,4,1,25.0,0.20,0.05,0.00,0.00,15.1,0,0,0,0.7,0.7,0.18,-0.7,-0.7,Partidos
-1552,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,20,1999,0.9,0,1,1,100.0,1.11,1.11,0.00,0.00,,,0,0,,,,,,Partidos
+1552,Omar Marmoush,eg EGY,"CC,DL",Wolfsburg,de Bundesliga,20,1999,0.9,0,1,1,100.0,1.11,1.11,0.00,0.00,10.1,0,0,0,0.1,0.1,0.05,-0.1,-0.1,Partidos
 1553,Gonzalo Maroni,ar ARG,"CC,DL",Sampdoria,it Serie A,20,1999,2.0,0,4,1,25.0,1.99,0.50,0.00,0.00,27.5,1,0,1,1.0,0.2,0.05,-1.0,-0.2,Partidos
 1554,Marquinhos,br BRA,"CC,DF",Paris S-G,fr Ligue 1,25,1994,16.4,3,11,3,27.3,0.67,0.18,0.27,1.00,10.0,0,0,0,1.9,1.9,0.17,+1.1,+1.1,Partidos
 1555,Bruno Martella,it ITA,DF,Brescia,it Serie A,26,1992,14.1,0,10,2,20.0,0.71,0.14,0.00,0.00,23.9,1,0,0,0.3,0.3,0.03,-0.3,-0.3,Partidos
@@ -2424,7 +2424,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 2329,Daley Sinkgraven,nl NED,"DF,CC",Leverkusen,de Bundesliga,24,1995,10.1,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Partidos
 2330,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,30,1988,21.3,0,12,4,33.3,0.56,0.19,0.00,0.00,14.4,0,0,0,1.1,1.1,0.09,-1.1,-1.1,Partidos
 2331,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,32,1987,36.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Partidos
-2332,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,21,1997,17.8,0,16,1,6.3,0.90,0.06,0.00,0.00,22.8,0,0,0,0.8,0.8,0.05,-0.8,-0.8,Partidos
+2332,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,21,1997,17.8,0,16,1,6.3,0.90,0.06,0.00,0.00,22.8,0,0,0,0.8,0.8,0.05,-0.8,-0.8,Partidos
 2333,Moussa Sissoko,fr FRA,CC,Tottenham,eng Premier League,29,1989,27.2,2,15,4,26.7,0.55,0.15,0.13,0.50,15.2,0,0,0,2.2,2.2,0.14,-0.2,-0.2,Partidos
 2334,Sambou Sissoko,fr FRA,"CC,DL",Reims,fr Ligue 1,20,1999,0.4,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Partidos
 2335,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,24,1995,9.9,2,30,15,50.0,3.03,1.52,0.07,0.13,21.9,1,0,0,2.0,2.0,0.07,0.0,0.0,Partidos
@@ -2501,7 +2501,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 2403,Vlatko Stojanovski,mk MKD,DL,Nîmes,fr Ligue 1,22,1997,1.4,0,2,2,100.0,1.46,1.46,0.00,0.00,13.8,0,0,0,0.4,0.4,0.20,-0.4,-0.4,Partidos
 2404,John Stones,eng ENG,DF,Manchester City,eng Premier League,25,1994,12.5,0,6,1,16.7,0.48,0.08,0.00,0.00,9.6,0,0,0,0.4,0.4,0.07,-0.4,-0.4,Partidos
 2405,Thomas Strakosha,al ALB,PO,Lazio,it Serie A,24,1995,38.0,0,0,0,,0.00,0.00,,,,0,0,0,0.0,0.0,,0.0,0.0,Partidos
-2406,Gabriel Strefezza,,"DF,DL",SPAL,it Serie A,22,1997,23.4,1,53,11,20.8,2.26,0.47,0.02,0.09,,,0,0,,,,,,Partidos
+2406,Gabriel Strefezza,br BRA,"DF,CC",SPAL,it Serie A,22,1997,23.4,1,53,11,20.8,2.26,0.47,0.02,0.09,21.5,0,0,0,2.6,2.6,0.05,-1.6,-1.6,Partidos
 2407,Tobias Strobl,de GER,"CC,DF",M'Gladbach,de Bundesliga,29,1990,6.8,0,1,0,0.0,0.15,0.00,0.00,,30.9,0,0,0,0.0,0.0,0.04,0.0,0.0,Partidos
 2408,Christian Strohdiek,de GER,DF,Paderborn 07,de Bundesliga,31,1988,15.1,1,9,3,33.3,0.59,0.20,0.11,0.33,14.0,0,0,0,1.0,1.0,0.12,0.0,0.0,Partidos
 2409,Kevin Strootman,nl NED,CC,Marseille,fr Ligue 1,29,1990,15.7,2,10,1,10.0,0.64,0.06,0.10,1.00,19.4,0,1,1,1.8,1.0,0.10,+0.2,0.0,Partidos
@@ -2555,7 +2555,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 2455,Georg Teigl,at AUT,"DF,CC",Augsburg,de Bundesliga,28,1991,1.2,0,1,0,0.0,0.81,0.00,0.00,,13.6,0,0,0,0.1,0.1,0.09,-0.1,-0.1,Partidos
 2456,Álvaro Tejero,es ESP,DF,Eibar,es La Liga,23,1996,16.1,0,6,1,16.7,0.37,0.06,0.00,0.00,25.0,0,0,0,0.2,0.2,0.03,-0.2,-0.2,Partidos
 2457,Bernard Tekpetey,gh GHA,"DL,CC",Düsseldorf,de Bundesliga,21,1997,5.0,0,11,1,9.1,2.21,0.20,0.00,0.00,24.0,0,0,0,0.4,0.4,0.04,-0.4,-0.4,Partidos
-2458,Nathan Tella,eng ENG,DL,Southampton,eng Premier League,20,1999,0.0,0,1,1,100.0,30.00,30.00,0.00,0.00,17.7,0,0,0,0.0,0.0,0.04,0.0,0.0,Partidos
+2458,Nathan Tella,ng NGA,DL,Southampton,eng Premier League,20,1999,0.0,0,1,1,100.0,30.00,30.00,0.00,0.00,17.7,0,0,0,0.0,0.0,0.04,0.0,0.0,Partidos
 2459,Cristian Tello,es ESP,"CC,DL",Betis,es La Liga,27,1991,8.7,2,20,6,30.0,2.29,0.69,0.10,0.33,21.0,2,0,0,1.9,1.9,0.10,+0.1,+0.1,Partidos
 2460,Lino Tempelmann,de GER,CC,Freiburg,de Bundesliga,20,1999,0.4,0,1,0,0.0,2.73,0.00,0.00,,28.1,0,0,0,0.0,0.0,0.03,0.0,0.0,Partidos
 2461,Łukasz Teodorczyk,pl POL,DL,Udinese,it Serie A,28,1991,2.5,0,4,2,50.0,1.62,0.81,0.00,0.00,15.4,0,0,0,0.2,0.2,0.06,-0.2,-0.2,Partidos
@@ -2615,7 +2615,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 2513,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,21,1997,16.2,1,2,1,50.0,0.12,0.06,0.50,1.00,8.5,0,0,0,0.6,0.6,0.28,+0.4,+0.4,Partidos
 2514,Cenk Tosun,tr TUR,DL,Crystal Palace,eng Premier League,28,1991,2.0,1,4,2,50.0,2.03,1.02,0.25,0.50,12.4,0,0,0,0.5,0.5,0.13,+0.5,+0.5,Partidos
 2515,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,28,1991,3.2,1,11,3,27.3,3.40,0.93,0.09,0.33,14.2,0,0,0,1.0,1.0,0.09,0.0,0.0,Partidos
-2516,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,25,1994,24.7,3,32,8,25.0,1.30,0.32,0.03,0.13,26.6,0,2,2,3.1,1.5,0.05,-0.1,-0.5,Partidos
+2516,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,25,1994,24.7,3,32,8,25.0,1.30,0.32,0.03,0.13,26.6,0,2,2,3.1,1.5,0.05,-0.1,-0.5,Partidos
 2517,Almamy Touré,ml MLI,DF,Eint Frankfurt,de Bundesliga,23,1996,16.6,1,15,5,33.3,0.91,0.30,0.07,0.20,9.7,0,0,0,1.9,1.9,0.13,-0.9,-0.9,Partidos
 2518,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,22,1997,19.6,2,28,11,39.3,1.43,0.56,0.07,0.18,23.8,0,0,0,2.1,2.1,0.07,-0.1,-0.1,Partidos
 2519,Andros Townsend,eng ENG,"DL,CC",Crystal Palace,eng Premier League,28,1991,14.4,1,12,5,41.7,0.83,0.35,0.08,0.20,26.1,1,0,0,0.4,0.4,0.03,+0.6,+0.6,Partidos

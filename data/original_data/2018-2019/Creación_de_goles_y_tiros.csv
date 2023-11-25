@@ -667,7 +667,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 640,Abdoulaye Diallo,sn SEN,PO,Rennes,fr Ligue 1,26,1992,5.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 641,Mustapha Diallo,sn SEN,CC,Nîmes,fr Ligue 1,32,1986,5.1,2,0.40,2,0,0,0,0,0,1,0.20,1,0,0,0,0,0,Partidos
 642,Mohamed Diamé,sn SEN,CC,Newcastle Utd,eng Premier League,31,1987,24.1,33,1.37,20,0,4,3,5,1,0,0.00,0,0,0,0,0,0,Partidos
-643,Grady Diangana,,"CC,DL",West Ham,eng Premier League,20,1998,6.8,28,4.14,20,2,3,1,2,0,1,0.15,1,0,0,0,0,0,Partidos
+643,Grady Diangana,cd COD,"CC,DL",West Ham,eng Premier League,20,1998,6.8,28,4.14,20,2,3,1,2,0,1,0.15,1,0,0,0,0,0,Partidos
 644,Lassana Diarra,fr FRA,CC,Paris S-G,fr Ligue 1,33,1985,1.8,3,1.70,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 645,Amadou Diawara,gn GUI,CC,Napoli,it Serie A,21,1997,7.3,21,2.86,16,0,2,1,0,2,1,0.14,1,0,0,0,0,0,Partidos
 646,Brahim Díaz,es ESP,DL,Real Madrid,es La Liga,18,1999,4.2,21,5.03,11,0,7,0,3,0,3,0.72,1,0,2,0,0,0,Partidos
@@ -1569,7 +1569,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 1507,Juan Manuel Valencia,co COL,DL,Bologna,it Serie A,20,1998,0.3,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 1508,Harrison Manzala,cd COD,"CC,DL",Angers,fr Ligue 1,24,1994,0.8,1,1.22,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 1509,Fran Manzanara,es ESP,"DF,CC",Levante,es La Liga,21,1996,1.7,2,1.15,1,1,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
-1510,Myziane Maolida,fr FRA,DL,Nice,fr Ligue 1,19,1999,10.6,31,2.93,24,0,4,2,1,0,3,0.28,3,0,0,0,0,0,Partidos
+1510,Myziane Maolida,km COM,DL,Nice,fr Ligue 1,19,1999,10.6,31,2.93,24,0,4,2,1,0,3,0.28,3,0,0,0,0,0,Partidos
 1511,Faitout Maouassa,fr FRA,DF,Nîmes,fr Ligue 1,20,1998,23.7,39,1.64,25,2,4,2,6,0,4,0.17,1,0,1,0,2,0,Partidos
 1512,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,29,1989,9.8,16,1.64,15,1,0,0,0,0,3,0.31,3,0,0,0,0,0,Partidos
 1513,Iván Marcano,es ESP,DF,Roma,it Serie A,31,1987,9.0,13,1.44,9,1,0,2,0,1,0,0.00,0,0,0,0,0,0,Partidos
@@ -2379,7 +2379,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 2286,Giovanni Sio,ci CIV,DL,Montpellier,fr Ligue 1,29,1989,0.7,4,5.71,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 2287,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,29,1988,32.9,26,0.79,24,1,0,1,0,0,1,0.03,1,0,0,0,0,0,Partidos
 2288,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,31,1987,35.2,7,0.20,4,3,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
-2289,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,20,1997,29.6,68,2.30,58,0,2,5,1,2,6,0.20,5,0,0,1,0,0,Partidos
+2289,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,20,1997,29.6,68,2.30,58,0,2,5,1,2,6,0.20,5,0,0,1,0,0,Partidos
 2290,Moussa Sissoko,fr FRA,"CC,DL",Tottenham,eng Premier League,28,1989,25.9,50,1.93,43,0,1,1,3,2,7,0.27,7,0,0,0,0,0,Partidos
 2291,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,23,1995,9.4,31,3.31,23,3,1,1,3,0,3,0.32,2,0,1,0,0,0,Partidos
 2292,Antonio Sivera,es ESP,PO,Alavés,es La Liga,21,1996,3.0,1,0.33,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
@@ -2548,7 +2548,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDe
 2449,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,20,1997,12.9,11,0.85,8,1,1,1,0,0,4,0.31,3,0,1,0,0,0,Partidos
 2450,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,27,1991,11.8,28,2.38,17,0,1,4,5,1,3,0.25,3,0,0,0,0,0,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,ACT,SCA90,PassLive,PassDead,HASTA,Dis,FR,Def,ACG,GCA90,PassLive,PassDead,HASTA,Dis,FR,Def,Partidos
-2451,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,24,1994,30.5,75,2.45,55,0,4,7,7,2,7,0.23,2,0,2,2,1,0,Partidos
+2451,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,24,1994,30.5,75,2.45,55,0,4,7,7,2,7,0.23,2,0,2,2,1,0,Partidos
 2452,Almamy Touré,ml MLI,DF,Monaco,fr Ligue 1,22,1996,3.8,5,1.30,4,0,0,1,0,0,0,0.00,0,0,0,0,0,0,Partidos
 2453,Almamy Touré,ml MLI,"DF,CC",Eint Frankfurt,de Bundesliga,22,1996,5.8,4,0.69,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0,Partidos
 2454,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,21,1997,19.2,36,1.88,30,0,2,1,1,2,3,0.16,3,0,0,0,0,0,Partidos

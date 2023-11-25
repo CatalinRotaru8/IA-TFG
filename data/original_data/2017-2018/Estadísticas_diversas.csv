@@ -1311,7 +1311,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 1259,Ole Käuper,de GER,CC,Werder Bremen,de Bundesliga,20,1997,0.8,1,0,0,6,0,0,0,2,5,0,0,0,4,1,1,50.0,Partidos
 1260,Eiji Kawashima,jp JPN,PO,Metz,fr Ligue 1,34,1983,28.5,0,1,0,1,3,0,0,3,1,0,0,0,40,1,3,25.0,Partidos
 1261,Beram Kayal,il ISR,CC,Brighton,eng Premier League,29,1988,8.3,2,0,0,15,15,1,5,12,11,0,0,0,54,8,8,50.0,Partidos
-1262,Joris Kayembe,be BEL,"DL,CC",Nantes,fr Ligue 1,22,1994,1.0,0,0,0,1,1,1,4,0,0,0,0,0,3,0,1,0.0,Partidos
+1262,Joris Kayembe,cd COD,"DL,CC",Nantes,fr Ligue 1,22,1994,1.0,0,0,0,1,1,1,4,0,0,0,0,0,3,0,1,0.0,Partidos
 1263,Olarenwaju Kayode,ng NGA,"DL,CC",Girona,es La Liga,24,1993,4.3,2,0,0,11,11,5,4,1,3,2,0,0,14,5,7,41.7,Partidos
 1264,Moise Kean,it ITA,DL,Hellas Verona,it Serie A,17,2000,12.6,5,0,0,14,8,10,13,7,5,0,0,0,49,10,34,22.7,Partidos
 1265,Michael Keane,eng ENG,DF,Everton,eng Premier League,24,1993,28.4,3,0,0,21,10,4,4,53,25,0,0,0,138,128,85,60.1,Partidos
@@ -1596,7 +1596,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 1533,Martín Mantovani,ar ARG,DF,Leganés,es La Liga,33,1984,11.4,3,0,0,17,15,0,0,22,5,0,1,0,45,35,22,61.4,Partidos
 1534,José Manuel Jurado,es ESP,"CC,DL",Espanyol,es La Liga,31,1986,16.7,1,0,0,6,34,0,23,16,14,0,1,0,116,2,3,40.0,Partidos
 1535,Harrison Manzala,cd COD,"DL,CC",Amiens,fr Ligue 1,23,1994,20.7,3,0,0,15,22,4,53,18,23,0,0,0,134,11,23,32.4,Partidos
-1536,Myziane Maolida,fr FRA,"DL,CC",Lyon,fr Ligue 1,18,1999,3.7,0,0,0,3,1,2,5,0,5,0,0,0,11,2,6,25.0,Partidos
+1536,Myziane Maolida,km COM,"DL,CC",Lyon,fr Ligue 1,18,1999,3.7,0,0,0,3,1,2,5,0,5,0,0,0,11,2,6,25.0,Partidos
 1537,Faitout Maouassa,fr FRA,"CC,DL",Rennes,fr Ligue 1,19,1998,9.9,1,0,0,12,14,1,33,6,3,0,0,0,34,6,13,31.6,Partidos
 1538,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,28,1989,14.4,1,0,0,16,25,1,27,26,20,0,1,0,81,28,19,59.6,Partidos
 1539,Vincent Marcel,fr FRA,"CC,DL",Nice,fr Ligue 1,20,1997,0.5,0,0,0,1,1,1,0,0,1,0,0,0,2,2,0,100.0,Partidos
@@ -2583,7 +2583,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2482,Alin Toșca,ro ROU,DF,Betis,es La Liga,25,1992,4.7,0,0,0,5,3,0,9,5,9,0,0,1,20,6,2,75.0,Partidos
 2483,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,26,1991,11.0,0,0,0,25,11,9,7,1,3,0,0,0,30,31,66,32.0,Partidos
 2484,Jérémy Toulalan,fr FRA,DF,Bordeaux,fr Ligue 1,33,1983,21.0,4,0,0,21,15,0,3,28,25,0,1,1,147,24,25,49.0,Partidos
-2485,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,23,1994,31.2,3,0,0,53,54,0,19,62,52,1,0,0,254,61,34,64.2,Partidos
+2485,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,23,1994,31.2,3,0,0,53,54,0,19,62,52,1,0,0,254,61,34,64.2,Partidos
 2486,Almamy Touré,ml MLI,DF,Monaco,fr Ligue 1,21,1996,13.9,3,0,0,28,4,2,46,22,29,0,1,0,82,32,22,59.3,Partidos
 2487,Thomas Touré,ci CIV,DL,Bordeaux,fr Ligue 1,23,1993,0.1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,,Partidos
 2488,Thomas Touré,ci CIV,CC,Angers,fr Ligue 1,23,1993,1.4,1,0,0,3,0,1,1,1,1,0,0,0,8,0,1,0.0,Partidos

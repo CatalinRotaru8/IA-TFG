@@ -1184,7 +1184,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 1137,Amadou Haidara,ml MLI,CC,RB Leipzig,de Bundesliga,24,1998,15.9,824,807,13,9,4,2,3,4,0,0,0,0,684,4,9,Partidos
 1138,Massadio Haïdara,ml MLI,"DF,CC",Lens,fr Ligue 1,29,1992,18.6,996,873,116,28,1,3,26,76,0,0,0,0,843,7,11,Partidos
 1139,Achraf Hakimi,ma MAR,"DF,CC",Paris S-G,fr Ligue 1,23,1998,22.8,1538,1422,116,12,1,1,42,101,3,0,0,0,1373,0,35,Partidos
-1140,Lewis Hall,eng ENG,DF,Chelsea,eng Premier League,17,2004,7.3,428,370,57,7,0,3,34,37,13,12,0,0,344,1,8,Partidos
+1140,Lewis Hall,eng ENG,DF,Chelsea,eng Premier League,17,2004,7.3,427,369,57,7,0,3,34,37,13,12,0,0,343,1,8,Partidos
 1141,Sébastien Haller,ci CIV,DL,Dortmund,de Bundesliga,28,1994,13.6,309,287,22,0,1,1,3,1,0,0,0,0,216,0,8,Partidos
 1142,Marcel Halstenberg,de GER,DF,RB Leipzig,de Bundesliga,30,1991,17.3,1171,967,199,32,0,6,45,150,17,7,7,0,918,5,22,Partidos
 1143,Mathis Hamdi,fr FRA,DF,Troyes,fr Ligue 1,18,2003,0.8,38,27,11,0,0,1,2,11,0,0,0,0,26,0,4,Partidos
@@ -1271,7 +1271,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 1221,Mats Hummels,de GER,DF,Dortmund,de Bundesliga,33,1988,22.4,1677,1615,58,53,2,25,6,5,0,0,0,0,1468,4,14,Partidos
 1222,Adrien Hunou,fr FRA,"CC,DL",Angers,fr Ligue 1,28,1994,24.8,753,712,34,2,2,1,16,13,4,1,1,0,572,7,17,Partidos
 1223,Denis Huseinbasic,de GER,"CC,DL",Köln,de Bundesliga,21,2001,8.8,282,277,5,1,0,1,12,2,2,0,1,0,216,0,13,Partidos
-1224,Omari Hutchinson,eng ENG,DL,Chelsea,eng Premier League,18,2003,0.3,12,12,0,0,0,0,2,0,0,0,0,0,8,0,1,Partidos
+1224,Omari Hutchinson,eng ENG,DL,Chelsea,eng Premier League,18,2003,0.3,13,13,0,0,0,0,2,0,0,0,0,0,9,0,1,Partidos
 1225,Elseid Hysaj,al ALB,DF,Lazio,it Serie A,28,1994,22.2,1399,1208,190,23,2,5,16,167,0,0,0,0,1186,1,27,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
 1226,Pierre Højbjerg,dk DEN,CC,Tottenham,eng Premier League,26,1995,34.8,2292,2206,81,56,10,39,15,16,1,0,0,0,2021,5,28,Partidos
@@ -1532,7 +1532,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 1472,Julien Laporte,fr FRA,DF,Lorient,fr Ligue 1,28,1993,18.4,799,779,18,12,0,10,0,2,0,0,0,0,681,2,6,Partidos
 1473,Cyle Larin,ca CAN,DL,Valladolid,es La Liga,27,1995,16.3,247,241,6,0,1,2,6,0,0,0,0,0,170,0,16,Partidos
 1474,Juan Larios,es ESP,DF,Southampton,eng Premier League,18,2004,1.7,82,59,23,0,0,0,4,23,0,0,0,0,63,0,2,Partidos
-1475,Yasser Larouci,fr FRA,"DF,CC",Troyes,fr Ligue 1,21,2001,20.0,824,655,166,12,5,0,50,148,5,3,0,0,621,3,20,Partidos
+1475,Yasser Larouci,dz ALG,"DF,CC",Troyes,fr Ligue 1,21,2001,20.0,824,655,166,12,5,0,50,148,5,3,0,0,621,3,20,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
 1476,Jordan Larsson,se SWE,"DL,CC",Schalke 04,de Bundesliga,25,1997,5.1,117,112,5,1,0,1,2,2,2,1,1,0,87,0,5,Partidos
 1477,Kevin Lasagna,it ITA,"DL,CC",Hellas Verona,it Serie A,29,1992,17.5,258,236,16,1,0,1,13,3,0,0,0,0,157,6,17,Partidos
@@ -1599,850 +1599,850 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 1536,Jesper Lindstrøm,dk DEN,"CC,DL",Eint Frankfurt,de Bundesliga,22,2000,18.7,514,469,42,7,4,0,46,7,24,14,6,0,325,3,24,Partidos
 1537,Karol Linetty,pl POL,CC,Torino,it Serie A,27,1995,21.0,966,913,49,32,3,10,21,1,16,5,8,0,832,4,10,Partidos
 1538,Jesse Lingard,eng ENG,"DL,CC",Nott'ham Forest,eng Premier League,29,1992,10.3,297,271,24,7,1,4,5,8,0,0,0,0,236,2,5,Partidos
-1539,Pol Lirola,es ESP,DF,Elche,es La Liga,24,1997,7.0,325,260,65,6,0,3,32,59,0,0,0,0,240,0,11,Partidos
-1540,Mateusz Lis,pl POL,PO,Troyes,fr Ligue 1,25,1997,8.3,314,202,111,33,0,0,0,0,0,0,0,0,213,1,0,Partidos
-1541,Marcin Listkowski,pl POL,"CC,DL",Lecce,it Serie A,24,1998,0.9,24,23,1,0,0,0,3,1,0,0,0,0,16,0,0,Partidos
-1542,Valentino Livramento,eng ENG,"DF,DL",Southampton,eng Premier League,19,2002,0.3,26,18,8,1,0,0,0,7,0,0,0,0,21,0,1,Partidos
-1543,Dejan Ljubicic,at AUT,"CC,DL",Köln,de Bundesliga,24,1997,19.0,615,598,10,1,2,2,42,2,2,1,1,0,445,7,24,Partidos
-1544,Javier Llabrés,es ESP,DL,Mallorca,es La Liga,19,2002,0.2,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Partidos
-1545,Diego Llorente,es ESP,DF,Leeds United,eng Premier League,28,1993,7.2,429,417,11,10,0,4,1,0,0,0,0,0,356,1,2,Partidos
-1546,Diego Llorente,es ESP,DF,Roma,it Serie A,28,1993,6.4,300,294,4,4,0,2,0,0,0,0,0,0,264,2,2,Partidos
-1547,Marcos Llorente,es ESP,"CC,DF",Atlético Madrid,es La Liga,27,1995,18.9,816,759,53,0,1,4,44,53,0,0,0,0,660,4,26,Partidos
-1548,Hugo Lloris,fr FRA,PO,Tottenham,eng Premier League,35,1986,24.5,728,513,212,26,0,0,0,0,0,0,0,0,561,3,1,Partidos
-1549,Giovani Lo Celso,ar ARG,"CC,DL",Villarreal,es La Liga,26,1996,12.5,694,643,47,8,11,17,31,7,27,17,0,0,578,4,14,Partidos
-1550,Stanislav Lobotka,sk SVK,CC,Napoli,it Serie A,27,1994,34.5,2301,2252,47,33,0,14,2,2,0,0,0,0,2163,2,10,Partidos
+1539,Samuel Lino,br BRA,"DL,CC",Valencia,es La Liga,22,1999,32.1,1163,1121,37,5,5,2,82,22,10,1,2,0,878,5,57,Partidos
+1540,Pol Lirola,es ESP,DF,Elche,es La Liga,24,1997,7.0,325,260,65,6,0,3,32,59,0,0,0,0,240,0,11,Partidos
+1541,Mateusz Lis,pl POL,PO,Troyes,fr Ligue 1,25,1997,8.3,314,202,111,33,0,0,0,0,0,0,0,0,213,1,0,Partidos
+1542,Marcin Listkowski,pl POL,"CC,DL",Lecce,it Serie A,24,1998,0.9,24,23,1,0,0,0,3,1,0,0,0,0,16,0,0,Partidos
+1543,Valentino Livramento,eng ENG,"DF,DL",Southampton,eng Premier League,19,2002,0.3,26,18,8,1,0,0,0,7,0,0,0,0,21,0,1,Partidos
+1544,Dejan Ljubicic,at AUT,"CC,DL",Köln,de Bundesliga,24,1997,19.0,615,598,10,1,2,2,42,2,2,1,1,0,445,7,24,Partidos
+1545,Javier Llabrés,es ESP,DL,Mallorca,es La Liga,19,2002,0.2,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Partidos
+1546,Diego Llorente,es ESP,DF,Leeds United,eng Premier League,28,1993,7.2,429,417,11,10,0,4,1,0,0,0,0,0,356,1,2,Partidos
+1547,Diego Llorente,es ESP,DF,Roma,it Serie A,28,1993,6.4,300,294,4,4,0,2,0,0,0,0,0,0,264,2,2,Partidos
+1548,Marcos Llorente,es ESP,"CC,DF",Atlético Madrid,es La Liga,27,1995,18.9,816,759,53,0,1,4,44,53,0,0,0,0,660,4,26,Partidos
+1549,Hugo Lloris,fr FRA,PO,Tottenham,eng Premier League,35,1986,24.5,728,513,212,26,0,0,0,0,0,0,0,0,561,3,1,Partidos
+1550,Giovani Lo Celso,ar ARG,"CC,DL",Villarreal,es La Liga,26,1996,12.5,694,643,47,8,11,17,31,7,27,17,0,0,578,4,14,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1551,Manuel Locatelli,it ITA,CC,Juventus,it Serie A,24,1998,27.2,1362,1294,64,52,1,20,13,6,4,0,3,0,1114,4,28,Partidos
-1552,Luka Lochoshvili,ge GEO,DF,Cremonese,it Serie A,24,1998,20.4,791,756,33,27,0,2,6,5,0,0,0,0,627,2,7,Partidos
-1553,Bradley Locko,fr FRA,DF,Reims,fr Ligue 1,20,2002,11.8,470,361,106,5,1,3,13,101,0,0,0,0,362,3,10,Partidos
-1554,Bradley Locko,fr FRA,DF,Brest,fr Ligue 1,20,2002,3.0,127,99,28,1,0,0,6,27,0,0,0,0,99,0,0,Partidos
-1555,Renan Lodi,br BRA,DF,Nott'ham Forest,eng Premier League,24,1998,24.6,877,684,189,44,0,3,75,130,15,12,2,0,583,4,29,Partidos
-1556,Ruben Loftus-Cheek,eng ENG,"CC,DF",Chelsea,eng Premier League,26,1996,17.1,907,858,44,11,1,6,19,32,0,0,0,0,782,5,20,Partidos
-1557,Sean Longstaff,eng ENG,CC,Newcastle Utd,eng Premier League,24,1997,28.0,1163,1118,41,7,7,6,30,4,3,0,0,0,943,4,31,Partidos
-1558,Ademola Lookman,ng NGA,"DL,CC",Atalanta,it Serie A,24,1997,19.2,649,601,46,7,6,3,38,11,16,2,7,0,492,2,25,Partidos
-1559,Anthony Lopes,pt POR,PO,Lyon,fr Ligue 1,31,1990,31.3,1026,741,280,97,0,1,0,0,0,0,0,0,792,5,0,Partidos
-1560,Rony Lopes,pt POR,"CC,DL",Troyes,fr Ligue 1,26,1995,26.1,872,747,118,36,5,12,109,3,65,27,23,0,603,7,32,Partidos
-1561,David López,es ESP,DF,Girona,es La Liga,32,1989,18.4,1203,1138,62,48,0,5,0,3,0,0,0,0,1082,3,5,Partidos
-1562,Diego López,es ESP,PO,Rayo Vallecano,es La Liga,40,1981,1.1,29,21,8,0,0,0,0,0,0,0,0,0,22,0,0,Partidos
-1563,Diego López,es ESP,"DL,CC",Valencia,es La Liga,20,2002,5.0,151,149,1,1,2,1,12,0,0,0,0,0,101,1,7,Partidos
-1564,Maxime Lopez,fr FRA,CC,Sassuolo,it Serie A,24,1997,25.5,1673,1606,60,44,3,9,25,3,12,2,6,0,1471,7,14,Partidos
-1565,Pau López,es ESP,PO,Marseille,fr Ligue 1,27,1994,32.5,1116,870,243,71,1,3,0,0,0,0,0,0,877,3,2,Partidos
-1566,Unai López,es ESP,CC,Rayo Vallecano,es La Liga,26,1995,13.9,929,835,86,44,0,18,55,7,27,10,8,1,745,8,18,Partidos
-1567,Dion Lopy,sn SEN,CC,Reims,fr Ligue 1,20,2002,15.3,741,727,12,10,0,11,6,1,1,0,0,0,627,2,8,Partidos
-1568,Anthony Losilla,fr FRA,CC,Bochum,de Bundesliga,36,1986,30.2,962,951,8,6,4,4,10,0,0,0,0,0,650,3,20,Partidos
-1569,Jordan Lotomba,ch SUI,DF,Nice,fr Ligue 1,23,1998,27.3,1412,1173,237,19,2,0,48,218,0,0,0,0,1183,2,38,Partidos
-1570,Matteo Lovato,it ITA,DF,Salernitana,it Serie A,22,2000,9.0,325,307,17,17,1,3,0,0,0,0,0,0,274,1,2,Partidos
-1571,Dejan Lovren,hr CRO,DF,Lyon,fr Ligue 1,33,1989,16.2,1096,1064,32,31,1,4,6,1,0,0,0,0,961,0,7,Partidos
-1572,Sandi Lovrić,si SVN,CC,Udinese,it Serie A,24,1998,25.9,963,884,74,33,4,12,75,5,36,6,15,0,767,5,15,Partidos
-1573,Jamal Lowe,jm JAM,"CC,DL",Bournemouth,eng Premier League,28,1994,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,0,1,Partidos
-1574,Anthony Lozano,hn HON,DL,Cádiz,es La Liga,29,1993,16.0,293,283,9,0,1,1,7,1,0,0,0,0,198,1,13,Partidos
-1575,Hirving Lozano,mx MEX,DL,Napoli,it Serie A,27,1995,17.8,588,579,6,0,0,3,73,5,1,0,0,0,441,3,23,Partidos
+1551,Stanislav Lobotka,sk SVK,CC,Napoli,it Serie A,27,1994,34.5,2301,2252,47,33,0,14,2,2,0,0,0,0,2163,2,10,Partidos
+1552,Manuel Locatelli,it ITA,CC,Juventus,it Serie A,24,1998,27.2,1362,1294,64,52,1,20,13,6,4,0,3,0,1114,4,28,Partidos
+1553,Luka Lochoshvili,ge GEO,DF,Cremonese,it Serie A,24,1998,20.4,791,756,33,27,0,2,6,5,0,0,0,0,627,2,7,Partidos
+1554,Bradley Locko,fr FRA,DF,Reims,fr Ligue 1,20,2002,11.8,470,361,106,5,1,3,13,101,0,0,0,0,362,3,10,Partidos
+1555,Bradley Locko,fr FRA,DF,Brest,fr Ligue 1,20,2002,3.0,127,99,28,1,0,0,6,27,0,0,0,0,99,0,0,Partidos
+1556,Renan Lodi,br BRA,DF,Nott'ham Forest,eng Premier League,24,1998,24.6,877,684,189,44,0,3,75,130,15,12,2,0,583,4,29,Partidos
+1557,Ruben Loftus-Cheek,eng ENG,"CC,DF",Chelsea,eng Premier League,26,1996,17.1,907,858,44,11,1,6,19,32,0,0,0,0,782,5,20,Partidos
+1558,Sean Longstaff,eng ENG,CC,Newcastle Utd,eng Premier League,24,1997,28.0,1163,1118,41,7,7,6,30,4,3,0,0,0,943,4,31,Partidos
+1559,Ademola Lookman,ng NGA,"DL,CC",Atalanta,it Serie A,24,1997,19.2,649,601,46,7,6,3,38,11,16,2,7,0,492,2,25,Partidos
+1560,Anthony Lopes,pt POR,PO,Lyon,fr Ligue 1,31,1990,31.3,1026,741,280,97,0,1,0,0,0,0,0,0,792,5,0,Partidos
+1561,Rony Lopes,pt POR,"CC,DL",Troyes,fr Ligue 1,26,1995,26.1,872,747,118,36,5,12,109,3,65,27,23,0,603,7,32,Partidos
+1562,David López,es ESP,DF,Girona,es La Liga,32,1989,18.4,1203,1138,62,48,0,5,0,3,0,0,0,0,1082,3,5,Partidos
+1563,Diego López,es ESP,PO,Rayo Vallecano,es La Liga,40,1981,1.1,29,21,8,0,0,0,0,0,0,0,0,0,22,0,0,Partidos
+1564,Diego López,es ESP,"DL,CC",Valencia,es La Liga,20,2002,5.0,151,149,1,1,2,1,12,0,0,0,0,0,101,1,7,Partidos
+1565,Maxime Lopez,fr FRA,CC,Sassuolo,it Serie A,24,1997,25.5,1673,1606,60,44,3,9,25,3,12,2,6,0,1471,7,14,Partidos
+1566,Pau López,es ESP,PO,Marseille,fr Ligue 1,27,1994,32.5,1116,870,243,71,1,3,0,0,0,0,0,0,877,3,2,Partidos
+1567,Unai López,es ESP,CC,Rayo Vallecano,es La Liga,26,1995,13.9,929,835,86,44,0,18,55,7,27,10,8,1,745,8,18,Partidos
+1568,Dion Lopy,sn SEN,CC,Reims,fr Ligue 1,20,2002,15.3,741,727,12,10,0,11,6,1,1,0,0,0,627,2,8,Partidos
+1569,Anthony Losilla,fr FRA,CC,Bochum,de Bundesliga,36,1986,30.2,962,951,8,6,4,4,10,0,0,0,0,0,650,3,20,Partidos
+1570,Jordan Lotomba,ch SUI,DF,Nice,fr Ligue 1,23,1998,27.3,1412,1173,237,19,2,0,48,218,0,0,0,0,1183,2,38,Partidos
+1571,Matteo Lovato,it ITA,DF,Salernitana,it Serie A,22,2000,9.0,325,307,17,17,1,3,0,0,0,0,0,0,274,1,2,Partidos
+1572,Dejan Lovren,hr CRO,DF,Lyon,fr Ligue 1,33,1989,16.2,1096,1064,32,31,1,4,6,1,0,0,0,0,961,0,7,Partidos
+1573,Sandi Lovrić,si SVN,CC,Udinese,it Serie A,24,1998,25.9,963,884,74,33,4,12,75,5,36,6,15,0,767,5,15,Partidos
+1574,Jamal Lowe,jm JAM,"CC,DL",Bournemouth,eng Premier League,28,1994,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,0,1,Partidos
+1575,Anthony Lozano,hn HON,DL,Cádiz,es La Liga,29,1993,16.0,293,283,9,0,1,1,7,1,0,0,0,0,198,1,13,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1576,Pol Lozano,es ESP,CC,Espanyol,es La Liga,22,1999,0.2,8,8,0,0,0,0,1,0,0,0,0,0,5,0,0,Partidos
-1577,Jean Lucas,br BRA,CC,Monaco,fr Ligue 1,24,1998,3.2,154,152,1,1,1,2,1,0,0,0,0,0,134,1,1,Partidos
-1578,Jhon Lucumí,co COL,DF,Bologna,it Serie A,24,1998,32.2,1951,1870,78,59,3,24,1,2,0,0,0,0,1731,3,15,Partidos
-1579,José Luis Gayà,es ESP,DF,Valencia,es La Liga,27,1995,30.1,1734,1344,378,51,2,13,213,285,42,9,25,0,1284,12,39,Partidos
-1580,José Luis Morales,es ESP,"DL,CC",Villarreal,es La Liga,35,1987,13.5,258,237,18,0,2,1,13,4,0,0,0,0,181,3,14,Partidos
-1581,José Luis Palomino,ar ARG,DF,Atalanta,it Serie A,32,1990,8.4,518,485,33,21,0,0,5,12,0,0,0,0,428,0,8,Partidos
-1582,Douglas Luiz,br BRA,CC,Aston Villa,eng Premier League,24,1998,32.5,1812,1593,216,120,6,10,106,6,89,53,13,1,1494,3,16,Partidos
-1583,Romelu Lukaku,be BEL,DL,Inter,it Serie A,29,1993,18.4,404,384,18,0,5,2,24,0,0,0,0,0,277,2,19,Partidos
-1584,Castello Lukeba,fr FRA,DF,Lyon,fr Ligue 1,19,2002,33.2,2257,2202,49,41,1,9,3,6,0,0,0,0,2034,6,17,Partidos
-1585,Dodi Lukebakio,be BEL,"DL,CC",Hertha BSC,de Bundesliga,24,1997,26.6,613,565,47,12,4,7,65,3,25,15,6,0,422,1,16,Partidos
-1586,Saša Lukić,rs SRB,CC,Fulham,eng Premier League,25,1996,4.6,218,211,7,7,0,0,2,0,0,0,0,0,192,0,0,Partidos
-1587,Saša Lukić,rs SRB,CC,Torino,it Serie A,25,1996,13.3,732,692,38,29,1,6,25,5,4,0,4,0,627,2,7,Partidos
-1588,Andriy Lunin,ua UKR,PO,Real Madrid,es La Liga,23,1999,7.0,227,186,41,4,0,1,0,0,0,0,0,0,205,0,1,Partidos
-1589,Andrey Lunyov,ru RUS,PO,Leverkusen,de Bundesliga,30,1991,1.0,44,39,5,2,0,0,0,0,0,0,0,0,35,0,0,Partidos
-1590,Sebastiano Luperto,it ITA,DF,Empoli,it Serie A,25,1996,34.8,1705,1532,171,81,1,8,2,2,0,0,0,0,1474,2,7,Partidos
-1591,Lyanco,br BRA,DF,Southampton,eng Premier League,25,1997,13.1,558,494,63,15,3,6,7,48,0,0,0,0,400,1,7,Partidos
-1592,Charalambos Lykogiannis,gr GRE,DF,Bologna,it Serie A,28,1993,12.3,731,601,127,12,1,10,69,104,11,6,3,0,518,3,28,Partidos
-1593,Youssouf M'Changama,km COM,CC,Auxerre,fr Ligue 1,31,1990,12.0,489,463,26,13,2,11,35,2,10,4,6,0,384,0,12,Partidos
-1594,Awer Mabil,au AUS,"CC,DL",Cádiz,es La Liga,26,1995,1.8,54,48,6,3,0,0,9,1,2,1,1,0,34,0,4,Partidos
-1595,Alexis Mac Allister,ar ARG,CC,Brighton,eng Premier League,23,1998,32.1,1844,1785,52,35,15,11,29,5,12,7,4,0,1586,7,43,Partidos
-1596,Deiver Machado,co COL,"DF,CC",Lens,fr Ligue 1,28,1993,24.3,875,718,156,10,0,2,60,145,1,1,0,0,719,1,26,Partidos
-1597,Darwin Machís,ve VEN,DL,Valladolid,es La Liga,29,1993,6.7,208,191,12,2,1,5,37,8,1,1,0,0,137,5,13,Partidos
-1598,James Maddison,eng ENG,"CC,DL",Leicester City,eng Premier League,25,1996,27.6,1150,998,142,60,13,8,123,4,69,37,20,3,844,10,29,Partidos
-1599,Noni Madueke,eng ENG,DL,Chelsea,eng Premier League,20,2002,7.1,286,278,8,0,0,0,19,7,1,1,0,0,223,0,9,Partidos
-1600,Pablo Maffeo,es ESP,DF,Mallorca,es La Liga,25,1997,33.1,1221,967,248,7,2,9,123,241,0,0,0,0,819,6,39,Partidos
+1576,Hirving Lozano,mx MEX,DL,Napoli,it Serie A,27,1995,17.8,588,579,6,0,0,3,73,5,1,0,0,0,441,3,23,Partidos
+1577,Pol Lozano,es ESP,CC,Espanyol,es La Liga,22,1999,0.2,8,8,0,0,0,0,1,0,0,0,0,0,5,0,0,Partidos
+1578,Jean Lucas,br BRA,CC,Monaco,fr Ligue 1,24,1998,3.2,154,152,1,1,1,2,1,0,0,0,0,0,134,1,1,Partidos
+1579,Jhon Lucumí,co COL,DF,Bologna,it Serie A,24,1998,32.2,1951,1870,78,59,3,24,1,2,0,0,0,0,1731,3,15,Partidos
+1580,José Luis Gayà,es ESP,DF,Valencia,es La Liga,27,1995,30.1,1734,1344,378,51,2,13,213,285,42,9,25,0,1284,12,39,Partidos
+1581,José Luis Morales,es ESP,"DL,CC",Villarreal,es La Liga,35,1987,13.5,258,237,18,0,2,1,13,4,0,0,0,0,181,3,14,Partidos
+1582,José Luis Palomino,ar ARG,DF,Atalanta,it Serie A,32,1990,8.4,518,485,33,21,0,0,5,12,0,0,0,0,428,0,8,Partidos
+1583,Douglas Luiz,br BRA,CC,Aston Villa,eng Premier League,24,1998,32.5,1812,1593,216,120,6,10,106,6,89,53,13,1,1494,3,16,Partidos
+1584,Romelu Lukaku,be BEL,DL,Inter,it Serie A,29,1993,18.4,404,384,18,0,5,2,24,0,0,0,0,0,277,2,19,Partidos
+1585,Castello Lukeba,fr FRA,DF,Lyon,fr Ligue 1,19,2002,33.2,2257,2202,49,41,1,9,3,6,0,0,0,0,2034,6,17,Partidos
+1586,Dodi Lukebakio,be BEL,"DL,CC",Hertha BSC,de Bundesliga,24,1997,26.6,613,565,47,12,4,7,65,3,25,15,6,0,422,1,16,Partidos
+1587,Saša Lukić,rs SRB,CC,Fulham,eng Premier League,25,1996,4.6,218,211,7,7,0,0,2,0,0,0,0,0,192,0,0,Partidos
+1588,Saša Lukić,rs SRB,CC,Torino,it Serie A,25,1996,13.3,732,692,38,29,1,6,25,5,4,0,4,0,627,2,7,Partidos
+1589,Andriy Lunin,ua UKR,PO,Real Madrid,es La Liga,23,1999,7.0,227,186,41,4,0,1,0,0,0,0,0,0,205,0,1,Partidos
+1590,Andrey Lunyov,ru RUS,PO,Leverkusen,de Bundesliga,30,1991,1.0,44,39,5,2,0,0,0,0,0,0,0,0,35,0,0,Partidos
+1591,Sebastiano Luperto,it ITA,DF,Empoli,it Serie A,25,1996,34.8,1705,1532,171,81,1,8,2,2,0,0,0,0,1474,2,7,Partidos
+1592,Lyanco,br BRA,DF,Southampton,eng Premier League,25,1997,13.1,558,494,63,15,3,6,7,48,0,0,0,0,400,1,7,Partidos
+1593,Charalambos Lykogiannis,gr GRE,DF,Bologna,it Serie A,28,1993,12.3,731,601,127,12,1,10,69,104,11,6,3,0,518,3,28,Partidos
+1594,Youssouf M'Changama,km COM,CC,Auxerre,fr Ligue 1,31,1990,12.0,489,463,26,13,2,11,35,2,10,4,6,0,384,0,12,Partidos
+1595,Awer Mabil,au AUS,"CC,DL",Cádiz,es La Liga,26,1995,1.8,54,48,6,3,0,0,9,1,2,1,1,0,34,0,4,Partidos
+1596,Alexis Mac Allister,ar ARG,CC,Brighton,eng Premier League,23,1998,32.1,1844,1785,52,35,15,11,29,5,12,7,4,0,1586,7,43,Partidos
+1597,Deiver Machado,co COL,"DF,CC",Lens,fr Ligue 1,28,1993,24.3,875,718,156,10,0,2,60,145,1,1,0,0,719,1,26,Partidos
+1598,Darwin Machís,ve VEN,DL,Valladolid,es La Liga,29,1993,6.7,208,191,12,2,1,5,37,8,1,1,0,0,137,5,13,Partidos
+1599,James Maddison,eng ENG,"CC,DL",Leicester City,eng Premier League,25,1996,27.6,1150,998,142,60,13,8,123,4,69,37,20,3,844,10,29,Partidos
+1600,Noni Madueke,eng ENG,DL,Chelsea,eng Premier League,20,2002,7.1,286,278,8,0,0,0,19,7,1,1,0,0,223,0,9,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1601,Lisandro Magallán,ar ARG,DF,Elche,es La Liga,28,1993,10.0,391,370,19,17,0,1,1,1,0,0,0,0,325,2,3,Partidos
-1602,Soungoutou Magassa,fr FRA,CC,Monaco,fr Ligue 1,18,2003,0.9,34,31,2,2,0,0,0,0,0,0,0,0,27,1,0,Partidos
-1603,Giulio Maggiore,it ITA,CC,Salernitana,it Serie A,24,1998,9.9,472,461,7,5,3,5,3,1,0,0,0,0,351,4,8,Partidos
-1604,Giangiacomo Magnani,it ITA,DF,Hellas Verona,it Serie A,26,1995,17.0,499,485,12,8,0,6,4,4,0,0,0,0,367,2,2,Partidos
-1605,Hugo Magnetti,fr FRA,CC,Brest,fr Ligue 1,24,1998,18.8,762,709,50,26,0,12,20,9,1,0,1,0,634,3,18,Partidos
-1606,Yohann Magnin,fr FRA,CC,Clermont Foot,fr Ligue 1,25,1997,26.7,1337,1304,31,18,2,8,14,12,1,0,0,0,1121,2,25,Partidos
-1607,Harry Maguire,eng ENG,DF,Manchester Utd,eng Premier League,29,1993,8.5,577,564,12,11,0,9,1,1,0,0,0,0,491,1,3,Partidos
-1608,Jon Magunacelaya,es ESP,"CC,DL",Real Sociedad,es La Liga,22,2000,0.7,16,15,1,1,0,0,2,0,0,0,0,0,8,0,1,Partidos
-1609,Riyad Mahrez,dz ALG,"DL,CC",Manchester City,eng Premier League,31,1991,21.3,1166,1028,138,36,10,7,96,37,65,26,20,1,958,0,18,Partidos
-1610,Arne Maier,de GER,CC,Augsburg,de Bundesliga,23,1999,21.8,658,588,68,21,6,2,64,11,32,13,17,0,421,2,27,Partidos
-1611,Mike Maignan,fr FRA,PO,Milan,it Serie A,27,1995,22.0,814,698,112,27,0,0,0,0,0,0,0,0,674,4,0,Partidos
-1612,Linton Maina,de GER,"DL,CC",Köln,de Bundesliga,23,1999,24.9,684,640,43,5,1,1,87,15,18,10,5,0,474,1,47,Partidos
-1613,Kobbie Mainoo,eng ENG,CC,Manchester Utd,eng Premier League,17,2005,0.1,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Partidos
-1614,Ainsley Maitland-Niles,eng ENG,"DF,CC",Southampton,eng Premier League,24,1997,15.6,713,633,77,11,2,3,20,66,0,0,0,0,565,3,12,Partidos
-1615,Jordan Majchrzak,pl POL,DL,Roma,it Serie A,17,2004,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-1616,Lovro Majer,hr CRO,"CC,DL",Rennes,fr Ligue 1,24,1998,18.5,976,909,60,22,6,4,67,7,31,12,11,0,758,7,45,Partidos
-1617,Jean-Victor Makengo,fr FRA,CC,Udinese,it Serie A,24,1998,8.9,316,315,1,1,0,0,6,0,0,0,0,0,264,0,9,Partidos
-1618,Jean-Victor Makengo,fr FRA,CC,Lorient,fr Ligue 1,24,1998,11.8,540,525,12,9,2,1,1,2,0,0,0,0,475,3,5,Partidos
-1619,Béni Makouana,cg CGO,"DL,CC",Montpellier,fr Ligue 1,19,2002,2.2,38,37,0,0,0,0,6,0,0,0,0,0,15,1,3,Partidos
-1620,Nemanja Maksimović,rs SRB,CC,Getafe,es La Liga,27,1995,22.8,563,531,32,12,0,0,9,0,1,0,0,0,439,0,10,Partidos
-1621,Tyrell Malacia,nl NED,DF,Manchester Utd,eng Premier League,22,1999,15.5,802,670,130,11,0,5,15,117,2,2,0,0,694,2,16,Partidos
-1622,Lorenzo Malagrida,it ITA,"CC,DF",Sampdoria,it Serie A,18,2003,1.2,42,41,0,0,0,0,2,0,0,0,0,0,31,1,1,Partidos
-1623,Daniel Maldini,it ITA,"DL,CC",Spezia,it Serie A,20,2001,7.0,187,164,22,4,0,1,19,1,9,8,1,0,125,1,7,Partidos
-1624,Youssef Maleh,ma MAR,CC,Fiorentina,it Serie A,23,1998,3.3,116,111,4,3,0,1,7,1,0,0,0,0,95,1,2,Partidos
-1625,Youssef Maleh,ma MAR,CC,Lecce,it Serie A,23,1998,7.5,206,198,8,2,0,0,8,2,2,0,0,0,146,0,6,Partidos
+1601,Pablo Maffeo,es ESP,DF,Mallorca,es La Liga,25,1997,33.1,1221,967,248,7,2,9,123,241,0,0,0,0,819,6,39,Partidos
+1602,Lisandro Magallán,ar ARG,DF,Elche,es La Liga,28,1993,10.0,391,370,19,17,0,1,1,1,0,0,0,0,325,2,3,Partidos
+1603,Soungoutou Magassa,fr FRA,CC,Monaco,fr Ligue 1,18,2003,0.9,34,31,2,2,0,0,0,0,0,0,0,0,27,1,0,Partidos
+1604,Giulio Maggiore,it ITA,CC,Salernitana,it Serie A,24,1998,9.9,472,461,7,5,3,5,3,1,0,0,0,0,351,4,8,Partidos
+1605,Giangiacomo Magnani,it ITA,DF,Hellas Verona,it Serie A,26,1995,17.0,499,485,12,8,0,6,4,4,0,0,0,0,367,2,2,Partidos
+1606,Hugo Magnetti,fr FRA,CC,Brest,fr Ligue 1,24,1998,18.8,762,709,50,26,0,12,20,9,1,0,1,0,634,3,18,Partidos
+1607,Yohann Magnin,fr FRA,CC,Clermont Foot,fr Ligue 1,25,1997,26.7,1337,1304,31,18,2,8,14,12,1,0,0,0,1121,2,25,Partidos
+1608,Harry Maguire,eng ENG,DF,Manchester Utd,eng Premier League,29,1993,8.5,577,564,12,11,0,9,1,1,0,0,0,0,491,1,3,Partidos
+1609,Jon Magunacelaya,es ESP,"CC,DL",Real Sociedad,es La Liga,22,2000,0.7,16,15,1,1,0,0,2,0,0,0,0,0,8,0,1,Partidos
+1610,Riyad Mahrez,dz ALG,"DL,CC",Manchester City,eng Premier League,31,1991,21.3,1166,1028,138,36,10,7,96,37,65,26,20,1,958,0,18,Partidos
+1611,Arne Maier,de GER,CC,Augsburg,de Bundesliga,23,1999,21.8,658,588,68,21,6,2,64,11,32,13,17,0,421,2,27,Partidos
+1612,Mike Maignan,fr FRA,PO,Milan,it Serie A,27,1995,22.0,814,698,112,27,0,0,0,0,0,0,0,0,674,4,0,Partidos
+1613,Linton Maina,de GER,"DL,CC",Köln,de Bundesliga,23,1999,24.9,684,640,43,5,1,1,87,15,18,10,5,0,474,1,47,Partidos
+1614,Kobbie Mainoo,eng ENG,CC,Manchester Utd,eng Premier League,17,2005,0.1,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Partidos
+1615,Ainsley Maitland-Niles,eng ENG,"DF,CC",Southampton,eng Premier League,24,1997,15.6,713,633,77,11,2,3,20,66,0,0,0,0,565,3,12,Partidos
+1616,Jordan Majchrzak,pl POL,DL,Roma,it Serie A,17,2004,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+1617,Lovro Majer,hr CRO,"CC,DL",Rennes,fr Ligue 1,24,1998,18.5,976,909,60,22,6,4,67,7,31,12,11,0,758,7,45,Partidos
+1618,Jean-Victor Makengo,fr FRA,CC,Udinese,it Serie A,24,1998,8.9,316,315,1,1,0,0,6,0,0,0,0,0,264,0,9,Partidos
+1619,Jean-Victor Makengo,fr FRA,CC,Lorient,fr Ligue 1,24,1998,11.8,540,525,12,9,2,1,1,2,0,0,0,0,475,3,5,Partidos
+1620,Béni Makouana,cg CGO,"DL,CC",Montpellier,fr Ligue 1,19,2002,2.2,38,37,0,0,0,0,6,0,0,0,0,0,15,1,3,Partidos
+1621,Nemanja Maksimović,rs SRB,CC,Getafe,es La Liga,27,1995,22.8,563,531,32,12,0,0,9,0,1,0,0,0,439,0,10,Partidos
+1622,Tyrell Malacia,nl NED,DF,Manchester Utd,eng Premier League,22,1999,15.5,802,670,130,11,0,5,15,117,2,2,0,0,694,2,16,Partidos
+1623,Lorenzo Malagrida,it ITA,"CC,DF",Sampdoria,it Serie A,18,2003,1.2,42,41,0,0,0,0,2,0,0,0,0,0,31,1,1,Partidos
+1624,Daniel Maldini,it ITA,"DL,CC",Spezia,it Serie A,20,2001,7.0,187,164,22,4,0,1,19,1,9,8,1,0,125,1,7,Partidos
+1625,Youssef Maleh,ma MAR,CC,Fiorentina,it Serie A,23,1998,3.3,116,111,4,3,0,1,7,1,0,0,0,0,95,1,2,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1626,Donyell Malen,nl NED,DL,Dortmund,de Bundesliga,23,1999,19.0,625,587,34,2,1,5,69,7,23,14,5,0,463,4,24,Partidos
-1627,Ruslan Malinovskyi,ua UKR,"CC,DL",Atalanta,it Serie A,29,1993,6.1,332,304,23,8,2,11,23,2,13,6,6,0,248,5,6,Partidos
-1628,Ruslan Malinovskyi,ua UKR,"CC,DL",Marseille,fr Ligue 1,29,1993,13.6,543,504,34,11,3,4,38,6,17,7,7,0,411,5,14,Partidos
-1629,Hugo Mallo,es ESP,DF,Celta Vigo,es La Liga,31,1991,24.0,1427,1187,234,34,1,10,67,200,0,0,0,0,1094,6,29,Partidos
-1630,Mickael Malsa,mq MTQ,CC,Valladolid,es La Liga,26,1995,0.8,20,20,0,0,0,0,0,0,0,0,0,0,13,0,1,Partidos
-1631,Giorgi Mamardashvili,ge GEO,PO,Valencia,es La Liga,21,2000,38.0,1086,740,342,103,0,3,0,0,0,0,0,0,697,4,1,Partidos
-1632,Hianga Mananga Mbock,fr FRA,CC,Brest,fr Ligue 1,22,1999,0.2,10,10,0,0,0,0,1,0,0,0,0,0,8,0,0,Partidos
-1633,Gianluca Mancini,it ITA,DF,Roma,it Serie A,26,1996,31.8,1621,1536,76,69,3,17,28,5,0,0,0,0,1306,9,14,Partidos
-1634,Steve Mandanda,fr FRA,PO,Rennes,fr Ligue 1,37,1985,33.5,1216,917,297,105,0,0,0,0,0,0,0,0,919,2,0,Partidos
-1635,Reinildo Mandava,mz MOZ,DF,Atlético Madrid,es La Liga,28,1994,20.6,1067,945,121,24,0,4,16,97,0,0,0,0,918,1,18,Partidos
-1636,Aïssa Mandi,dz ALG,DF,Villarreal,es La Liga,30,1991,16.2,911,857,52,24,1,12,2,24,0,0,0,0,826,2,4,Partidos
-1637,Rolando Mandragora,it ITA,CC,Fiorentina,it Serie A,25,1997,21.7,984,886,95,52,1,17,74,6,36,16,15,0,790,3,17,Partidos
-1638,Sadio Mané,sn SEN,"DL,CC",Bayern Munich,de Bundesliga,30,1992,15.8,418,390,23,2,3,3,22,5,1,0,0,0,307,5,31,Partidos
-1639,Orel Mangala,be BEL,CC,Nott'ham Forest,eng Premier League,24,1998,17.2,514,508,4,3,1,1,6,0,0,0,0,0,411,2,11,Partidos
-1640,Thomas Mangani,fr FRA,CC,Ajaccio,fr Ligue 1,35,1987,14.8,910,783,122,74,2,9,79,3,45,22,17,0,634,5,19,Partidos
-1641,Vito Mannone,it ITA,PO,Lorient,fr Ligue 1,34,1988,17.9,583,417,166,54,0,0,0,0,0,0,0,0,444,0,0,Partidos
-1642,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,28,1994,0.4,29,25,4,1,0,0,1,3,0,0,0,0,24,0,0,Partidos
-1643,Myziane Maolida,fr FRA,"CC,DL",Reims,fr Ligue 1,23,1999,2.6,104,102,2,0,0,1,4,2,0,0,0,0,75,0,5,Partidos
-1644,Myziane Maolida,fr FRA,"DL,CC",Hertha BSC,de Bundesliga,23,1999,1.1,15,14,0,0,0,0,1,0,0,0,0,0,8,1,0,Partidos
-1645,Faitout Maouassa,fr FRA,"DL,DF",Montpellier,fr Ligue 1,24,1998,21.4,651,528,117,7,1,5,81,92,18,10,6,0,436,6,29,Partidos
-1646,Sekou Mara,fr FRA,"DL,CC",Southampton,eng Premier League,20,2002,6.2,107,102,2,0,1,0,1,0,0,0,0,0,68,3,4,Partidos
-1647,Marcão,br BRA,DF,Sevilla,es La Liga,26,1996,4.2,217,209,6,5,0,3,0,0,0,0,0,0,187,2,3,Partidos
-1648,Solly March,eng ENG,"DL,DF",Brighton,eng Premier League,28,1994,30.2,1312,1168,142,14,3,29,155,54,71,33,21,0,951,2,36,Partidos
-1649,Agustín Marchesín,ar ARG,PO,Celta Vigo,es La Liga,34,1988,19.0,635,447,184,53,0,1,0,0,0,0,0,0,449,4,0,Partidos
-1650,Federico Marchetti,it ITA,PO,Spezia,it Serie A,39,1983,0.7,18,9,9,1,0,0,0,0,0,0,0,0,14,0,0,Partidos
+1626,Youssef Maleh,ma MAR,CC,Lecce,it Serie A,23,1998,7.5,206,198,8,2,0,0,8,2,2,0,0,0,146,0,6,Partidos
+1627,Donyell Malen,nl NED,DL,Dortmund,de Bundesliga,23,1999,19.0,625,587,34,2,1,5,69,7,23,14,5,0,463,4,24,Partidos
+1628,Ruslan Malinovskyi,ua UKR,"CC,DL",Atalanta,it Serie A,29,1993,6.1,332,304,23,8,2,11,23,2,13,6,6,0,248,5,6,Partidos
+1629,Ruslan Malinovskyi,ua UKR,"CC,DL",Marseille,fr Ligue 1,29,1993,13.6,543,504,34,11,3,4,38,6,17,7,7,0,411,5,14,Partidos
+1630,Hugo Mallo,es ESP,DF,Celta Vigo,es La Liga,31,1991,24.0,1427,1187,234,34,1,10,67,200,0,0,0,0,1094,6,29,Partidos
+1631,Mickael Malsa,mq MTQ,CC,Valladolid,es La Liga,26,1995,0.8,20,20,0,0,0,0,0,0,0,0,0,0,13,0,1,Partidos
+1632,Giorgi Mamardashvili,ge GEO,PO,Valencia,es La Liga,21,2000,38.0,1086,740,342,103,0,3,0,0,0,0,0,0,697,4,1,Partidos
+1633,Hianga Mananga Mbock,fr FRA,CC,Brest,fr Ligue 1,22,1999,0.2,10,10,0,0,0,0,1,0,0,0,0,0,8,0,0,Partidos
+1634,Gianluca Mancini,it ITA,DF,Roma,it Serie A,26,1996,31.8,1621,1536,76,69,3,17,28,5,0,0,0,0,1306,9,14,Partidos
+1635,Steve Mandanda,fr FRA,PO,Rennes,fr Ligue 1,37,1985,33.5,1216,917,297,105,0,0,0,0,0,0,0,0,919,2,0,Partidos
+1636,Reinildo Mandava,mz MOZ,DF,Atlético Madrid,es La Liga,28,1994,20.6,1067,945,121,24,0,4,16,97,0,0,0,0,918,1,18,Partidos
+1637,Aïssa Mandi,dz ALG,DF,Villarreal,es La Liga,30,1991,16.2,911,857,52,24,1,12,2,24,0,0,0,0,826,2,4,Partidos
+1638,Rolando Mandragora,it ITA,CC,Fiorentina,it Serie A,25,1997,21.7,984,886,95,52,1,17,74,6,36,16,15,0,790,3,17,Partidos
+1639,Sadio Mané,sn SEN,"DL,CC",Bayern Munich,de Bundesliga,30,1992,15.8,418,390,23,2,3,3,22,5,1,0,0,0,307,5,31,Partidos
+1640,Orel Mangala,be BEL,CC,Nott'ham Forest,eng Premier League,24,1998,17.2,514,508,4,3,1,1,6,0,0,0,0,0,411,2,11,Partidos
+1641,Thomas Mangani,fr FRA,CC,Ajaccio,fr Ligue 1,35,1987,14.8,910,783,122,74,2,9,79,3,45,22,17,0,634,5,19,Partidos
+1642,Vito Mannone,it ITA,PO,Lorient,fr Ligue 1,34,1988,17.9,583,417,166,54,0,0,0,0,0,0,0,0,444,0,0,Partidos
+1643,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,28,1994,0.4,29,25,4,1,0,0,1,3,0,0,0,0,24,0,0,Partidos
+1644,Myziane Maolida,km COM,"CC,DL",Reims,fr Ligue 1,23,1999,2.6,104,102,2,0,0,1,4,2,0,0,0,0,75,0,5,Partidos
+1645,Myziane Maolida,km COM,"DL,CC",Hertha BSC,de Bundesliga,23,1999,1.1,15,14,0,0,0,0,1,0,0,0,0,0,8,1,0,Partidos
+1646,Faitout Maouassa,fr FRA,"DL,DF",Montpellier,fr Ligue 1,24,1998,21.4,651,528,117,7,1,5,81,92,18,10,6,0,436,6,29,Partidos
+1647,Sekou Mara,fr FRA,"DL,CC",Southampton,eng Premier League,20,2002,6.2,107,102,2,0,1,0,1,0,0,0,0,0,68,3,4,Partidos
+1648,Marcão,br BRA,DF,Sevilla,es La Liga,26,1996,4.2,217,209,6,5,0,3,0,0,0,0,0,0,187,2,3,Partidos
+1649,Solly March,eng ENG,"DL,DF",Brighton,eng Premier League,28,1994,30.2,1312,1168,142,14,3,29,155,54,71,33,21,0,951,2,36,Partidos
+1650,Agustín Marchesín,ar ARG,PO,Celta Vigo,es La Liga,34,1988,19.0,635,447,184,53,0,1,0,0,0,0,0,0,449,4,0,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1651,Vincent Marchetti,fr FRA,CC,Ajaccio,fr Ligue 1,25,1997,27.2,1057,1031,22,14,11,16,6,8,0,0,0,0,837,4,31,Partidos
-1652,Riccardo Marchizza,it ITA,DF,Sassuolo,it Serie A,24,1998,3.1,181,148,33,4,0,3,18,25,4,0,4,0,137,0,4,Partidos
-1653,Gian Marco Ferrari,it ITA,DF,Sassuolo,it Serie A,30,1992,24.7,1295,1164,127,83,0,16,6,5,0,0,0,0,1111,4,4,Partidos
-1654,Emiliano Marcondes,dk DEN,CC,Bournemouth,eng Premier League,27,1995,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-1655,Óscar de Marcos,es ESP,DF,Athletic Club,es La Liga,33,1989,31.3,1932,1552,372,32,0,11,130,340,0,0,0,0,1499,8,52,Partidos
-1656,Alberto Marí,es ESP,"DL,CC",Valencia,es La Liga,21,2001,1.0,20,20,0,0,0,0,0,0,0,0,0,0,8,0,0,Partidos
-1657,José Mari,es ESP,CC,Cádiz,es La Liga,34,1987,4.4,203,188,14,14,0,8,1,0,0,0,0,0,168,1,2,Partidos
-1658,Pablo Marí,es ESP,DF,Monza,it Serie A,28,1993,27.6,1621,1544,71,40,0,7,1,8,0,0,0,0,1431,6,9,Partidos
-1659,José María Giménez,uy URU,DF,Atlético Madrid,es La Liga,27,1995,26.9,1333,1270,62,51,0,19,0,5,0,0,0,0,1183,1,5,Partidos
-1660,Mariano,do DOM,DL,Real Madrid,es La Liga,28,1993,1.7,41,39,1,0,0,1,0,0,0,0,0,0,32,1,0,Partidos
-1661,Pablo Marín,es ESP,"CC,DL",Real Sociedad,es La Liga,19,2003,4.0,168,165,2,2,1,1,3,0,0,0,0,0,128,1,6,Partidos
-1662,Răzvan Marin,ro ROU,CC,Empoli,it Serie A,26,1996,28.2,1594,1358,228,128,4,18,140,5,94,39,39,0,1260,8,25,Partidos
-1663,Diego Mariño,es ESP,PO,Almería,es La Liga,32,1990,0.5,8,2,6,1,0,0,0,0,0,0,0,0,7,0,0,Partidos
-1664,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,28,1994,24.0,1162,1120,41,36,0,7,1,0,0,0,0,0,1015,1,9,Partidos
-1665,Marlon,br BRA,DF,Monza,it Serie A,26,1995,17.7,1029,984,45,32,0,3,5,7,0,0,0,0,950,0,1,Partidos
-1666,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,23,1999,16.4,,,,,,,25,,,,,,,,,Partidos
-1667,Marquinhos,br BRA,CC,Arsenal,eng Premier League,19,2003,0.0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
-1668,Marquinhos,br BRA,DF,Paris S-G,fr Ligue 1,28,1994,30.2,2175,2114,57,34,4,7,1,17,0,0,0,0,2068,4,11,Partidos
-1669,Luca Marrone,it ITA,DF,Monza,it Serie A,32,1990,1.5,84,78,6,6,0,0,0,0,0,0,0,0,78,0,0,Partidos
-1670,Eric Martel,de GER,CC,Köln,de Bundesliga,20,2002,22.4,888,876,10,9,1,3,20,1,0,0,0,0,695,2,25,Partidos
-1671,Roger Martí,es ESP,DL,Elche,es La Liga,31,1991,7.3,160,147,10,0,0,1,5,0,0,0,0,0,118,3,8,Partidos
-1672,Roger Martí,es ESP,DL,Cádiz,es La Liga,31,1991,7.1,129,116,10,0,1,0,0,0,0,0,0,0,92,3,4,Partidos
-1673,Anthony Martial,fr FRA,DL,Manchester Utd,eng Premier League,26,1995,10.9,328,314,12,3,3,0,4,2,0,0,0,0,263,2,14,Partidos
-1674,Aarón Martín,es ESP,DF,Mainz 05,de Bundesliga,25,1997,20.5,1028,730,293,39,0,4,145,195,59,42,16,0,761,5,29,Partidos
-1675,Ander Martin,es ESP,"CC,DL",Real Sociedad,es La Liga,21,2000,0.5,24,22,2,1,0,0,4,0,1,1,0,0,12,0,0,Partidos
+1651,Federico Marchetti,it ITA,PO,Spezia,it Serie A,39,1983,0.7,18,9,9,1,0,0,0,0,0,0,0,0,14,0,0,Partidos
+1652,Vincent Marchetti,fr FRA,CC,Ajaccio,fr Ligue 1,25,1997,27.2,1057,1031,22,14,11,16,6,8,0,0,0,0,837,4,31,Partidos
+1653,Riccardo Marchizza,it ITA,DF,Sassuolo,it Serie A,24,1998,3.1,181,148,33,4,0,3,18,25,4,0,4,0,137,0,4,Partidos
+1654,Gian Marco Ferrari,it ITA,DF,Sassuolo,it Serie A,30,1992,24.7,1295,1164,127,83,0,16,6,5,0,0,0,0,1111,4,4,Partidos
+1655,Emiliano Marcondes,dk DEN,CC,Bournemouth,eng Premier League,27,1995,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
+1656,Óscar de Marcos,es ESP,DF,Athletic Club,es La Liga,33,1989,31.3,1932,1552,372,32,0,11,130,340,0,0,0,0,1499,8,52,Partidos
+1657,Alberto Marí,es ESP,"DL,CC",Valencia,es La Liga,21,2001,1.0,20,20,0,0,0,0,0,0,0,0,0,0,8,0,0,Partidos
+1658,José Mari,es ESP,CC,Cádiz,es La Liga,34,1987,4.4,203,188,14,14,0,8,1,0,0,0,0,0,168,1,2,Partidos
+1659,Pablo Marí,es ESP,DF,Monza,it Serie A,28,1993,27.6,1621,1544,71,40,0,7,1,8,0,0,0,0,1431,6,9,Partidos
+1660,José María Giménez,uy URU,DF,Atlético Madrid,es La Liga,27,1995,26.9,1333,1270,62,51,0,19,0,5,0,0,0,0,1183,1,5,Partidos
+1661,Mariano,do DOM,DL,Real Madrid,es La Liga,28,1993,1.7,41,39,1,0,0,1,0,0,0,0,0,0,32,1,0,Partidos
+1662,Pablo Marín,es ESP,"CC,DL",Real Sociedad,es La Liga,19,2003,4.0,168,165,2,2,1,1,3,0,0,0,0,0,128,1,6,Partidos
+1663,Răzvan Marin,ro ROU,CC,Empoli,it Serie A,26,1996,28.2,1594,1358,228,128,4,18,140,5,94,39,39,0,1260,8,25,Partidos
+1664,Diego Mariño,es ESP,PO,Almería,es La Liga,32,1990,0.5,8,2,6,1,0,0,0,0,0,0,0,0,7,0,0,Partidos
+1665,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,28,1994,24.0,1162,1120,41,36,0,7,1,0,0,0,0,0,1015,1,9,Partidos
+1666,Marlon,br BRA,DF,Monza,it Serie A,26,1995,17.7,1029,984,45,32,0,3,5,7,0,0,0,0,950,0,1,Partidos
+1667,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,23,1999,16.4,458,444,13,1,1,7,25,0,5,5,0,0,299,1,21,Partidos
+1668,Marquinhos,br BRA,CC,Arsenal,eng Premier League,19,2003,0.0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
+1669,Marquinhos,br BRA,DF,Paris S-G,fr Ligue 1,28,1994,30.2,2175,2114,57,34,4,7,1,17,0,0,0,0,2068,4,11,Partidos
+1670,Luca Marrone,it ITA,DF,Monza,it Serie A,32,1990,1.5,84,78,6,6,0,0,0,0,0,0,0,0,78,0,0,Partidos
+1671,Eric Martel,de GER,CC,Köln,de Bundesliga,20,2002,22.4,888,876,10,9,1,3,20,1,0,0,0,0,695,2,25,Partidos
+1672,Roger Martí,es ESP,DL,Elche,es La Liga,31,1991,7.3,160,147,10,0,0,1,5,0,0,0,0,0,118,3,8,Partidos
+1673,Roger Martí,es ESP,DL,Cádiz,es La Liga,31,1991,7.1,129,116,10,0,1,0,0,0,0,0,0,0,92,3,4,Partidos
+1674,Anthony Martial,fr FRA,DL,Manchester Utd,eng Premier League,26,1995,10.9,328,314,12,3,3,0,4,2,0,0,0,0,263,2,14,Partidos
+1675,Aarón Martín,es ESP,DF,Mainz 05,de Bundesliga,25,1997,20.5,1028,730,293,39,0,4,145,195,59,42,16,0,761,5,29,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1676,Andrés Martín,es ESP,"DL,CC",Rayo Vallecano,es La Liga,23,1999,2.3,77,69,5,0,0,2,11,2,3,3,0,0,39,3,4,Partidos
-1677,Carlos Martín,es ESP,"DL,CC",Atlético Madrid,es La Liga,20,2002,0.3,11,11,0,0,0,0,2,0,0,0,0,0,6,0,0,Partidos
-1678,Iván Martín,es ESP,CC,Girona,es La Liga,23,1999,17.6,672,648,23,8,0,2,18,7,0,0,0,0,565,1,18,Partidos
-1679,Jonas Martin,fr FRA,CC,Lille,fr Ligue 1,32,1990,3.1,229,219,10,7,0,2,3,2,1,1,0,0,193,0,1,Partidos
-1680,Gabriel Martinelli,br BRA,DL,Arsenal,eng Premier League,21,2001,31.0,1107,1013,88,12,8,2,113,11,63,40,0,0,833,6,44,Partidos
-1681,Arnau Martinez,es ESP,DF,Girona,es La Liga,19,2003,30.4,1599,1270,319,48,3,7,60,271,0,0,0,0,1303,10,33,Partidos
-1682,Emiliano Martínez,ar ARG,PO,Aston Villa,eng Premier League,29,1992,34.9,1388,1043,340,128,1,5,0,0,0,0,0,0,1026,5,1,Partidos
-1683,Iñigo Martínez,es ESP,DF,Athletic Club,es La Liga,31,1991,14.9,773,725,46,35,0,26,5,2,0,0,0,0,627,2,7,Partidos
-1684,Lautaro Martínez,ar ARG,DL,Inter,it Serie A,24,1997,28.6,681,632,46,1,6,6,14,5,0,0,0,0,503,3,24,Partidos
-1685,Lisandro Martínez,ar ARG,DF,Manchester Utd,eng Premier League,24,1998,23.5,1528,1401,122,34,7,16,0,5,0,0,0,0,1330,5,7,Partidos
-1686,Lucas Martínez Quarta,ar ARG,DF,Fiorentina,it Serie A,26,1996,24.1,1524,1460,61,54,0,38,4,7,0,0,0,0,1245,3,12,Partidos
-1687,Roger Martínez,es ESP,DF,Espanyol,es La Liga,18,2004,0.1,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
-1688,Gelson Martins,pt POR,"CC,DL",Monaco,fr Ligue 1,27,1995,3.8,155,154,1,0,0,0,5,1,0,0,0,0,121,0,6,Partidos
-1689,Adam Marušić,me MNE,DF,Lazio,it Serie A,29,1992,30.7,1829,1573,253,28,0,8,17,225,0,0,0,0,1564,3,18,Partidos
-1690,Omar Mascarell,es ESP,"CC,DF",Elche,es La Liga,29,1993,27.2,1270,1183,83,56,0,20,22,4,19,1,9,3,1091,4,11,Partidos
-1691,Adam Masina,ma MAR,DF,Udinese,it Serie A,28,1994,8.8,428,386,40,13,1,6,10,27,0,0,0,0,332,2,3,Partidos
-1692,Jordi Masip,es ESP,PO,Valladolid,es La Liga,33,1989,27.9,963,645,316,77,0,1,0,0,0,0,0,0,679,2,1,Partidos
-1693,Erhan Mašović,rs SRB,"DF,CC",Bochum,de Bundesliga,23,1998,24.2,821,798,21,15,0,1,2,1,0,0,0,0,662,2,10,Partidos
-1694,Han-Noah Massengo,fr FRA,CC,Auxerre,fr Ligue 1,21,2001,12.4,453,435,12,8,5,3,2,1,0,0,0,0,385,6,9,Partidos
-1695,Yanis Massolin,fr FRA,CC,Clermont Foot,fr Ligue 1,19,2002,0.7,39,39,0,0,0,0,0,0,0,0,0,0,30,0,0,Partidos
-1696,Jaime Mata,es ESP,"DL,CC",Getafe,es La Liga,33,1988,4.9,122,119,2,0,0,0,9,1,0,0,0,0,68,1,7,Partidos
-1697,Pape Matar Sarr,sn SEN,"CC,DL",Tottenham,eng Premier League,19,2002,2.4,154,150,4,2,0,1,0,0,0,0,0,0,141,0,0,Partidos
-1698,Eliot Matazo,be BEL,CC,Monaco,fr Ligue 1,20,2002,13.1,493,483,7,6,0,7,2,0,0,0,0,0,399,3,8,Partidos
-1699,Jean-Philippe Mateta,fr FRA,DL,Crystal Palace,eng Premier League,25,1997,8.6,149,143,6,0,0,0,3,0,0,0,0,0,104,0,9,Partidos
-1700,Nemanja Matić,rs SRB,CC,Roma,it Serie A,33,1988,20.6,1295,1229,59,56,2,16,12,2,1,0,0,0,1109,7,19,Partidos
+1676,Ander Martin,es ESP,"CC,DL",Real Sociedad,es La Liga,21,2000,0.5,24,22,2,1,0,0,4,0,1,1,0,0,12,0,0,Partidos
+1677,Andrés Martín,es ESP,"DL,CC",Rayo Vallecano,es La Liga,23,1999,2.3,77,69,5,0,0,2,11,2,3,3,0,0,39,3,4,Partidos
+1678,Carlos Martín,es ESP,"DL,CC",Atlético Madrid,es La Liga,20,2002,0.3,11,11,0,0,0,0,2,0,0,0,0,0,6,0,0,Partidos
+1679,Iván Martín,es ESP,CC,Girona,es La Liga,23,1999,17.6,672,648,23,8,0,2,18,7,0,0,0,0,565,1,18,Partidos
+1680,Jonas Martin,fr FRA,CC,Lille,fr Ligue 1,32,1990,3.1,229,219,10,7,0,2,3,2,1,1,0,0,193,0,1,Partidos
+1681,Gabriel Martinelli,br BRA,DL,Arsenal,eng Premier League,21,2001,31.0,1107,1013,88,12,8,2,113,11,63,40,0,0,833,6,44,Partidos
+1682,Arnau Martinez,es ESP,DF,Girona,es La Liga,19,2003,30.4,1599,1270,319,48,3,7,60,271,0,0,0,0,1303,10,33,Partidos
+1683,Emiliano Martínez,ar ARG,PO,Aston Villa,eng Premier League,29,1992,34.9,1388,1043,340,128,1,5,0,0,0,0,0,0,1026,5,1,Partidos
+1684,Iñigo Martínez,es ESP,DF,Athletic Club,es La Liga,31,1991,14.9,773,725,46,35,0,26,5,2,0,0,0,0,627,2,7,Partidos
+1685,Lautaro Martínez,ar ARG,DL,Inter,it Serie A,24,1997,28.6,681,632,46,1,6,6,14,5,0,0,0,0,503,3,24,Partidos
+1686,Lisandro Martínez,ar ARG,DF,Manchester Utd,eng Premier League,24,1998,23.5,1528,1401,122,34,7,16,0,5,0,0,0,0,1330,5,7,Partidos
+1687,Lucas Martínez Quarta,ar ARG,DF,Fiorentina,it Serie A,26,1996,24.1,1524,1460,61,54,0,38,4,7,0,0,0,0,1245,3,12,Partidos
+1688,Roger Martínez,es ESP,DF,Espanyol,es La Liga,18,2004,0.1,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
+1689,Gelson Martins,pt POR,"CC,DL",Monaco,fr Ligue 1,27,1995,3.8,155,154,1,0,0,0,5,1,0,0,0,0,121,0,6,Partidos
+1690,Adam Marušić,me MNE,DF,Lazio,it Serie A,29,1992,30.7,1829,1573,253,28,0,8,17,225,0,0,0,0,1564,3,18,Partidos
+1691,Omar Mascarell,es ESP,"CC,DF",Elche,es La Liga,29,1993,27.2,1270,1183,83,56,0,20,22,4,19,1,9,3,1091,4,11,Partidos
+1692,Adam Masina,ma MAR,DF,Udinese,it Serie A,28,1994,8.8,428,386,40,13,1,6,10,27,0,0,0,0,332,2,3,Partidos
+1693,Jordi Masip,es ESP,PO,Valladolid,es La Liga,33,1989,27.9,963,645,316,77,0,1,0,0,0,0,0,0,679,2,1,Partidos
+1694,Erhan Mašović,rs SRB,"DF,CC",Bochum,de Bundesliga,23,1998,24.2,821,798,21,15,0,1,2,1,0,0,0,0,662,2,10,Partidos
+1695,Han-Noah Massengo,fr FRA,CC,Auxerre,fr Ligue 1,21,2001,12.4,453,435,12,8,5,3,2,1,0,0,0,0,385,6,9,Partidos
+1696,Yanis Massolin,fr FRA,CC,Clermont Foot,fr Ligue 1,19,2002,0.7,39,39,0,0,0,0,0,0,0,0,0,0,30,0,0,Partidos
+1697,Jaime Mata,es ESP,"DL,CC",Getafe,es La Liga,33,1988,4.9,122,119,2,0,0,0,9,1,0,0,0,0,68,1,7,Partidos
+1698,Pape Matar Sarr,sn SEN,"CC,DL",Tottenham,eng Premier League,19,2002,2.4,154,150,4,2,0,1,0,0,0,0,0,0,141,0,0,Partidos
+1699,Eliot Matazo,be BEL,CC,Monaco,fr Ligue 1,20,2002,13.1,493,483,7,6,0,7,2,0,0,0,0,0,399,3,8,Partidos
+1700,Jean-Philippe Mateta,fr FRA,DL,Crystal Palace,eng Premier League,25,1997,8.6,149,143,6,0,0,0,3,0,0,0,0,0,104,0,9,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1701,Joël Matip,cm CMR,DF,Liverpool,eng Premier League,30,1991,12.1,885,873,11,7,0,5,1,4,0,0,0,0,766,1,5,Partidos
-1702,Henning Matriciani,de GER,DF,Schalke 04,de Bundesliga,22,2000,20.7,883,702,180,21,0,1,20,156,0,0,0,0,638,1,26,Partidos
-1703,Chrislain Matsima,fr FRA,"DF,CC",Lorient,fr Ligue 1,20,2002,2.5,127,120,7,7,0,0,0,0,0,0,0,0,108,0,3,Partidos
-1704,Chrislain Matsima,fr FRA,DF,Monaco,fr Ligue 1,20,2002,5.0,230,208,20,5,0,0,2,15,0,0,0,0,194,2,0,Partidos
-1705,Jean Mattéo Bahoya,fr FRA,"DL,CC",Angers,fr Ligue 1,17,2005,3.0,82,81,1,0,0,0,2,0,1,0,0,0,69,0,2,Partidos
-1706,Azor Matusiwa,nl NED,CC,Reims,fr Ligue 1,24,1998,27.6,1617,1576,33,26,1,24,4,6,0,0,0,0,1376,8,27,Partidos
-1707,Neal Maupay,fr FRA,DL,Everton,eng Premier League,25,1996,12.4,253,222,30,1,0,1,3,2,0,0,0,0,190,1,10,Partidos
-1708,Aïman Maurer,ma MAR,CC,Clermont Foot,fr Ligue 1,17,2004,5.6,125,107,17,6,1,0,19,0,11,6,3,1,87,1,7,Partidos
-1709,Stephy Mavididi,eng ENG,DL,Montpellier,fr Ligue 1,24,1998,14.3,318,305,12,1,1,1,10,8,0,0,0,0,236,1,12,Partidos
-1710,Konstantinos Mavropanos,gr GRE,DF,Stuttgart,de Bundesliga,24,1997,25.4,1512,1339,166,59,2,49,6,107,0,0,0,0,1255,7,17,Partidos
-1711,Christian Mawissa,fr FRA,DF,Toulouse,fr Ligue 1,17,2005,1.1,48,41,7,1,0,0,1,6,0,0,0,0,41,0,0,Partidos
-1712,Philipp Max,de GER,DF,Eint Frankfurt,de Bundesliga,28,1993,7.7,479,358,120,14,0,0,60,80,26,18,4,0,364,1,12,Partidos
-1713,Eric Maxim Choupo-Moting,cm CMR,DL,Bayern Munich,de Bundesliga,33,1989,12.4,290,273,16,0,3,1,3,0,0,0,0,0,223,1,10,Partidos
-1714,Luís Maximiano,pt POR,PO,Lazio,it Serie A,23,1999,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-1715,Keke Maximilian Topp,de GER,DL,Schalke 04,de Bundesliga,18,2004,0.2,5,5,0,0,0,0,1,0,0,0,0,0,4,0,0,Partidos
-1716,Fernand Mayembo,cg CGO,DF,Ajaccio,fr Ligue 1,26,1996,7.9,320,308,12,11,0,1,0,0,0,0,0,0,275,0,2,Partidos
-1717,Borja Mayoral,es ESP,DL,Getafe,es La Liga,25,1997,30.7,775,737,37,0,2,11,37,3,1,0,0,0,582,1,31,Partidos
-1718,Ibrahim Maza,de GER,"CC,DL",Hertha BSC,de Bundesliga,16,2005,0.8,15,12,2,0,0,0,0,0,0,0,0,0,11,1,1,Partidos
-1719,Derek Mazou-Sacko,fr FRA,CC,Troyes,fr Ligue 1,17,2004,0.2,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Partidos
-1720,Noussair Mazraoui,ma MAR,DF,Bayern Munich,de Bundesliga,24,1997,11.9,867,751,113,11,2,1,22,102,0,0,0,0,738,3,16,Partidos
-1721,Pasquale Mazzocchi,it ITA,DF,Salernitana,it Serie A,27,1995,21.8,949,726,219,13,2,6,90,185,21,2,17,0,702,4,29,Partidos
-1722,Kevin Mbabu,ch SUI,"DF,DL",Fulham,eng Premier League,27,1995,1.6,94,71,23,0,0,1,7,23,0,0,0,0,68,0,2,Partidos
-1723,Noah Mbamba,be BEL,CC,Leverkusen,de Bundesliga,17,2005,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
-1724,Kylian Mbappé,fr FRA,DL,Paris S-G,fr Ligue 1,23,1998,31.3,1355,1291,59,2,8,2,47,13,17,3,0,0,1096,5,27,Partidos
-1725,Mamadou Mbaye,sn SEN,DF,Cádiz,es La Liga,24,1998,8.4,294,286,5,5,0,2,0,0,0,0,0,0,219,3,6,Partidos
+1701,Nemanja Matić,rs SRB,CC,Roma,it Serie A,33,1988,20.6,1295,1229,59,56,2,16,12,2,1,0,0,0,1109,7,19,Partidos
+1702,Joël Matip,cm CMR,DF,Liverpool,eng Premier League,30,1991,12.1,885,873,11,7,0,5,1,4,0,0,0,0,766,1,5,Partidos
+1703,Henning Matriciani,de GER,DF,Schalke 04,de Bundesliga,22,2000,20.7,883,702,180,21,0,1,20,156,0,0,0,0,638,1,26,Partidos
+1704,Chrislain Matsima,fr FRA,"DF,CC",Lorient,fr Ligue 1,20,2002,2.5,127,120,7,7,0,0,0,0,0,0,0,0,108,0,3,Partidos
+1705,Chrislain Matsima,fr FRA,DF,Monaco,fr Ligue 1,20,2002,5.0,230,208,20,5,0,0,2,15,0,0,0,0,194,2,0,Partidos
+1706,Jean Mattéo Bahoya,fr FRA,"DL,CC",Angers,fr Ligue 1,17,2005,3.0,82,81,1,0,0,0,2,0,1,0,0,0,69,0,2,Partidos
+1707,Azor Matusiwa,nl NED,CC,Reims,fr Ligue 1,24,1998,27.6,1617,1576,33,26,1,24,4,6,0,0,0,0,1376,8,27,Partidos
+1708,Neal Maupay,fr FRA,DL,Everton,eng Premier League,25,1996,12.4,253,222,30,1,0,1,3,2,0,0,0,0,190,1,10,Partidos
+1709,Aïman Maurer,ma MAR,CC,Clermont Foot,fr Ligue 1,17,2004,5.6,125,107,17,6,1,0,19,0,11,6,3,1,87,1,7,Partidos
+1710,Stephy Mavididi,eng ENG,DL,Montpellier,fr Ligue 1,24,1998,14.3,318,305,12,1,1,1,10,8,0,0,0,0,236,1,12,Partidos
+1711,Konstantinos Mavropanos,gr GRE,DF,Stuttgart,de Bundesliga,24,1997,25.4,1512,1339,166,59,2,49,6,107,0,0,0,0,1255,7,17,Partidos
+1712,Christian Mawissa,fr FRA,DF,Toulouse,fr Ligue 1,17,2005,1.1,48,41,7,1,0,0,1,6,0,0,0,0,41,0,0,Partidos
+1713,Philipp Max,de GER,DF,Eint Frankfurt,de Bundesliga,28,1993,7.7,479,358,120,14,0,0,60,80,26,18,4,0,364,1,12,Partidos
+1714,Eric Maxim Choupo-Moting,cm CMR,DL,Bayern Munich,de Bundesliga,33,1989,12.4,290,273,16,0,3,1,3,0,0,0,0,0,223,1,10,Partidos
+1715,Luís Maximiano,pt POR,PO,Lazio,it Serie A,23,1999,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+1716,Keke Maximilian Topp,de GER,DL,Schalke 04,de Bundesliga,18,2004,0.2,5,5,0,0,0,0,1,0,0,0,0,0,4,0,0,Partidos
+1717,Fernand Mayembo,cg CGO,DF,Ajaccio,fr Ligue 1,26,1996,7.9,320,308,12,11,0,1,0,0,0,0,0,0,275,0,2,Partidos
+1718,Borja Mayoral,es ESP,DL,Getafe,es La Liga,25,1997,30.7,775,737,37,0,2,11,37,3,1,0,0,0,582,1,31,Partidos
+1719,Ibrahim Maza,de GER,"CC,DL",Hertha BSC,de Bundesliga,16,2005,0.8,15,12,2,0,0,0,0,0,0,0,0,0,11,1,1,Partidos
+1720,Derek Mazou-Sacko,fr FRA,CC,Troyes,fr Ligue 1,17,2004,0.2,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Partidos
+1721,Noussair Mazraoui,ma MAR,DF,Bayern Munich,de Bundesliga,24,1997,11.9,867,751,113,11,2,1,22,102,0,0,0,0,738,3,16,Partidos
+1722,Pasquale Mazzocchi,it ITA,DF,Salernitana,it Serie A,27,1995,21.8,949,726,219,13,2,6,90,185,21,2,17,0,702,4,29,Partidos
+1723,Kevin Mbabu,ch SUI,"DF,DL",Fulham,eng Premier League,27,1995,1.6,94,71,23,0,0,1,7,23,0,0,0,0,68,0,2,Partidos
+1724,Noah Mbamba,be BEL,CC,Leverkusen,de Bundesliga,17,2005,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+1725,Kylian Mbappé,fr FRA,DL,Paris S-G,fr Ligue 1,23,1998,31.3,1355,1291,59,2,8,2,47,13,17,3,0,0,1096,5,27,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1726,Chancel Mbemba,cd COD,DF,Marseille,fr Ligue 1,27,1994,31.7,1742,1643,91,45,1,7,40,31,0,0,0,0,1441,8,23,Partidos
-1727,Bryan Mbeumo,cm CMR,DL,Brentford,eng Premier League,22,1999,32.3,991,845,139,48,7,7,156,19,71,37,12,5,655,7,42,Partidos
-1728,Jason Mbock,fr FRA,"CC,DL",Angers,fr Ligue 1,22,1999,0.3,10,6,4,0,0,0,4,1,2,2,0,0,6,0,1,Partidos
-1729,Jean-Manuel Mbom,de GER,CC,Werder Bremen,de Bundesliga,22,2000,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
-1730,Nathanael Mbuku,fr FRA,"DL,CC",Reims,fr Ligue 1,20,2002,0.7,27,25,2,2,0,0,2,0,0,0,0,0,22,0,2,Partidos
-1731,Nathanael Mbuku,fr FRA,"CC,DL",Augsburg,de Bundesliga,20,2002,0.4,7,7,0,0,0,0,1,0,0,0,0,0,3,0,2,Partidos
-1732,James McArthur,sct SCO,CC,Crystal Palace,eng Premier League,34,1987,0.6,52,49,3,3,1,0,0,0,0,0,0,0,41,0,1,Partidos
-1733,Alex McCarthy,eng ENG,PO,Southampton,eng Premier League,32,1989,6.0,249,178,68,16,0,1,0,0,0,0,0,0,150,3,0,Partidos
-1734,John McGinn,sct SCO,"CC,DL",Aston Villa,eng Premier League,27,1994,29.9,1028,965,56,25,11,10,50,1,25,18,0,0,805,7,20,Partidos
-1735,Scott McKenna,sct SCO,DF,Nott'ham Forest,eng Premier League,25,1996,17.5,727,691,32,11,0,3,2,21,0,0,0,0,569,4,2,Partidos
-1736,Weston McKennie,us USA,CC,Leeds United,eng Premier League,23,1998,16.0,628,589,36,8,4,6,9,26,0,0,0,0,472,3,16,Partidos
-1737,Weston McKennie,us USA,"CC,DF",Juventus,it Serie A,23,1998,11.7,418,389,27,3,1,2,15,24,0,0,0,0,336,2,7,Partidos
-1738,Dwight McNeil,eng ENG,"DL,CC",Everton,eng Premier League,22,1999,27.8,987,838,142,50,3,6,194,31,61,53,4,0,656,7,49,Partidos
-1739,Scott McTominay,sct SCO,CC,Manchester Utd,eng Premier League,25,1996,12.9,432,426,5,3,3,3,4,1,0,0,0,0,355,1,6,Partidos
-1740,Gary Medel,cl CHI,"CC,DF",Bologna,it Serie A,34,1987,16.4,1102,1057,45,42,1,8,4,2,0,0,0,0,986,0,7,Partidos
-1741,Facundo Medina,ar ARG,DF,Lens,fr Ligue 1,23,1999,30.9,2506,2358,144,115,4,20,22,22,0,0,0,0,2260,4,20,Partidos
-1742,Fernando Medrano,es ESP,DF,Celta Vigo,es La Liga,22,2000,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-1743,Ben Mee,eng ENG,DF,Brentford,eng Premier League,32,1989,36.3,1761,1625,130,38,0,10,7,90,0,0,0,0,1348,6,20,Partidos
-1744,Bamo Meïté,ci CIV,DF,Lorient,fr Ligue 1,21,2001,16.7,936,912,24,22,0,1,0,2,0,0,0,0,838,0,7,Partidos
-1745,Soualiho Meïté,fr FRA,CC,Cremonese,it Serie A,28,1994,26.3,1026,993,28,23,3,7,9,2,0,0,0,0,863,5,11,Partidos
-1746,Farid El Melali,dz ALG,"DF,DL",Angers,fr Ligue 1,25,1997,9.0,282,241,38,2,0,2,16,33,3,1,0,0,196,3,13,Partidos
-1747,Gonzalo Melero,es ESP,CC,Almería,es La Liga,28,1994,20.6,755,736,17,9,1,4,2,3,0,0,0,0,652,2,15,Partidos
-1748,Birger Meling,no NOR,DF,Rennes,fr Ligue 1,27,1994,13.4,787,651,133,10,2,2,18,123,0,0,0,0,671,3,16,Partidos
-1749,Memphis,nl NED,DL,Atlético Madrid,es La Liga,28,1994,3.0,90,80,10,1,2,0,5,1,5,3,1,0,68,0,1,Partidos
-1750,Memphis,nl NED,DL,Barcelona,es La Liga,28,1994,1.3,66,60,6,1,1,0,4,0,4,0,2,0,53,0,1,Partidos
+1726,Mamadou Mbaye,sn SEN,DF,Cádiz,es La Liga,24,1998,8.4,294,286,5,5,0,2,0,0,0,0,0,0,219,3,6,Partidos
+1727,Chancel Mbemba,cd COD,DF,Marseille,fr Ligue 1,27,1994,31.7,1742,1643,91,45,1,7,40,31,0,0,0,0,1441,8,23,Partidos
+1728,Bryan Mbeumo,cm CMR,DL,Brentford,eng Premier League,22,1999,32.3,991,845,139,48,7,7,156,19,71,37,12,5,655,7,42,Partidos
+1729,Jason Mbock,fr FRA,"CC,DL",Angers,fr Ligue 1,22,1999,0.3,10,6,4,0,0,0,4,1,2,2,0,0,6,0,1,Partidos
+1730,Jean-Manuel Mbom,de GER,CC,Werder Bremen,de Bundesliga,22,2000,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
+1731,Nathanael Mbuku,fr FRA,"DL,CC",Reims,fr Ligue 1,20,2002,0.7,27,25,2,2,0,0,2,0,0,0,0,0,22,0,2,Partidos
+1732,Nathanael Mbuku,fr FRA,"CC,DL",Augsburg,de Bundesliga,20,2002,0.4,7,7,0,0,0,0,1,0,0,0,0,0,3,0,2,Partidos
+1733,James McArthur,sct SCO,CC,Crystal Palace,eng Premier League,34,1987,0.6,52,49,3,3,1,0,0,0,0,0,0,0,41,0,1,Partidos
+1734,Alex McCarthy,eng ENG,PO,Southampton,eng Premier League,32,1989,6.0,249,178,68,16,0,1,0,0,0,0,0,0,150,3,0,Partidos
+1735,John McGinn,sct SCO,"CC,DL",Aston Villa,eng Premier League,27,1994,29.9,1028,965,56,25,11,10,50,1,25,18,0,0,805,7,20,Partidos
+1736,Scott McKenna,sct SCO,DF,Nott'ham Forest,eng Premier League,25,1996,17.5,727,691,32,11,0,3,2,21,0,0,0,0,569,4,2,Partidos
+1737,Weston McKennie,us USA,CC,Leeds United,eng Premier League,23,1998,16.0,628,589,36,8,4,6,9,26,0,0,0,0,472,3,16,Partidos
+1738,Weston McKennie,us USA,"CC,DF",Juventus,it Serie A,23,1998,11.7,418,389,27,3,1,2,15,24,0,0,0,0,336,2,7,Partidos
+1739,Dwight McNeil,eng ENG,"DL,CC",Everton,eng Premier League,22,1999,27.8,987,838,142,50,3,6,194,31,61,53,4,0,656,7,49,Partidos
+1740,Scott McTominay,sct SCO,CC,Manchester Utd,eng Premier League,25,1996,12.9,432,426,5,3,3,3,4,1,0,0,0,0,355,1,6,Partidos
+1741,Gary Medel,cl CHI,"CC,DF",Bologna,it Serie A,34,1987,16.4,1102,1057,45,42,1,8,4,2,0,0,0,0,986,0,7,Partidos
+1742,Facundo Medina,ar ARG,DF,Lens,fr Ligue 1,23,1999,30.9,2506,2358,144,115,4,20,22,22,0,0,0,0,2260,4,20,Partidos
+1743,Fernando Medrano,es ESP,DF,Celta Vigo,es La Liga,22,2000,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+1744,Ben Mee,eng ENG,DF,Brentford,eng Premier League,32,1989,36.3,1761,1625,130,38,0,10,7,90,0,0,0,0,1348,6,20,Partidos
+1745,Bamo Meïté,ci CIV,DF,Lorient,fr Ligue 1,21,2001,16.7,936,912,24,22,0,1,0,2,0,0,0,0,838,0,7,Partidos
+1746,Soualiho Meïté,fr FRA,CC,Cremonese,it Serie A,28,1994,26.3,1026,993,28,23,3,7,9,2,0,0,0,0,863,5,11,Partidos
+1747,Farid El Melali,dz ALG,"DF,DL",Angers,fr Ligue 1,25,1997,9.0,282,241,38,2,0,2,16,33,3,1,0,0,196,3,13,Partidos
+1748,Gonzalo Melero,es ESP,CC,Almería,es La Liga,28,1994,20.6,755,736,17,9,1,4,2,3,0,0,0,0,652,2,15,Partidos
+1749,Birger Meling,no NOR,DF,Rennes,fr Ligue 1,27,1994,13.4,787,651,133,10,2,2,18,123,0,0,0,0,671,3,16,Partidos
+1750,Memphis,nl NED,DL,Atlético Madrid,es La Liga,28,1994,3.0,90,80,10,1,2,0,5,1,5,3,1,0,68,0,1,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1751,Houboulang Mendes,gw GNB,DF,Almería,es La Liga,24,1998,9.8,335,238,96,4,0,0,31,92,0,0,0,0,239,1,9,Partidos
-1752,Nuno Mendes,pt POR,DF,Paris S-G,fr Ligue 1,20,2002,17.2,932,844,86,12,2,4,30,74,0,0,0,0,793,2,32,Partidos
-1753,Pedro Mendes,pt POR,DF,Montpellier,fr Ligue 1,31,1990,0.1,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-1754,Thiago Mendes,br BRA,"CC,DF",Lyon,fr Ligue 1,30,1992,22.9,1672,1610,57,48,6,15,6,8,0,0,0,0,1445,5,16,Partidos
-1755,Brais Méndez,es ESP,CC,Real Sociedad,es La Liga,25,1997,26.7,1312,1138,169,53,7,15,125,6,103,32,49,0,1010,5,25,Partidos
-1756,Diego Méndez,es ESP,CC,Rayo Vallecano,es La Liga,18,2003,0.0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-1757,Antoine Mendy,fr FRA,DF,Nice,fr Ligue 1,18,2004,5.8,325,279,45,2,0,1,13,43,0,0,0,0,262,1,4,Partidos
-1758,Arial Mendy,sn SEN,DF,Clermont Foot,fr Ligue 1,27,1994,2.5,120,100,20,3,0,0,10,17,0,0,0,0,82,0,4,Partidos
-1759,Batista Mendy,fr FRA,"CC,DF",Angers,fr Ligue 1,22,2000,31.8,1432,1399,29,27,4,13,9,2,0,0,0,0,1234,4,18,Partidos
-1760,Edouard Mendy,sn SEN,PO,Chelsea,eng Premier League,30,1992,9.5,289,220,69,6,0,1,0,0,0,0,0,0,233,0,0,Partidos
-1761,Ferland Mendy,fr FRA,DF,Real Madrid,es La Liga,27,1995,15.0,862,759,101,20,0,3,7,81,0,0,0,0,794,2,8,Partidos
-1762,Nampalys Mendy,sn SEN,CC,Leicester City,eng Premier League,30,1992,8.4,413,399,12,8,1,2,1,1,0,0,0,0,362,2,11,Partidos
-1763,Gideon Mensah,gh GHA,DF,Auxerre,fr Ligue 1,24,1998,25.1,1457,1192,260,25,2,8,67,235,0,0,0,0,1126,5,40,Partidos
-1764,Chris Mepham,wls WAL,DF,Bournemouth,eng Premier League,24,1997,24.4,1041,1001,37,21,0,4,0,16,0,0,0,0,870,3,7,Partidos
-1765,Jorge Meré,es ESP,DF,Cádiz,es La Liga,25,1997,6.7,215,207,8,8,0,1,0,0,0,0,0,0,179,0,1,Partidos
-1766,Alex Meret,it ITA,PO,Napoli,it Serie A,25,1997,34.0,931,688,243,45,0,2,0,0,0,0,0,0,818,0,0,Partidos
-1767,Mikel Merino,es ESP,CC,Real Sociedad,es La Liga,26,1996,27.7,1502,1466,25,21,11,15,25,3,1,0,0,0,1145,11,32,Partidos
-1768,Quentin Merlin,fr FRA,DF,Nantes,fr Ligue 1,20,2002,19.9,1169,941,227,26,1,12,113,159,41,5,27,0,857,1,25,Partidos
-1769,Yıldırım Mert Çetin,tr TUR,DF,Lecce,it Serie A,25,1997,0.2,3,3,0,0,0,0,0,0,0,0,0,0,2,0,1,Partidos
-1770,Roque Mesa,es ESP,CC,Valladolid,es La Liga,33,1989,18.0,963,900,55,52,4,21,12,0,1,0,0,0,790,8,14,Partidos
-1771,Illan Meslier,fr FRA,PO,Leeds United,eng Premier League,22,2000,34.0,1039,705,331,89,0,1,0,0,0,0,0,0,664,3,2,Partidos
-1772,Lionel Messi,ar ARG,"DL,CC",Paris S-G,fr Ligue 1,35,1987,31.5,2050,1867,157,38,58,11,91,2,96,33,37,0,1641,26,63,Partidos
-1773,Junior Messias,br BRA,"DL,DF",Milan,it Serie A,31,1991,16.6,563,532,30,4,4,2,25,24,2,0,1,0,430,1,12,Partidos
-1774,Amine Messoussa,fr FRA,DL,Lille,fr Ligue 1,17,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
-1775,Thomas Meunier,be BEL,DF,Dortmund,de Bundesliga,30,1991,6.5,435,368,67,5,1,3,16,62,0,0,0,0,322,0,14,Partidos
+1751,Memphis,nl NED,DL,Barcelona,es La Liga,28,1994,1.3,66,60,6,1,1,0,4,0,4,0,2,0,53,0,1,Partidos
+1752,Houboulang Mendes,gw GNB,DF,Almería,es La Liga,24,1998,9.8,335,238,96,4,0,0,31,92,0,0,0,0,239,1,9,Partidos
+1753,Nuno Mendes,pt POR,DF,Paris S-G,fr Ligue 1,20,2002,17.2,932,844,86,12,2,4,30,74,0,0,0,0,793,2,32,Partidos
+1754,Pedro Mendes,pt POR,DF,Montpellier,fr Ligue 1,31,1990,0.1,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
+1755,Thiago Mendes,br BRA,"CC,DF",Lyon,fr Ligue 1,30,1992,22.9,1672,1610,57,48,6,15,6,8,0,0,0,0,1445,5,16,Partidos
+1756,Brais Méndez,es ESP,CC,Real Sociedad,es La Liga,25,1997,26.7,1312,1138,169,53,7,15,125,6,103,32,49,0,1010,5,25,Partidos
+1757,Diego Méndez,es ESP,CC,Rayo Vallecano,es La Liga,18,2003,0.0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
+1758,Antoine Mendy,fr FRA,DF,Nice,fr Ligue 1,18,2004,5.8,325,279,45,2,0,1,13,43,0,0,0,0,262,1,4,Partidos
+1759,Arial Mendy,sn SEN,DF,Clermont Foot,fr Ligue 1,27,1994,2.5,120,100,20,3,0,0,10,17,0,0,0,0,82,0,4,Partidos
+1760,Batista Mendy,fr FRA,"CC,DF",Angers,fr Ligue 1,22,2000,31.8,1432,1399,29,27,4,13,9,2,0,0,0,0,1234,4,18,Partidos
+1761,Edouard Mendy,sn SEN,PO,Chelsea,eng Premier League,30,1992,9.5,289,220,69,6,0,1,0,0,0,0,0,0,233,0,0,Partidos
+1762,Ferland Mendy,fr FRA,DF,Real Madrid,es La Liga,27,1995,15.0,862,759,101,20,0,3,7,81,0,0,0,0,794,2,8,Partidos
+1763,Nampalys Mendy,sn SEN,CC,Leicester City,eng Premier League,30,1992,8.4,413,399,12,8,1,2,1,1,0,0,0,0,362,2,11,Partidos
+1764,Gideon Mensah,gh GHA,DF,Auxerre,fr Ligue 1,24,1998,25.1,1457,1192,260,25,2,8,67,235,0,0,0,0,1126,5,40,Partidos
+1765,Chris Mepham,wls WAL,DF,Bournemouth,eng Premier League,24,1997,24.4,1041,1001,37,21,0,4,0,16,0,0,0,0,870,3,7,Partidos
+1766,Jorge Meré,es ESP,DF,Cádiz,es La Liga,25,1997,6.7,215,207,8,8,0,1,0,0,0,0,0,0,179,0,1,Partidos
+1767,Alex Meret,it ITA,PO,Napoli,it Serie A,25,1997,34.0,931,688,243,45,0,2,0,0,0,0,0,0,818,0,0,Partidos
+1768,Mikel Merino,es ESP,CC,Real Sociedad,es La Liga,26,1996,27.7,1502,1466,25,21,11,15,25,3,1,0,0,0,1145,11,32,Partidos
+1769,Quentin Merlin,fr FRA,DF,Nantes,fr Ligue 1,20,2002,19.9,1169,941,227,26,1,12,113,159,41,5,27,0,857,1,25,Partidos
+1770,Yıldırım Mert Çetin,tr TUR,DF,Lecce,it Serie A,25,1997,0.2,3,3,0,0,0,0,0,0,0,0,0,0,2,0,1,Partidos
+1771,Roque Mesa,es ESP,CC,Valladolid,es La Liga,33,1989,18.0,963,900,55,52,4,21,12,0,1,0,0,0,790,8,14,Partidos
+1772,Illan Meslier,fr FRA,PO,Leeds United,eng Premier League,22,2000,34.0,1039,705,331,89,0,1,0,0,0,0,0,0,664,3,2,Partidos
+1773,Lionel Messi,ar ARG,"DL,CC",Paris S-G,fr Ligue 1,35,1987,31.5,2050,1867,157,38,58,11,91,2,96,33,37,0,1641,26,63,Partidos
+1774,Junior Messias,br BRA,"DL,DF",Milan,it Serie A,31,1991,16.6,563,532,30,4,4,2,25,24,2,0,1,0,430,1,12,Partidos
+1775,Amine Messoussa,fr FRA,DL,Lille,fr Ligue 1,17,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1776,Alexander Meyer,de GER,PO,Dortmund,de Bundesliga,31,1991,7.0,323,261,61,17,0,1,0,0,0,0,0,0,280,1,2,Partidos
-1777,Sven Michel,de GER,"DL,CC",Union Berlin,de Bundesliga,32,1990,5.5,181,176,3,0,2,0,17,1,1,0,0,0,100,2,11,Partidos
-1778,Alex Mighten,eng ENG,DL,Nott'ham Forest,eng Premier League,20,2002,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-1779,Tommaso Milanese,it ITA,CC,Cremonese,it Serie A,20,2002,0.3,14,11,3,1,0,0,2,0,1,0,1,0,10,0,0,Partidos
-1780,Nikola Milenković,rs SRB,DF,Fiorentina,it Serie A,24,1997,23.7,1292,1245,43,38,0,10,0,5,0,0,0,0,1107,4,9,Partidos
-1781,Lewis Miley,eng ENG,CC,Newcastle Utd,eng Premier League,16,2006,0.2,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
-1782,Arkadiusz Milik,pl POL,DL,Juventus,it Serie A,28,1994,17.6,450,420,26,4,2,3,6,1,0,0,0,0,346,4,9,Partidos
-1783,Arkadiusz Milik,pl POL,DL,Marseille,fr Ligue 1,28,1994,1.4,37,34,3,0,0,0,0,0,0,0,0,0,28,0,1,Partidos
-1784,Sergej Milinković-Savić,rs SRB,CC,Lazio,it Serie A,27,1995,33.6,1930,1882,41,25,15,22,29,16,0,0,0,0,1465,7,41,Partidos
-1785,Vanja Milinković-Savić,rs SRB,PO,Torino,it Serie A,25,1997,38.0,1806,1412,380,93,0,8,0,1,0,0,0,0,1113,14,1,Partidos
-1786,Éder Militão,br BRA,DF,Real Madrid,es La Liga,24,1998,30.0,1881,1756,123,52,2,40,12,25,0,0,0,0,1660,2,20,Partidos
-1787,Luka Milivojević,rs SRB,CC,Crystal Palace,eng Premier League,31,1991,5.7,260,248,11,8,0,2,6,1,2,2,0,0,207,1,0,Partidos
-1788,Luis Milla,es ESP,CC,Getafe,es La Liga,27,1994,20.6,974,855,113,65,1,18,75,0,43,17,24,0,756,6,17,Partidos
-1789,Pere Milla,es ESP,"DL,CC",Elche,es La Liga,29,1992,20.5,585,555,28,4,2,5,14,6,1,0,0,0,410,2,26,Partidos
-1790,Enzo Millot,fr FRA,CC,Stuttgart,de Bundesliga,20,2002,9.9,396,372,22,5,2,1,23,6,6,3,3,0,311,2,10,Partidos
-1791,James Milner,eng ENG,"CC,DF",Liverpool,eng Premier League,36,1986,10.1,727,625,99,20,2,4,52,65,12,2,9,0,563,3,24,Partidos
-1792,Marko Milovanović,rs SRB,DL,Almería,es La Liga,18,2003,0.2,9,8,1,0,0,0,0,0,0,0,0,0,4,0,1,Partidos
-1793,Kim Min-jae,kr KOR,DF,Napoli,it Serie A,25,1996,33.9,2812,2755,53,49,2,30,6,3,0,0,0,0,2552,4,15,Partidos
-1794,Yerry Mina,co COL,DF,Everton,eng Premier League,27,1994,6.6,325,309,15,13,0,1,1,2,0,0,0,0,286,1,1,Partidos
-1795,Takumi Minamino,jp JPN,"CC,DL",Monaco,fr Ligue 1,27,1995,8.0,259,234,23,7,0,2,31,3,11,9,2,0,168,2,9,Partidos
-1796,Tyrone Mings,eng ENG,DF,Aston Villa,eng Premier League,29,1993,35.0,1899,1811,85,64,1,15,3,6,0,0,0,0,1617,3,10,Partidos
-1797,Óscar Mingueza,es ESP,DF,Celta Vigo,es La Liga,23,1999,14.3,908,751,154,26,3,3,29,128,0,0,0,0,721,3,15,Partidos
-1798,Rafa Mir,es ESP,DL,Sevilla,es La Liga,25,1997,14.4,262,234,26,0,1,0,6,0,0,0,0,0,176,2,9,Partidos
-1799,Aleksei Miranchuk,ru RUS,CC,Torino,it Serie A,26,1995,23.2,821,786,32,5,9,5,30,8,19,13,0,0,653,3,16,Partidos
-1800,Juan Miranda,es ESP,DF,Betis,es La Liga,22,2000,16.4,830,658,171,26,2,3,73,130,15,2,8,0,588,1,29,Partidos
+1776,Thomas Meunier,be BEL,DF,Dortmund,de Bundesliga,30,1991,6.5,435,368,67,5,1,3,16,62,0,0,0,0,322,0,14,Partidos
+1777,Alexander Meyer,de GER,PO,Dortmund,de Bundesliga,31,1991,7.0,323,261,61,17,0,1,0,0,0,0,0,0,280,1,2,Partidos
+1778,Sven Michel,de GER,"DL,CC",Union Berlin,de Bundesliga,32,1990,5.5,181,176,3,0,2,0,17,1,1,0,0,0,100,2,11,Partidos
+1779,Alex Mighten,eng ENG,DL,Nott'ham Forest,eng Premier League,20,2002,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
+1780,Tommaso Milanese,it ITA,CC,Cremonese,it Serie A,20,2002,0.3,14,11,3,1,0,0,2,0,1,0,1,0,10,0,0,Partidos
+1781,Nikola Milenković,rs SRB,DF,Fiorentina,it Serie A,24,1997,23.7,1292,1245,43,38,0,10,0,5,0,0,0,0,1107,4,9,Partidos
+1782,Lewis Miley,eng ENG,CC,Newcastle Utd,eng Premier League,16,2006,0.2,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
+1783,Arkadiusz Milik,pl POL,DL,Juventus,it Serie A,28,1994,17.6,450,420,26,4,2,3,6,1,0,0,0,0,346,4,9,Partidos
+1784,Arkadiusz Milik,pl POL,DL,Marseille,fr Ligue 1,28,1994,1.4,37,34,3,0,0,0,0,0,0,0,0,0,28,0,1,Partidos
+1785,Sergej Milinković-Savić,rs SRB,CC,Lazio,it Serie A,27,1995,33.6,1930,1882,41,25,15,22,29,16,0,0,0,0,1465,7,41,Partidos
+1786,Vanja Milinković-Savić,rs SRB,PO,Torino,it Serie A,25,1997,38.0,1806,1412,380,93,0,8,0,1,0,0,0,0,1113,14,1,Partidos
+1787,Éder Militão,br BRA,DF,Real Madrid,es La Liga,24,1998,30.0,1881,1756,123,52,2,40,12,25,0,0,0,0,1660,2,20,Partidos
+1788,Luka Milivojević,rs SRB,CC,Crystal Palace,eng Premier League,31,1991,5.7,260,248,11,8,0,2,6,1,2,2,0,0,207,1,0,Partidos
+1789,Luis Milla,es ESP,CC,Getafe,es La Liga,27,1994,20.6,974,855,113,65,1,18,75,0,43,17,24,0,756,6,17,Partidos
+1790,Pere Milla,es ESP,"DL,CC",Elche,es La Liga,29,1992,20.5,585,555,28,4,2,5,14,6,1,0,0,0,410,2,26,Partidos
+1791,Enzo Millot,fr FRA,CC,Stuttgart,de Bundesliga,20,2002,9.9,396,372,22,5,2,1,23,6,6,3,3,0,311,2,10,Partidos
+1792,James Milner,eng ENG,"CC,DF",Liverpool,eng Premier League,36,1986,10.1,727,625,99,20,2,4,52,65,12,2,9,0,563,3,24,Partidos
+1793,Marko Milovanović,rs SRB,DL,Almería,es La Liga,18,2003,0.2,9,8,1,0,0,0,0,0,0,0,0,0,4,0,1,Partidos
+1794,Kim Min-jae,kr KOR,DF,Napoli,it Serie A,25,1996,33.9,2812,2755,53,49,2,30,6,3,0,0,0,0,2552,4,15,Partidos
+1795,Yerry Mina,co COL,DF,Everton,eng Premier League,27,1994,6.6,325,309,15,13,0,1,1,2,0,0,0,0,286,1,1,Partidos
+1796,Takumi Minamino,jp JPN,"CC,DL",Monaco,fr Ligue 1,27,1995,8.0,259,234,23,7,0,2,31,3,11,9,2,0,168,2,9,Partidos
+1797,Tyrone Mings,eng ENG,DF,Aston Villa,eng Premier League,29,1993,35.0,1899,1811,85,64,1,15,3,6,0,0,0,0,1617,3,10,Partidos
+1798,Óscar Mingueza,es ESP,DF,Celta Vigo,es La Liga,23,1999,14.3,908,751,154,26,3,3,29,128,0,0,0,0,721,3,15,Partidos
+1799,Rafa Mir,es ESP,DL,Sevilla,es La Liga,25,1997,14.4,262,234,26,0,1,0,6,0,0,0,0,0,176,2,9,Partidos
+1800,Aleksei Miranchuk,ru RUS,CC,Torino,it Serie A,26,1995,23.2,821,786,32,5,9,5,30,8,19,13,0,0,653,3,16,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1801,Antonio Mirante,it ITA,PO,Milan,it Serie A,39,1983,0.0,4,3,1,0,0,0,0,0,0,0,0,0,4,0,0,Partidos
-1802,Fabio Miretti,it ITA,"CC,DL",Juventus,it Serie A,18,2003,13.7,511,482,27,6,2,5,28,5,13,5,7,0,364,2,19,Partidos
-1803,Filippo Missori,it ITA,DF,Roma,it Serie A,18,2004,2.0,61,38,22,0,0,0,2,22,0,0,0,0,41,1,1,Partidos
-1804,Tyrick Mitchell,eng ENG,DF,Crystal Palace,eng Premier League,22,1999,32.1,1607,1234,370,34,0,2,70,336,0,0,0,0,1152,3,66,Partidos
-1805,Kaoru Mitoma,jp JPN,"DL,CC",Brighton,eng Premier League,25,1997,25.8,977,952,19,0,4,3,41,16,3,0,0,0,780,6,33,Partidos
-1806,Aleksandar Mitrović,rs SRB,DL,Fulham,eng Premier League,27,1994,22.3,496,486,10,1,4,9,4,3,0,0,0,0,299,0,24,Partidos
-1807,Stefan Mitrović,rs SRB,DF,Getafe,es La Liga,32,1990,18.7,512,484,26,26,0,5,0,0,0,0,0,0,403,2,2,Partidos
-1808,Maximilian Mittelstädt,de GER,"DF,CC",Hertha BSC,de Bundesliga,25,1997,9.4,472,347,123,5,1,5,39,105,13,4,8,0,326,2,11,Partidos
-1809,Henrikh Mkhitaryan,am ARM,CC,Inter,it Serie A,33,1989,22.1,1058,1037,18,7,4,6,19,9,2,1,1,0,924,3,13,Partidos
-1810,Anthony Modeste,fr FRA,DL,Dortmund,de Bundesliga,34,1988,9.0,127,117,6,0,0,0,2,0,0,0,0,0,73,4,1,Partidos
-1811,Luka Modrić,hr CRO,CC,Real Madrid,es La Liga,36,1985,19.4,1521,1415,104,41,7,22,62,10,44,22,12,0,1336,2,23,Partidos
-1812,Terem Moffi,ng NGA,DL,Nice,fr Ligue 1,23,1999,14.8,232,198,32,1,2,1,1,0,0,0,0,0,186,2,6,Partidos
-1813,Terem Moffi,ng NGA,DL,Lorient,fr Ligue 1,23,1999,15.4,208,204,2,0,2,1,3,0,0,0,0,0,154,2,6,Partidos
-1814,Mostafa Mohamed,eg EGY,DL,Nantes,fr Ligue 1,24,1997,21.5,351,328,23,0,1,1,10,1,0,0,0,0,215,0,20,Partidos
-1815,Tobias Mohr,de GER,"DF,CC",Schalke 04,de Bundesliga,26,1995,9.3,506,372,133,30,1,10,87,78,24,9,14,0,308,1,18,Partidos
-1816,Johan Mojica,co COL,DF,Villarreal,es La Liga,29,1992,7.1,395,329,63,8,0,0,40,51,4,1,2,0,318,3,16,Partidos
-1817,Johan Mojica,co COL,"DF,CC",Elche,es La Liga,29,1992,3.0,178,143,33,3,0,0,14,30,0,0,0,0,127,2,4,Partidos
-1818,Clinton Mola,eng ENG,DF,Stuttgart,de Bundesliga,21,2001,0.2,6,2,4,1,0,0,1,3,0,0,0,0,3,0,0,Partidos
-1819,Nahuel Molina,ar ARG,DF,Atlético Madrid,es La Liga,24,1998,31.9,1930,1605,323,16,7,6,120,300,7,4,3,0,1452,2,61,Partidos
-1820,Salvatore Molina,it ITA,DF,Monza,it Serie A,30,1992,2.5,114,96,17,2,0,0,14,15,0,0,0,0,86,1,3,Partidos
-1821,Florent Mollet,fr FRA,CC,Nantes,fr Ligue 1,30,1991,12.1,565,473,88,19,0,2,76,4,50,24,22,0,444,4,13,Partidos
-1822,Florent Mollet,fr FRA,CC,Schalke 04,de Bundesliga,30,1991,4.6,152,138,14,4,0,0,9,2,4,2,2,0,113,0,7,Partidos
-1823,Jon Moncayola,es ESP,"CC,DF",Osasuna,es La Liga,24,1998,27.2,1461,1313,143,54,2,33,78,64,24,9,10,1,1136,5,24,Partidos
-1824,Monchu,es ESP,CC,Valladolid,es La Liga,22,1999,22.6,1054,918,128,80,5,23,76,1,46,9,28,1,833,8,10,Partidos
-1825,César Montes,mx MEX,DF,Espanyol,es La Liga,25,1997,17.7,799,733,63,39,1,12,1,7,0,0,0,0,624,3,12,Partidos
+1801,Juan Miranda,es ESP,DF,Betis,es La Liga,22,2000,16.4,830,658,171,26,2,3,73,130,15,2,8,0,588,1,29,Partidos
+1802,Antonio Mirante,it ITA,PO,Milan,it Serie A,39,1983,0.0,4,3,1,0,0,0,0,0,0,0,0,0,4,0,0,Partidos
+1803,Fabio Miretti,it ITA,"CC,DL",Juventus,it Serie A,18,2003,13.7,511,482,27,6,2,5,28,5,13,5,7,0,364,2,19,Partidos
+1804,Filippo Missori,it ITA,DF,Roma,it Serie A,18,2004,2.0,61,38,22,0,0,0,2,22,0,0,0,0,41,1,1,Partidos
+1805,Tyrick Mitchell,eng ENG,DF,Crystal Palace,eng Premier League,22,1999,32.1,1607,1234,370,34,0,2,70,336,0,0,0,0,1152,3,66,Partidos
+1806,Kaoru Mitoma,jp JPN,"DL,CC",Brighton,eng Premier League,25,1997,25.8,977,952,19,0,4,3,41,16,3,0,0,0,780,6,33,Partidos
+1807,Aleksandar Mitrović,rs SRB,DL,Fulham,eng Premier League,27,1994,22.3,496,486,10,1,4,9,4,3,0,0,0,0,299,0,24,Partidos
+1808,Stefan Mitrović,rs SRB,DF,Getafe,es La Liga,32,1990,18.7,512,484,26,26,0,5,0,0,0,0,0,0,403,2,2,Partidos
+1809,Maximilian Mittelstädt,de GER,"DF,CC",Hertha BSC,de Bundesliga,25,1997,9.4,472,347,123,5,1,5,39,105,13,4,8,0,326,2,11,Partidos
+1810,Henrikh Mkhitaryan,am ARM,CC,Inter,it Serie A,33,1989,22.1,1058,1037,18,7,4,6,19,9,2,1,1,0,924,3,13,Partidos
+1811,Anthony Modeste,fr FRA,DL,Dortmund,de Bundesliga,34,1988,9.0,127,117,6,0,0,0,2,0,0,0,0,0,73,4,1,Partidos
+1812,Luka Modrić,hr CRO,CC,Real Madrid,es La Liga,36,1985,19.4,1521,1415,104,41,7,22,62,10,44,22,12,0,1336,2,23,Partidos
+1813,Terem Moffi,ng NGA,DL,Nice,fr Ligue 1,23,1999,14.8,232,198,32,1,2,1,1,0,0,0,0,0,186,2,6,Partidos
+1814,Terem Moffi,ng NGA,DL,Lorient,fr Ligue 1,23,1999,15.4,208,204,2,0,2,1,3,0,0,0,0,0,154,2,6,Partidos
+1815,Mostafa Mohamed,eg EGY,DL,Nantes,fr Ligue 1,24,1997,21.5,351,328,23,0,1,1,10,1,0,0,0,0,215,0,20,Partidos
+1816,Tobias Mohr,de GER,"DF,CC",Schalke 04,de Bundesliga,26,1995,9.3,506,372,133,30,1,10,87,78,24,9,14,0,308,1,18,Partidos
+1817,Johan Mojica,co COL,DF,Villarreal,es La Liga,29,1992,7.1,395,329,63,8,0,0,40,51,4,1,2,0,318,3,16,Partidos
+1818,Johan Mojica,co COL,"DF,CC",Elche,es La Liga,29,1992,3.0,178,143,33,3,0,0,14,30,0,0,0,0,127,2,4,Partidos
+1819,Clinton Mola,eng ENG,DF,Stuttgart,de Bundesliga,21,2001,0.2,6,2,4,1,0,0,1,3,0,0,0,0,3,0,0,Partidos
+1820,Nahuel Molina,ar ARG,DF,Atlético Madrid,es La Liga,24,1998,31.9,1930,1605,323,16,7,6,120,300,7,4,3,0,1452,2,61,Partidos
+1821,Salvatore Molina,it ITA,DF,Monza,it Serie A,30,1992,2.5,114,96,17,2,0,0,14,15,0,0,0,0,86,1,3,Partidos
+1822,Florent Mollet,fr FRA,CC,Nantes,fr Ligue 1,30,1991,12.1,565,473,88,19,0,2,76,4,50,24,22,0,444,4,13,Partidos
+1823,Florent Mollet,fr FRA,CC,Schalke 04,de Bundesliga,30,1991,4.6,152,138,14,4,0,0,9,2,4,2,2,0,113,0,7,Partidos
+1824,Jon Moncayola,es ESP,"CC,DF",Osasuna,es La Liga,24,1998,27.2,1461,1313,143,54,2,33,78,64,24,9,10,1,1136,5,24,Partidos
+1825,Monchu,es ESP,CC,Valladolid,es La Liga,22,1999,22.6,1054,918,128,80,5,23,76,1,46,9,28,1,833,8,10,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1826,Daniele Montevago,it ITA,DL,Sampdoria,it Serie A,19,2003,2.6,40,37,1,0,0,0,1,0,0,0,0,0,23,2,0,Partidos
-1827,Gonzalo Montiel,ar ARG,DF,Sevilla,es La Liga,25,1997,16.9,851,707,138,7,3,3,39,128,3,0,2,0,661,6,21,Partidos
-1828,Lorenzo Montipò,it ITA,PO,Hellas Verona,it Serie A,26,1996,37.0,1192,786,403,119,0,2,0,0,0,0,0,0,745,3,0,Partidos
-1829,Martín Montoya,es ESP,DF,Betis,es La Liga,31,1991,5.0,244,199,45,6,0,2,10,39,0,0,0,0,190,0,5,Partidos
-1830,Kieffer Moore,wls WAL,DL,Bournemouth,eng Premier League,29,1992,14.2,360,337,23,1,0,1,7,0,0,0,0,0,212,0,12,Partidos
-1831,Andrew Moran,ie IRL,DL,Brighton,eng Premier League,18,2003,0.1,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-1832,Álvaro Morata,es ESP,DL,Atlético Madrid,es La Liga,29,1992,21.1,422,405,15,0,3,6,4,2,0,0,0,0,270,2,7,Partidos
-1833,Jon Morcillo,es ESP,"DL,CC",Athletic Club,es La Liga,23,1998,0.8,44,43,0,0,0,0,6,0,0,0,0,0,32,1,0,Partidos
-1834,Alberto Moreno,es ESP,DF,Villarreal,es La Liga,30,1992,14.4,730,617,107,15,1,4,36,85,7,3,3,0,605,6,13,Partidos
-1835,Álex Moreno,es ESP,DF,Aston Villa,eng Premier League,29,1993,14.8,745,609,134,18,1,0,48,116,0,0,0,0,581,2,32,Partidos
-1836,Álex Moreno,es ESP,DF,Betis,es La Liga,29,1993,15.0,695,541,153,13,0,5,28,140,0,0,0,0,525,1,25,Partidos
-1837,Diego Moreno,es ESP,DF,Osasuna,es La Liga,21,2001,7.1,324,246,78,3,0,1,20,75,0,0,0,0,216,0,14,Partidos
-1838,Gerard Moreno,es ESP,DL,Villarreal,es La Liga,30,1992,13.7,483,458,18,0,5,6,8,3,0,0,0,0,353,7,18,Partidos
-1839,Marlos Moreno,co COL,"CC,DF",Troyes,fr Ligue 1,25,1996,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-1840,Tete Morente,es ESP,"CC,DF",Elche,es La Liga,25,1996,23.0,785,717,67,8,0,2,99,54,5,2,1,0,571,1,45,Partidos
-1841,Ilaix Moriba,gn GUI,CC,Valencia,es La Liga,19,2003,11.2,501,491,8,4,4,3,4,3,0,0,0,0,403,2,10,Partidos
-1842,Manu Morlanes,es ESP,CC,Villarreal,es La Liga,23,1999,1.8,46,42,3,3,0,0,0,0,0,0,0,0,36,1,2,Partidos
-1843,Manu Morlanes,es ESP,CC,Mallorca,es La Liga,23,1999,7.8,226,222,3,2,2,3,2,0,0,0,0,0,190,1,5,Partidos
-1844,Nikola Moro,hr CRO,CC,Bologna,it Serie A,24,1998,13.6,806,783,19,12,4,10,18,7,0,0,0,0,643,4,18,Partidos
-1845,Loren Morón,es ESP,DL,Betis,es La Liga,28,1993,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-1846,Cristhian Mosquera,co COL,DF,Valencia,es La Liga,18,2004,1.6,65,46,19,0,0,0,1,18,0,0,0,0,53,0,0,Partidos
-1847,Dany Mota,pt POR,"DL,CC",Monza,it Serie A,24,1998,21.2,610,575,33,2,1,3,45,5,0,0,0,0,425,2,34,Partidos
-1848,Lebo Mothiba,za RSA,"DL,CC",Strasbourg,fr Ligue 1,26,1996,4.8,98,87,11,0,0,0,4,1,0,0,0,0,75,0,0,Partidos
-1849,Youssoufa Moukoko,de GER,DL,Dortmund,de Bundesliga,17,2004,12.7,202,176,25,0,1,1,5,1,0,0,0,0,142,1,11,Partidos
-1850,Steve Mounié,bj BEN,DL,Brest,fr Ligue 1,27,1994,18.4,458,454,2,0,0,1,9,2,0,0,0,0,253,2,14,Partidos
+1826,César Montes,mx MEX,DF,Espanyol,es La Liga,25,1997,17.7,799,733,63,39,1,12,1,7,0,0,0,0,624,3,12,Partidos
+1827,Daniele Montevago,it ITA,DL,Sampdoria,it Serie A,19,2003,2.6,40,37,1,0,0,0,1,0,0,0,0,0,23,2,0,Partidos
+1828,Gonzalo Montiel,ar ARG,DF,Sevilla,es La Liga,25,1997,16.9,851,707,138,7,3,3,39,128,3,0,2,0,661,6,21,Partidos
+1829,Lorenzo Montipò,it ITA,PO,Hellas Verona,it Serie A,26,1996,37.0,1192,786,403,119,0,2,0,0,0,0,0,0,745,3,0,Partidos
+1830,Martín Montoya,es ESP,DF,Betis,es La Liga,31,1991,5.0,244,199,45,6,0,2,10,39,0,0,0,0,190,0,5,Partidos
+1831,Kieffer Moore,wls WAL,DL,Bournemouth,eng Premier League,29,1992,14.2,360,337,23,1,0,1,7,0,0,0,0,0,212,0,12,Partidos
+1832,Andrew Moran,ie IRL,DL,Brighton,eng Premier League,18,2003,0.1,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
+1833,Álvaro Morata,es ESP,DL,Atlético Madrid,es La Liga,29,1992,21.1,422,405,15,0,3,6,4,2,0,0,0,0,270,2,7,Partidos
+1834,Jon Morcillo,es ESP,"DL,CC",Athletic Club,es La Liga,23,1998,0.8,44,43,0,0,0,0,6,0,0,0,0,0,32,1,0,Partidos
+1835,Alberto Moreno,es ESP,DF,Villarreal,es La Liga,30,1992,14.4,730,617,107,15,1,4,36,85,7,3,3,0,605,6,13,Partidos
+1836,Álex Moreno,es ESP,DF,Aston Villa,eng Premier League,29,1993,14.8,745,609,134,18,1,0,48,116,0,0,0,0,581,2,32,Partidos
+1837,Álex Moreno,es ESP,DF,Betis,es La Liga,29,1993,15.0,695,541,153,13,0,5,28,140,0,0,0,0,525,1,25,Partidos
+1838,Diego Moreno,es ESP,DF,Osasuna,es La Liga,21,2001,7.1,324,246,78,3,0,1,20,75,0,0,0,0,216,0,14,Partidos
+1839,Gerard Moreno,es ESP,DL,Villarreal,es La Liga,30,1992,13.7,483,458,18,0,5,6,8,3,0,0,0,0,353,7,18,Partidos
+1840,Marlos Moreno,co COL,"CC,DF",Troyes,fr Ligue 1,25,1996,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+1841,Tete Morente,es ESP,"CC,DF",Elche,es La Liga,25,1996,23.0,785,717,67,8,0,2,99,54,5,2,1,0,571,1,45,Partidos
+1842,Ilaix Moriba,gn GUI,CC,Valencia,es La Liga,19,2003,11.2,501,491,8,4,4,3,4,3,0,0,0,0,403,2,10,Partidos
+1843,Manu Morlanes,es ESP,CC,Villarreal,es La Liga,23,1999,1.8,46,42,3,3,0,0,0,0,0,0,0,0,36,1,2,Partidos
+1844,Manu Morlanes,es ESP,CC,Mallorca,es La Liga,23,1999,7.8,226,222,3,2,2,3,2,0,0,0,0,0,190,1,5,Partidos
+1845,Nikola Moro,hr CRO,CC,Bologna,it Serie A,24,1998,13.6,806,783,19,12,4,10,18,7,0,0,0,0,643,4,18,Partidos
+1846,Loren Morón,es ESP,DL,Betis,es La Liga,28,1993,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+1847,Cristhian Mosquera,co COL,DF,Valencia,es La Liga,18,2004,1.6,65,46,19,0,0,0,1,18,0,0,0,0,53,0,0,Partidos
+1848,Dany Mota,pt POR,"DL,CC",Monza,it Serie A,24,1998,21.2,610,575,33,2,1,3,45,5,0,0,0,0,425,2,34,Partidos
+1849,Lebo Mothiba,za RSA,"DL,CC",Strasbourg,fr Ligue 1,26,1996,4.8,98,87,11,0,0,0,4,1,0,0,0,0,75,0,0,Partidos
+1850,Youssoufa Moukoko,de GER,DL,Dortmund,de Bundesliga,17,2004,12.7,202,176,25,0,1,1,5,1,0,0,0,0,142,1,11,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1851,Mason Mount,eng ENG,"CC,DL",Chelsea,eng Premier League,23,1999,18.3,778,706,68,17,6,8,64,5,34,11,19,1,585,4,23,Partidos
-1852,Lucas Moura,br BRA,"CC,DF",Tottenham,eng Premier League,29,1992,1.7,89,83,6,0,1,0,9,5,1,0,0,0,62,0,6,Partidos
-1853,Bevic Moussiti-Oko,cg CGO,DL,Ajaccio,fr Ligue 1,27,1995,7.8,163,150,11,0,0,0,4,0,0,0,0,0,90,2,7,Partidos
-1854,João Moutinho,pt POR,CC,Wolves,eng Premier League,35,1986,19.8,1057,936,116,55,7,6,59,3,34,10,15,0,850,5,20,Partidos
-1855,João Moutinho,pt POR,"DF,DL",Spezia,it Serie A,24,1998,0.6,42,34,8,0,0,0,3,8,0,0,0,0,30,0,2,Partidos
-1856,Samuel Moutoussamy,cd COD,CC,Nantes,fr Ligue 1,25,1996,26.7,1226,1206,17,14,2,10,9,3,0,0,0,0,1053,3,24,Partidos
-1857,Divin Mubama,eng ENG,DL,West Ham,eng Premier League,17,2004,0.4,8,7,1,1,0,0,0,0,0,0,0,0,5,0,0,Partidos
-1858,Mykhailo Mudryk,ua UKR,"DL,CC",Chelsea,eng Premier League,21,2001,7.3,216,193,22,3,1,1,25,6,11,8,1,0,161,1,1,Partidos
-1859,François Mughe,cm CMR,CC,Marseille,fr Ligue 1,18,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
-1860,Nordi Mukiele,fr FRA,DF,Paris S-G,fr Ligue 1,24,1997,12.6,674,609,63,9,0,2,16,54,0,0,0,0,585,2,11,Partidos
-1861,Mert Müldür,tr TUR,"DL,DF",Sassuolo,it Serie A,23,1999,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-1862,Florian Müller,de GER,PO,Stuttgart,de Bundesliga,24,1997,19.0,733,575,157,23,0,1,0,1,0,0,0,0,597,1,1,Partidos
-1863,Thomas Müller,de GER,"DL,CC",Bayern Munich,de Bundesliga,32,1989,18.5,831,794,29,3,9,4,31,16,3,0,0,0,621,8,20,Partidos
-1864,Abdul Mumin,gh GHA,DF,Rayo Vallecano,es La Liga,24,1998,10.2,390,370,19,15,0,4,3,4,0,0,0,0,299,1,3,Partidos
-1865,Marshall Munetsi,zw ZIM,CC,Reims,fr Ligue 1,26,1996,30.0,886,878,6,6,4,5,23,0,0,0,0,0,651,2,27,Partidos
-1866,Iker Muniain,es ESP,"CC,DL",Athletic Club,es La Liga,29,1992,18.8,1110,944,160,58,6,3,113,9,82,13,54,0,890,6,13,Partidos
-1867,Aihen Muñoz,es ESP,DF,Real Sociedad,es La Liga,24,1997,19.5,1027,824,196,16,0,3,54,180,0,0,0,0,781,7,29,Partidos
-1868,Álvaro Muñoz,uy URU,DL,Real Madrid,es La Liga,18,2004,0.9,12,12,0,0,0,0,0,0,0,0,0,0,9,0,0,Partidos
-1869,Iker Muñoz,es ESP,CC,Osasuna,es La Liga,19,2002,2.8,111,107,3,2,0,1,0,1,0,0,0,0,90,1,0,Partidos
-1870,Pablo Muñoz,es ESP,CC,Rayo Vallecano,es La Liga,18,2003,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
-1871,Luis Muriel,co COL,"DL,CC",Atalanta,it Serie A,31,1991,11.9,539,454,83,9,8,14,82,12,47,25,17,0,354,2,17,Partidos
-1872,Jeison Murillo,co COL,DF,Sampdoria,it Serie A,30,1992,11.7,557,501,53,29,1,7,1,24,0,0,0,0,456,3,7,Partidos
-1873,Vedat Muriqi,xk KVX,DL,Mallorca,es La Liga,28,1994,32.6,827,818,9,0,3,4,11,0,0,0,0,0,472,0,31,Partidos
-1874,Jacob Murphy,eng ENG,DL,Newcastle Utd,eng Premier League,27,1995,13.9,448,428,18,0,6,2,53,10,7,1,0,0,296,2,31,Partidos
-1875,Nicola Murru,it ITA,DF,Sampdoria,it Serie A,27,1994,8.7,331,296,34,4,0,0,9,30,0,0,0,0,254,1,4,Partidos
+1851,Steve Mounié,bj BEN,DL,Brest,fr Ligue 1,27,1994,18.4,458,454,2,0,0,1,9,2,0,0,0,0,253,2,14,Partidos
+1852,Mason Mount,eng ENG,"CC,DL",Chelsea,eng Premier League,23,1999,18.3,778,706,68,17,6,8,64,5,34,11,19,1,585,4,23,Partidos
+1853,Lucas Moura,br BRA,"CC,DF",Tottenham,eng Premier League,29,1992,1.7,89,83,6,0,1,0,9,5,1,0,0,0,62,0,6,Partidos
+1854,Bevic Moussiti-Oko,cg CGO,DL,Ajaccio,fr Ligue 1,27,1995,7.8,163,150,11,0,0,0,4,0,0,0,0,0,90,2,7,Partidos
+1855,João Moutinho,pt POR,CC,Wolves,eng Premier League,35,1986,19.8,1057,936,116,55,7,6,59,3,34,10,15,0,850,5,20,Partidos
+1856,João Moutinho,pt POR,"DF,DL",Spezia,it Serie A,24,1998,0.6,42,34,8,0,0,0,3,8,0,0,0,0,30,0,2,Partidos
+1857,Samuel Moutoussamy,cd COD,CC,Nantes,fr Ligue 1,25,1996,26.7,1226,1206,17,14,2,10,9,3,0,0,0,0,1053,3,24,Partidos
+1858,Divin Mubama,eng ENG,DL,West Ham,eng Premier League,17,2004,0.4,8,7,1,1,0,0,0,0,0,0,0,0,5,0,0,Partidos
+1859,Mykhailo Mudryk,ua UKR,"DL,CC",Chelsea,eng Premier League,21,2001,7.3,216,193,22,3,1,1,25,6,11,8,1,0,161,1,1,Partidos
+1860,François Mughe,cm CMR,CC,Marseille,fr Ligue 1,18,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+1861,Nordi Mukiele,fr FRA,DF,Paris S-G,fr Ligue 1,24,1997,12.6,674,609,63,9,0,2,16,54,0,0,0,0,585,2,11,Partidos
+1862,Mert Müldür,tr TUR,"DL,DF",Sassuolo,it Serie A,23,1999,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+1863,Florian Müller,de GER,PO,Stuttgart,de Bundesliga,24,1997,19.0,733,575,157,23,0,1,0,1,0,0,0,0,597,1,1,Partidos
+1864,Thomas Müller,de GER,"DL,CC",Bayern Munich,de Bundesliga,32,1989,18.5,831,794,29,3,9,4,31,16,3,0,0,0,621,8,20,Partidos
+1865,Abdul Mumin,gh GHA,DF,Rayo Vallecano,es La Liga,24,1998,10.2,390,370,19,15,0,4,3,4,0,0,0,0,299,1,3,Partidos
+1866,Marshall Munetsi,zw ZIM,CC,Reims,fr Ligue 1,26,1996,30.0,886,878,6,6,4,5,23,0,0,0,0,0,651,2,27,Partidos
+1867,Iker Muniain,es ESP,"CC,DL",Athletic Club,es La Liga,29,1992,18.8,1110,944,160,58,6,3,113,9,82,13,54,0,890,6,13,Partidos
+1868,Aihen Muñoz,es ESP,DF,Real Sociedad,es La Liga,24,1997,19.5,1027,824,196,16,0,3,54,180,0,0,0,0,781,7,29,Partidos
+1869,Álvaro Muñoz,uy URU,DL,Real Madrid,es La Liga,18,2004,0.9,12,12,0,0,0,0,0,0,0,0,0,0,9,0,0,Partidos
+1870,Iker Muñoz,es ESP,CC,Osasuna,es La Liga,19,2002,2.8,111,107,3,2,0,1,0,1,0,0,0,0,90,1,0,Partidos
+1871,Pablo Muñoz,es ESP,CC,Rayo Vallecano,es La Liga,18,2003,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
+1872,Luis Muriel,co COL,"DL,CC",Atalanta,it Serie A,31,1991,11.9,539,454,83,9,8,14,82,12,47,25,17,0,354,2,17,Partidos
+1873,Jeison Murillo,co COL,DF,Sampdoria,it Serie A,30,1992,11.7,557,501,53,29,1,7,1,24,0,0,0,0,456,3,7,Partidos
+1874,Vedat Muriqi,xk KVX,DL,Mallorca,es La Liga,28,1994,32.6,827,818,9,0,3,4,11,0,0,0,0,0,472,0,31,Partidos
+1875,Jacob Murphy,eng ENG,DL,Newcastle Utd,eng Premier League,27,1995,13.9,448,428,18,0,6,2,53,10,7,1,0,0,296,2,31,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1876,Yunus Musah,us USA,CC,Valencia,es La Liga,19,2002,23.4,771,757,12,3,3,11,40,9,0,0,0,0,604,2,29,Partidos
-1877,Jamal Musiala,de GER,"CC,DL",Bayern Munich,de Bundesliga,19,2003,24.4,1018,995,16,0,3,2,11,10,0,0,0,0,857,7,29,Partidos
-1878,Juan Musso,ar ARG,PO,Atalanta,it Serie A,28,1994,23.1,705,497,207,50,0,3,0,0,0,0,0,0,513,1,1,Partidos
-1879,Marlon Mustapha,at AUT,"DL,CC",Mainz 05,de Bundesliga,21,2001,0.8,23,21,2,0,0,0,0,1,0,0,0,0,13,0,1,Partidos
-1880,Yvon Mvogo,ch SUI,PO,Lorient,fr Ligue 1,28,1994,20.1,622,417,201,56,0,2,0,0,0,0,0,0,466,4,1,Partidos
-1881,Enock Mwepu,zm ZAM,"DL,CC",Brighton,eng Premier League,24,1998,2.4,78,76,2,0,0,1,3,0,0,0,0,0,61,0,3,Partidos
-1882,Francisco Mwepu,zm ZAM,DL,Cádiz,es La Liga,22,2000,0.2,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Partidos
-1883,Vitaliy Mykolenko,ua UKR,DF,Everton,eng Premier League,23,1999,29.5,1292,1045,239,10,1,3,57,227,2,1,1,0,966,8,30,Partidos
-1884,Joakim Mæhle,dk DEN,"DF,CC",Atalanta,it Serie A,25,1997,24.5,1455,1211,239,7,1,2,38,231,1,0,1,0,1188,5,42,Partidos
-1885,Obite N'Dicka,ci CIV,DF,Eint Frankfurt,de Bundesliga,22,1999,29.9,1815,1755,58,52,1,7,4,6,0,0,0,0,1563,2,14,Partidos
-1886,Nathan N'Goumou,fr FRA,DL,Toulouse,fr Ligue 1,22,2000,1.0,30,29,1,0,0,0,1,1,0,0,0,0,25,0,1,Partidos
-1887,Nathan N'Goumou,fr FRA,DL,M'Gladbach,de Bundesliga,22,2000,7.7,226,206,19,3,0,0,20,15,0,0,0,0,166,1,14,Partidos
-1888,Stanley N'Soki,fr FRA,DF,Hoffenheim,de Bundesliga,23,1999,14.3,796,762,33,18,1,8,1,15,0,0,0,0,652,1,7,Partidos
-1889,Herculano Nabian,pt POR,CC,Empoli,it Serie A,18,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
-1890,Nacho,es ESP,DF,Real Madrid,es La Liga,32,1990,18.2,1184,1072,112,32,0,5,14,76,0,0,0,0,1085,0,7,Partidos
-1891,Nikolas Nartey,dk DEN,"DF,CC",Stuttgart,de Bundesliga,22,2000,5.3,282,234,47,12,0,1,9,35,0,0,0,0,225,1,7,Partidos
-1892,Juanjo Narváez,co COL,"CC,DL",Valladolid,es La Liga,27,1995,1.6,36,35,0,0,0,0,1,0,0,0,0,0,25,1,2,Partidos
-1893,Matija Nastasić,rs SRB,DF,Mallorca,es La Liga,29,1993,10.1,298,285,11,10,0,3,1,1,0,0,0,0,238,2,3,Partidos
-1894,Roberto Navarro,es ESP,"CC,DL",Real Sociedad,es La Liga,20,2002,3.9,138,119,18,6,0,1,16,0,11,5,3,0,99,1,5,Partidos
-1895,Jesús Navas,es ESP,"DF,DL",Sevilla,es La Liga,36,1985,22.0,1332,1128,196,20,2,17,135,176,0,0,0,0,1000,8,41,Partidos
-1896,Keylor Navas,cr CRC,PO,Nott'ham Forest,eng Premier League,35,1986,17.0,534,312,217,66,0,0,0,0,0,0,0,0,306,5,0,Partidos
-1897,Michel Ndary Adopo,fr FRA,"CC,DF",Torino,it Serie A,22,2000,2.9,141,136,5,4,0,1,0,0,0,0,0,0,122,0,1,Partidos
-1898,Youssouf Ndayishimiye,bi BDI,"CC,DF",Nice,fr Ligue 1,23,1998,6.3,374,364,9,8,1,0,2,1,0,0,0,0,337,1,2,Partidos
-1899,Papa Ndiaga Yade,sn SEN,"DF,CC",Troyes,fr Ligue 1,22,2000,6.3,347,302,45,1,1,3,30,44,0,0,0,0,250,0,10,Partidos
-1900,Wilfred Ndidi,ng NGA,CC,Leicester City,eng Premier League,25,1996,18.7,899,868,31,25,1,5,2,3,0,0,0,0,754,0,19,Partidos
+1876,Nicola Murru,it ITA,DF,Sampdoria,it Serie A,27,1994,8.7,331,296,34,4,0,0,9,30,0,0,0,0,254,1,4,Partidos
+1877,Yunus Musah,us USA,CC,Valencia,es La Liga,19,2002,23.4,771,757,12,3,3,11,40,9,0,0,0,0,604,2,29,Partidos
+1878,Jamal Musiala,de GER,"CC,DL",Bayern Munich,de Bundesliga,19,2003,24.4,1018,995,16,0,3,2,11,10,0,0,0,0,857,7,29,Partidos
+1879,Juan Musso,ar ARG,PO,Atalanta,it Serie A,28,1994,23.1,705,497,207,50,0,3,0,0,0,0,0,0,513,1,1,Partidos
+1880,Marlon Mustapha,at AUT,"DL,CC",Mainz 05,de Bundesliga,21,2001,0.8,23,21,2,0,0,0,0,1,0,0,0,0,13,0,1,Partidos
+1881,Yvon Mvogo,ch SUI,PO,Lorient,fr Ligue 1,28,1994,20.1,622,417,201,56,0,2,0,0,0,0,0,0,466,4,1,Partidos
+1882,Enock Mwepu,zm ZAM,"DL,CC",Brighton,eng Premier League,24,1998,2.4,78,76,2,0,0,1,3,0,0,0,0,0,61,0,3,Partidos
+1883,Francisco Mwepu,zm ZAM,DL,Cádiz,es La Liga,22,2000,0.2,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Partidos
+1884,Vitaliy Mykolenko,ua UKR,DF,Everton,eng Premier League,23,1999,29.5,1292,1045,239,10,1,3,57,227,2,1,1,0,966,8,30,Partidos
+1885,Joakim Mæhle,dk DEN,"DF,CC",Atalanta,it Serie A,25,1997,24.5,1455,1211,239,7,1,2,38,231,1,0,1,0,1188,5,42,Partidos
+1886,Obite N'Dicka,ci CIV,DF,Eint Frankfurt,de Bundesliga,22,1999,29.9,1815,1755,58,52,1,7,4,6,0,0,0,0,1563,2,14,Partidos
+1887,Nathan N'Goumou,fr FRA,DL,Toulouse,fr Ligue 1,22,2000,1.0,30,29,1,0,0,0,1,1,0,0,0,0,25,0,1,Partidos
+1888,Nathan N'Goumou,fr FRA,DL,M'Gladbach,de Bundesliga,22,2000,7.7,226,206,19,3,0,0,20,15,0,0,0,0,166,1,14,Partidos
+1889,Stanley N'Soki,fr FRA,DF,Hoffenheim,de Bundesliga,23,1999,14.3,796,762,33,18,1,8,1,15,0,0,0,0,652,1,7,Partidos
+1890,Herculano Nabian,pt POR,CC,Empoli,it Serie A,18,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+1891,Nacho,es ESP,DF,Real Madrid,es La Liga,32,1990,18.2,1184,1072,112,32,0,5,14,76,0,0,0,0,1085,0,7,Partidos
+1892,Nikolas Nartey,dk DEN,"DF,CC",Stuttgart,de Bundesliga,22,2000,5.3,282,234,47,12,0,1,9,35,0,0,0,0,225,1,7,Partidos
+1893,Juanjo Narváez,co COL,"CC,DL",Valladolid,es La Liga,27,1995,1.6,36,35,0,0,0,0,1,0,0,0,0,0,25,1,2,Partidos
+1894,Matija Nastasić,rs SRB,DF,Mallorca,es La Liga,29,1993,10.1,298,285,11,10,0,3,1,1,0,0,0,0,238,2,3,Partidos
+1895,Roberto Navarro,es ESP,"CC,DL",Real Sociedad,es La Liga,20,2002,3.9,138,119,18,6,0,1,16,0,11,5,3,0,99,1,5,Partidos
+1896,Jesús Navas,es ESP,"DF,DL",Sevilla,es La Liga,36,1985,22.0,1332,1128,196,20,2,17,135,176,0,0,0,0,1000,8,41,Partidos
+1897,Keylor Navas,cr CRC,PO,Nott'ham Forest,eng Premier League,35,1986,17.0,534,312,217,66,0,0,0,0,0,0,0,0,306,5,0,Partidos
+1898,Michel Ndary Adopo,fr FRA,"CC,DF",Torino,it Serie A,22,2000,2.9,141,136,5,4,0,1,0,0,0,0,0,0,122,0,1,Partidos
+1899,Youssouf Ndayishimiye,bi BDI,"CC,DF",Nice,fr Ligue 1,23,1998,6.3,374,364,9,8,1,0,2,1,0,0,0,0,337,1,2,Partidos
+1900,Papa Ndiaga Yade,sn SEN,"DF,CC",Troyes,fr Ligue 1,22,2000,6.3,347,302,45,1,1,3,30,44,0,0,0,0,250,0,10,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1901,Tanguy Ndombele,fr FRA,CC,Napoli,it Serie A,25,1996,9.0,574,562,12,8,1,0,1,2,0,0,0,0,504,0,13,Partidos
-1902,Álvaro Negredo,es ESP,DL,Cádiz,es La Liga,36,1985,8.4,173,153,20,1,3,4,2,0,0,0,0,0,106,0,4,Partidos
-1903,Reiss Nelson,eng ENG,DL,Arsenal,eng Premier League,22,1999,2.4,120,118,2,0,0,0,12,0,2,2,0,0,101,0,1,Partidos
-1904,Ilija Nestorovski,mk MKD,"DL,CC",Udinese,it Serie A,32,1990,7.1,163,153,9,0,6,1,0,0,0,0,0,0,116,1,6,Partidos
-1905,Neto,br BRA,PO,Bournemouth,eng Premier League,33,1989,26.5,833,513,319,88,0,1,0,0,0,0,0,0,521,1,0,Partidos
-1906,Pedro Neto,pt POR,"DL,CC",Wolves,eng Premier League,22,2000,10.7,384,342,42,11,2,3,66,6,25,11,9,0,284,0,14,Partidos
-1907,Luca Netz,de GER,DF,M'Gladbach,de Bundesliga,19,2003,7.8,348,286,61,9,1,0,6,48,4,3,0,0,279,1,9,Partidos
-1908,Manuel Neuer,de GER,PO,Bayern Munich,de Bundesliga,36,1986,12.0,504,415,89,19,0,0,0,1,0,0,0,0,449,0,0,Partidos
-1909,Florian Neuhaus,de GER,CC,M'Gladbach,de Bundesliga,25,1997,15.6,644,625,14,8,5,4,7,2,0,0,0,0,510,5,21,Partidos
-1910,Rúben Neves,pt POR,CC,Wolves,eng Premier League,25,1997,33.5,2106,1945,153,115,7,24,53,11,21,3,16,0,1730,8,30,Partidos
-1911,Neymar,br BRA,"CC,DL",Paris S-G,fr Ligue 1,30,1992,17.2,1262,1147,106,33,25,8,54,12,52,26,8,0,1011,9,27,Partidos
-1912,Jessic Ngankam,de GER,"DL,CC",Hertha BSC,de Bundesliga,22,2000,9.2,113,108,5,1,0,2,2,1,0,0,0,0,70,0,5,Partidos
-1913,Cyril Ngonge,be BEL,"CC,DL",Hellas Verona,it Serie A,22,2000,8.3,175,160,12,2,1,1,18,0,7,3,3,0,98,3,8,Partidos
-1914,Moussa Niakhate,sn SEN,DF,Nott'ham Forest,eng Premier League,26,1996,12.9,391,293,98,8,0,0,2,90,0,0,0,0,265,0,8,Partidos
-1915,Ibrahima Niane,sn SEN,DL,Angers,fr Ligue 1,23,1999,12.6,232,206,25,1,2,3,7,2,0,0,0,0,175,1,6,Partidos
-1916,M'Baye Niang,sn SEN,DL,Auxerre,fr Ligue 1,27,1994,16.5,297,260,37,1,0,1,8,4,0,0,0,0,188,0,20,Partidos
-1917,Tanguy Nianzou,fr FRA,DF,Sevilla,es La Liga,20,2002,15.2,772,748,22,20,1,3,1,1,0,0,0,0,676,2,5,Partidos
-1918,Rasmus Nicolaisen,dk DEN,DF,Toulouse,fr Ligue 1,25,1997,33.3,1763,1721,40,37,0,20,0,3,0,0,0,0,1484,2,10,Partidos
-1919,Hans Nicolussi Caviglia,it ITA,CC,Salernitana,it Serie A,22,2000,6.5,248,236,10,8,0,2,4,0,2,0,0,0,184,2,4,Partidos
-1920,Florian Niederlechner,de GER,"DL,CC",Augsburg,de Bundesliga,31,1990,10.1,200,175,24,1,2,0,4,3,0,0,0,0,118,1,9,Partidos
-1921,Florian Niederlechner,de GER,DL,Hertha BSC,de Bundesliga,31,1990,8.7,146,139,7,0,0,1,4,0,0,0,0,0,95,0,6,Partidos
-1922,Saúl Ñíguez,es ESP,"CC,DF",Atlético Madrid,es La Liga,27,1994,12.2,520,492,26,2,2,1,15,23,0,0,0,0,408,2,9,Partidos
-1923,Dimitris Nikolaou,gr GRE,DF,Spezia,it Serie A,23,1998,32.9,1660,1519,136,48,0,25,18,67,0,0,0,0,1348,5,10,Partidos
-1924,Fernando Niño,es ESP,"CC,DL",Villarreal,es La Liga,21,2000,0.2,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
-1925,Rasmus Nissen,dk DEN,DF,Leeds United,eng Premier League,25,1997,21.8,1044,861,181,7,0,3,35,174,0,0,0,0,740,2,38,Partidos
+1901,Wilfred Ndidi,ng NGA,CC,Leicester City,eng Premier League,25,1996,18.7,899,868,31,25,1,5,2,3,0,0,0,0,754,0,19,Partidos
+1902,Tanguy Ndombele,fr FRA,CC,Napoli,it Serie A,25,1996,9.0,574,562,12,8,1,0,1,2,0,0,0,0,504,0,13,Partidos
+1903,Álvaro Negredo,es ESP,DL,Cádiz,es La Liga,36,1985,8.4,173,153,20,1,3,4,2,0,0,0,0,0,106,0,4,Partidos
+1904,Reiss Nelson,eng ENG,DL,Arsenal,eng Premier League,22,1999,2.4,120,118,2,0,0,0,12,0,2,2,0,0,101,0,1,Partidos
+1905,Ilija Nestorovski,mk MKD,"DL,CC",Udinese,it Serie A,32,1990,7.1,163,153,9,0,6,1,0,0,0,0,0,0,116,1,6,Partidos
+1906,Neto,br BRA,PO,Bournemouth,eng Premier League,33,1989,26.5,833,513,319,88,0,1,0,0,0,0,0,0,521,1,0,Partidos
+1907,Pedro Neto,pt POR,"DL,CC",Wolves,eng Premier League,22,2000,10.7,384,342,42,11,2,3,66,6,25,11,9,0,284,0,14,Partidos
+1908,Luca Netz,de GER,DF,M'Gladbach,de Bundesliga,19,2003,7.8,348,286,61,9,1,0,6,48,4,3,0,0,279,1,9,Partidos
+1909,Manuel Neuer,de GER,PO,Bayern Munich,de Bundesliga,36,1986,12.0,504,415,89,19,0,0,0,1,0,0,0,0,449,0,0,Partidos
+1910,Florian Neuhaus,de GER,CC,M'Gladbach,de Bundesliga,25,1997,15.6,644,625,14,8,5,4,7,2,0,0,0,0,510,5,21,Partidos
+1911,Rúben Neves,pt POR,CC,Wolves,eng Premier League,25,1997,33.5,2106,1945,153,115,7,24,53,11,21,3,16,0,1730,8,30,Partidos
+1912,Neymar,br BRA,"CC,DL",Paris S-G,fr Ligue 1,30,1992,17.2,1262,1147,106,33,25,8,54,12,52,26,8,0,1011,9,27,Partidos
+1913,Jessic Ngankam,de GER,"DL,CC",Hertha BSC,de Bundesliga,22,2000,9.2,113,108,5,1,0,2,2,1,0,0,0,0,70,0,5,Partidos
+1914,Cyril Ngonge,be BEL,"CC,DL",Hellas Verona,it Serie A,22,2000,8.3,175,160,12,2,1,1,18,0,7,3,3,0,98,3,8,Partidos
+1915,Moussa Niakhate,sn SEN,DF,Nott'ham Forest,eng Premier League,26,1996,12.9,391,293,98,8,0,0,2,90,0,0,0,0,265,0,8,Partidos
+1916,Ibrahima Niane,sn SEN,DL,Angers,fr Ligue 1,23,1999,12.6,232,206,25,1,2,3,7,2,0,0,0,0,175,1,6,Partidos
+1917,M'Baye Niang,sn SEN,DL,Auxerre,fr Ligue 1,27,1994,16.5,297,260,37,1,0,1,8,4,0,0,0,0,188,0,20,Partidos
+1918,Tanguy Nianzou,fr FRA,DF,Sevilla,es La Liga,20,2002,15.2,772,748,22,20,1,3,1,1,0,0,0,0,676,2,5,Partidos
+1919,Rasmus Nicolaisen,dk DEN,DF,Toulouse,fr Ligue 1,25,1997,33.3,1763,1721,40,37,0,20,0,3,0,0,0,0,1484,2,10,Partidos
+1920,Hans Nicolussi Caviglia,it ITA,CC,Salernitana,it Serie A,22,2000,6.5,248,236,10,8,0,2,4,0,2,0,0,0,184,2,4,Partidos
+1921,Florian Niederlechner,de GER,"DL,CC",Augsburg,de Bundesliga,31,1990,10.1,200,175,24,1,2,0,4,3,0,0,0,0,118,1,9,Partidos
+1922,Florian Niederlechner,de GER,DL,Hertha BSC,de Bundesliga,31,1990,8.7,146,139,7,0,0,1,4,0,0,0,0,0,95,0,6,Partidos
+1923,Saúl Ñíguez,es ESP,"CC,DF",Atlético Madrid,es La Liga,27,1994,12.2,520,492,26,2,2,1,15,23,0,0,0,0,408,2,9,Partidos
+1924,Dimitris Nikolaou,gr GRE,DF,Spezia,it Serie A,23,1998,32.9,1660,1519,136,48,0,25,18,67,0,0,0,0,1348,5,10,Partidos
+1925,Fernando Niño,es ESP,"CC,DL",Villarreal,es La Liga,21,2000,0.2,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1926,Justin Njinmah,de GER,DL,Dortmund,de Bundesliga,21,2000,0.2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,Partidos
-1927,Eddie Nketiah,eng ENG,DL,Arsenal,eng Premier League,23,1999,12.1,255,231,24,0,0,1,5,0,0,0,0,0,205,0,11,Partidos
-1928,Christopher Nkunku,fr FRA,"DL,CC",RB Leipzig,de Bundesliga,24,1997,21.1,620,580,37,11,11,5,17,5,6,2,2,0,497,3,20,Partidos
-1929,Felix Nmecha,de GER,CC,Wolfsburg,de Bundesliga,21,2000,20.4,706,691,10,2,8,9,7,3,0,0,0,0,534,5,14,Partidos
-1930,Lukas Nmecha,de GER,DL,Wolfsburg,de Bundesliga,23,1998,10.0,201,188,12,0,1,2,2,3,0,0,0,0,133,1,8,Partidos
-1931,Arnaud Nordin,fr FRA,DL,Montpellier,fr Ligue 1,24,1998,26.7,661,631,28,4,2,2,49,13,4,1,2,0,485,2,24,Partidos
-1932,Riad Nouri,fr FRA,"CC,DL",Ajaccio,fr Ligue 1,37,1985,18.8,627,577,45,19,0,3,86,11,15,1,12,0,425,5,27,Partidos
-1933,Hugo Novoa,es ESP,"DF,DL",RB Leipzig,de Bundesliga,19,2003,2.0,108,87,21,2,0,1,10,19,0,0,0,0,77,0,6,Partidos
-1934,Samuel Ntanda,be BEL,CC,Sampdoria,it Serie A,17,2005,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-1935,Randy Ntekja,fr FRA,"DL,CC",Elche,es La Liga,24,1997,8.1,171,161,9,1,1,1,0,2,0,0,0,0,118,1,7,Partidos
-1936,Randy Ntekja,fr FRA,"DL,CC",Rayo Vallecano,es La Liga,24,1997,1.3,65,64,0,0,1,0,0,0,0,0,0,0,49,1,2,Partidos
-1937,Alexander Nübel,de GER,PO,Monaco,fr Ligue 1,25,1996,38.0,1141,786,355,89,1,2,0,0,0,0,0,0,851,0,0,Partidos
-1938,Matheus Nunes,pt POR,CC,Wolves,eng Premier League,23,1998,27.4,1028,994,31,14,6,33,43,8,9,3,4,0,818,3,23,Partidos
-1939,Darwin Núñez,uy URU,DL,Liverpool,eng Premier League,23,1999,18.8,401,386,11,0,2,8,18,8,1,0,0,0,258,4,22,Partidos
-1940,Unai Núñez,es ESP,DF,Celta Vigo,es La Liga,25,1997,35.0,2023,1967,53,49,0,34,3,4,0,0,0,0,1744,3,11,Partidos
-1941,Bram Nuytinck,nl NED,DF,Udinese,it Serie A,32,1990,4.3,139,124,14,4,0,3,0,9,0,0,0,0,113,1,2,Partidos
-1942,Bram Nuytinck,nl NED,DF,Sampdoria,it Serie A,32,1990,16.6,659,628,26,24,0,1,0,2,0,0,0,0,559,5,3,Partidos
-1943,Ethan Nwaneri,eng ENG,DL,Arsenal,eng Premier League,15,2007,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
-1944,Gerzino Nyamsi,fr FRA,DF,Strasbourg,fr Ligue 1,25,1997,17.5,841,810,31,30,0,4,1,1,0,0,0,0,710,0,6,Partidos
-1945,Ørjan Nyland,no NOR,PO,RB Leipzig,de Bundesliga,31,1990,2.0,99,82,16,1,0,1,0,0,0,0,0,0,75,1,0,Partidos
-1946,M'Bala Nzola,ao ANG,DL,Spezia,it Serie A,25,1996,29.5,593,566,25,4,0,1,10,6,0,0,0,0,471,2,17,Partidos
-1947,Christian Nørgaard,dk DEN,CC,Brentford,eng Premier League,28,1994,19.6,812,787,19,10,2,6,11,2,0,0,0,0,608,6,11,Partidos
-1948,Lewis O'Brien,eng ENG,CC,Nott'ham Forest,eng Premier League,23,1998,6.5,214,207,7,4,0,0,4,3,0,0,0,0,166,0,4,Partidos
-1949,Pedro Obiang,gq EQG,CC,Sassuolo,it Serie A,30,1992,9.7,438,411,25,25,0,12,1,0,0,0,0,0,363,2,6,Partidos
-1950,Jan Oblak,si SVN,PO,Atlético Madrid,es La Liga,29,1993,27.7,817,522,292,64,0,1,0,0,0,0,0,0,538,3,0,Partidos
+1926,Rasmus Nissen,dk DEN,DF,Leeds United,eng Premier League,25,1997,21.8,1044,861,181,7,0,3,35,174,0,0,0,0,740,2,38,Partidos
+1927,Justin Njinmah,de GER,DL,Dortmund,de Bundesliga,21,2000,0.2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,Partidos
+1928,Eddie Nketiah,eng ENG,DL,Arsenal,eng Premier League,23,1999,12.1,255,231,24,0,0,1,5,0,0,0,0,0,205,0,11,Partidos
+1929,Christopher Nkunku,fr FRA,"DL,CC",RB Leipzig,de Bundesliga,24,1997,21.1,620,580,37,11,11,5,17,5,6,2,2,0,497,3,20,Partidos
+1930,Felix Nmecha,de GER,CC,Wolfsburg,de Bundesliga,21,2000,20.4,706,691,10,2,8,9,7,3,0,0,0,0,534,5,14,Partidos
+1931,Lukas Nmecha,de GER,DL,Wolfsburg,de Bundesliga,23,1998,10.0,201,188,12,0,1,2,2,3,0,0,0,0,133,1,8,Partidos
+1932,Arnaud Nordin,fr FRA,DL,Montpellier,fr Ligue 1,24,1998,26.7,661,631,28,4,2,2,49,13,4,1,2,0,485,2,24,Partidos
+1933,Riad Nouri,fr FRA,"CC,DL",Ajaccio,fr Ligue 1,37,1985,18.8,627,577,45,19,0,3,86,11,15,1,12,0,425,5,27,Partidos
+1934,Hugo Novoa,es ESP,"DF,DL",RB Leipzig,de Bundesliga,19,2003,2.0,108,87,21,2,0,1,10,19,0,0,0,0,77,0,6,Partidos
+1935,Samuel Ntanda,be BEL,CC,Sampdoria,it Serie A,17,2005,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
+1936,Randy Ntekja,fr FRA,"DL,CC",Elche,es La Liga,24,1997,8.1,171,161,9,1,1,1,0,2,0,0,0,0,118,1,7,Partidos
+1937,Randy Ntekja,fr FRA,"DL,CC",Rayo Vallecano,es La Liga,24,1997,1.3,65,64,0,0,1,0,0,0,0,0,0,0,49,1,2,Partidos
+1938,Alexander Nübel,de GER,PO,Monaco,fr Ligue 1,25,1996,38.0,1141,786,355,89,1,2,0,0,0,0,0,0,851,0,0,Partidos
+1939,Matheus Nunes,pt POR,CC,Wolves,eng Premier League,23,1998,27.4,1028,994,31,14,6,33,43,8,9,3,4,0,818,3,23,Partidos
+1940,Darwin Núñez,uy URU,DL,Liverpool,eng Premier League,23,1999,18.8,401,386,11,0,2,8,18,8,1,0,0,0,258,4,22,Partidos
+1941,Unai Núñez,es ESP,DF,Celta Vigo,es La Liga,25,1997,35.0,2023,1967,53,49,0,34,3,4,0,0,0,0,1744,3,11,Partidos
+1942,Bram Nuytinck,nl NED,DF,Udinese,it Serie A,32,1990,4.3,139,124,14,4,0,3,0,9,0,0,0,0,113,1,2,Partidos
+1943,Bram Nuytinck,nl NED,DF,Sampdoria,it Serie A,32,1990,16.6,659,628,26,24,0,1,0,2,0,0,0,0,559,5,3,Partidos
+1944,Ethan Nwaneri,eng ENG,DL,Arsenal,eng Premier League,15,2007,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+1945,Gerzino Nyamsi,fr FRA,DF,Strasbourg,fr Ligue 1,25,1997,17.5,841,810,31,30,0,4,1,1,0,0,0,0,710,0,6,Partidos
+1946,Ørjan Nyland,no NOR,PO,RB Leipzig,de Bundesliga,31,1990,2.0,99,82,16,1,0,1,0,0,0,0,0,0,75,1,0,Partidos
+1947,M'Bala Nzola,ao ANG,DL,Spezia,it Serie A,25,1996,29.5,593,566,25,4,0,1,10,6,0,0,0,0,471,2,17,Partidos
+1948,Christian Nørgaard,dk DEN,CC,Brentford,eng Premier League,28,1994,19.6,812,787,19,10,2,6,11,2,0,0,0,0,608,6,11,Partidos
+1949,Lewis O'Brien,eng ENG,CC,Nott'ham Forest,eng Premier League,23,1998,6.5,214,207,7,4,0,0,4,3,0,0,0,0,166,0,4,Partidos
+1950,Pedro Obiang,gq EQG,CC,Sassuolo,it Serie A,30,1992,9.7,438,411,25,25,0,12,1,0,0,0,0,0,363,2,6,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1951,Brian Ocampo,uy URU,"CC,DL",Cádiz,es La Liga,23,1999,12.4,369,338,27,5,0,3,34,5,17,11,3,1,274,4,11,Partidos
-1952,Lucas Ocampos,ar ARG,"DL,CC",Sevilla,es La Liga,28,1994,12.9,450,418,27,2,0,2,26,18,1,0,0,0,333,5,13,Partidos
-1953,Guillermo Ochoa,mx MEX,PO,Salernitana,it Serie A,37,1985,20.0,760,476,280,80,0,0,0,0,0,0,0,0,441,4,0,Partidos
-1954,Wilson Odobert,fr FRA,"CC,DL",Troyes,fr Ligue 1,17,2004,19.6,538,508,26,2,3,3,34,6,16,9,0,0,408,4,21,Partidos
-1955,Álvaro Odriozola,es ESP,DF,Real Madrid,es La Liga,26,1995,0.4,28,25,3,0,0,0,3,3,0,0,0,0,27,0,0,Partidos
-1956,Tim Oermann,de GER,DF,Bochum,de Bundesliga,18,2003,2.2,51,51,0,0,0,0,0,0,0,0,0,0,39,0,1,Partidos
-1957,Odeluga Offiah,eng ENG,DF,Brighton,eng Premier League,19,2002,0.3,30,29,1,0,0,0,0,1,0,0,0,0,24,0,0,Partidos
-1958,Angelo Ogbonna,it ITA,DF,West Ham,eng Premier League,34,1988,13.7,415,406,9,7,0,0,0,0,0,0,0,0,332,0,2,Partidos
-1959,Florent Ogier,fr FRA,DF,Clermont Foot,fr Ligue 1,33,1989,18.9,935,854,80,33,0,3,3,37,0,0,0,0,741,1,17,Partidos
-1960,Marios Oikonomou,gr GRE,DF,Sampdoria,it Serie A,29,1992,2.4,85,79,6,3,0,1,0,3,0,0,0,0,63,0,0,Partidos
-1961,David Okereke,ng NGA,"DL,CC",Cremonese,it Serie A,24,1997,25.2,504,485,14,1,3,5,22,7,0,0,0,0,353,5,25,Partidos
-1962,Caleb Okoli,it ITA,DF,Atalanta,it Serie A,21,2001,10.7,458,419,37,18,0,3,2,17,0,0,0,0,345,2,8,Partidos
-1963,Olasagasti,es ESP,"CC,DF",Real Sociedad,es La Liga,21,2000,0.7,48,47,1,1,0,2,0,0,0,0,0,0,39,0,0,Partidos
-1964,Lucas Olaza,uy URU,DF,Valladolid,es La Liga,28,1994,16.6,797,596,199,27,0,3,71,153,19,1,16,0,606,2,28,Partidos
-1965,Finn Ole Becker,de GER,CC,Hoffenheim,de Bundesliga,22,2000,5.7,210,184,25,2,0,0,3,23,0,0,0,0,148,1,5,Partidos
-1966,Mathias Olesen,lu LUX,CC,Köln,de Bundesliga,21,2001,5.3,157,151,5,1,0,2,2,0,0,0,0,0,123,1,4,Partidos
-1967,Michael Olise,fr FRA,"DL,CC",Crystal Palace,eng Premier League,20,2001,30.5,1420,1189,229,63,4,21,242,18,127,58,46,4,985,2,49,Partidos
-1968,Brian Oliván,es ESP,DF,Espanyol,es La Liga,28,1994,26.7,1106,859,242,18,0,12,140,211,13,6,4,0,688,5,34,Partidos
-1969,Lucas Oliveira Rosa,br BRA,DF,Valladolid,es La Liga,22,2000,10.3,437,332,104,5,1,1,37,99,0,0,0,0,315,1,15,Partidos
-1970,Mathías Olivera,uy URU,DF,Napoli,it Serie A,24,1997,18.3,1381,1176,201,26,1,8,19,173,2,1,0,0,1200,4,19,Partidos
-1971,Dani Olmo,es ESP,"CC,DL",RB Leipzig,de Bundesliga,24,1998,14.2,596,560,29,10,21,6,11,3,10,2,0,0,450,7,23,Partidos
-1972,Jan Olschowsky,de GER,PO,M'Gladbach,de Bundesliga,20,2001,4.0,159,115,44,8,0,0,0,0,0,0,0,0,131,0,0,Partidos
-1973,Robin Olsen,se SWE,PO,Aston Villa,eng Premier League,32,1990,3.1,131,89,40,12,0,1,0,0,0,0,0,0,74,2,1,Partidos
-1974,Warmed Omari,fr FRA,DF,Rennes,fr Ligue 1,22,2000,15.1,982,956,25,23,4,0,0,0,0,0,0,0,911,1,1,Partidos
-1975,Jonas Omlin,ch SUI,PO,Montpellier,fr Ligue 1,28,1994,13.0,415,283,132,47,0,2,0,0,0,0,0,0,295,0,0,Partidos
+1951,Jan Oblak,si SVN,PO,Atlético Madrid,es La Liga,29,1993,27.7,817,522,292,64,0,1,0,0,0,0,0,0,538,3,0,Partidos
+1952,Brian Ocampo,uy URU,"CC,DL",Cádiz,es La Liga,23,1999,12.4,369,338,27,5,0,3,34,5,17,11,3,1,274,4,11,Partidos
+1953,Lucas Ocampos,ar ARG,"DL,CC",Sevilla,es La Liga,28,1994,12.9,450,418,27,2,0,2,26,18,1,0,0,0,333,5,13,Partidos
+1954,Guillermo Ochoa,mx MEX,PO,Salernitana,it Serie A,37,1985,20.0,760,476,280,80,0,0,0,0,0,0,0,0,441,4,0,Partidos
+1955,Wilson Odobert,fr FRA,"CC,DL",Troyes,fr Ligue 1,17,2004,19.6,538,508,26,2,3,3,34,6,16,9,0,0,408,4,21,Partidos
+1956,Álvaro Odriozola,es ESP,DF,Real Madrid,es La Liga,26,1995,0.4,28,25,3,0,0,0,3,3,0,0,0,0,27,0,0,Partidos
+1957,Tim Oermann,de GER,DF,Bochum,de Bundesliga,18,2003,2.2,51,51,0,0,0,0,0,0,0,0,0,0,39,0,1,Partidos
+1958,Odeluga Offiah,eng ENG,DF,Brighton,eng Premier League,19,2002,0.3,30,29,1,0,0,0,0,1,0,0,0,0,24,0,0,Partidos
+1959,Angelo Ogbonna,it ITA,DF,West Ham,eng Premier League,34,1988,13.7,415,406,9,7,0,0,0,0,0,0,0,0,332,0,2,Partidos
+1960,Florent Ogier,fr FRA,DF,Clermont Foot,fr Ligue 1,33,1989,18.9,935,854,80,33,0,3,3,37,0,0,0,0,741,1,17,Partidos
+1961,Marios Oikonomou,gr GRE,DF,Sampdoria,it Serie A,29,1992,2.4,85,79,6,3,0,1,0,3,0,0,0,0,63,0,0,Partidos
+1962,David Okereke,ng NGA,"DL,CC",Cremonese,it Serie A,24,1997,25.2,504,485,14,1,3,5,22,7,0,0,0,0,353,5,25,Partidos
+1963,Caleb Okoli,it ITA,DF,Atalanta,it Serie A,21,2001,10.7,458,419,37,18,0,3,2,17,0,0,0,0,345,2,8,Partidos
+1964,Olasagasti,es ESP,"CC,DF",Real Sociedad,es La Liga,21,2000,0.7,48,47,1,1,0,2,0,0,0,0,0,0,39,0,0,Partidos
+1965,Lucas Olaza,uy URU,DF,Valladolid,es La Liga,28,1994,16.6,797,596,199,27,0,3,71,153,19,1,16,0,606,2,28,Partidos
+1966,Finn Ole Becker,de GER,CC,Hoffenheim,de Bundesliga,22,2000,5.7,210,184,25,2,0,0,3,23,0,0,0,0,148,1,5,Partidos
+1967,Mathias Olesen,lu LUX,CC,Köln,de Bundesliga,21,2001,5.3,157,151,5,1,0,2,2,0,0,0,0,0,123,1,4,Partidos
+1968,Michael Olise,fr FRA,"DL,CC",Crystal Palace,eng Premier League,20,2001,30.5,1420,1189,229,63,4,21,242,18,127,58,46,4,985,2,49,Partidos
+1969,Brian Oliván,es ESP,DF,Espanyol,es La Liga,28,1994,26.7,1106,859,242,18,0,12,140,211,13,6,4,0,688,5,34,Partidos
+1970,Lucas Oliveira Rosa,br BRA,DF,Valladolid,es La Liga,22,2000,10.3,437,332,104,5,1,1,37,99,0,0,0,0,315,1,15,Partidos
+1971,Mathías Olivera,uy URU,DF,Napoli,it Serie A,24,1997,18.3,1381,1176,201,26,1,8,19,173,2,1,0,0,1200,4,19,Partidos
+1972,Dani Olmo,es ESP,"CC,DL",RB Leipzig,de Bundesliga,24,1998,14.2,596,560,29,10,21,6,11,3,10,2,0,0,450,7,23,Partidos
+1973,Jan Olschowsky,de GER,PO,M'Gladbach,de Bundesliga,20,2001,4.0,159,115,44,8,0,0,0,0,0,0,0,0,131,0,0,Partidos
+1974,Robin Olsen,se SWE,PO,Aston Villa,eng Premier League,32,1990,3.1,131,89,40,12,0,1,0,0,0,0,0,0,74,2,1,Partidos
+1975,Warmed Omari,fr FRA,DF,Rennes,fr Ligue 1,22,2000,15.1,982,956,25,23,4,0,0,0,0,0,0,0,911,1,1,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-1976,Jonas Omlin,ch SUI,PO,M'Gladbach,de Bundesliga,28,1994,14.3,738,604,134,34,0,3,0,0,0,0,0,0,595,0,0,Partidos
-1977,Ado Onaiwu,jp JPN,DL,Toulouse,fr Ligue 1,26,1995,12.0,337,328,7,1,2,3,5,2,0,0,0,0,252,2,16,Partidos
-1978,Amadou Onana,be BEL,CC,Everton,eng Premier League,20,2001,27.6,980,970,6,4,5,7,5,1,0,0,0,0,816,4,6,Partidos
-1979,André Onana,cm CMR,PO,Inter,it Serie A,26,1996,24.0,1030,845,182,30,0,6,0,0,0,0,0,0,837,3,0,Partidos
-1980,Jean Onana,cm CMR,"CC,DF",Lens,fr Ligue 1,22,2000,9.0,478,462,13,12,0,2,3,1,0,0,0,0,412,3,4,Partidos
-1981,Karim Onisiwo,at AUT,"DL,CC",Mainz 05,de Bundesliga,30,1992,28.2,608,538,67,0,2,1,57,7,0,0,0,0,343,3,44,Partidos
-1982,Josh Onomah,eng ENG,CC,Fulham,eng Premier League,25,1997,0.2,6,6,0,0,0,0,0,0,0,0,0,0,4,0,1,Partidos
-1983,Paul Onuachu,ng NGA,DL,Southampton,eng Premier League,28,1994,4.5,91,90,1,1,0,2,0,0,0,0,0,0,55,0,4,Partidos
-1984,Frank Onyeka,ng NGA,CC,Brentford,eng Premier League,24,1998,9.4,257,255,1,0,0,1,2,1,0,0,0,0,193,1,9,Partidos
-1985,Loïs Openda,be BEL,DL,Lens,fr Ligue 1,22,2000,28.0,443,382,59,1,7,3,30,8,0,0,0,0,297,2,22,Partidos
-1986,Willi Orban,hu HUN,DF,RB Leipzig,de Bundesliga,29,1992,32.8,2638,2554,80,74,1,15,3,3,0,0,0,0,2345,4,15,Partidos
-1987,Ivan Ordets,ua UKR,DF,Bochum,de Bundesliga,30,1992,27.2,1005,980,23,10,1,9,1,9,0,0,0,0,731,2,4,Partidos
-1988,Divock Origi,be BEL,DL,Milan,it Serie A,27,1995,11.4,193,184,8,0,1,1,11,0,0,0,0,0,128,1,6,Partidos
-1989,Aimar Oroz,es ESP,"CC,DL",Osasuna,es La Liga,20,2001,22.4,820,778,37,9,4,4,7,1,2,1,0,0,649,5,27,Partidos
-1990,Mislav Oršić,hr CRO,CC,Southampton,eng Premier League,29,1992,0.1,3,2,1,0,0,0,0,1,0,0,0,0,2,0,0,Partidos
-1991,Riccardo Orsolini,it ITA,DL,Bologna,it Serie A,25,1997,23.6,867,777,89,26,0,30,99,5,56,35,13,0,553,1,41,Partidos
-1992,Stefan Ortega,de GER,PO,Manchester City,eng Premier League,29,1992,3.0,167,152,15,3,0,0,0,0,0,0,0,0,145,0,1,Partidos
-1993,Pedro Ortiz,es ESP,CC,Sevilla,es La Liga,21,2000,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-1994,Jordi Osei-Tutu,eng ENG,"DF,DL",Bochum,de Bundesliga,23,1998,8.3,217,176,39,2,0,0,15,34,3,0,0,0,150,2,7,Partidos
-1995,Victor Osimhen,ng NGA,DL,Napoli,it Serie A,23,1998,28.5,400,383,17,0,1,3,19,9,0,0,0,0,276,0,27,Partidos
-1996,Patrick Osterhage,de GER,CC,Bochum,de Bundesliga,22,2000,11.4,340,328,11,3,2,0,12,8,0,0,0,0,238,1,14,Partidos
-1997,Paulo Otávio,br BRA,DF,Wolfsburg,de Bundesliga,27,1994,22.7,1182,974,204,14,2,5,68,190,0,0,0,0,873,4,36,Partidos
-1998,Dango Ouattara,bf BFA,"CC,DL",Bournemouth,eng Premier League,20,2002,13.8,334,322,10,0,5,5,30,7,1,0,0,0,210,2,12,Partidos
-1999,Dango Ouattara,bf BFA,"DL,CC",Lorient,fr Ligue 1,20,2002,17.2,444,431,12,1,6,0,33,8,2,0,0,0,267,1,10,Partidos
-2000,Remi Oudin,fr FRA,"DL,CC",Lecce,it Serie A,25,1996,14.7,596,492,101,28,2,12,113,14,59,20,35,0,372,3,27,Partidos
+1976,Jonas Omlin,ch SUI,PO,Montpellier,fr Ligue 1,28,1994,13.0,415,283,132,47,0,2,0,0,0,0,0,0,295,0,0,Partidos
+1977,Jonas Omlin,ch SUI,PO,M'Gladbach,de Bundesliga,28,1994,14.3,738,604,134,34,0,3,0,0,0,0,0,0,595,0,0,Partidos
+1978,Ado Onaiwu,jp JPN,DL,Toulouse,fr Ligue 1,26,1995,12.0,337,328,7,1,2,3,5,2,0,0,0,0,252,2,16,Partidos
+1979,Amadou Onana,be BEL,CC,Everton,eng Premier League,20,2001,27.6,980,970,6,4,5,7,5,1,0,0,0,0,816,4,6,Partidos
+1980,André Onana,cm CMR,PO,Inter,it Serie A,26,1996,24.0,1030,845,182,30,0,6,0,0,0,0,0,0,837,3,0,Partidos
+1981,Jean Onana,cm CMR,"CC,DF",Lens,fr Ligue 1,22,2000,9.0,478,462,13,12,0,2,3,1,0,0,0,0,412,3,4,Partidos
+1982,Karim Onisiwo,at AUT,"DL,CC",Mainz 05,de Bundesliga,30,1992,28.2,608,538,67,0,2,1,57,7,0,0,0,0,343,3,44,Partidos
+1983,Josh Onomah,eng ENG,CC,Fulham,eng Premier League,25,1997,0.2,6,6,0,0,0,0,0,0,0,0,0,0,4,0,1,Partidos
+1984,Paul Onuachu,ng NGA,DL,Southampton,eng Premier League,28,1994,4.5,91,90,1,1,0,2,0,0,0,0,0,0,55,0,4,Partidos
+1985,Frank Onyeka,ng NGA,CC,Brentford,eng Premier League,24,1998,9.4,257,255,1,0,0,1,2,1,0,0,0,0,193,1,9,Partidos
+1986,Loïs Openda,be BEL,DL,Lens,fr Ligue 1,22,2000,28.0,443,382,59,1,7,3,30,8,0,0,0,0,297,2,22,Partidos
+1987,Willi Orban,hu HUN,DF,RB Leipzig,de Bundesliga,29,1992,32.8,2638,2554,80,74,1,15,3,3,0,0,0,0,2345,4,15,Partidos
+1988,Ivan Ordets,ua UKR,DF,Bochum,de Bundesliga,30,1992,27.2,1005,980,23,10,1,9,1,9,0,0,0,0,731,2,4,Partidos
+1989,Divock Origi,be BEL,DL,Milan,it Serie A,27,1995,11.4,193,184,8,0,1,1,11,0,0,0,0,0,128,1,6,Partidos
+1990,Aimar Oroz,es ESP,"CC,DL",Osasuna,es La Liga,20,2001,22.4,820,778,37,9,4,4,7,1,2,1,0,0,649,5,27,Partidos
+1991,Mislav Oršić,hr CRO,CC,Southampton,eng Premier League,29,1992,0.1,3,2,1,0,0,0,0,1,0,0,0,0,2,0,0,Partidos
+1992,Riccardo Orsolini,it ITA,DL,Bologna,it Serie A,25,1997,23.6,867,777,89,26,0,30,99,5,56,35,13,0,553,1,41,Partidos
+1993,Stefan Ortega,de GER,PO,Manchester City,eng Premier League,29,1992,3.0,167,152,15,3,0,0,0,0,0,0,0,0,145,0,1,Partidos
+1994,Pedro Ortiz,es ESP,CC,Sevilla,es La Liga,21,2000,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
+1995,Jordi Osei-Tutu,eng ENG,"DF,DL",Bochum,de Bundesliga,23,1998,8.3,217,176,39,2,0,0,15,34,3,0,0,0,150,2,7,Partidos
+1996,Victor Osimhen,ng NGA,DL,Napoli,it Serie A,23,1998,28.5,400,383,17,0,1,3,19,9,0,0,0,0,276,0,27,Partidos
+1997,Patrick Osterhage,de GER,CC,Bochum,de Bundesliga,22,2000,11.4,340,328,11,3,2,0,12,8,0,0,0,0,238,1,14,Partidos
+1998,Paulo Otávio,br BRA,DF,Wolfsburg,de Bundesliga,27,1994,22.7,1182,974,204,14,2,5,68,190,0,0,0,0,873,4,36,Partidos
+1999,Dango Ouattara,bf BFA,"CC,DL",Bournemouth,eng Premier League,20,2002,13.8,334,322,10,0,5,5,30,7,1,0,0,0,210,2,12,Partidos
+2000,Dango Ouattara,bf BFA,"DL,CC",Lorient,fr Ligue 1,20,2002,17.2,444,431,12,1,6,0,33,8,2,0,0,0,267,1,10,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2001,Zinédine Ould Khaled,fr FRA,"CC,DL",Angers,fr Ligue 1,22,2000,0.6,36,36,0,0,0,0,0,0,0,0,0,0,34,0,0,Partidos
-2002,Azzedine Ounahi,ma MAR,"CC,DL",Marseille,fr Ligue 1,22,2000,1.3,94,94,0,0,1,0,0,0,0,0,0,0,87,0,2,Partidos
-2003,Azzedine Ounahi,ma MAR,"CC,DL",Angers,fr Ligue 1,22,2000,12.5,630,603,24,13,2,7,17,4,5,4,0,0,542,3,11,Partidos
-2004,Adam Ounas,dz ALG,DL,Napoli,it Serie A,25,1996,0.2,17,16,0,0,0,1,0,0,0,0,0,0,13,1,1,Partidos
-2005,Adam Ounas,dz ALG,"DL,CC",Lille,fr Ligue 1,25,1996,11.8,569,510,54,11,5,5,75,7,36,15,8,0,403,5,19,Partidos
-2006,Thomas Ouwejan,nl NED,DF,Schalke 04,de Bundesliga,25,1996,10.0,503,332,164,32,0,2,96,91,41,22,18,0,295,7,17,Partidos
-2007,Reece Oxford,eng ENG,DF,Augsburg,de Bundesliga,23,1998,1.0,52,50,1,1,0,0,0,0,0,0,0,0,28,1,0,Partidos
-2008,Alex Oxlade-Chamberlain,eng ENG,"DL,CC",Liverpool,eng Premier League,28,1993,3.7,106,102,2,0,2,3,2,2,0,0,0,0,75,2,4,Partidos
-2009,Mikel Oyarzabal,es ESP,"DL,CC",Real Sociedad,es La Liga,25,1997,13.5,392,368,22,9,1,2,28,3,7,5,1,0,285,2,18,Partidos
-2010,Salih Özcan,tr TUR,CC,Dortmund,de Bundesliga,24,1998,17.5,999,959,39,31,1,6,3,6,0,0,0,0,882,1,7,Partidos
-2011,Cenk Özkacar,tr TUR,DF,Valencia,es La Liga,21,2000,15.2,769,744,23,18,0,16,3,2,0,0,0,0,646,2,8,Partidos
-2012,David Ozoh,eng ENG,DL,Crystal Palace,eng Premier League,17,2005,0.0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-2013,Levin Öztunalı,de GER,CC,Union Berlin,de Bundesliga,26,1996,0.1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Partidos
-2014,Fernando Pacheco,es ESP,PO,Almería,es La Liga,30,1992,1.0,31,22,8,4,0,0,0,0,0,0,0,0,20,1,0,Partidos
-2015,Fernando Pacheco,es ESP,PO,Espanyol,es La Liga,30,1992,16.0,557,367,187,50,0,0,0,0,0,0,0,0,399,3,0,Partidos
-2016,Jon Pacheco,es ESP,DF,Real Sociedad,es La Liga,21,2001,13.3,907,859,43,32,1,8,0,4,0,0,0,0,812,5,4,Partidos
-2017,Gonçalo Paciência,pt POR,"DL,CC",Celta Vigo,es La Liga,27,1994,7.4,168,164,3,0,1,7,6,1,0,0,0,0,98,1,8,Partidos
-2018,Simone Pafundi,it ITA,"CC,DL",Udinese,it Serie A,16,2006,0.9,66,61,5,0,1,1,1,3,2,1,0,0,55,0,0,Partidos
-2019,Exequiel Palacios,ar ARG,CC,Leverkusen,de Bundesliga,23,1998,18.4,1204,1152,46,37,4,4,5,7,0,0,0,0,1022,6,15,Partidos
-2020,Helibelton Palacios,co COL,DF,Elche,es La Liga,29,1993,21.3,835,672,162,18,0,4,18,144,0,0,0,0,623,1,20,Partidos
-2021,Ante Palaversa,hr CRO,CC,Troyes,fr Ligue 1,22,2000,0.3,17,14,3,2,0,0,2,0,1,1,0,0,14,0,0,Partidos
-2022,Isaac Palazón Camacho,es ESP,"DL,CC",Rayo Vallecano,es La Liga,27,1994,32.9,1376,1153,208,75,6,14,192,7,126,48,57,0,979,15,31,Partidos
-2023,João Palhinha,pt POR,CC,Fulham,eng Premier League,27,1995,34.5,1274,1222,48,32,0,38,3,0,0,0,0,0,1051,4,15,Partidos
-2024,Nicolas Pallois,fr FRA,DF,Nantes,fr Ligue 1,34,1987,24.6,1171,1139,30,24,0,8,7,6,0,0,0,0,977,2,10,Partidos
-2025,Cole Palmer,eng ENG,"CC,DL",Manchester City,eng Premier League,20,2002,4.1,193,191,2,0,0,1,7,1,1,0,0,0,167,0,1,Partidos
+2001,Remi Oudin,fr FRA,"DL,CC",Lecce,it Serie A,25,1996,14.7,596,492,101,28,2,12,113,14,59,20,35,0,372,3,27,Partidos
+2002,Zinédine Ould Khaled,fr FRA,"CC,DL",Angers,fr Ligue 1,22,2000,0.6,36,36,0,0,0,0,0,0,0,0,0,0,34,0,0,Partidos
+2003,Azzedine Ounahi,ma MAR,"CC,DL",Marseille,fr Ligue 1,22,2000,1.3,94,94,0,0,1,0,0,0,0,0,0,0,87,0,2,Partidos
+2004,Azzedine Ounahi,ma MAR,"CC,DL",Angers,fr Ligue 1,22,2000,12.5,630,603,24,13,2,7,17,4,5,4,0,0,542,3,11,Partidos
+2005,Adam Ounas,dz ALG,DL,Napoli,it Serie A,25,1996,0.2,17,16,0,0,0,1,0,0,0,0,0,0,13,1,1,Partidos
+2006,Adam Ounas,dz ALG,"DL,CC",Lille,fr Ligue 1,25,1996,11.8,569,510,54,11,5,5,75,7,36,15,8,0,403,5,19,Partidos
+2007,Thomas Ouwejan,nl NED,DF,Schalke 04,de Bundesliga,25,1996,10.0,503,332,164,32,0,2,96,91,41,22,18,0,295,7,17,Partidos
+2008,Reece Oxford,eng ENG,DF,Augsburg,de Bundesliga,23,1998,1.0,52,50,1,1,0,0,0,0,0,0,0,0,28,1,0,Partidos
+2009,Alex Oxlade-Chamberlain,eng ENG,"DL,CC",Liverpool,eng Premier League,28,1993,3.7,106,102,2,0,2,3,2,2,0,0,0,0,75,2,4,Partidos
+2010,Mikel Oyarzabal,es ESP,"DL,CC",Real Sociedad,es La Liga,25,1997,13.5,392,368,22,9,1,2,28,3,7,5,1,0,285,2,18,Partidos
+2011,Salih Özcan,tr TUR,CC,Dortmund,de Bundesliga,24,1998,17.5,999,959,39,31,1,6,3,6,0,0,0,0,882,1,7,Partidos
+2012,Cenk Özkacar,tr TUR,DF,Valencia,es La Liga,21,2000,15.2,769,744,23,18,0,16,3,2,0,0,0,0,646,2,8,Partidos
+2013,David Ozoh,eng ENG,DL,Crystal Palace,eng Premier League,17,2005,0.0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+2014,Levin Öztunalı,de GER,CC,Union Berlin,de Bundesliga,26,1996,0.1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Partidos
+2015,Fernando Pacheco,es ESP,PO,Almería,es La Liga,30,1992,1.0,31,22,8,4,0,0,0,0,0,0,0,0,20,1,0,Partidos
+2016,Fernando Pacheco,es ESP,PO,Espanyol,es La Liga,30,1992,16.0,557,367,187,50,0,0,0,0,0,0,0,0,399,3,0,Partidos
+2017,Jon Pacheco,es ESP,DF,Real Sociedad,es La Liga,21,2001,13.3,907,859,43,32,1,8,0,4,0,0,0,0,812,5,4,Partidos
+2018,Gonçalo Paciência,pt POR,"DL,CC",Celta Vigo,es La Liga,27,1994,7.4,168,164,3,0,1,7,6,1,0,0,0,0,98,1,8,Partidos
+2019,Simone Pafundi,it ITA,"CC,DL",Udinese,it Serie A,16,2006,0.9,66,61,5,0,1,1,1,3,2,1,0,0,55,0,0,Partidos
+2020,Exequiel Palacios,ar ARG,CC,Leverkusen,de Bundesliga,23,1998,18.4,1204,1152,46,37,4,4,5,7,0,0,0,0,1022,6,15,Partidos
+2021,Helibelton Palacios,co COL,DF,Elche,es La Liga,29,1993,21.3,835,672,162,18,0,4,18,144,0,0,0,0,623,1,20,Partidos
+2022,Ante Palaversa,hr CRO,CC,Troyes,fr Ligue 1,22,2000,0.3,17,14,3,2,0,0,2,0,1,1,0,0,14,0,0,Partidos
+2023,Isaac Palazón Camacho,es ESP,"DL,CC",Rayo Vallecano,es La Liga,27,1994,32.9,1376,1153,208,75,6,14,192,7,126,48,57,0,979,15,31,Partidos
+2024,João Palhinha,pt POR,CC,Fulham,eng Premier League,27,1995,34.5,1274,1222,48,32,0,38,3,0,0,0,0,0,1051,4,15,Partidos
+2025,Nicolas Pallois,fr FRA,DF,Nantes,fr Ligue 1,34,1987,24.6,1171,1139,30,24,0,8,7,6,0,0,0,0,977,2,10,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2026,Erik Palmer-Brown,us USA,DF,Troyes,fr Ligue 1,25,1997,35.5,1435,1388,43,38,0,11,2,3,0,0,0,0,1212,4,12,Partidos
-2027,Emerson Palmieri,it ITA,DF,West Ham,eng Premier League,27,1994,14.7,729,606,121,9,0,0,47,98,14,1,10,0,572,2,27,Partidos
-2028,Miloš Pantović,rs SRB,CC,Union Berlin,de Bundesliga,26,1996,2.3,75,73,0,0,0,0,3,0,0,0,0,0,46,2,4,Partidos
-2029,Flavio Paoletti,it ITA,CC,Sampdoria,it Serie A,19,2003,3.2,168,157,10,7,0,3,1,3,0,0,0,0,138,1,8,Partidos
-2030,Antonios Papadopoulos,de GER,DF,Dortmund,de Bundesliga,22,1999,0.1,19,19,0,0,0,1,0,0,0,0,0,0,17,0,0,Partidos
-2031,Lucas Paquetá,br BRA,CC,West Ham,eng Premier League,24,1997,23.9,1157,1075,73,21,13,11,22,1,1,0,0,0,907,9,28,Partidos
-2032,Lucas Paquetá,br BRA,CC,Lyon,fr Ligue 1,24,1997,1.8,126,121,5,1,5,2,1,1,1,0,0,0,110,0,3,Partidos
-2033,Aitor Paredes,es ESP,DF,Athletic Club,es La Liga,22,2000,9.5,521,493,25,12,1,3,2,12,0,0,0,0,464,3,2,Partidos
-2034,Kevin Paredes,us USA,"DL,CC",Wolfsburg,de Bundesliga,19,2003,5.9,211,190,20,6,0,3,22,14,0,0,0,0,159,1,4,Partidos
-2035,Leandro Paredes,ar ARG,CC,Juventus,it Serie A,28,1994,10.9,778,679,98,51,3,4,51,4,43,24,17,0,681,1,4,Partidos
-2036,Leandro Paredes,ar ARG,CC,Paris S-G,fr Ligue 1,28,1994,0.6,70,65,5,5,1,1,0,0,0,0,0,0,68,0,0,Partidos
-2037,Daniel Parejo,es ESP,CC,Villarreal,es La Liga,33,1989,36.5,2569,2249,310,178,7,29,144,5,127,57,34,4,2224,10,29,Partidos
-2038,Fabiano Parisi,it ITA,DF,Empoli,it Serie A,21,2000,31.4,1646,1305,332,31,1,7,59,300,1,1,0,0,1263,9,50,Partidos
-2039,Moises Parra Gutierrez,es ESP,DL,Getafe,es La Liga,20,2002,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-2040,Raúl Parra,es ESP,DF,Cádiz,es La Liga,22,1999,3.4,114,84,30,2,0,0,6,28,0,0,0,0,74,0,6,Partidos
-2041,Thomas Partey,gh GHA,CC,Arsenal,eng Premier League,29,1993,27.6,1985,1923,59,32,11,12,9,27,0,0,0,0,1731,3,20,Partidos
-2042,Marco Pašalić,hr CRO,CC,Dortmund,de Bundesliga,21,2000,0.1,7,7,0,0,0,0,1,0,0,0,0,0,6,0,0,Partidos
-2043,Mario Pašalić,hr CRO,"CC,DL",Atalanta,it Serie A,27,1995,19.7,705,676,26,11,0,3,5,5,0,0,0,0,567,3,18,Partidos
-2044,Pascu,es ESP,"DF,DL",Villarreal,es La Liga,19,2003,0.1,8,8,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
-2045,Felix Passlack,de GER,DF,Dortmund,de Bundesliga,24,1998,0.7,40,34,6,0,1,0,2,6,0,0,0,0,30,0,3,Partidos
-2046,Javier Pastore,ar ARG,CC,Elche,es La Liga,33,1989,0.1,8,7,0,0,0,0,0,0,0,0,0,0,6,1,0,Partidos
-2047,Patric,es ESP,DF,Lazio,it Serie A,29,1993,15.7,1063,979,82,43,0,18,0,0,0,0,0,0,947,2,1,Partidos
-2048,Rui Patrício,pt POR,PO,Roma,it Serie A,34,1988,35.0,887,580,304,64,0,0,0,0,0,0,0,0,677,3,0,Partidos
-2049,Nathan Patterson,sct SCO,"DF,CC",Everton,eng Premier League,20,2001,14.2,649,503,145,7,1,0,39,137,1,0,0,0,488,1,14,Partidos
-2050,Paulinho,br BRA,DL,Leverkusen,de Bundesliga,22,2000,0.9,28,27,1,0,0,0,0,0,1,0,0,0,23,0,1,Partidos
+2026,Cole Palmer,eng ENG,"CC,DL",Manchester City,eng Premier League,20,2002,4.1,193,191,2,0,0,1,7,1,1,0,0,0,167,0,1,Partidos
+2027,Erik Palmer-Brown,us USA,DF,Troyes,fr Ligue 1,25,1997,35.5,1435,1388,43,38,0,11,2,3,0,0,0,0,1212,4,12,Partidos
+2028,Emerson Palmieri,it ITA,DF,West Ham,eng Premier League,27,1994,14.7,729,606,121,9,0,0,47,98,14,1,10,0,572,2,27,Partidos
+2029,Miloš Pantović,rs SRB,CC,Union Berlin,de Bundesliga,26,1996,2.3,75,73,0,0,0,0,3,0,0,0,0,0,46,2,4,Partidos
+2030,Flavio Paoletti,it ITA,CC,Sampdoria,it Serie A,19,2003,3.2,168,157,10,7,0,3,1,3,0,0,0,0,138,1,8,Partidos
+2031,Antonios Papadopoulos,de GER,DF,Dortmund,de Bundesliga,22,1999,0.1,19,19,0,0,0,1,0,0,0,0,0,0,17,0,0,Partidos
+2032,Lucas Paquetá,br BRA,CC,West Ham,eng Premier League,24,1997,23.9,1157,1075,73,21,13,11,22,1,1,0,0,0,907,9,28,Partidos
+2033,Lucas Paquetá,br BRA,CC,Lyon,fr Ligue 1,24,1997,1.8,126,121,5,1,5,2,1,1,1,0,0,0,110,0,3,Partidos
+2034,Aitor Paredes,es ESP,DF,Athletic Club,es La Liga,22,2000,9.5,521,493,25,12,1,3,2,12,0,0,0,0,464,3,2,Partidos
+2035,Kevin Paredes,us USA,"DL,CC",Wolfsburg,de Bundesliga,19,2003,5.9,211,190,20,6,0,3,22,14,0,0,0,0,159,1,4,Partidos
+2036,Leandro Paredes,ar ARG,CC,Juventus,it Serie A,28,1994,10.9,778,679,98,51,3,4,51,4,43,24,17,0,681,1,4,Partidos
+2037,Leandro Paredes,ar ARG,CC,Paris S-G,fr Ligue 1,28,1994,0.6,70,65,5,5,1,1,0,0,0,0,0,0,68,0,0,Partidos
+2038,Daniel Parejo,es ESP,CC,Villarreal,es La Liga,33,1989,36.5,2569,2249,310,178,7,29,144,5,127,57,34,4,2224,10,29,Partidos
+2039,Fabiano Parisi,it ITA,DF,Empoli,it Serie A,21,2000,31.4,1646,1305,332,31,1,7,59,300,1,1,0,0,1263,9,50,Partidos
+2040,Moises Parra Gutierrez,es ESP,DL,Getafe,es La Liga,20,2002,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+2041,Raúl Parra,es ESP,DF,Cádiz,es La Liga,22,1999,3.4,114,84,30,2,0,0,6,28,0,0,0,0,74,0,6,Partidos
+2042,Thomas Partey,gh GHA,CC,Arsenal,eng Premier League,29,1993,27.6,1985,1923,59,32,11,12,9,27,0,0,0,0,1731,3,20,Partidos
+2043,Marco Pašalić,hr CRO,CC,Dortmund,de Bundesliga,21,2000,0.1,7,7,0,0,0,0,1,0,0,0,0,0,6,0,0,Partidos
+2044,Mario Pašalić,hr CRO,"CC,DL",Atalanta,it Serie A,27,1995,19.7,705,676,26,11,0,3,5,5,0,0,0,0,567,3,18,Partidos
+2045,Pascu,es ESP,"DF,DL",Villarreal,es La Liga,19,2003,0.1,8,8,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
+2046,Felix Passlack,de GER,DF,Dortmund,de Bundesliga,24,1998,0.7,40,34,6,0,1,0,2,6,0,0,0,0,30,0,3,Partidos
+2047,Javier Pastore,ar ARG,CC,Elche,es La Liga,33,1989,0.1,8,7,0,0,0,0,0,0,0,0,0,0,6,1,0,Partidos
+2048,Patric,es ESP,DF,Lazio,it Serie A,29,1993,15.7,1063,979,82,43,0,18,0,0,0,0,0,0,947,2,1,Partidos
+2049,Rui Patrício,pt POR,PO,Roma,it Serie A,34,1988,35.0,887,580,304,64,0,0,0,0,0,0,0,0,677,3,0,Partidos
+2050,Nathan Patterson,sct SCO,"DF,CC",Everton,eng Premier League,20,2001,14.2,649,503,145,7,1,0,39,137,1,0,0,0,488,1,14,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2051,Gabriel Paulista,br BRA,DF,Valencia,es La Liga,31,1990,16.7,769,705,62,36,0,10,0,6,0,0,0,0,645,2,4,Partidos
-2052,Benjamin Pavard,fr FRA,DF,Bayern Munich,de Bundesliga,26,1996,27.0,2400,2242,152,34,2,16,45,117,0,0,0,0,2120,6,20,Partidos
-2053,Jiří Pavlenka,cz CZE,PO,Werder Bremen,de Bundesliga,30,1992,32.3,1176,780,392,113,0,1,0,0,0,0,0,0,832,4,3,Partidos
-2054,Dimitri Payet,fr FRA,"CC,DL",Marseille,fr Ligue 1,35,1987,9.3,520,458,61,18,7,10,58,4,34,16,12,0,386,1,10,Partidos
-2055,Ben Pearson,eng ENG,CC,Bournemouth,eng Premier League,27,1995,3.2,134,130,4,3,0,1,0,0,0,0,0,0,108,0,1,Partidos
-2056,Kristian Pedersen,dk DEN,DF,Köln,de Bundesliga,27,1994,3.1,173,135,38,3,0,2,4,35,0,0,0,0,121,0,4,Partidos
-2057,Mads Pedersen,dk DEN,"DF,CC",Augsburg,de Bundesliga,25,1996,20.4,696,506,187,16,0,7,46,162,9,2,5,0,473,3,22,Partidos
-2058,Alfonso Pedraza,es ESP,DF,Villarreal,es La Liga,26,1996,18.1,832,673,158,8,0,2,76,148,2,1,0,0,641,1,32,Partidos
-2059,Pedri,es ESP,CC,Barcelona,es La Liga,19,2002,22.0,1449,1384,59,22,24,24,25,11,13,1,11,0,1251,6,25,Partidos
-2060,Pedro,es ESP,DL,Lazio,it Serie A,35,1987,21.1,950,919,26,10,2,10,34,12,3,2,0,0,771,5,18,Partidos
-2061,Adrià Pedrosa,es ESP,"DF,CC",Espanyol,es La Liga,24,1998,2.5,76,69,7,1,1,0,9,6,0,0,0,0,61,0,3,Partidos
-2062,Jordan Pefok,us USA,DL,Union Berlin,de Bundesliga,26,1996,15.1,300,294,5,0,1,0,2,2,0,0,0,0,165,1,6,Partidos
-2063,Gianluca Pegolo,it ITA,PO,Sassuolo,it Serie A,41,1981,2.0,77,56,21,5,0,0,0,0,0,0,0,0,64,0,0,Partidos
-2064,Dženan Pejčinović,de GER,DL,Wolfsburg,de Bundesliga,17,2005,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
-2065,Peter Pekarík,sk SVK,DF,Hertha BSC,de Bundesliga,35,1986,2.3,115,94,21,0,0,1,4,21,0,0,0,0,89,0,2,Partidos
-2066,Pietro Pellegri,it ITA,DL,Torino,it Serie A,21,2001,5.2,80,71,9,1,0,0,3,0,0,0,0,0,61,0,6,Partidos
-2067,Lorenzo Pellegrini,it ITA,CC,Roma,it Serie A,26,1996,28.3,1114,908,205,86,12,10,162,6,100,45,51,0,816,1,24,Partidos
-2068,Luca Pellegrini,it ITA,DF,Lazio,it Serie A,23,1999,2.0,168,142,26,1,0,3,15,25,0,0,0,0,137,0,4,Partidos
-2069,Luca Pellegrini,it ITA,DF,Eint Frankfurt,de Bundesliga,23,1999,6.2,431,315,113,13,1,7,54,81,19,13,2,0,292,3,23,Partidos
-2070,Théo Pellenard,fr FRA,DF,Auxerre,fr Ligue 1,28,1994,1.1,21,19,2,1,0,0,1,1,0,0,0,0,11,0,2,Partidos
-2071,Facundo Pellistri,uy URU,"DL,CC",Manchester Utd,eng Premier League,20,2001,0.7,16,15,1,0,0,0,0,1,0,0,0,0,15,0,0,Partidos
-2072,Timothee Pembele,fr FRA,DF,Paris S-G,fr Ligue 1,19,2002,2.9,89,69,20,2,0,0,4,18,0,0,0,0,71,0,7,Partidos
-2073,Iñaki Peña,es ESP,PO,Barcelona,es La Liga,23,1999,0.8,27,22,5,1,0,0,0,0,0,0,0,0,25,0,0,Partidos
-2074,Rubén Peña,es ESP,"DF,CC",Osasuna,es La Liga,31,1991,14.2,620,504,113,4,0,1,54,108,1,0,1,0,432,3,19,Partidos
-2075,Patrick Pentz,at AUT,PO,Reims,fr Ligue 1,25,1997,7.0,211,138,73,14,0,0,0,0,0,0,0,0,141,0,0,Partidos
+2051,Paulinho,br BRA,DL,Leverkusen,de Bundesliga,22,2000,0.9,28,27,1,0,0,0,0,0,1,0,0,0,23,0,1,Partidos
+2052,Gabriel Paulista,br BRA,DF,Valencia,es La Liga,31,1990,16.7,769,705,62,36,0,10,0,6,0,0,0,0,645,2,4,Partidos
+2053,Benjamin Pavard,fr FRA,DF,Bayern Munich,de Bundesliga,26,1996,27.0,2400,2242,152,34,2,16,45,117,0,0,0,0,2120,6,20,Partidos
+2054,Jiří Pavlenka,cz CZE,PO,Werder Bremen,de Bundesliga,30,1992,32.3,1176,780,392,113,0,1,0,0,0,0,0,0,832,4,3,Partidos
+2055,Dimitri Payet,fr FRA,"CC,DL",Marseille,fr Ligue 1,35,1987,9.3,520,458,61,18,7,10,58,4,34,16,12,0,386,1,10,Partidos
+2056,Ben Pearson,eng ENG,CC,Bournemouth,eng Premier League,27,1995,3.2,134,130,4,3,0,1,0,0,0,0,0,0,108,0,1,Partidos
+2057,Kristian Pedersen,dk DEN,DF,Köln,de Bundesliga,27,1994,3.1,173,135,38,3,0,2,4,35,0,0,0,0,121,0,4,Partidos
+2058,Mads Pedersen,dk DEN,"DF,CC",Augsburg,de Bundesliga,25,1996,20.4,696,506,187,16,0,7,46,162,9,2,5,0,473,3,22,Partidos
+2059,Alfonso Pedraza,es ESP,DF,Villarreal,es La Liga,26,1996,18.1,832,673,158,8,0,2,76,148,2,1,0,0,641,1,32,Partidos
+2060,Pedri,es ESP,CC,Barcelona,es La Liga,19,2002,22.0,1449,1384,59,22,24,24,25,11,13,1,11,0,1251,6,25,Partidos
+2061,Pedro,es ESP,DL,Lazio,it Serie A,35,1987,21.1,950,919,26,10,2,10,34,12,3,2,0,0,771,5,18,Partidos
+2062,Adrià Pedrosa,es ESP,"DF,CC",Espanyol,es La Liga,24,1998,2.5,76,69,7,1,1,0,9,6,0,0,0,0,61,0,3,Partidos
+2063,Jordan Pefok,us USA,DL,Union Berlin,de Bundesliga,26,1996,15.1,300,294,5,0,1,0,2,2,0,0,0,0,165,1,6,Partidos
+2064,Gianluca Pegolo,it ITA,PO,Sassuolo,it Serie A,41,1981,2.0,77,56,21,5,0,0,0,0,0,0,0,0,64,0,0,Partidos
+2065,Dženan Pejčinović,de GER,DL,Wolfsburg,de Bundesliga,17,2005,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+2066,Peter Pekarík,sk SVK,DF,Hertha BSC,de Bundesliga,35,1986,2.3,115,94,21,0,0,1,4,21,0,0,0,0,89,0,2,Partidos
+2067,Pietro Pellegri,it ITA,DL,Torino,it Serie A,21,2001,5.2,80,71,9,1,0,0,3,0,0,0,0,0,61,0,6,Partidos
+2068,Lorenzo Pellegrini,it ITA,CC,Roma,it Serie A,26,1996,28.3,1114,908,205,86,12,10,162,6,100,45,51,0,816,1,24,Partidos
+2069,Luca Pellegrini,it ITA,DF,Lazio,it Serie A,23,1999,2.0,168,142,26,1,0,3,15,25,0,0,0,0,137,0,4,Partidos
+2070,Luca Pellegrini,it ITA,DF,Eint Frankfurt,de Bundesliga,23,1999,6.2,431,315,113,13,1,7,54,81,19,13,2,0,292,3,23,Partidos
+2071,Théo Pellenard,fr FRA,DF,Auxerre,fr Ligue 1,28,1994,1.1,21,19,2,1,0,0,1,1,0,0,0,0,11,0,2,Partidos
+2072,Facundo Pellistri,uy URU,"DL,CC",Manchester Utd,eng Premier League,20,2001,0.7,16,15,1,0,0,0,0,1,0,0,0,0,15,0,0,Partidos
+2073,Timothee Pembele,fr FRA,DF,Paris S-G,fr Ligue 1,19,2002,2.9,89,69,20,2,0,0,4,18,0,0,0,0,71,0,7,Partidos
+2074,Iñaki Peña,es ESP,PO,Barcelona,es La Liga,23,1999,0.8,27,22,5,1,0,0,0,0,0,0,0,0,25,0,0,Partidos
+2075,Rubén Peña,es ESP,"DF,CC",Osasuna,es La Liga,31,1991,14.2,620,504,113,4,0,1,54,108,1,0,1,0,432,3,19,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2076,Nicolas Pépé,ci CIV,"DL,CC",Nice,fr Ligue 1,27,1995,16.6,694,641,51,15,2,3,42,10,24,11,5,0,558,2,19,Partidos
-2077,Ricardo Pepi,us USA,DL,Augsburg,de Bundesliga,19,2003,1.1,27,25,2,0,0,0,0,0,0,0,0,0,18,0,1,Partidos
-2078,Pepín,gq EQG,CC,Monza,it Serie A,25,1996,12.5,666,646,19,14,3,2,11,3,2,0,1,0,554,1,11,Partidos
-2079,Alberto Perea,es ESP,CC,Cádiz,es La Liga,31,1990,0.5,12,12,0,0,0,0,1,0,0,0,0,0,10,0,0,Partidos
-2080,Juan Perea,co COL,DL,Stuttgart,de Bundesliga,22,2000,4.6,79,72,7,0,0,0,6,3,0,0,0,0,50,0,3,Partidos
-2081,Andreas Pereira,br BRA,CC,Fulham,eng Premier League,26,1996,29.9,1068,826,231,81,1,21,196,6,116,51,50,0,701,11,39,Partidos
-2082,Brayann Pereira,fr FRA,DF,Auxerre,fr Ligue 1,19,2003,2.0,79,63,15,0,0,0,9,15,0,0,0,0,56,1,2,Partidos
-2083,Danilo Pereira,pt POR,"DF,CC",Paris S-G,fr Ligue 1,30,1991,26.8,2068,1989,74,36,1,6,3,21,0,0,0,0,1950,5,8,Partidos
-2084,Mathias Pereira Lage,pt POR,"CC,DL",Brest,fr Ligue 1,25,1996,14.0,387,366,19,6,1,7,34,3,9,9,0,0,257,2,14,Partidos
-2085,Ricardo Pereira,pt POR,"DF,CC",Leicester City,eng Premier League,28,1993,5.0,322,259,61,9,0,0,16,50,0,0,0,0,252,2,14,Partidos
-2086,Roberto Pereyra,ar ARG,"DF,CC",Udinese,it Serie A,31,1991,31.3,1277,1174,99,31,1,7,71,57,4,2,1,0,1038,4,40,Partidos
-2087,Ayoze Pérez,es ESP,"CC,DL",Leicester City,eng Premier League,29,1993,4.2,171,156,14,1,5,0,17,1,11,6,5,0,118,1,11,Partidos
-2088,Ayoze Pérez,es ESP,"DL,CC",Betis,es La Liga,29,1993,15.4,391,372,14,2,2,0,7,5,0,0,0,0,308,5,15,Partidos
-2089,Carles Pérez,es ESP,"CC,DL",Celta Vigo,es La Liga,24,1998,23.8,689,679,8,1,4,6,36,4,2,2,0,0,564,2,12,Partidos
-2090,Francisco Perez,es ESP,"DL,CC",Valencia,es La Liga,19,2002,1.6,77,73,3,0,0,1,8,3,0,0,0,0,59,1,2,Partidos
-2091,Kike Pérez,es ESP,CC,Valladolid,es La Liga,25,1997,25.6,1223,1122,88,47,4,27,58,19,18,10,7,0,927,13,34,Partidos
-2092,Lucas Pérez,es ESP,DL,Cádiz,es La Liga,33,1988,7.0,236,184,49,10,0,2,40,1,23,15,6,0,169,3,4,Partidos
-2093,Luis Pérez,es ESP,DF,Valladolid,es La Liga,27,1995,13.5,574,455,113,9,1,4,54,104,0,0,0,0,436,6,19,Partidos
-2094,Nehuén Pérez,ar ARG,DF,Udinese,it Serie A,22,2000,31.3,1807,1621,184,57,0,63,18,120,0,0,0,0,1538,2,13,Partidos
-2095,Simone Perilli,it ITA,PO,Hellas Verona,it Serie A,27,1995,1.0,34,19,15,2,0,0,0,0,0,0,0,0,10,0,0,Partidos
-2096,Mattia Perin,it ITA,PO,Juventus,it Serie A,29,1992,10.5,351,267,83,20,0,1,0,0,0,0,0,0,265,1,0,Partidos
-2097,Samuele Perisan,it ITA,PO,Empoli,it Serie A,24,1997,7.0,230,134,94,19,0,2,0,0,0,0,0,0,174,2,0,Partidos
-2098,Ivan Perišić,hr CRO,"DF,CC",Tottenham,eng Premier League,33,1989,23.4,1121,895,221,16,0,13,196,138,67,57,6,0,713,5,43,Partidos
-2099,Romain Perraud,fr FRA,DF,Southampton,eng Premier League,24,1997,20.4,885,729,151,7,1,0,77,143,1,0,0,0,623,5,41,Partidos
-2100,Gaëtan Perrin,fr FRA,"CC,DL",Auxerre,fr Ligue 1,26,1996,15.5,434,400,31,12,3,9,30,2,14,4,8,0,315,3,16,Partidos
+2076,Patrick Pentz,at AUT,PO,Reims,fr Ligue 1,25,1997,7.0,211,138,73,14,0,0,0,0,0,0,0,0,141,0,0,Partidos
+2077,Nicolas Pépé,ci CIV,"DL,CC",Nice,fr Ligue 1,27,1995,16.6,694,641,51,15,2,3,42,10,24,11,5,0,558,2,19,Partidos
+2078,Ricardo Pepi,us USA,DL,Augsburg,de Bundesliga,19,2003,1.1,27,25,2,0,0,0,0,0,0,0,0,0,18,0,1,Partidos
+2079,Pepín,gq EQG,CC,Monza,it Serie A,25,1996,12.5,666,646,19,14,3,2,11,3,2,0,1,0,554,1,11,Partidos
+2080,Alberto Perea,es ESP,CC,Cádiz,es La Liga,31,1990,0.5,12,12,0,0,0,0,1,0,0,0,0,0,10,0,0,Partidos
+2081,Juan Perea,co COL,DL,Stuttgart,de Bundesliga,22,2000,4.6,79,72,7,0,0,0,6,3,0,0,0,0,50,0,3,Partidos
+2082,Andreas Pereira,br BRA,CC,Fulham,eng Premier League,26,1996,29.9,1068,826,231,81,1,21,196,6,116,51,50,0,701,11,39,Partidos
+2083,Brayann Pereira,fr FRA,DF,Auxerre,fr Ligue 1,19,2003,2.0,79,63,15,0,0,0,9,15,0,0,0,0,56,1,2,Partidos
+2084,Danilo Pereira,pt POR,"DF,CC",Paris S-G,fr Ligue 1,30,1991,26.8,2068,1989,74,36,1,6,3,21,0,0,0,0,1950,5,8,Partidos
+2085,Mathias Pereira Lage,pt POR,"CC,DL",Brest,fr Ligue 1,25,1996,14.0,387,366,19,6,1,7,34,3,9,9,0,0,257,2,14,Partidos
+2086,Ricardo Pereira,pt POR,"DF,CC",Leicester City,eng Premier League,28,1993,5.0,322,259,61,9,0,0,16,50,0,0,0,0,252,2,14,Partidos
+2087,Roberto Pereyra,ar ARG,"DF,CC",Udinese,it Serie A,31,1991,31.3,1277,1174,99,31,1,7,71,57,4,2,1,0,1038,4,40,Partidos
+2088,Ayoze Pérez,es ESP,"CC,DL",Leicester City,eng Premier League,29,1993,4.2,171,156,14,1,5,0,17,1,11,6,5,0,118,1,11,Partidos
+2089,Ayoze Pérez,es ESP,"DL,CC",Betis,es La Liga,29,1993,15.4,391,372,14,2,2,0,7,5,0,0,0,0,308,5,15,Partidos
+2090,Carles Pérez,es ESP,"CC,DL",Celta Vigo,es La Liga,24,1998,23.8,689,679,8,1,4,6,36,4,2,2,0,0,564,2,12,Partidos
+2091,Francisco Perez,es ESP,"DL,CC",Valencia,es La Liga,19,2002,1.6,77,73,3,0,0,1,8,3,0,0,0,0,59,1,2,Partidos
+2092,Kike Pérez,es ESP,CC,Valladolid,es La Liga,25,1997,25.6,1223,1122,88,47,4,27,58,19,18,10,7,0,927,13,34,Partidos
+2093,Lucas Pérez,es ESP,DL,Cádiz,es La Liga,33,1988,7.0,236,184,49,10,0,2,40,1,23,15,6,0,169,3,4,Partidos
+2094,Luis Pérez,es ESP,DF,Valladolid,es La Liga,27,1995,13.5,574,455,113,9,1,4,54,104,0,0,0,0,436,6,19,Partidos
+2095,Nehuén Pérez,ar ARG,DF,Udinese,it Serie A,22,2000,31.3,1807,1621,184,57,0,63,18,120,0,0,0,0,1538,2,13,Partidos
+2096,Simone Perilli,it ITA,PO,Hellas Verona,it Serie A,27,1995,1.0,34,19,15,2,0,0,0,0,0,0,0,0,10,0,0,Partidos
+2097,Mattia Perin,it ITA,PO,Juventus,it Serie A,29,1992,10.5,351,267,83,20,0,1,0,0,0,0,0,0,265,1,0,Partidos
+2098,Samuele Perisan,it ITA,PO,Empoli,it Serie A,24,1997,7.0,230,134,94,19,0,2,0,0,0,0,0,0,174,2,0,Partidos
+2099,Ivan Perišić,hr CRO,"DF,CC",Tottenham,eng Premier League,33,1989,23.4,1121,895,221,16,0,13,196,138,67,57,6,0,713,5,43,Partidos
+2100,Romain Perraud,fr FRA,DF,Southampton,eng Premier League,24,1997,20.4,885,729,151,7,1,0,77,143,1,0,0,0,623,5,41,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2101,Lucas Perrin,fr FRA,DF,Strasbourg,fr Ligue 1,23,1998,19.6,829,763,65,35,1,12,8,26,0,0,0,0,678,1,11,Partidos
-2102,Máximo Perrone,ar ARG,CC,Manchester City,eng Premier League,19,2003,0.2,21,20,0,0,0,0,0,0,0,0,0,0,18,1,1,Partidos
-2103,Matteo Pessina,it ITA,CC,Monza,it Serie A,25,1997,32.6,2025,1919,94,66,2,10,36,10,15,0,12,0,1719,12,43,Partidos
-2104,Andrea Petagna,it ITA,DL,Monza,it Serie A,27,1995,18.5,434,387,41,0,4,10,3,1,0,0,0,0,316,6,9,Partidos
-2105,Nils Petersen,de GER,DL,Freiburg,de Bundesliga,33,1988,3.1,74,72,2,0,0,0,0,0,0,0,0,0,33,0,1,Partidos
-2106,Lukas Petkov,bg BUL,"CC,DL",Augsburg,de Bundesliga,21,2000,1.6,34,32,2,0,0,0,0,1,0,0,0,0,18,0,2,Partidos
-2107,Cameron Peupion,au AUS,CC,Brighton,eng Premier League,19,2002,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-2108,Germán Pezzella,ar ARG,DF,Betis,es La Liga,31,1991,27.9,1312,1253,55,52,1,8,2,3,0,0,0,0,1129,4,7,Partidos
-2109,Giuseppe Pezzella,it ITA,DF,Lecce,it Serie A,24,1997,10.2,534,410,123,13,0,3,34,109,1,0,1,0,419,1,16,Partidos
-2110,Luca Pfeiffer,de GER,DL,Stuttgart,de Bundesliga,25,1996,7.8,201,186,14,0,1,4,1,0,0,0,0,0,129,1,3,Partidos
-2111,Maximilian Philipp,de GER,DL,Wolfsburg,de Bundesliga,28,1994,1.3,42,34,8,2,0,0,7,1,5,5,0,0,27,0,2,Partidos
-2112,Maximilian Philipp,de GER,"DL,CC",Werder Bremen,de Bundesliga,28,1994,4.9,138,133,3,1,0,1,0,0,0,0,0,0,109,2,1,Partidos
-2113,Kalvin Phillips,eng ENG,CC,Manchester City,eng Premier League,26,1995,3.3,313,310,2,2,0,2,0,0,0,0,0,0,289,1,1,Partidos
-2114,Nathaniel Phillips,eng ENG,DF,Liverpool,eng Premier League,25,1997,0.7,82,80,2,2,0,2,0,0,0,0,0,0,71,0,0,Partidos
-2115,Krzysztof Piątek,pl POL,DL,Salernitana,it Serie A,27,1995,23.8,558,501,51,0,0,1,14,2,0,0,0,0,379,6,12,Partidos
-2116,Roberto Piccoli,it ITA,DL,Hellas Verona,it Serie A,21,2001,2.1,25,23,1,0,0,0,3,0,0,0,0,0,13,1,0,Partidos
-2117,Roberto Piccoli,it ITA,DL,Empoli,it Serie A,21,2001,5.7,97,95,2,0,0,2,1,1,0,0,0,0,62,0,5,Partidos
-2118,Charles Pickel,cd COD,CC,Cremonese,it Serie A,25,1997,27.6,978,940,34,10,0,0,11,14,0,0,0,0,756,4,21,Partidos
-2119,Jordan Pickford,eng ENG,PO,Everton,eng Premier League,28,1994,37.0,1312,823,484,169,1,7,0,0,0,0,0,0,749,5,1,Partidos
-2120,Amos Pieper,de GER,DF,Werder Bremen,de Bundesliga,24,1998,21.7,1206,1156,43,30,0,10,17,13,0,0,0,0,943,7,6,Partidos
-2121,Ronaël Pierre-Gabriel,fr FRA,DF,Espanyol,es La Liga,24,1998,2.6,104,76,28,0,0,0,10,28,0,0,0,0,77,0,4,Partidos
-2122,Ronaël Pierre-Gabriel,fr FRA,DF,Strasbourg,fr Ligue 1,24,1998,7.3,364,295,69,10,0,1,19,59,0,0,0,0,287,0,9,Partidos
-2123,Andrea Pinamonti,it ITA,DL,Sassuolo,it Serie A,23,1999,24.0,496,441,54,0,1,3,14,0,0,0,0,0,324,1,22,Partidos
-2124,Ethan Pinnock,jm JAM,DF,Brentford,eng Premier League,29,1993,30.0,1149,1088,57,14,0,3,10,43,0,0,0,0,914,4,5,Partidos
-2125,Yeremi Pino,es ESP,"DL,CC",Villarreal,es La Liga,19,2002,27.2,845,818,16,1,5,2,20,5,5,0,0,0,651,11,41,Partidos
+2101,Gaëtan Perrin,fr FRA,"CC,DL",Auxerre,fr Ligue 1,26,1996,15.5,434,400,31,12,3,9,30,2,14,4,8,0,315,3,16,Partidos
+2102,Lucas Perrin,fr FRA,DF,Strasbourg,fr Ligue 1,23,1998,19.6,829,763,65,35,1,12,8,26,0,0,0,0,678,1,11,Partidos
+2103,Máximo Perrone,ar ARG,CC,Manchester City,eng Premier League,19,2003,0.2,21,20,0,0,0,0,0,0,0,0,0,0,18,1,1,Partidos
+2104,Matteo Pessina,it ITA,CC,Monza,it Serie A,25,1997,32.6,2025,1919,94,66,2,10,36,10,15,0,12,0,1719,12,43,Partidos
+2105,Andrea Petagna,it ITA,DL,Monza,it Serie A,27,1995,18.5,434,387,41,0,4,10,3,1,0,0,0,0,316,6,9,Partidos
+2106,Nils Petersen,de GER,DL,Freiburg,de Bundesliga,33,1988,3.1,74,72,2,0,0,0,0,0,0,0,0,0,33,0,1,Partidos
+2107,Lukas Petkov,bg BUL,"CC,DL",Augsburg,de Bundesliga,21,2000,1.6,34,32,2,0,0,0,0,1,0,0,0,0,18,0,2,Partidos
+2108,Cameron Peupion,au AUS,CC,Brighton,eng Premier League,19,2002,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+2109,Germán Pezzella,ar ARG,DF,Betis,es La Liga,31,1991,27.9,1312,1253,55,52,1,8,2,3,0,0,0,0,1129,4,7,Partidos
+2110,Giuseppe Pezzella,it ITA,DF,Lecce,it Serie A,24,1997,10.2,534,410,123,13,0,3,34,109,1,0,1,0,419,1,16,Partidos
+2111,Luca Pfeiffer,de GER,DL,Stuttgart,de Bundesliga,25,1996,7.8,201,186,14,0,1,4,1,0,0,0,0,0,129,1,3,Partidos
+2112,Maximilian Philipp,de GER,DL,Wolfsburg,de Bundesliga,28,1994,1.3,42,34,8,2,0,0,7,1,5,5,0,0,27,0,2,Partidos
+2113,Maximilian Philipp,de GER,"DL,CC",Werder Bremen,de Bundesliga,28,1994,4.9,138,133,3,1,0,1,0,0,0,0,0,0,109,2,1,Partidos
+2114,Kalvin Phillips,eng ENG,CC,Manchester City,eng Premier League,26,1995,3.3,313,310,2,2,0,2,0,0,0,0,0,0,289,1,1,Partidos
+2115,Nathaniel Phillips,eng ENG,DF,Liverpool,eng Premier League,25,1997,0.7,82,80,2,2,0,2,0,0,0,0,0,0,71,0,0,Partidos
+2116,Krzysztof Piątek,pl POL,DL,Salernitana,it Serie A,27,1995,23.8,558,501,51,0,0,1,14,2,0,0,0,0,379,6,12,Partidos
+2117,Roberto Piccoli,it ITA,DL,Hellas Verona,it Serie A,21,2001,2.1,25,23,1,0,0,0,3,0,0,0,0,0,13,1,0,Partidos
+2118,Roberto Piccoli,it ITA,DL,Empoli,it Serie A,21,2001,5.7,97,95,2,0,0,2,1,1,0,0,0,0,62,0,5,Partidos
+2119,Charles Pickel,cd COD,CC,Cremonese,it Serie A,25,1997,27.6,978,940,34,10,0,0,11,14,0,0,0,0,756,4,21,Partidos
+2120,Jordan Pickford,eng ENG,PO,Everton,eng Premier League,28,1994,37.0,1312,823,484,169,1,7,0,0,0,0,0,0,749,5,1,Partidos
+2121,Amos Pieper,de GER,DF,Werder Bremen,de Bundesliga,24,1998,21.7,1206,1156,43,30,0,10,17,13,0,0,0,0,943,7,6,Partidos
+2122,Ronaël Pierre-Gabriel,fr FRA,DF,Espanyol,es La Liga,24,1998,2.6,104,76,28,0,0,0,10,28,0,0,0,0,77,0,4,Partidos
+2123,Ronaël Pierre-Gabriel,fr FRA,DF,Strasbourg,fr Ligue 1,24,1998,7.3,364,295,69,10,0,1,19,59,0,0,0,0,287,0,9,Partidos
+2124,Andrea Pinamonti,it ITA,DL,Sassuolo,it Serie A,23,1999,24.0,496,441,54,0,1,3,14,0,0,0,0,0,324,1,22,Partidos
+2125,Ethan Pinnock,jm JAM,DF,Brentford,eng Premier League,29,1993,30.0,1149,1088,57,14,0,3,10,43,0,0,0,0,914,4,5,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2126,Gerard Piqué,es ESP,DF,Barcelona,es La Liga,35,1987,4.3,385,372,11,6,0,6,0,0,0,0,0,0,353,2,2,Partidos
-2127,Lorenzo Pirola,it ITA,DF,Salernitana,it Serie A,20,2002,21.6,989,952,31,26,0,2,1,5,0,0,0,0,790,6,13,Partidos
-2128,Niccolò Pisilli,it ITA,CC,Roma,it Serie A,17,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
-2129,Marko Pjaca,hr CRO,"CC,DL",Empoli,it Serie A,27,1995,5.8,246,218,28,4,0,0,25,2,17,8,6,0,195,0,3,Partidos
-2130,Óscar Plano,es ESP,"DL,CC",Valladolid,es La Liga,31,1991,22.6,640,614,21,3,5,4,23,3,0,0,0,0,468,5,22,Partidos
-2131,Gonzalo Plata,ec ECU,DL,Valladolid,es La Liga,21,2000,25.6,782,712,69,6,3,1,54,34,23,16,2,1,582,1,31,Partidos
-2132,Marvin Plattenhardt,de GER,DF,Hertha BSC,de Bundesliga,30,1992,26.7,1208,801,403,81,0,9,156,262,60,19,33,0,794,4,26,Partidos
-2133,Alassane Pléa,fr FRA,DL,M'Gladbach,de Bundesliga,29,1993,19.7,763,730,30,9,14,4,48,11,2,2,0,0,529,3,41,Partidos
-2134,Tommaso Pobega,it ITA,CC,Milan,it Serie A,23,1999,9.8,401,391,9,7,0,2,5,1,0,0,0,0,307,1,11,Partidos
-2135,Daniel Podence,pt POR,"DL,CC",Wolves,eng Premier League,26,1995,19.7,663,609,51,8,9,7,56,11,26,9,8,0,445,3,19,Partidos
-2136,Paul Pogba,fr FRA,"CC,DL",Juventus,it Serie A,29,1993,1.2,67,67,0,0,1,0,2,0,0,0,0,0,48,0,4,Partidos
-2137,Joel Pohjanpalo,fi FIN,"DL,CC",Leverkusen,de Bundesliga,27,1994,0.0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Partidos
-2138,Matteo Politano,it ITA,DL,Napoli,it Serie A,28,1993,13.0,641,571,64,13,2,8,82,19,32,18,3,0,468,6,24,Partidos
-2139,Sebastian Polter,de GER,DL,Schalke 04,de Bundesliga,31,1991,7.0,160,142,13,1,0,1,2,0,0,0,0,0,84,5,3,Partidos
-2140,Ezequiel Ponce,ar ARG,"DL,CC",Elche,es La Liga,25,1997,12.5,292,280,9,0,1,4,1,1,0,0,0,0,218,3,8,Partidos
-2141,Julien Ponceau,fr FRA,CC,Lorient,fr Ligue 1,21,2000,18.4,840,786,50,12,2,2,12,9,2,0,0,0,691,4,23,Partidos
-2142,Marin Pongračić,hr CRO,DF,Lecce,it Serie A,24,1997,8.8,361,324,37,37,0,3,0,0,0,0,0,0,296,0,1,Partidos
-2143,Nick Pope,eng ENG,PO,Newcastle Utd,eng Premier League,30,1992,36.2,890,612,278,71,0,3,0,0,0,0,0,0,614,0,1,Partidos
-2144,Łukasz Poręba,pl POL,CC,Lens,fr Ligue 1,22,2000,2.9,143,142,1,1,0,0,6,0,0,0,0,0,116,0,1,Partidos
-2145,Jackson Porozo,ec ECU,DF,Troyes,fr Ligue 1,21,2000,18.0,629,599,30,24,0,4,3,6,0,0,0,0,512,0,8,Partidos
-2146,Pedro Porro,es ESP,"DF,CC",Tottenham,eng Premier League,22,1999,12.6,648,525,121,6,7,4,77,91,24,12,12,0,465,2,29,Partidos
-2147,Francisco Portillo,es ESP,"CC,DL",Almería,es La Liga,32,1990,8.0,459,436,20,5,6,1,12,8,7,1,3,0,365,3,13,Partidos
-2148,Portu,es ESP,"CC,DF",Getafe,es La Liga,30,1992,19.7,731,599,123,7,1,2,91,108,8,5,3,0,493,9,44,Partidos
-2149,Stefan Posch,at AUT,DF,Bologna,it Serie A,25,1997,28.1,1805,1489,311,35,4,16,49,276,0,0,0,0,1399,5,45,Partidos
-2150,Stefan Posch,at AUT,DF,Hoffenheim,de Bundesliga,25,1997,0.2,12,10,2,2,0,0,0,0,0,0,0,0,8,0,1,Partidos
+2126,Yeremi Pino,es ESP,"DL,CC",Villarreal,es La Liga,19,2002,27.2,845,818,16,1,5,2,20,5,5,0,0,0,651,11,41,Partidos
+2127,Gerard Piqué,es ESP,DF,Barcelona,es La Liga,35,1987,4.3,385,372,11,6,0,6,0,0,0,0,0,0,353,2,2,Partidos
+2128,Lorenzo Pirola,it ITA,DF,Salernitana,it Serie A,20,2002,21.6,989,952,31,26,0,2,1,5,0,0,0,0,790,6,13,Partidos
+2129,Niccolò Pisilli,it ITA,CC,Roma,it Serie A,17,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+2130,Marko Pjaca,hr CRO,"CC,DL",Empoli,it Serie A,27,1995,5.8,246,218,28,4,0,0,25,2,17,8,6,0,195,0,3,Partidos
+2131,Óscar Plano,es ESP,"DL,CC",Valladolid,es La Liga,31,1991,22.6,640,614,21,3,5,4,23,3,0,0,0,0,468,5,22,Partidos
+2132,Gonzalo Plata,ec ECU,DL,Valladolid,es La Liga,21,2000,25.6,782,712,69,6,3,1,54,34,23,16,2,1,582,1,31,Partidos
+2133,Marvin Plattenhardt,de GER,DF,Hertha BSC,de Bundesliga,30,1992,26.7,1208,801,403,81,0,9,156,262,60,19,33,0,794,4,26,Partidos
+2134,Alassane Pléa,fr FRA,DL,M'Gladbach,de Bundesliga,29,1993,19.7,763,730,30,9,14,4,48,11,2,2,0,0,529,3,41,Partidos
+2135,Tommaso Pobega,it ITA,CC,Milan,it Serie A,23,1999,9.8,401,391,9,7,0,2,5,1,0,0,0,0,307,1,11,Partidos
+2136,Daniel Podence,pt POR,"DL,CC",Wolves,eng Premier League,26,1995,19.7,663,609,51,8,9,7,56,11,26,9,8,0,445,3,19,Partidos
+2137,Paul Pogba,fr FRA,"CC,DL",Juventus,it Serie A,29,1993,1.2,67,67,0,0,1,0,2,0,0,0,0,0,48,0,4,Partidos
+2138,Joel Pohjanpalo,fi FIN,"DL,CC",Leverkusen,de Bundesliga,27,1994,0.0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Partidos
+2139,Matteo Politano,it ITA,DL,Napoli,it Serie A,28,1993,13.0,641,571,64,13,2,8,82,19,32,18,3,0,468,6,24,Partidos
+2140,Sebastian Polter,de GER,DL,Schalke 04,de Bundesliga,31,1991,7.0,160,142,13,1,0,1,2,0,0,0,0,0,84,5,3,Partidos
+2141,Ezequiel Ponce,ar ARG,"DL,CC",Elche,es La Liga,25,1997,12.5,292,280,9,0,1,4,1,1,0,0,0,0,218,3,8,Partidos
+2142,Julien Ponceau,fr FRA,CC,Lorient,fr Ligue 1,21,2000,18.4,840,786,50,12,2,2,12,9,2,0,0,0,691,4,23,Partidos
+2143,Marin Pongračić,hr CRO,DF,Lecce,it Serie A,24,1997,8.8,361,324,37,37,0,3,0,0,0,0,0,0,296,0,1,Partidos
+2144,Nick Pope,eng ENG,PO,Newcastle Utd,eng Premier League,30,1992,36.2,890,612,278,71,0,3,0,0,0,0,0,0,614,0,1,Partidos
+2145,Łukasz Poręba,pl POL,CC,Lens,fr Ligue 1,22,2000,2.9,143,142,1,1,0,0,6,0,0,0,0,0,116,0,1,Partidos
+2146,Jackson Porozo,ec ECU,DF,Troyes,fr Ligue 1,21,2000,18.0,629,599,30,24,0,4,3,6,0,0,0,0,512,0,8,Partidos
+2147,Pedro Porro,es ESP,"DF,CC",Tottenham,eng Premier League,22,1999,12.6,648,525,121,6,7,4,77,91,24,12,12,0,465,2,29,Partidos
+2148,Francisco Portillo,es ESP,"CC,DL",Almería,es La Liga,32,1990,8.0,459,436,20,5,6,1,12,8,7,1,3,0,365,3,13,Partidos
+2149,Portu,es ESP,"CC,DF",Getafe,es La Liga,30,1992,19.7,731,599,123,7,1,2,91,108,8,5,3,0,493,9,44,Partidos
+2150,Stefan Posch,at AUT,DF,Bologna,it Serie A,25,1997,28.1,1805,1489,311,35,4,16,49,276,0,0,0,0,1399,5,45,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2151,Yussuf Poulsen,dk DEN,DL,RB Leipzig,de Bundesliga,28,1994,4.6,126,120,5,0,3,0,4,3,0,0,0,0,69,1,2,Partidos
-2152,José Pozo,es ESP,"CC,DL",Rayo Vallecano,es La Liga,26,1996,1.0,45,42,3,3,1,0,4,0,0,0,0,0,34,0,1,Partidos
-2153,Manuel Pozo,es ESP,DL,Valladolid,es La Liga,20,2001,0.2,8,7,1,0,0,0,1,1,0,0,0,0,6,0,0,Partidos
-2154,Alejandro Pozo Pozo,es ESP,DF,Almería,es La Liga,23,1999,20.9,1117,912,197,13,0,5,70,184,0,0,0,0,814,8,32,Partidos
-2155,Dennis Praet,be BEL,"CC,DL",Leicester City,eng Premier League,28,1994,7.2,270,254,14,2,2,0,15,5,2,0,0,0,200,2,15,Partidos
-2156,Abdón Prats,es ESP,"DL,CC",Mallorca,es La Liga,29,1992,4.6,91,86,5,1,2,2,0,0,0,0,0,0,58,0,0,Partidos
-2157,Sanjin Prcić,ba BIH,CC,Strasbourg,fr Ligue 1,28,1993,18.1,1056,989,66,51,3,10,29,0,13,9,4,0,890,1,11,Partidos
-2158,Isaac Price,nir NIR,CC,Everton,eng Premier League,18,2003,0.4,14,14,0,0,0,0,1,0,0,0,0,0,12,0,0,Partidos
-2159,Grischa Prömel,de GER,CC,Hoffenheim,de Bundesliga,27,1995,16.2,473,454,14,7,0,0,6,4,0,0,0,0,363,5,12,Partidos
-2160,Ivan Provedel,it ITA,PO,Lazio,it Serie A,28,1994,37.9,1323,1037,282,84,0,9,0,0,0,0,0,0,1061,4,0,Partidos
-2161,Javi Puado,es ESP,"DL,CC",Espanyol,es La Liga,24,1998,26.0,590,572,17,2,0,1,36,10,2,0,1,0,450,1,22,Partidos
-2162,Mehdi Puch Herrantz,fr FRA,CC,Ajaccio,fr Ligue 1,18,2004,0.5,28,28,0,0,0,0,0,0,0,0,0,0,22,0,0,Partidos
-2163,Tymoteusz Puchacz,pl POL,DF,Union Berlin,de Bundesliga,23,1999,0.6,36,27,8,1,0,0,5,4,3,1,0,0,22,1,1,Partidos
-2164,Arnau Puigmal,es ESP,"CC,DL",Almería,es La Liga,21,2001,8.5,274,237,35,3,4,0,18,23,9,0,3,0,193,2,9,Partidos
-2165,Christian Pulisic,us USA,"DL,DF",Chelsea,eng Premier League,23,1998,9.1,301,294,4,0,1,0,18,4,0,0,0,0,238,3,8,Partidos
-2166,Ignacio Pussetto,ar ARG,"CC,DF",Sampdoria,it Serie A,26,1995,1.7,56,55,1,1,0,1,5,0,0,0,0,0,34,0,4,Partidos
-2167,Niklas Pyyhtiä,fi FIN,CC,Bologna,it Serie A,18,2003,1.2,53,51,2,1,0,0,0,1,0,0,0,0,41,0,1,Partidos
-2168,Fabio Quagliarella,it ITA,DL,Sampdoria,it Serie A,39,1983,8.9,245,223,20,1,2,5,14,2,0,0,0,0,159,2,11,Partidos
-2169,Giacomo Quagliata,it ITA,DF,Cremonese,it Serie A,22,2000,7.8,338,264,73,5,0,0,54,60,8,3,4,0,221,1,14,Partidos
-2170,Eduardo Quaresma,pt POR,DF,Hoffenheim,de Bundesliga,20,2002,1.0,68,67,1,0,0,0,0,1,0,0,0,0,60,0,0,Partidos
-2171,Joshua Quarshie,de GER,CC,Hoffenheim,de Bundesliga,18,2004,0.0,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,Partidos
-2172,Ghjuvanni Quilichini,fr FRA,PO,Ajaccio,fr Ligue 1,19,2002,0.9,34,20,14,6,0,0,0,0,0,0,0,0,14,0,0,Partidos
-2173,Domingos Quina,pt POR,CC,Elche,es La Liga,22,1999,3.1,147,137,9,4,2,0,6,4,1,0,0,0,122,1,3,Partidos
-2174,Rubén Quintanilla,es ESP,DF,Mallorca,es La Liga,20,2002,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
-2175,Adrien Rabiot,fr FRA,CC,Juventus,it Serie A,27,1995,30.5,1191,1153,32,16,2,6,34,15,0,0,0,0,971,6,22,Partidos
+2151,Stefan Posch,at AUT,DF,Hoffenheim,de Bundesliga,25,1997,0.2,12,10,2,2,0,0,0,0,0,0,0,0,8,0,1,Partidos
+2152,Yussuf Poulsen,dk DEN,DL,RB Leipzig,de Bundesliga,28,1994,4.6,126,120,5,0,3,0,4,3,0,0,0,0,69,1,2,Partidos
+2153,José Pozo,es ESP,"CC,DL",Rayo Vallecano,es La Liga,26,1996,1.0,45,42,3,3,1,0,4,0,0,0,0,0,34,0,1,Partidos
+2154,Manuel Pozo,es ESP,DL,Valladolid,es La Liga,20,2001,0.2,8,7,1,0,0,0,1,1,0,0,0,0,6,0,0,Partidos
+2155,Alejandro Pozo Pozo,es ESP,DF,Almería,es La Liga,23,1999,20.9,1117,912,197,13,0,5,70,184,0,0,0,0,814,8,32,Partidos
+2156,Dennis Praet,be BEL,"CC,DL",Leicester City,eng Premier League,28,1994,7.2,270,254,14,2,2,0,15,5,2,0,0,0,200,2,15,Partidos
+2157,Abdón Prats,es ESP,"DL,CC",Mallorca,es La Liga,29,1992,4.6,91,86,5,1,2,2,0,0,0,0,0,0,58,0,0,Partidos
+2158,Sanjin Prcić,ba BIH,CC,Strasbourg,fr Ligue 1,28,1993,18.1,1056,989,66,51,3,10,29,0,13,9,4,0,890,1,11,Partidos
+2159,Isaac Price,nir NIR,CC,Everton,eng Premier League,18,2003,0.4,14,14,0,0,0,0,1,0,0,0,0,0,12,0,0,Partidos
+2160,Grischa Prömel,de GER,CC,Hoffenheim,de Bundesliga,27,1995,16.2,473,454,14,7,0,0,6,4,0,0,0,0,363,5,12,Partidos
+2161,Ivan Provedel,it ITA,PO,Lazio,it Serie A,28,1994,37.9,1323,1037,282,84,0,9,0,0,0,0,0,0,1061,4,0,Partidos
+2162,Javi Puado,es ESP,"DL,CC",Espanyol,es La Liga,24,1998,26.0,590,572,17,2,0,1,36,10,2,0,1,0,450,1,22,Partidos
+2163,Mehdi Puch Herrantz,fr FRA,CC,Ajaccio,fr Ligue 1,18,2004,0.5,28,28,0,0,0,0,0,0,0,0,0,0,22,0,0,Partidos
+2164,Tymoteusz Puchacz,pl POL,DF,Union Berlin,de Bundesliga,23,1999,0.6,36,27,8,1,0,0,5,4,3,1,0,0,22,1,1,Partidos
+2165,Arnau Puigmal,es ESP,"CC,DL",Almería,es La Liga,21,2001,8.5,274,237,35,3,4,0,18,23,9,0,3,0,193,2,9,Partidos
+2166,Christian Pulisic,us USA,"DL,DF",Chelsea,eng Premier League,23,1998,9.1,301,294,4,0,1,0,18,4,0,0,0,0,238,3,8,Partidos
+2167,Ignacio Pussetto,ar ARG,"CC,DF",Sampdoria,it Serie A,26,1995,1.7,56,55,1,1,0,1,5,0,0,0,0,0,34,0,4,Partidos
+2168,Niklas Pyyhtiä,fi FIN,CC,Bologna,it Serie A,18,2003,1.2,53,51,2,1,0,0,0,1,0,0,0,0,41,0,1,Partidos
+2169,Fabio Quagliarella,it ITA,DL,Sampdoria,it Serie A,39,1983,8.9,245,223,20,1,2,5,14,2,0,0,0,0,159,2,11,Partidos
+2170,Giacomo Quagliata,it ITA,DF,Cremonese,it Serie A,22,2000,7.8,338,264,73,5,0,0,54,60,8,3,4,0,221,1,14,Partidos
+2171,Eduardo Quaresma,pt POR,DF,Hoffenheim,de Bundesliga,20,2002,1.0,68,67,1,0,0,0,0,1,0,0,0,0,60,0,0,Partidos
+2172,Joshua Quarshie,de GER,CC,Hoffenheim,de Bundesliga,18,2004,0.0,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,Partidos
+2173,Ghjuvanni Quilichini,fr FRA,PO,Ajaccio,fr Ligue 1,19,2002,0.9,34,20,14,6,0,0,0,0,0,0,0,0,14,0,0,Partidos
+2174,Domingos Quina,pt POR,CC,Elche,es La Liga,22,1999,3.1,147,137,9,4,2,0,6,4,1,0,0,0,122,1,3,Partidos
+2175,Rubén Quintanilla,es ESP,DF,Mallorca,es La Liga,20,2002,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2176,Nemanja Radonjić,rs SRB,"CC,DL",Torino,it Serie A,26,1996,16.2,473,440,29,1,2,5,76,3,25,17,5,0,298,4,23,Partidos
-2177,Ivan Radovanović,rs SRB,"CC,DF",Salernitana,it Serie A,33,1988,7.5,265,252,12,12,2,3,0,0,0,0,0,0,214,1,1,Partidos
-2178,Ionuț Radu,ro ROU,PO,Cremonese,it Serie A,25,1997,9.0,336,248,84,17,0,0,0,0,0,0,0,0,221,4,0,Partidos
-2179,Ionuț Radu,ro ROU,PO,Auxerre,fr Ligue 1,25,1997,17.0,598,411,186,58,0,0,0,0,0,0,0,0,345,1,0,Partidos
-2180,Ștefan Radu,ro ROU,DL,Lazio,it Serie A,35,1986,0.0,7,6,1,0,0,0,0,1,0,0,0,0,6,0,0,Partidos
-2181,Antonio Raillo,es ESP,DF,Mallorca,es La Liga,30,1991,30.7,1088,1022,62,57,0,0,0,3,0,0,0,0,902,4,6,Partidos
-2182,Antonio Raimondo,it ITA,DL,Bologna,it Serie A,18,2004,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-2183,Predrag Rajković,rs SRB,PO,Mallorca,es La Liga,26,1995,36.0,1210,750,458,149,0,5,0,0,0,0,0,0,717,2,0,Partidos
-2184,Ivan Rakitić,hr CRO,CC,Sevilla,es La Liga,34,1988,19.9,1241,1121,117,66,2,33,74,12,38,8,23,0,997,3,21,Partidos
-2185,Diant Ramaj,de GER,PO,Eint Frankfurt,de Bundesliga,20,2001,1.0,25,19,6,2,0,0,0,0,0,0,0,0,21,0,0,Partidos
-2186,Largie Ramazani,be BEL,"DL,CC",Almería,es La Liga,21,2001,15.6,291,266,20,1,3,1,20,7,1,1,0,0,195,5,18,Partidos
-2187,Simon Ramet,fr FRA,DF,Lille,fr Ligue 1,19,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
-2188,Adil Rami,fr FRA,DF,Troyes,fr Ligue 1,36,1985,17.7,731,691,35,31,0,7,5,3,0,0,0,0,615,5,8,Partidos
-2189,Chris Ramos,es ESP,DL,Cádiz,es La Liga,25,1997,7.9,149,141,4,0,0,0,6,0,0,0,0,0,79,4,5,Partidos
-2190,Sergio Ramos,es ESP,DF,Paris S-G,fr Ligue 1,36,1986,30.0,2535,2453,80,47,2,38,13,27,0,0,0,0,2394,2,13,Partidos
-2191,Aaron Ramsdale,eng ENG,PO,Arsenal,eng Premier League,24,1998,38.0,1111,872,237,83,0,6,0,1,0,0,0,0,761,2,3,Partidos
-2192,Aaron Ramsey,wls WAL,CC,Nice,fr Ligue 1,31,1990,17.6,1088,998,88,37,5,11,62,6,45,16,18,0,915,2,10,Partidos
-2193,Jacob Ramsey,eng ENG,"CC,DL",Aston Villa,eng Premier League,21,2001,29.3,889,880,3,2,3,3,18,1,0,0,0,0,728,6,26,Partidos
-2194,Luca Ranieri,it ITA,DF,Fiorentina,it Serie A,23,1999,5.6,334,322,10,5,0,1,0,5,0,0,0,0,278,2,3,Partidos
-2195,Andrea Ranocchia,it ITA,DF,Monza,it Serie A,34,1988,0.5,19,15,4,1,0,0,0,0,0,0,0,0,16,0,0,Partidos
-2196,Filippo Ranocchia,it ITA,CC,Monza,it Serie A,21,2001,5.9,255,242,13,7,3,9,13,2,4,0,4,0,201,0,6,Partidos
-2197,Lilian Raolisoa,fr FRA,"DF,CC",Angers,fr Ligue 1,22,2000,1.9,119,103,16,2,1,1,10,13,1,1,0,0,98,0,0,Partidos
-2198,Raphinha,br BRA,DL,Barcelona,es La Liga,25,1996,23.0,1266,1072,185,35,12,26,172,42,108,44,35,1,915,9,30,Partidos
-2199,Nicolai Rapp,de GER,"CC,DF",Werder Bremen,de Bundesliga,25,1996,0.8,59,56,3,2,0,1,1,1,0,0,0,0,47,0,2,Partidos
-2200,Elba Rashani,xk KVX,"CC,DL",Clermont Foot,fr Ligue 1,29,1993,24.0,729,702,24,5,2,2,58,18,1,0,0,0,543,3,40,Partidos
+2176,Adrien Rabiot,fr FRA,CC,Juventus,it Serie A,27,1995,30.5,1191,1153,32,16,2,6,34,15,0,0,0,0,971,6,22,Partidos
+2177,Nemanja Radonjić,rs SRB,"CC,DL",Torino,it Serie A,26,1996,16.2,473,440,29,1,2,5,76,3,25,17,5,0,298,4,23,Partidos
+2178,Ivan Radovanović,rs SRB,"CC,DF",Salernitana,it Serie A,33,1988,7.5,265,252,12,12,2,3,0,0,0,0,0,0,214,1,1,Partidos
+2179,Ionuț Radu,ro ROU,PO,Cremonese,it Serie A,25,1997,9.0,336,248,84,17,0,0,0,0,0,0,0,0,221,4,0,Partidos
+2180,Ionuț Radu,ro ROU,PO,Auxerre,fr Ligue 1,25,1997,17.0,598,411,186,58,0,0,0,0,0,0,0,0,345,1,0,Partidos
+2181,Ștefan Radu,ro ROU,DL,Lazio,it Serie A,35,1986,0.0,7,6,1,0,0,0,0,1,0,0,0,0,6,0,0,Partidos
+2182,Antonio Raillo,es ESP,DF,Mallorca,es La Liga,30,1991,30.7,1088,1022,62,57,0,0,0,3,0,0,0,0,902,4,6,Partidos
+2183,Antonio Raimondo,it ITA,DL,Bologna,it Serie A,18,2004,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+2184,Predrag Rajković,rs SRB,PO,Mallorca,es La Liga,26,1995,36.0,1210,750,458,149,0,5,0,0,0,0,0,0,717,2,0,Partidos
+2185,Ivan Rakitić,hr CRO,CC,Sevilla,es La Liga,34,1988,19.9,1241,1121,117,66,2,33,74,12,38,8,23,0,997,3,21,Partidos
+2186,Diant Ramaj,de GER,PO,Eint Frankfurt,de Bundesliga,20,2001,1.0,25,19,6,2,0,0,0,0,0,0,0,0,21,0,0,Partidos
+2187,Largie Ramazani,be BEL,"DL,CC",Almería,es La Liga,21,2001,15.6,291,266,20,1,3,1,20,7,1,1,0,0,195,5,18,Partidos
+2188,Simon Ramet,fr FRA,DF,Lille,fr Ligue 1,19,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+2189,Adil Rami,fr FRA,DF,Troyes,fr Ligue 1,36,1985,17.7,731,691,35,31,0,7,5,3,0,0,0,0,615,5,8,Partidos
+2190,Chris Ramos,es ESP,DL,Cádiz,es La Liga,25,1997,7.9,149,141,4,0,0,0,6,0,0,0,0,0,79,4,5,Partidos
+2191,Sergio Ramos,es ESP,DF,Paris S-G,fr Ligue 1,36,1986,30.0,2535,2453,80,47,2,38,13,27,0,0,0,0,2394,2,13,Partidos
+2192,Aaron Ramsdale,eng ENG,PO,Arsenal,eng Premier League,24,1998,38.0,1111,872,237,83,0,6,0,1,0,0,0,0,761,2,3,Partidos
+2193,Aaron Ramsey,wls WAL,CC,Nice,fr Ligue 1,31,1990,17.6,1088,998,88,37,5,11,62,6,45,16,18,0,915,2,10,Partidos
+2194,Jacob Ramsey,eng ENG,"CC,DL",Aston Villa,eng Premier League,21,2001,29.3,889,880,3,2,3,3,18,1,0,0,0,0,728,6,26,Partidos
+2195,Luca Ranieri,it ITA,DF,Fiorentina,it Serie A,23,1999,5.6,334,322,10,5,0,1,0,5,0,0,0,0,278,2,3,Partidos
+2196,Andrea Ranocchia,it ITA,DF,Monza,it Serie A,34,1988,0.5,19,15,4,1,0,0,0,0,0,0,0,0,16,0,0,Partidos
+2197,Filippo Ranocchia,it ITA,CC,Monza,it Serie A,21,2001,5.9,255,242,13,7,3,9,13,2,4,0,4,0,201,0,6,Partidos
+2198,Lilian Raolisoa,fr FRA,"DF,CC",Angers,fr Ligue 1,22,2000,1.9,119,103,16,2,1,1,10,13,1,1,0,0,98,0,0,Partidos
+2199,Raphinha,br BRA,DL,Barcelona,es La Liga,25,1996,23.0,1266,1072,185,35,12,26,172,42,108,44,35,1,915,9,30,Partidos
+2200,Nicolai Rapp,de GER,"CC,DF",Werder Bremen,de Bundesliga,25,1996,0.8,59,56,3,2,0,1,1,1,0,0,0,0,47,0,2,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2201,Marcus Rashford,eng ENG,DL,Manchester Utd,eng Premier League,24,1997,32.0,817,790,22,2,2,6,24,9,0,0,0,0,627,5,31,Partidos
-2202,Giacomo Raspadori,it ITA,DL,Sassuolo,it Serie A,22,2000,0.5,12,9,3,0,0,0,1,0,1,1,0,0,10,0,0,Partidos
-2203,Giacomo Raspadori,it ITA,"DL,CC",Napoli,it Serie A,22,2000,10.1,452,409,43,16,0,6,32,1,19,9,4,0,348,0,14,Partidos
-2204,Rafael Ratão,br BRA,"DL,CC",Toulouse,fr Ligue 1,26,1995,20.6,800,777,18,1,5,3,52,16,0,0,0,0,590,5,25,Partidos
-2205,David Raum,de GER,"DF,CC",RB Leipzig,de Bundesliga,24,1998,18.7,1189,937,248,22,3,4,141,170,56,16,31,0,898,4,40,Partidos
-2206,Nicola Ravaglia,it ITA,PO,Sampdoria,it Serie A,33,1988,9.0,325,194,131,32,0,0,0,0,0,0,0,0,213,0,0,Partidos
-2207,Rayan Raveloson,mg MAD,"DF,CC",Auxerre,fr Ligue 1,25,1997,27.0,1130,982,146,30,1,20,33,115,1,1,0,0,917,2,21,Partidos
-2208,David Raya,es ESP,PO,Brentford,eng Premier League,26,1995,38.0,1640,1181,455,185,0,19,0,1,0,0,0,0,1054,4,1,Partidos
-2209,Tim Ream,us USA,DF,Fulham,eng Premier League,34,1987,32.2,1922,1858,59,34,0,25,4,11,0,0,0,0,1662,5,8,Partidos
-2210,Ante Rebić,hr CRO,"DL,CC",Milan,it Serie A,28,1993,10.9,334,316,15,2,4,1,39,4,4,2,1,0,187,3,16,Partidos
-2211,Arkadiusz Reca,pl POL,DF,Spezia,it Serie A,27,1995,24.1,1197,943,250,5,0,9,99,245,0,0,0,0,827,4,45,Partidos
-2212,Nathan Redmond,eng ENG,DF,Southampton,eng Premier League,28,1994,0.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Partidos
-2213,Harrison Reed,eng ENG,CC,Fulham,eng Premier League,27,1995,31.8,1281,1225,51,14,0,4,54,5,3,2,1,0,988,5,46,Partidos
-2214,Sergio Reguilón,es ESP,DF,Atlético Madrid,es La Liga,25,1996,3.4,147,131,15,1,1,0,9,14,0,0,0,0,117,1,7,Partidos
-2215,Bobby Reid,jm JAM,"DL,DF",Fulham,eng Premier League,29,1993,27.5,907,829,74,6,1,2,53,68,0,0,0,0,636,4,35,Partidos
-2216,Pepe Reina,es ESP,PO,Villarreal,es La Liga,39,1982,22.0,855,678,176,58,0,2,0,0,0,0,0,0,685,1,1,Partidos
-2217,Jeff Reine-Adélaïde,fr FRA,CC,Troyes,fr Ligue 1,24,1998,2.6,128,120,8,5,0,1,0,0,0,0,0,0,106,0,3,Partidos
-2218,Jeff Reine-Adélaïde,fr FRA,CC,Lyon,fr Ligue 1,24,1998,3.7,329,312,16,5,2,0,13,1,8,4,2,0,285,1,5,Partidos
-2219,Reinier,br BRA,"CC,DL",Girona,es La Liga,20,2002,7.2,248,241,6,2,1,1,2,1,0,0,0,0,198,1,8,Partidos
-2220,Rocco Reitz,de GER,CC,M'Gladbach,de Bundesliga,20,2002,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
-2221,Karim Rekik,nl NED,DF,Sevilla,es La Liga,27,1994,13.1,700,671,27,9,0,3,1,18,0,0,0,0,642,2,0,Partidos
-2222,Álex Remiro,es ESP,PO,Real Sociedad,es La Liga,27,1995,38.0,1313,970,336,120,0,3,0,0,0,0,0,0,941,7,0,Partidos
-2223,Panagiotis Retsos,gr GRE,DF,Hellas Verona,it Serie A,23,1998,1.4,56,43,12,3,0,1,0,9,0,0,0,0,44,1,1,Partidos
-2224,Marco Reus,de GER,"CC,DL",Dortmund,de Bundesliga,33,1989,15.0,568,525,42,19,0,1,19,3,6,1,0,0,450,1,21,Partidos
-2225,Alejandro Revuelta Montero,es ESP,DF,Getafe,es La Liga,22,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+2201,Elba Rashani,xk KVX,"CC,DL",Clermont Foot,fr Ligue 1,29,1993,24.0,729,702,24,5,2,2,58,18,1,0,0,0,543,3,40,Partidos
+2202,Marcus Rashford,eng ENG,DL,Manchester Utd,eng Premier League,24,1997,32.0,817,790,22,2,2,6,24,9,0,0,0,0,627,5,31,Partidos
+2203,Giacomo Raspadori,it ITA,DL,Sassuolo,it Serie A,22,2000,0.5,12,9,3,0,0,0,1,0,1,1,0,0,10,0,0,Partidos
+2204,Giacomo Raspadori,it ITA,"DL,CC",Napoli,it Serie A,22,2000,10.1,452,409,43,16,0,6,32,1,19,9,4,0,348,0,14,Partidos
+2205,Rafael Ratão,br BRA,"DL,CC",Toulouse,fr Ligue 1,26,1995,20.6,800,777,18,1,5,3,52,16,0,0,0,0,590,5,25,Partidos
+2206,David Raum,de GER,"DF,CC",RB Leipzig,de Bundesliga,24,1998,18.7,1189,937,248,22,3,4,141,170,56,16,31,0,898,4,40,Partidos
+2207,Nicola Ravaglia,it ITA,PO,Sampdoria,it Serie A,33,1988,9.0,325,194,131,32,0,0,0,0,0,0,0,0,213,0,0,Partidos
+2208,Rayan Raveloson,mg MAD,"DF,CC",Auxerre,fr Ligue 1,25,1997,27.0,1130,982,146,30,1,20,33,115,1,1,0,0,917,2,21,Partidos
+2209,David Raya,es ESP,PO,Brentford,eng Premier League,26,1995,38.0,1640,1181,455,185,0,19,0,1,0,0,0,0,1054,4,1,Partidos
+2210,Tim Ream,us USA,DF,Fulham,eng Premier League,34,1987,32.2,1922,1858,59,34,0,25,4,11,0,0,0,0,1662,5,8,Partidos
+2211,Ante Rebić,hr CRO,"DL,CC",Milan,it Serie A,28,1993,10.9,334,316,15,2,4,1,39,4,4,2,1,0,187,3,16,Partidos
+2212,Arkadiusz Reca,pl POL,DF,Spezia,it Serie A,27,1995,24.1,1197,943,250,5,0,9,99,245,0,0,0,0,827,4,45,Partidos
+2213,Nathan Redmond,eng ENG,DF,Southampton,eng Premier League,28,1994,0.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Partidos
+2214,Harrison Reed,eng ENG,CC,Fulham,eng Premier League,27,1995,31.8,1281,1225,51,14,0,4,54,5,3,2,1,0,988,5,46,Partidos
+2215,Sergio Reguilón,es ESP,DF,Atlético Madrid,es La Liga,25,1996,3.4,147,131,15,1,1,0,9,14,0,0,0,0,117,1,7,Partidos
+2216,Bobby Reid,jm JAM,"DL,DF",Fulham,eng Premier League,29,1993,27.5,907,829,74,6,1,2,53,68,0,0,0,0,636,4,35,Partidos
+2217,Pepe Reina,es ESP,PO,Villarreal,es La Liga,39,1982,22.0,855,678,176,58,0,2,0,0,0,0,0,0,685,1,1,Partidos
+2218,Jeff Reine-Adélaïde,fr FRA,CC,Troyes,fr Ligue 1,24,1998,2.6,128,120,8,5,0,1,0,0,0,0,0,0,106,0,3,Partidos
+2219,Jeff Reine-Adélaïde,fr FRA,CC,Lyon,fr Ligue 1,24,1998,3.7,329,312,16,5,2,0,13,1,8,4,2,0,285,1,5,Partidos
+2220,Reinier,br BRA,"CC,DL",Girona,es La Liga,20,2002,7.2,248,241,6,2,1,1,2,1,0,0,0,0,198,1,8,Partidos
+2221,Rocco Reitz,de GER,CC,M'Gladbach,de Bundesliga,20,2002,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Partidos
+2222,Karim Rekik,nl NED,DF,Sevilla,es La Liga,27,1994,13.1,700,671,27,9,0,3,1,18,0,0,0,0,642,2,0,Partidos
+2223,Álex Remiro,es ESP,PO,Real Sociedad,es La Liga,27,1995,38.0,1313,970,336,120,0,3,0,0,0,0,0,0,941,7,0,Partidos
+2224,Panagiotis Retsos,gr GRE,DF,Hellas Verona,it Serie A,23,1998,1.4,56,43,12,3,0,1,0,9,0,0,0,0,44,1,1,Partidos
+2225,Marco Reus,de GER,"CC,DL",Dortmund,de Bundesliga,33,1989,15.0,568,525,42,19,0,1,19,3,6,1,0,0,450,1,21,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2226,Elvis Rexhbeçaj,de GER,CC,Augsburg,de Bundesliga,24,1997,28.0,911,862,44,20,4,2,17,3,4,3,0,0,622,5,29,Partidos
-2227,Gio Reyna,us USA,"DL,CC",Dortmund,de Bundesliga,19,2002,6.9,314,287,26,10,0,4,17,10,6,1,4,1,248,1,9,Partidos
-2228,Chadi Riad,ma MAR,CC,Barcelona,es La Liga,19,2003,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-2229,Nico Ribaudo,es ESP,"CC,DL",Espanyol,es La Liga,21,2001,13.9,454,402,48,15,3,2,44,3,22,14,0,0,352,4,11,Partidos
-2230,Alexsandro Ribeiro,br BRA,DF,Lille,fr Ligue 1,22,1999,17.9,1271,1202,66,48,1,9,4,1,0,0,0,0,1148,3,7,Partidos
-2231,Franck Ribéry,fr FRA,CC,Salernitana,it Serie A,39,1983,0.4,22,21,0,0,0,0,0,0,0,0,0,0,19,1,0,Partidos
-2232,Samuele Ricci,it ITA,CC,Torino,it Serie A,20,2001,23.0,1181,1111,66,52,2,4,31,1,13,12,1,0,1034,4,16,Partidos
-2233,Declan Rice,eng ENG,CC,West Ham,eng Premier League,23,1999,36.4,2135,2060,70,48,4,60,44,3,19,15,1,0,1846,5,26,Partidos
-2234,Chris Richards,us USA,DF,Crystal Palace,eng Premier League,22,2000,5.0,203,190,13,5,0,0,0,8,0,0,0,0,169,0,1,Partidos
-2235,Richarlison,br BRA,"CC,DL",Tottenham,eng Premier League,25,1997,11.2,279,270,9,0,4,1,16,0,0,0,0,0,196,0,13,Partidos
-2236,Marco Richter,de GER,"CC,DL",Hertha BSC,de Bundesliga,24,1997,20.4,747,609,134,18,1,9,82,80,28,4,21,0,461,4,33,Partidos
-2237,Diego Rico,es ESP,DF,Real Sociedad,es La Liga,29,1993,18.3,985,779,202,21,0,7,55,181,0,0,0,0,746,4,21,Partidos
-2238,Jaïro Riedewald,nl NED,"DF,CC",Crystal Palace,eng Premier League,25,1996,0.7,45,38,7,2,0,0,0,4,1,0,0,0,34,0,2,Partidos
-2239,Manuel Riemann,de GER,PO,Bochum,de Bundesliga,33,1988,34.0,1761,1297,453,191,0,21,1,1,0,0,0,0,1065,11,3,Partidos
-2240,Tomás Rincón,ve VEN,CC,Sampdoria,it Serie A,34,1988,28.4,1245,1186,56,36,2,29,21,5,1,0,1,0,1018,3,12,Partidos
-2241,Rémy Riou,fr FRA,PO,Lyon,fr Ligue 1,34,1987,6.7,225,163,62,15,0,0,0,0,0,0,0,0,179,0,0,Partidos
-2242,Renaud Ripart,fr FRA,"DL,CC",Troyes,fr Ligue 1,29,1993,14.7,468,441,26,1,1,1,21,13,0,0,0,0,317,1,14,Partidos
-2243,Rodrigo Riquelme,es ESP,"CC,DL",Girona,es La Liga,22,2000,24.2,715,677,34,13,4,3,78,7,11,6,1,0,497,4,29,Partidos
-2244,Matt Ritchie,sct SCO,"DL,CC",Newcastle Utd,eng Premier League,32,1989,0.4,31,31,0,0,0,0,2,0,0,0,0,0,24,0,3,Partidos
-2245,Sergi Roberto,es ESP,"DF,CC",Barcelona,es La Liga,30,1992,14.5,936,842,91,16,1,7,25,75,0,0,0,0,850,3,10,Partidos
-2246,Lucas Robertone,ar ARG,CC,Almería,es La Liga,25,1997,31.6,1364,1211,147,68,10,15,137,12,64,25,34,0,1051,6,18,Partidos
-2247,Andrew Robertson,sct SCO,DF,Liverpool,eng Premier League,28,1994,28.7,2265,1883,375,65,2,12,195,229,81,23,49,0,1803,7,41,Partidos
-2248,Antonee Robinson,us USA,DF,Fulham,eng Premier League,24,1997,34.3,1910,1582,327,18,0,5,134,309,0,0,0,0,1404,1,51,Partidos
-2249,Joel Robles,es ESP,PO,Leeds United,eng Premier League,32,1990,4.0,122,70,52,20,0,0,0,0,0,0,0,0,63,0,0,Partidos
-2250,Joel Roca,es ESP,"CC,DL",Girona,es La Liga,17,2005,0.9,39,33,6,1,0,0,0,5,0,0,0,0,30,0,0,Partidos
+2226,Alejandro Revuelta Montero,es ESP,DF,Getafe,es La Liga,22,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+2227,Elvis Rexhbeçaj,de GER,CC,Augsburg,de Bundesliga,24,1997,28.0,911,862,44,20,4,2,17,3,4,3,0,0,622,5,29,Partidos
+2228,Gio Reyna,us USA,"DL,CC",Dortmund,de Bundesliga,19,2002,6.9,314,287,26,10,0,4,17,10,6,1,4,1,248,1,9,Partidos
+2229,Chadi Riad,ma MAR,CC,Barcelona,es La Liga,19,2003,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
+2230,Nico Ribaudo,es ESP,"CC,DL",Espanyol,es La Liga,21,2001,13.9,454,402,48,15,3,2,44,3,22,14,0,0,352,4,11,Partidos
+2231,Alexsandro Ribeiro,br BRA,DF,Lille,fr Ligue 1,22,1999,17.9,1271,1202,66,48,1,9,4,1,0,0,0,0,1148,3,7,Partidos
+2232,Franck Ribéry,fr FRA,CC,Salernitana,it Serie A,39,1983,0.4,22,21,0,0,0,0,0,0,0,0,0,0,19,1,0,Partidos
+2233,Samuele Ricci,it ITA,CC,Torino,it Serie A,20,2001,23.0,1181,1111,66,52,2,4,31,1,13,12,1,0,1034,4,16,Partidos
+2234,Declan Rice,eng ENG,CC,West Ham,eng Premier League,23,1999,36.4,2135,2060,70,48,4,60,44,3,19,15,1,0,1846,5,26,Partidos
+2235,Chris Richards,us USA,DF,Crystal Palace,eng Premier League,22,2000,5.0,203,190,13,5,0,0,0,8,0,0,0,0,169,0,1,Partidos
+2236,Richarlison,br BRA,"CC,DL",Tottenham,eng Premier League,25,1997,11.2,279,270,9,0,4,1,16,0,0,0,0,0,196,0,13,Partidos
+2237,Marco Richter,de GER,"CC,DL",Hertha BSC,de Bundesliga,24,1997,20.4,747,609,134,18,1,9,82,80,28,4,21,0,461,4,33,Partidos
+2238,Diego Rico,es ESP,DF,Real Sociedad,es La Liga,29,1993,18.3,985,779,202,21,0,7,55,181,0,0,0,0,746,4,21,Partidos
+2239,Jaïro Riedewald,nl NED,"DF,CC",Crystal Palace,eng Premier League,25,1996,0.7,45,38,7,2,0,0,0,4,1,0,0,0,34,0,2,Partidos
+2240,Manuel Riemann,de GER,PO,Bochum,de Bundesliga,33,1988,34.0,1761,1297,453,191,0,21,1,1,0,0,0,0,1065,11,3,Partidos
+2241,Tomás Rincón,ve VEN,CC,Sampdoria,it Serie A,34,1988,28.4,1245,1186,56,36,2,29,21,5,1,0,1,0,1018,3,12,Partidos
+2242,Rémy Riou,fr FRA,PO,Lyon,fr Ligue 1,34,1987,6.7,225,163,62,15,0,0,0,0,0,0,0,0,179,0,0,Partidos
+2243,Renaud Ripart,fr FRA,"DL,CC",Troyes,fr Ligue 1,29,1993,14.7,468,441,26,1,1,1,21,13,0,0,0,0,317,1,14,Partidos
+2244,Rodrigo Riquelme,es ESP,"CC,DL",Girona,es La Liga,22,2000,24.2,715,677,34,13,4,3,78,7,11,6,1,0,497,4,29,Partidos
+2245,Matt Ritchie,sct SCO,"DL,CC",Newcastle Utd,eng Premier League,32,1989,0.4,31,31,0,0,0,0,2,0,0,0,0,0,24,0,3,Partidos
+2246,Sergi Roberto,es ESP,"DF,CC",Barcelona,es La Liga,30,1992,14.5,936,842,91,16,1,7,25,75,0,0,0,0,850,3,10,Partidos
+2247,Lucas Robertone,ar ARG,CC,Almería,es La Liga,25,1997,31.6,1364,1211,147,68,10,15,137,12,64,25,34,0,1051,6,18,Partidos
+2248,Andrew Robertson,sct SCO,DF,Liverpool,eng Premier League,28,1994,28.7,2265,1883,375,65,2,12,195,229,81,23,49,0,1803,7,41,Partidos
+2249,Antonee Robinson,us USA,DF,Fulham,eng Premier League,24,1997,34.3,1910,1582,327,18,0,5,134,309,0,0,0,0,1404,1,51,Partidos
+2250,Joel Robles,es ESP,PO,Leeds United,eng Premier League,32,1990,4.0,122,70,52,20,0,0,0,0,0,0,0,0,63,0,0,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2251,Marc Roca,es ESP,CC,Leeds United,eng Premier League,25,1996,25.7,1295,1188,102,55,7,10,76,3,40,20,16,0,978,5,17,Partidos
-2252,Enzo Roco,cl CHI,DF,Elche,es La Liga,29,1992,18.4,719,676,38,33,1,5,1,4,0,0,0,0,587,5,7,Partidos
-2253,Marek Rodák,sk SVK,PO,Fulham,eng Premier League,25,1996,2.0,61,38,23,8,0,0,0,0,0,0,0,0,29,0,0,Partidos
-2254,Sebastian Rode,de GER,CC,Eint Frankfurt,de Bundesliga,31,1990,15.7,857,828,24,17,4,1,8,2,0,0,0,0,711,5,14,Partidos
-2255,Joe Rodon,wls WAL,DF,Rennes,fr Ligue 1,24,1997,15.7,1051,1040,10,10,0,3,1,0,0,0,0,0,945,1,3,Partidos
-2256,Rodri,es ESP,CC,Manchester City,eng Premier League,26,1996,32.3,2987,2943,43,37,2,26,6,3,0,0,0,0,2723,1,21,Partidos
-2257,Rodri,es ESP,"DL,CC",Betis,es La Liga,22,2000,17.8,858,832,19,9,6,5,47,8,2,1,0,0,732,7,22,Partidos
-2258,Rodrigo,es ESP,"DL,CC",Leeds United,eng Premier League,31,1991,21.5,550,492,53,0,4,10,21,7,2,0,0,0,389,5,9,Partidos
-2259,Ángel Rodríguez,es ESP,"DL,CC",Mallorca,es La Liga,35,1987,4.4,82,78,4,1,0,1,2,1,0,0,0,0,59,0,1,Partidos
-2260,Óscar Rodríguez Arnaiz,es ESP,CC,Celta Vigo,es La Liga,24,1998,19.7,1057,950,103,54,5,16,83,1,47,11,33,0,833,4,12,Partidos
-2261,Dani Rodríguez,es ESP,CC,Mallorca,es La Liga,34,1988,23.3,685,647,32,9,5,14,32,1,7,2,2,0,537,6,31,Partidos
-2262,Guido Rodríguez,ar ARG,CC,Betis,es La Liga,28,1994,31.9,1688,1596,86,84,3,20,9,2,0,0,0,0,1464,6,14,Partidos
-2263,Miguel Rodríguez,es ESP,"CC,DL",Celta Vigo,es La Liga,19,2003,2.8,91,90,1,1,0,0,13,0,0,0,0,0,60,0,5,Partidos
-2264,Pablo Rodríguez,es ESP,"DL,CC",Lecce,it Serie A,20,2001,0.6,21,18,3,0,0,0,4,1,2,0,1,0,14,0,2,Partidos
-2265,Ricardo Rodríguez,ch SUI,DF,Torino,it Serie A,29,1992,29.7,1757,1602,145,40,0,18,71,87,13,10,3,0,1439,10,31,Partidos
-2266,Rodrygo,br BRA,"DL,CC",Real Madrid,es La Liga,21,2001,26.4,1050,991,51,6,2,6,22,9,18,3,2,0,918,8,24,Partidos
-2267,Mads Roerslev,dk DEN,DF,Brentford,eng Premier League,23,1999,12.3,303,282,21,1,2,0,20,20,0,0,0,0,194,0,21,Partidos
-2268,Agustín Rogel,uy URU,DF,Hertha BSC,de Bundesliga,24,1997,15.8,572,538,31,29,0,6,0,2,0,0,0,0,426,3,7,Partidos
-2269,Rogério,br BRA,DF,Sassuolo,it Serie A,24,1998,33.3,2038,1647,385,53,1,22,113,332,0,0,0,0,1644,6,52,Partidos
-2270,Merlin Röhl,de GER,"CC,DL",Freiburg,de Bundesliga,20,2002,0.6,18,18,0,0,0,0,0,0,0,0,0,0,13,0,2,Partidos
-2271,Tony Rölke,de GER,DL,Hertha BSC,de Bundesliga,19,2003,0.2,8,8,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
-2272,Filippo Romagna,it ITA,DF,Sassuolo,it Serie A,25,1997,0.5,36,34,2,2,0,0,0,0,0,0,0,0,34,0,0,Partidos
-2273,Alessio Romagnoli,it ITA,DF,Lazio,it Serie A,27,1995,32.5,1849,1688,161,91,1,13,0,2,0,0,0,0,1673,0,6,Partidos
-2274,Simone Romagnoli,it ITA,DF,Lecce,it Serie A,32,1990,1.9,74,71,3,3,0,0,0,0,0,0,0,0,61,0,0,Partidos
-2275,Leonardo Román,es ESP,PO,Mallorca,es La Liga,22,2000,1.0,42,27,15,3,0,0,0,0,0,0,0,0,29,0,0,Partidos
+2251,Joel Roca,es ESP,"CC,DL",Girona,es La Liga,17,2005,0.9,39,33,6,1,0,0,0,5,0,0,0,0,30,0,0,Partidos
+2252,Marc Roca,es ESP,CC,Leeds United,eng Premier League,25,1996,25.7,1295,1188,102,55,7,10,76,3,40,20,16,0,978,5,17,Partidos
+2253,Enzo Roco,cl CHI,DF,Elche,es La Liga,29,1992,18.4,719,676,38,33,1,5,1,4,0,0,0,0,587,5,7,Partidos
+2254,Marek Rodák,sk SVK,PO,Fulham,eng Premier League,25,1996,2.0,61,38,23,8,0,0,0,0,0,0,0,0,29,0,0,Partidos
+2255,Sebastian Rode,de GER,CC,Eint Frankfurt,de Bundesliga,31,1990,15.7,857,828,24,17,4,1,8,2,0,0,0,0,711,5,14,Partidos
+2256,Joe Rodon,wls WAL,DF,Rennes,fr Ligue 1,24,1997,15.7,1051,1040,10,10,0,3,1,0,0,0,0,0,945,1,3,Partidos
+2257,Rodri,es ESP,CC,Manchester City,eng Premier League,26,1996,32.3,2987,2943,43,37,2,26,6,3,0,0,0,0,2723,1,21,Partidos
+2258,Rodri,es ESP,"DL,CC",Betis,es La Liga,22,2000,17.8,858,832,19,9,6,5,47,8,2,1,0,0,732,7,22,Partidos
+2259,Rodrigo,es ESP,"DL,CC",Leeds United,eng Premier League,31,1991,21.5,550,492,53,0,4,10,21,7,2,0,0,0,389,5,9,Partidos
+2260,Ángel Rodríguez,es ESP,"DL,CC",Mallorca,es La Liga,35,1987,4.4,82,78,4,1,0,1,2,1,0,0,0,0,59,0,1,Partidos
+2261,Óscar Rodríguez Arnaiz,es ESP,CC,Celta Vigo,es La Liga,24,1998,19.7,1057,950,103,54,5,16,83,1,47,11,33,0,833,4,12,Partidos
+2262,Dani Rodríguez,es ESP,CC,Mallorca,es La Liga,34,1988,23.3,685,647,32,9,5,14,32,1,7,2,2,0,537,6,31,Partidos
+2263,Guido Rodríguez,ar ARG,CC,Betis,es La Liga,28,1994,31.9,1688,1596,86,84,3,20,9,2,0,0,0,0,1464,6,14,Partidos
+2264,Miguel Rodríguez,es ESP,"CC,DL",Celta Vigo,es La Liga,19,2003,2.8,91,90,1,1,0,0,13,0,0,0,0,0,60,0,5,Partidos
+2265,Pablo Rodríguez,es ESP,"DL,CC",Lecce,it Serie A,20,2001,0.6,21,18,3,0,0,0,4,1,2,0,1,0,14,0,2,Partidos
+2266,Ricardo Rodríguez,ch SUI,DF,Torino,it Serie A,29,1992,29.7,1757,1602,145,40,0,18,71,87,13,10,3,0,1439,10,31,Partidos
+2267,Rodrygo,br BRA,"DL,CC",Real Madrid,es La Liga,21,2001,26.4,1050,991,51,6,2,6,22,9,18,3,2,0,918,8,24,Partidos
+2268,Mads Roerslev,dk DEN,DF,Brentford,eng Premier League,23,1999,12.3,303,282,21,1,2,0,20,20,0,0,0,0,194,0,21,Partidos
+2269,Agustín Rogel,uy URU,DF,Hertha BSC,de Bundesliga,24,1997,15.8,572,538,31,29,0,6,0,2,0,0,0,0,426,3,7,Partidos
+2270,Rogério,br BRA,DF,Sassuolo,it Serie A,24,1998,33.3,2038,1647,385,53,1,22,113,332,0,0,0,0,1644,6,52,Partidos
+2271,Merlin Röhl,de GER,"CC,DL",Freiburg,de Bundesliga,20,2002,0.6,18,18,0,0,0,0,0,0,0,0,0,0,13,0,2,Partidos
+2272,Tony Rölke,de GER,DL,Hertha BSC,de Bundesliga,19,2003,0.2,8,8,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
+2273,Filippo Romagna,it ITA,DF,Sassuolo,it Serie A,25,1997,0.5,36,34,2,2,0,0,0,0,0,0,0,0,34,0,0,Partidos
+2274,Alessio Romagnoli,it ITA,DF,Lazio,it Serie A,27,1995,32.5,1849,1688,161,91,1,13,0,2,0,0,0,0,1673,0,6,Partidos
+2275,Simone Romagnoli,it ITA,DF,Lecce,it Serie A,32,1990,1.9,74,71,3,3,0,0,0,0,0,0,0,0,61,0,0,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2276,Cristian Romero,ar ARG,DF,Tottenham,eng Premier League,24,1998,26.3,1606,1523,80,60,4,20,0,19,0,0,0,0,1407,3,24,Partidos
-2277,Iván Romero,es ESP,CC,Sevilla,es La Liga,21,2001,0.1,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-2278,Luka Romero,ar ARG,DL,Lazio,it Serie A,17,2004,1.7,80,78,2,0,0,0,0,2,0,0,0,0,70,0,1,Partidos
-2279,Oriol Romeu,es ESP,CC,Southampton,eng Premier League,30,1991,0.8,30,30,0,0,0,0,1,0,0,0,0,0,28,0,0,Partidos
-2280,Oriol Romeu,es ESP,CC,Girona,es La Liga,30,1991,32.8,1626,1576,43,41,3,12,13,2,0,0,0,0,1405,7,19,Partidos
-2281,Cristiano Ronaldo,pt POR,DL,Manchester Utd,eng Premier League,37,1985,5.8,162,157,5,0,2,1,3,1,0,0,0,0,121,0,10,Partidos
-2282,Connor Ronan,ie IRL,CC,Wolves,eng Premier League,24,1998,0.0,4,3,1,1,0,0,1,0,0,0,0,0,3,0,0,Partidos
-2283,Salomón Rondón,ve VEN,DL,Everton,eng Premier League,32,1989,1.2,29,28,1,0,0,0,0,1,0,0,0,0,22,0,0,Partidos
-2284,Valentin Rongier,fr FRA,CC,Marseille,fr Ligue 1,27,1994,33.7,2109,2055,47,40,6,16,8,7,0,0,0,0,1855,7,22,Partidos
-2285,Marten de Roon,nl NED,CC,Atalanta,it Serie A,31,1991,32.9,1912,1833,75,54,0,24,13,17,0,0,0,0,1587,4,21,Partidos
-2286,Pablo Rosario,nl NED,"CC,DF",Nice,fr Ligue 1,25,1997,19.6,1049,1022,25,17,1,3,11,8,0,0,0,0,930,2,9,Partidos
-2287,Francesco Rossi,it ITA,PO,Atalanta,it Serie A,31,1991,0.0,4,3,1,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
-2288,Tom Rothe,de GER,DF,Dortmund,de Bundesliga,17,2004,0.3,18,14,4,2,0,0,2,2,0,0,0,0,15,0,0,Partidos
-2289,Joe Rothwell,eng ENG,CC,Bournemouth,eng Premier League,27,1995,11.3,457,402,54,24,4,2,26,1,21,12,4,3,385,1,6,Partidos
-2290,Anthony Rouault,fr FRA,DF,Toulouse,fr Ligue 1,21,2001,36.8,2063,1923,138,67,1,23,0,12,0,0,0,0,1802,2,14,Partidos
-2291,Jérôme Roussillon,fr FRA,"CC,DF",Wolfsburg,de Bundesliga,29,1993,0.2,7,6,1,0,0,0,0,1,0,0,0,0,3,0,0,Partidos
-2292,Jérôme Roussillon,fr FRA,DF,Union Berlin,de Bundesliga,29,1993,10.6,438,332,102,4,2,0,36,98,0,0,0,0,307,4,14,Partidos
-2293,Nicolò Rovella,it ITA,CC,Monza,it Serie A,20,2001,19.3,1363,1292,68,52,1,24,28,6,10,2,7,0,1206,3,15,Partidos
-2294,Nicolò Rovella,it ITA,CC,Juventus,it Serie A,20,2001,0.3,25,22,3,1,0,2,3,1,1,1,0,0,22,0,1,Partidos
-2295,Amir Rrahmani,xk KVX,DF,Napoli,it Serie A,28,1994,27.2,2167,2097,67,63,0,30,1,3,0,0,0,0,1977,3,7,Partidos
-2296,Ruan,br BRA,DF,Sassuolo,it Serie A,23,1999,19.0,939,875,62,35,1,3,0,2,0,0,0,0,835,2,8,Partidos
-2297,Rubén,es ESP,"DF,CC",Espanyol,es La Liga,21,2001,9.9,339,286,52,5,2,2,48,47,0,0,0,0,232,1,9,Partidos
-2298,Antonio Rüdiger,de GER,DF,Real Madrid,es La Liga,29,1993,26.8,1617,1562,55,25,3,16,5,20,0,0,0,0,1486,0,14,Partidos
-2299,Sebastian Rudy,de GER,CC,Hoffenheim,de Bundesliga,32,1990,8.8,442,387,53,21,0,1,41,0,30,7,13,2,330,2,8,Partidos
-2300,Daniele Rugani,it ITA,DF,Juventus,it Serie A,28,1994,6.3,262,255,7,4,0,3,0,0,0,0,0,0,231,0,0,Partidos
+2276,Leonardo Román,es ESP,PO,Mallorca,es La Liga,22,2000,1.0,42,27,15,3,0,0,0,0,0,0,0,0,29,0,0,Partidos
+2277,Cristian Romero,ar ARG,DF,Tottenham,eng Premier League,24,1998,26.3,1606,1523,80,60,4,20,0,19,0,0,0,0,1407,3,24,Partidos
+2278,Iván Romero,es ESP,CC,Sevilla,es La Liga,21,2001,0.1,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
+2279,Luka Romero,ar ARG,DL,Lazio,it Serie A,17,2004,1.7,80,78,2,0,0,0,0,2,0,0,0,0,70,0,1,Partidos
+2280,Oriol Romeu,es ESP,CC,Southampton,eng Premier League,30,1991,0.8,30,30,0,0,0,0,1,0,0,0,0,0,28,0,0,Partidos
+2281,Oriol Romeu,es ESP,CC,Girona,es La Liga,30,1991,32.8,1626,1576,43,41,3,12,13,2,0,0,0,0,1405,7,19,Partidos
+2282,Cristiano Ronaldo,pt POR,DL,Manchester Utd,eng Premier League,37,1985,5.8,162,157,5,0,2,1,3,1,0,0,0,0,121,0,10,Partidos
+2283,Connor Ronan,ie IRL,CC,Wolves,eng Premier League,24,1998,0.0,4,3,1,1,0,0,1,0,0,0,0,0,3,0,0,Partidos
+2284,Salomón Rondón,ve VEN,DL,Everton,eng Premier League,32,1989,1.2,29,28,1,0,0,0,0,1,0,0,0,0,22,0,0,Partidos
+2285,Valentin Rongier,fr FRA,CC,Marseille,fr Ligue 1,27,1994,33.7,2109,2055,47,40,6,16,8,7,0,0,0,0,1855,7,22,Partidos
+2286,Marten de Roon,nl NED,CC,Atalanta,it Serie A,31,1991,32.9,1912,1833,75,54,0,24,13,17,0,0,0,0,1587,4,21,Partidos
+2287,Pablo Rosario,nl NED,"CC,DF",Nice,fr Ligue 1,25,1997,19.6,1049,1022,25,17,1,3,11,8,0,0,0,0,930,2,9,Partidos
+2288,Francesco Rossi,it ITA,PO,Atalanta,it Serie A,31,1991,0.0,4,3,1,0,0,0,0,0,0,0,0,0,3,0,0,Partidos
+2289,Tom Rothe,de GER,DF,Dortmund,de Bundesliga,17,2004,0.3,18,14,4,2,0,0,2,2,0,0,0,0,15,0,0,Partidos
+2290,Joe Rothwell,eng ENG,CC,Bournemouth,eng Premier League,27,1995,11.3,457,402,54,24,4,2,26,1,21,12,4,3,385,1,6,Partidos
+2291,Anthony Rouault,fr FRA,DF,Toulouse,fr Ligue 1,21,2001,36.8,2063,1923,138,67,1,23,0,12,0,0,0,0,1802,2,14,Partidos
+2292,Jérôme Roussillon,fr FRA,"CC,DF",Wolfsburg,de Bundesliga,29,1993,0.2,7,6,1,0,0,0,0,1,0,0,0,0,3,0,0,Partidos
+2293,Jérôme Roussillon,fr FRA,DF,Union Berlin,de Bundesliga,29,1993,10.6,438,332,102,4,2,0,36,98,0,0,0,0,307,4,14,Partidos
+2294,Nicolò Rovella,it ITA,CC,Monza,it Serie A,20,2001,19.3,1363,1292,68,52,1,24,28,6,10,2,7,0,1206,3,15,Partidos
+2295,Nicolò Rovella,it ITA,CC,Juventus,it Serie A,20,2001,0.3,25,22,3,1,0,2,3,1,1,1,0,0,22,0,1,Partidos
+2296,Amir Rrahmani,xk KVX,DF,Napoli,it Serie A,28,1994,27.2,2167,2097,67,63,0,30,1,3,0,0,0,0,1977,3,7,Partidos
+2297,Ruan,br BRA,DF,Sassuolo,it Serie A,23,1999,19.0,939,875,62,35,1,3,0,2,0,0,0,0,835,2,8,Partidos
+2298,Rubén,es ESP,"DF,CC",Espanyol,es La Liga,21,2001,9.9,339,286,52,5,2,2,48,47,0,0,0,0,232,1,9,Partidos
+2299,Antonio Rüdiger,de GER,DF,Real Madrid,es La Liga,29,1993,26.8,1617,1562,55,25,3,16,5,20,0,0,0,0,1486,0,14,Partidos
+2300,Sebastian Rudy,de GER,CC,Hoffenheim,de Bundesliga,32,1990,8.8,442,387,53,21,0,1,41,0,30,7,13,2,330,2,8,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2301,Matteo Ruggeri,it ITA,"DF,CC",Atalanta,it Serie A,20,2002,9.2,631,527,102,5,0,2,38,96,1,1,0,0,515,2,10,Partidos
-2302,Mário Rui,pt POR,DF,Napoli,it Serie A,31,1991,19.4,1734,1427,300,70,2,30,110,188,42,15,19,0,1408,7,26,Partidos
-2303,Aitor Ruibal,es ESP,"DF,DL",Betis,es La Liga,26,1996,16.2,841,691,148,18,1,10,31,130,0,0,0,0,647,2,22,Partidos
-2304,Kays Ruiz,ma MAR,CC,Auxerre,fr Ligue 1,19,2002,0.7,29,29,0,0,0,0,0,0,0,0,0,0,26,0,0,Partidos
-2305,Fabián Ruiz Peña,es ESP,CC,Paris S-G,fr Ligue 1,26,1996,21.0,1763,1716,44,25,9,11,13,15,4,0,3,0,1614,3,24,Partidos
-2306,Víctor Ruiz,es ESP,DF,Betis,es La Liga,33,1989,6.2,251,241,9,9,0,2,0,0,0,0,0,0,213,1,0,Partidos
-2307,Gerónimo Rulli,ar ARG,PO,Villarreal,es La Liga,30,1992,14.0,543,419,124,32,0,0,0,0,0,0,0,0,464,0,2,Partidos
-2308,Alessandro Russo,it ITA,PO,Sassuolo,it Serie A,21,2001,1.0,50,37,13,5,0,0,0,0,0,0,0,0,37,0,0,Partidos
-2309,Franco Russo,ar ARG,DF,Mallorca,es La Liga,27,1994,1.6,60,58,2,1,0,1,0,1,0,0,0,0,46,0,0,Partidos
-2310,Georginio Rutter,fr FRA,"DL,CC",Leeds United,eng Premier League,20,2002,3.0,62,59,2,0,1,0,0,0,0,0,0,0,31,1,5,Partidos
-2311,Georginio Rutter,fr FRA,DL,Hoffenheim,de Bundesliga,20,2002,11.2,158,157,1,0,1,2,11,0,0,0,0,0,95,0,12,Partidos
-2312,Julian Ryerson,no NOR,DF,Union Berlin,de Bundesliga,24,1997,11.5,501,374,125,4,1,4,41,119,2,0,2,0,350,2,16,Partidos
-2313,Julian Ryerson,no NOR,DF,Dortmund,de Bundesliga,24,1997,15.7,998,846,152,10,2,2,50,142,0,0,0,0,817,0,28,Partidos
-2314,Frederik Rønnow,dk DEN,PO,Union Berlin,de Bundesliga,29,1992,29.0,1280,1021,257,94,0,0,0,0,0,0,0,0,888,2,2,Partidos
-2315,José Sá,pt POR,PO,Wolves,eng Premier League,29,1993,36.0,1200,854,341,81,0,3,0,0,0,0,0,0,837,5,1,Partidos
-2316,Youssouf Sabaly,sn SEN,DF,Betis,es La Liga,29,1993,18.7,949,769,176,19,0,1,17,157,0,0,0,0,780,4,25,Partidos
-2317,Halid Šabanović,ba BIH,DF,Angers,fr Ligue 1,22,1999,7.1,280,233,47,3,0,2,8,44,0,0,0,0,228,0,2,Partidos
-2318,Abdelhamid Sabiri,ma MAR,"CC,DL",Sampdoria,it Serie A,25,1996,11.9,461,390,69,33,3,8,54,3,32,9,19,0,310,2,11,Partidos
-2319,Marcel Sabitzer,at AUT,CC,Manchester Utd,eng Premier League,28,1994,7.0,307,293,9,4,2,3,4,2,1,0,0,0,237,5,7,Partidos
-2320,Marcel Sabitzer,at AUT,CC,Bayern Munich,de Bundesliga,28,1994,7.0,466,451,12,6,1,2,5,4,1,1,0,0,402,3,3,Partidos
-2321,Falaye Sacko,ml MLI,DF,Montpellier,fr Ligue 1,27,1995,28.7,1240,1033,204,23,2,1,36,180,1,0,0,0,999,3,27,Partidos
-2322,Umar Sadiq,ng NGA,DL,Almería,es La Liga,25,1997,2.7,36,32,3,0,0,0,0,1,0,0,0,0,22,1,2,Partidos
-2323,Umar Sadiq,ng NGA,DL,Real Sociedad,es La Liga,25,1997,0.9,13,13,0,0,0,1,0,0,0,0,0,0,13,0,0,Partidos
-2324,Alexis Saelemaekers,be BEL,"DL,DF",Milan,it Serie A,23,1999,15.6,621,573,46,5,3,2,48,36,5,2,3,0,480,2,12,Partidos
-2325,Wesley Saïd,fr FRA,"DL,CC",Lens,fr Ligue 1,27,1995,7.2,195,184,9,0,1,0,5,2,0,0,0,0,155,2,5,Partidos
+2301,Daniele Rugani,it ITA,DF,Juventus,it Serie A,28,1994,6.3,262,255,7,4,0,3,0,0,0,0,0,0,231,0,0,Partidos
+2302,Matteo Ruggeri,it ITA,"DF,CC",Atalanta,it Serie A,20,2002,9.2,631,527,102,5,0,2,38,96,1,1,0,0,515,2,10,Partidos
+2303,Mário Rui,pt POR,DF,Napoli,it Serie A,31,1991,19.4,1734,1427,300,70,2,30,110,188,42,15,19,0,1408,7,26,Partidos
+2304,Aitor Ruibal,es ESP,"DF,DL",Betis,es La Liga,26,1996,16.2,841,691,148,18,1,10,31,130,0,0,0,0,647,2,22,Partidos
+2305,Kays Ruiz,ma MAR,CC,Auxerre,fr Ligue 1,19,2002,0.7,29,29,0,0,0,0,0,0,0,0,0,0,26,0,0,Partidos
+2306,Fabián Ruiz Peña,es ESP,CC,Paris S-G,fr Ligue 1,26,1996,21.0,1763,1716,44,25,9,11,13,15,4,0,3,0,1614,3,24,Partidos
+2307,Víctor Ruiz,es ESP,DF,Betis,es La Liga,33,1989,6.2,251,241,9,9,0,2,0,0,0,0,0,0,213,1,0,Partidos
+2308,Gerónimo Rulli,ar ARG,PO,Villarreal,es La Liga,30,1992,14.0,543,419,124,32,0,0,0,0,0,0,0,0,464,0,2,Partidos
+2309,Alessandro Russo,it ITA,PO,Sassuolo,it Serie A,21,2001,1.0,50,37,13,5,0,0,0,0,0,0,0,0,37,0,0,Partidos
+2310,Franco Russo,ar ARG,DF,Mallorca,es La Liga,27,1994,1.6,60,58,2,1,0,1,0,1,0,0,0,0,46,0,0,Partidos
+2311,Georginio Rutter,fr FRA,"DL,CC",Leeds United,eng Premier League,20,2002,3.0,62,59,2,0,1,0,0,0,0,0,0,0,31,1,5,Partidos
+2312,Georginio Rutter,fr FRA,DL,Hoffenheim,de Bundesliga,20,2002,11.2,158,157,1,0,1,2,11,0,0,0,0,0,95,0,12,Partidos
+2313,Julian Ryerson,no NOR,DF,Union Berlin,de Bundesliga,24,1997,11.5,501,374,125,4,1,4,41,119,2,0,2,0,350,2,16,Partidos
+2314,Julian Ryerson,no NOR,DF,Dortmund,de Bundesliga,24,1997,15.7,998,846,152,10,2,2,50,142,0,0,0,0,817,0,28,Partidos
+2315,Frederik Rønnow,dk DEN,PO,Union Berlin,de Bundesliga,29,1992,29.0,1280,1021,257,94,0,0,0,0,0,0,0,0,888,2,2,Partidos
+2316,José Sá,pt POR,PO,Wolves,eng Premier League,29,1993,36.0,1200,854,341,81,0,3,0,0,0,0,0,0,837,5,1,Partidos
+2317,Youssouf Sabaly,sn SEN,DF,Betis,es La Liga,29,1993,18.7,949,769,176,19,0,1,17,157,0,0,0,0,780,4,25,Partidos
+2318,Halid Šabanović,ba BIH,DF,Angers,fr Ligue 1,22,1999,7.1,280,233,47,3,0,2,8,44,0,0,0,0,228,0,2,Partidos
+2319,Abdelhamid Sabiri,ma MAR,"CC,DL",Sampdoria,it Serie A,25,1996,11.9,461,390,69,33,3,8,54,3,32,9,19,0,310,2,11,Partidos
+2320,Marcel Sabitzer,at AUT,CC,Manchester Utd,eng Premier League,28,1994,7.0,307,293,9,4,2,3,4,2,1,0,0,0,237,5,7,Partidos
+2321,Marcel Sabitzer,at AUT,CC,Bayern Munich,de Bundesliga,28,1994,7.0,466,451,12,6,1,2,5,4,1,1,0,0,402,3,3,Partidos
+2322,Falaye Sacko,ml MLI,DF,Montpellier,fr Ligue 1,27,1995,28.7,1240,1033,204,23,2,1,36,180,1,0,0,0,999,3,27,Partidos
+2323,Umar Sadiq,ng NGA,DL,Almería,es La Liga,25,1997,2.7,36,32,3,0,0,0,0,1,0,0,0,0,22,1,2,Partidos
+2324,Umar Sadiq,ng NGA,DL,Real Sociedad,es La Liga,25,1997,0.9,13,13,0,0,0,1,0,0,0,0,0,0,13,0,0,Partidos
+2325,Alexis Saelemaekers,be BEL,"DL,DF",Milan,it Serie A,23,1999,15.6,621,573,46,5,3,2,48,36,5,2,3,0,480,2,12,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
-2326,Allan Saint-Maximin,fr FRA,DL,Newcastle Utd,eng Premier League,25,1997,12.4,447,435,9,1,4,3,32,7,1,0,0,0,316,3,17,Partidos
-2327,Théo Sainte-Luce,fr FRA,DF,Montpellier,fr Ligue 1,23,1998,5.9,266,206,60,3,0,0,10,57,0,0,0,0,219,0,5,Partidos
-2328,Samuel Sáiz,es ESP,CC,Girona,es La Liga,31,1991,2.7,162,150,7,0,2,1,6,1,1,0,1,0,122,5,6,Partidos
-2329,Bukayo Saka,eng ENG,DL,Arsenal,eng Premier League,20,2001,35.3,1430,1297,131,11,2,3,172,21,99,76,0,2,1054,2,62,Partidos
-2330,Hamza Sakhi,fr FRA,CC,Auxerre,fr Ligue 1,26,1996,18.4,947,866,73,33,4,23,88,1,37,12,20,0,756,8,14,Partidos
-2331,Mamadou Sakho,fr FRA,DF,Montpellier,fr Ligue 1,32,1990,8.5,459,438,19,17,0,0,0,1,0,0,0,0,397,2,0,Partidos
-2332,Jacopo Sala,it ITA,CC,Spezia,it Serie A,30,1991,1.2,46,40,6,4,0,0,4,1,0,0,0,0,36,0,5,Partidos
-2333,Ibrahim Salah,ma MAR,"DL,CC",Rennes,fr Ligue 1,20,2001,2.5,121,120,1,0,0,0,8,1,0,0,0,0,94,0,4,Partidos
-2334,Mohamed Salah,eg EGY,DL,Liverpool,eng Premier League,30,1992,36.6,1185,1146,29,4,14,3,38,17,0,0,0,0,902,10,40,Partidos
-2335,Amine Salama,fr FRA,"DL,CC",Angers,fr Ligue 1,22,2000,13.9,321,303,16,0,2,0,12,0,0,0,0,0,236,2,10,Partidos
-2336,Kike Salas,es ESP,DF,Sevilla,es La Liga,20,2002,4.1,211,203,7,7,0,1,0,0,0,0,0,0,177,1,0,Partidos
-2337,William Saliba,fr FRA,DF,Arsenal,eng Premier League,21,2001,26.8,1865,1822,43,34,0,2,1,0,0,0,0,0,1698,0,8,Partidos
-2338,Dikeni Salifou,tg TOG,CC,Werder Bremen,de Bundesliga,19,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
-2339,Mohammed Salisu,gh GHA,DF,Southampton,eng Premier League,23,1999,21.9,1196,1075,115,25,1,10,13,87,0,0,0,0,879,6,12,Partidos
-2340,Roland Sallai,hu HUN,"CC,DL",Freiburg,de Bundesliga,25,1997,11.1,342,328,10,4,2,3,35,5,1,1,0,0,238,4,12,Partidos
-2341,Yoann Salmier,gf GUF,DF,Troyes,fr Ligue 1,29,1992,29.4,1456,1398,53,42,1,16,7,7,0,0,0,0,1198,5,13,Partidos
-2342,Salvi,es ESP,"DL,CC",Rayo Vallecano,es La Liga,31,1991,5.4,208,188,16,0,1,0,37,15,1,0,1,0,119,4,20,Partidos
-2343,Lazar Samardzic,rs SRB,CC,Udinese,it Serie A,20,2002,20.5,893,772,118,48,3,23,92,5,62,33,17,0,715,3,17,Partidos
-2344,Diadie Samassékou,ml MLI,"CC,DL",Hoffenheim,de Bundesliga,26,1996,0.4,20,20,0,0,0,0,0,0,0,0,0,0,17,0,0,Partidos
-2345,Mama Samba Baldé,gw GNB,DL,Troyes,fr Ligue 1,26,1995,29.6,584,511,70,0,2,6,13,0,0,0,0,0,389,3,30,Partidos
-2346,Brice Samba,fr FRA,PO,Lens,fr Ligue 1,28,1994,37.0,1237,985,250,90,0,12,0,0,0,0,0,0,938,2,1,Partidos
-2347,Albert Sambi Lokonga,be BEL,CC,Arsenal,eng Premier League,22,1999,2.2,140,135,5,5,1,1,0,0,0,0,0,0,132,0,1,Partidos
-2348,Albert Sambi Lokonga,be BEL,CC,Crystal Palace,eng Premier League,22,1999,6.0,264,250,10,9,2,1,0,1,0,0,0,0,228,4,2,Partidos
-2349,Junior Sambia,fr FRA,DF,Salernitana,it Serie A,25,1996,7.7,396,311,85,6,0,1,33,71,8,3,4,0,312,0,7,Partidos
-2350,Samuel,br BRA,"DL,CC",Valencia,es La Liga,22,1999,32.1,1163,1121,37,5,5,2,82,22,10,1,2,0,878,5,57,Partidos
+2326,Wesley Saïd,fr FRA,"DL,CC",Lens,fr Ligue 1,27,1995,7.2,195,184,9,0,1,0,5,2,0,0,0,0,155,2,5,Partidos
+2327,Allan Saint-Maximin,fr FRA,DL,Newcastle Utd,eng Premier League,25,1997,12.4,447,435,9,1,4,3,32,7,1,0,0,0,316,3,17,Partidos
+2328,Théo Sainte-Luce,fr FRA,DF,Montpellier,fr Ligue 1,23,1998,5.9,266,206,60,3,0,0,10,57,0,0,0,0,219,0,5,Partidos
+2329,Samuel Sáiz,es ESP,CC,Girona,es La Liga,31,1991,2.7,162,150,7,0,2,1,6,1,1,0,1,0,122,5,6,Partidos
+2330,Bukayo Saka,eng ENG,DL,Arsenal,eng Premier League,20,2001,35.3,1430,1297,131,11,2,3,172,21,99,76,0,2,1054,2,62,Partidos
+2331,Hamza Sakhi,fr FRA,CC,Auxerre,fr Ligue 1,26,1996,18.4,947,866,73,33,4,23,88,1,37,12,20,0,756,8,14,Partidos
+2332,Mamadou Sakho,fr FRA,DF,Montpellier,fr Ligue 1,32,1990,8.5,459,438,19,17,0,0,0,1,0,0,0,0,397,2,0,Partidos
+2333,Jacopo Sala,it ITA,CC,Spezia,it Serie A,30,1991,1.2,46,40,6,4,0,0,4,1,0,0,0,0,36,0,5,Partidos
+2334,Ibrahim Salah,ma MAR,"DL,CC",Rennes,fr Ligue 1,20,2001,2.5,121,120,1,0,0,0,8,1,0,0,0,0,94,0,4,Partidos
+2335,Mohamed Salah,eg EGY,DL,Liverpool,eng Premier League,30,1992,36.6,1185,1146,29,4,14,3,38,17,0,0,0,0,902,10,40,Partidos
+2336,Amine Salama,fr FRA,"DL,CC",Angers,fr Ligue 1,22,2000,13.9,321,303,16,0,2,0,12,0,0,0,0,0,236,2,10,Partidos
+2337,Kike Salas,es ESP,DF,Sevilla,es La Liga,20,2002,4.1,211,203,7,7,0,1,0,0,0,0,0,0,177,1,0,Partidos
+2338,William Saliba,fr FRA,DF,Arsenal,eng Premier League,21,2001,26.8,1865,1822,43,34,0,2,1,0,0,0,0,0,1698,0,8,Partidos
+2339,Dikeni Salifou,tg TOG,CC,Werder Bremen,de Bundesliga,19,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Partidos
+2340,Mohammed Salisu,gh GHA,DF,Southampton,eng Premier League,23,1999,21.9,1196,1075,115,25,1,10,13,87,0,0,0,0,879,6,12,Partidos
+2341,Roland Sallai,hu HUN,"CC,DL",Freiburg,de Bundesliga,25,1997,11.1,342,328,10,4,2,3,35,5,1,1,0,0,238,4,12,Partidos
+2342,Yoann Salmier,gf GUF,DF,Troyes,fr Ligue 1,29,1992,29.4,1456,1398,53,42,1,16,7,7,0,0,0,0,1198,5,13,Partidos
+2343,Salvi,es ESP,"DL,CC",Rayo Vallecano,es La Liga,31,1991,5.4,208,188,16,0,1,0,37,15,1,0,1,0,119,4,20,Partidos
+2344,Lazar Samardzic,rs SRB,CC,Udinese,it Serie A,20,2002,20.5,893,772,118,48,3,23,92,5,62,33,17,0,715,3,17,Partidos
+2345,Diadie Samassékou,ml MLI,"CC,DL",Hoffenheim,de Bundesliga,26,1996,0.4,20,20,0,0,0,0,0,0,0,0,0,0,17,0,0,Partidos
+2346,Mama Samba Baldé,gw GNB,DL,Troyes,fr Ligue 1,26,1995,29.6,584,511,70,0,2,6,13,0,0,0,0,0,389,3,30,Partidos
+2347,Brice Samba,fr FRA,PO,Lens,fr Ligue 1,28,1994,37.0,1237,985,250,90,0,12,0,0,0,0,0,0,938,2,1,Partidos
+2348,Albert Sambi Lokonga,be BEL,CC,Arsenal,eng Premier League,22,1999,2.2,140,135,5,5,1,1,0,0,0,0,0,0,132,0,1,Partidos
+2349,Albert Sambi Lokonga,be BEL,CC,Crystal Palace,eng Premier League,22,1999,6.0,264,250,10,9,2,1,0,1,0,0,0,0,228,4,2,Partidos
+2350,Junior Sambia,fr FRA,DF,Salernitana,it Serie A,25,1996,7.7,396,311,85,6,0,1,33,71,8,3,4,0,312,0,7,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
 2351,Fede San Emeterio,es ESP,CC,Cádiz,es La Liga,25,1997,20.5,657,640,12,12,2,4,4,0,0,0,0,0,518,5,12,Partidos
 2352,Antonio Sanabria,py PAR,DL,Torino,it Serie A,26,1996,27.0,691,632,58,2,1,5,2,2,0,0,0,0,524,1,18,Partidos
@@ -2528,7 +2528,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2429,Leonardo Sernicola,it ITA,DF,Cremonese,it Serie A,25,1997,25.7,945,737,203,12,2,6,118,179,12,0,11,0,615,5,25,Partidos
 2430,Ryan Sessegnon,eng ENG,DF,Tottenham,eng Premier League,22,2000,9.0,390,318,72,2,2,1,30,70,0,0,0,0,280,0,19,Partidos
 2431,Stephan El Shaarawy,it ITA,"DF,CC",Roma,it Serie A,29,1992,16.9,825,717,108,10,5,9,23,93,4,4,0,0,665,0,19,Partidos
-2432,Eniss Shabani,de GER,CC,Mainz 05,de Bundesliga,19,2003,0.1,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
+2432,Eniss Shabani,al ALB,CC,Mainz 05,de Bundesliga,19,2003,0.1,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0,Partidos
 2433,Luke Shaw,eng ENG,DF,Manchester Utd,eng Premier League,27,1995,28.4,2098,1792,297,36,2,13,89,195,38,20,7,0,1757,9,37,Partidos
 2434,Jonjo Shelvey,eng ENG,CC,Newcastle Utd,eng Premier League,30,1992,0.4,26,23,3,2,0,2,0,0,0,0,0,0,19,0,0,Partidos
 2435,Jonjo Shelvey,eng ENG,CC,Nott'ham Forest,eng Premier League,30,1992,6.0,302,271,31,27,3,6,13,1,0,0,0,0,221,0,1,Partidos
@@ -2559,7 +2559,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2459,Tobias Sippel,de GER,PO,M'Gladbach,de Bundesliga,34,1988,5.7,260,193,67,19,0,0,0,0,0,0,0,0,174,0,0,Partidos
 2460,Hugo Siquet,be BEL,DF,Freiburg,de Bundesliga,20,2002,0.2,7,5,2,0,0,0,0,2,0,0,0,0,5,0,0,Partidos
 2461,Salvatore Sirigu,it ITA,PO,Fiorentina,it Serie A,35,1987,1.0,38,26,12,4,0,0,0,0,0,0,0,0,28,0,0,Partidos
-2462,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,24,1997,14.6,636,617,18,15,2,6,10,3,0,0,0,0,489,1,23,Partidos
+2462,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,24,1997,14.6,636,617,18,15,2,6,10,3,0,0,0,0,489,1,23,Partidos
 2463,Moussa Sissoko,fr FRA,CC,Nantes,fr Ligue 1,32,1989,21.3,787,753,34,21,0,2,23,11,0,0,0,0,628,0,22,Partidos
 2464,Tim Skarke,de GER,"DF,CC",Union Berlin,de Bundesliga,25,1996,0.6,36,32,4,0,0,1,8,4,0,0,0,0,22,0,1,Partidos
 2465,Tim Skarke,de GER,"DL,CC",Schalke 04,de Bundesliga,25,1996,4.9,145,126,18,2,0,0,22,5,11,4,6,0,94,1,9,Partidos
@@ -2642,7 +2642,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2539,John Stones,eng ENG,"DF,CC",Manchester City,eng Premier League,28,1994,20.5,1563,1496,66,17,1,14,6,45,1,0,0,0,1453,1,10,Partidos
 2540,Jørgen Strand Larsen,no NOR,DL,Celta Vigo,es La Liga,22,2000,18.9,339,310,27,3,0,4,4,0,0,0,0,0,232,2,3,Partidos
 2541,Tony Strata,fr FRA,"CC,DF",Ajaccio,fr Ligue 1,17,2004,1.5,37,29,8,1,0,0,0,7,0,0,0,0,29,0,0,Partidos
-2542,Gabriel Strefezza,,"DF,DL",Lecce,it Serie A,25,1997,27.1,,,,,,,121,,,,,,,,,Partidos
+2542,Gabriel Strefezza,br BRA,"DL,CC",Lecce,it Serie A,25,1997,27.1,886,805,71,19,6,23,121,17,35,15,10,0,553,10,36,Partidos
 2543,Dávid Strelec,sk SVK,DL,Spezia,it Serie A,21,2001,1.9,43,40,3,0,0,0,0,0,0,0,0,0,25,0,2,Partidos
 2544,Pascal Struijk,nl NED,DF,Leeds United,eng Premier League,22,1999,24.4,1320,1065,250,28,0,3,21,222,0,0,0,0,1046,5,26,Partidos
 2545,Cristhian Stuani,uy URU,DL,Girona,es La Liga,35,1986,12.1,168,148,19,0,0,0,3,0,0,0,0,0,122,1,4,Partidos

@@ -201,7 +201,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.
 192,Patrick Bamford,eng ENG,DL,Leeds United,eng Premier League,27,1993,6.2,88,108,81.5,1103,200,60,68,88.2,20,25,80.0,3,6,50.0,2,1.1,0.4,+0.9,5,5,6,1,12,Partidos
 193,Filippo Bandinelli,it ITA,CC,Empoli,it Serie A,26,1995,21.7,537,733,73.3,8769,3104,273,315,86.7,197,256,77.0,46,96,47.9,3,3.4,2.8,-0.4,32,60,41,13,104,Partidos
 194,Mattia Bani,it ITA,DF,Genoa,it Serie A,27,1993,13.5,333,469,71.0,6336,2698,123,151,81.5,166,201,82.6,36,96,37.5,0,0.1,0.1,-0.1,3,16,0,0,24,Partidos
-195,Simon Banza,,DL,Lens,fr Ligue 1,24,1996,1.4,18,31,58.1,296,70,10,16,62.5,5,8,62.5,2,3,66.7,1,0.7,0.6,+0.3,2,1,0,0,1,Partidos
+195,Simon Banza,cd COD,DL,Lens,fr Ligue 1,24,1996,1.4,18,31,58.1,296,70,10,16,62.5,5,8,62.5,2,3,66.7,1,0.7,0.6,+0.3,2,1,0,0,1,Partidos
 196,Shandon Baptiste,gd GRN,CC,Brentford,eng Premier League,23,1998,10.1,257,308,83.4,3885,900,140,156,89.7,85,99,85.9,17,30,56.7,0,0.5,0.5,-0.5,9,21,6,1,35,Partidos
 197,Antonín Barák,cz CZE,"CC,DL",Hellas Verona,it Serie A,26,1994,26.0,876,1107,79.1,11982,3508,520,610,85.2,275,331,83.1,33,52,63.5,4,2.7,3.1,+1.3,28,81,22,1,147,Partidos
 198,Barbero,es ESP,"DL,CC",Osasuna,es La Liga,22,1998,0.2,7,11,63.6,59,7,5,8,62.5,1,2,50.0,0,0,,0,0.0,0.0,0.0,0,1,0,0,1,Partidos
@@ -1527,7 +1527,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.
 1467,Manuel Lanzini,ar ARG,"CC,DL",West Ham,eng Premier League,28,1993,19.8,1118,1237,90.4,16115,3945,642,678,94.7,372,407,91.4,52,77,67.5,3,2.4,2.5,+0.6,23,87,22,3,119,Partidos
 1468,Aymeric Laporte,es ESP,DF,Manchester City,eng Premier League,27,1994,31.4,2782,2940,94.6,53607,17549,933,966,96.6,1575,1624,97.0,251,316,79.4,0,0.6,1.3,-0.6,9,309,9,2,271,Partidos
 1469,Julien Laporte,fr FRA,DF,Lorient,fr Ligue 1,27,1993,32.1,1223,1454,84.1,27396,11254,303,335,90.4,651,708,91.9,254,362,70.2,0,0.5,0.6,-0.5,5,81,8,0,82,Partidos
-1470,Yasser Larouci,fr FRA,DF,Troyes,fr Ligue 1,20,2001,3.8,128,163,78.5,1932,590,80,90,88.9,33,42,78.6,10,20,50.0,0,0.1,0.4,-0.1,3,5,6,5,14,Partidos
+1470,Yasser Larouci,dz ALG,DF,Troyes,fr Ligue 1,20,2001,3.8,128,163,78.5,1932,590,80,90,88.9,33,42,78.6,10,20,50.0,0,0.1,0.4,-0.1,3,5,6,5,14,Partidos
 1471,Kevin Lasagna,it ITA,"CC,DL",Hellas Verona,it Serie A,28,1992,13.2,179,273,65.6,2677,657,103,132,78.0,45,70,64.3,15,22,68.2,4,2.1,1.2,+1.9,15,10,13,2,28,Partidos
 1472,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,eng Premier League,27,1993,22.9,516,696,74.1,10069,3526,133,184,72.3,331,392,84.4,43,95,45.3,0,0.4,0.5,-0.4,4,20,1,0,18,Partidos
 1473,Bryan Lasme,fr FRA,DL,Arminia,de Bundesliga,22,1998,9.7,107,182,58.8,1452,355,71,104,68.3,21,38,55.3,6,12,50.0,0,0.4,1.4,-0.4,7,7,7,6,7,Partidos
@@ -1707,8 +1707,8 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.
 1640,Ricardo Mangas,pt POR,DF,Bordeaux,fr Ligue 1,23,1998,26.1,808,1057,76.4,13923,5183,358,424,84.4,350,443,79.0,74,120,61.7,1,0.6,1.5,+0.4,16,47,14,1,89,Partidos
 1641,Kostas Manolas,gr GRE,DF,Napoli,it Serie A,30,1991,3.5,223,234,95.3,4147,1502,86,88,97.7,114,119,95.8,22,24,91.7,0,0.0,0.0,0.0,0,14,0,0,13,Partidos
 1642,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,27,1994,14.0,308,424,72.6,4133,1621,194,223,87.0,85,124,68.5,12,38,31.6,2,0.3,0.3,+1.7,4,19,0,0,22,Partidos
-1643,Myziane Maolida,fr FRA,CC,Nice,fr Ligue 1,22,1999,0.4,4,7,57.1,38,2,2,4,50.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Partidos
-1644,Myziane Maolida,fr FRA,"DL,CC",Hertha BSC,de Bundesliga,22,1999,8.6,155,229,67.7,1976,556,100,128,78.1,38,57,66.7,4,10,40.0,1,0.2,0.6,+0.8,4,4,7,1,20,Partidos
+1643,Myziane Maolida,km COM,CC,Nice,fr Ligue 1,22,1999,0.4,4,7,57.1,38,2,2,4,50.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Partidos
+1644,Myziane Maolida,km COM,"DL,CC",Hertha BSC,de Bundesliga,22,1999,8.6,155,229,67.7,1976,556,100,128,78.1,38,57,66.7,4,10,40.0,1,0.2,0.6,+0.8,4,4,7,1,20,Partidos
 1645,Sekou Mara,fr FRA,"DL,CC",Bordeaux,fr Ligue 1,19,2002,10.1,129,193,66.8,1844,427,74,105,70.5,37,51,72.5,8,12,66.7,0,0.7,0.5,-0.7,7,11,5,1,15,Partidos
 1646,Nikola Maraš,rs SRB,DF,Rayo Vallecano,es La Liga,25,1995,11.6,370,457,81.0,7260,2514,119,136,87.5,208,240,86.7,39,73,53.4,0,0.1,0.1,-0.1,3,11,0,0,22,Partidos
 1647,Fernando Marçal,br BRA,"CC,DF",Wolves,eng Premier League,32,1989,16.1,669,887,75.4,10434,3383,356,394,90.4,264,347,76.1,35,87,40.2,0,0.6,0.7,-0.6,10,35,9,4,50,Partidos
@@ -1730,8 +1730,8 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.
 1662,Răzvan Marin,ro ROU,CC,Cagliari,it Serie A,25,1996,31.3,997,1303,76.5,18286,5962,440,503,87.5,371,435,85.3,156,285,54.7,5,6.4,5.8,-1.4,68,111,31,6,142,Partidos
 1663,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,27,1994,20.4,1195,1350,88.5,24172,8582,343,373,92.0,705,747,94.4,144,208,69.2,0,0.3,0.4,-0.3,2,80,2,0,80,Partidos
 1664,Mika Màrmol,es ESP,DF,Barcelona,es La Liga,19,2002,0.0,4,5,80.0,49,7,3,4,75.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Partidos
-1665,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,22,1999,0.3,,,,,,,,,,,,,,,0,,,,,,,,,Partidos
-1666,Omar Marmoush,eg EGY,DL,Stuttgart,de Bundesliga,22,1999,17.5,,,,,,,,,,,,,,,5,,,,,,,,,Partidos
+1665,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,22,1999,0.3,6,9,66.7,59,30,4,4,100.0,1,2,50.0,0,0,,0,0.2,0.1,-0.2,1,2,0,0,2,Partidos
+1666,Omar Marmoush,eg EGY,DL,Stuttgart,de Bundesliga,22,1999,17.5,309,451,68.5,4764,1246,162,211,76.8,97,133,72.9,25,46,54.3,5,2.0,2.0,+3.0,32,24,8,2,33,Partidos
 1667,Marquinhos,br BRA,DF,Paris S-G,fr Ligue 1,27,1994,31.8,2241,2408,93.1,43015,15025,788,820,96.1,1190,1236,96.3,235,308,76.3,0,0.4,1.5,-0.4,7,145,9,0,128,Partidos
 1668,Roger Martí,es ESP,DL,Levante,es La Liga,30,1991,23.5,313,462,67.7,4374,1057,190,240,79.2,87,126,69.0,18,37,48.6,3,3.2,1.0,-0.2,23,23,15,1,50,Partidos
 1669,Anthony Martial,fr FRA,DL,Manchester Utd,eng Premier League,25,1995,2.4,67,86,77.9,946,198,43,51,84.3,23,28,82.1,0,2,0.0,0,0.0,0.4,0.0,0,5,5,0,14,Partidos
@@ -2440,7 +2440,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.
 2345,Marcel Sabitzer,at AUT,"CC,DF",Bayern Munich,de Bundesliga,27,1994,10.1,576,712,80.9,8556,2280,334,380,87.9,190,231,82.3,32,50,64.0,1,1.7,2.2,-0.7,11,51,16,2,66,Partidos
 2346,Falaye Sacko,ml MLI,DF,Saint-Étienne,fr Ligue 1,26,1995,7.4,368,437,84.2,6327,2671,161,173,93.1,166,184,90.2,33,62,53.2,0,0.2,0.1,-0.2,2,28,0,0,38,Partidos
 2347,Alexis Saelemaekers,be BEL,DL,Milan,it Serie A,22,1999,20.7,681,869,78.4,9508,2300,438,500,87.6,189,241,78.4,34,60,56.7,3,3.3,3.3,-0.3,38,45,26,10,54,Partidos
-2348,Rafiki Said Ahamada,km COM,"CC,DL",Brest,fr Ligue 1,21,2000,1.4,42,57,73.7,650,173,27,35,77.1,10,12,83.3,3,5,60.0,0,0.1,0.2,-0.1,2,3,2,1,4,Partidos
+2348,Rafiki Said,km COM,"CC,DL",Brest,fr Ligue 1,21,2000,1.4,42,57,73.7,650,173,27,35,77.1,10,12,83.3,3,5,60.0,0,0.1,0.2,-0.1,2,3,2,1,4,Partidos
 2349,Wesley Saïd,fr FRA,"DL,CC",Lens,fr Ligue 1,26,1995,7.3,164,232,70.7,2490,656,85,102,83.3,55,80,68.8,13,24,54.2,0,0.9,0.7,-0.9,14,18,4,0,32,Partidos
 2350,Allan Saint-Maximin,fr FRA,"DL,CC",Newcastle Utd,eng Premier League,24,1997,31.2,529,747,70.8,7953,1853,299,359,83.3,165,225,73.3,38,75,50.7,5,4.3,3.8,+0.7,50,51,32,8,87,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.,Dist. prg.,Cmp,Int.,% Cmp,Cmp,Int.,% Cmp,Cmp,Int.,% Cmp,Ass,xAG,xA,A-xAG,PC,1/3,PPA,CrAP,PrgP,Partidos
@@ -2598,7 +2598,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.
 2497,Hugo Siquet,be BEL,DF,Freiburg,de Bundesliga,19,2002,0.2,13,16,81.3,258,71,5,6,83.3,7,8,87.5,1,2,50.0,0,0.0,0.0,0.0,0,4,0,0,3,Partidos
 2498,Salvatore Sirigu,it ITA,PO,Genoa,it Serie A,34,1987,37.0,777,1182,65.7,24637,19024,141,142,99.3,264,270,97.8,370,764,48.4,0,0.0,0.1,0.0,0,17,0,0,0,Partidos
 2499,Issouf Sissokho,ml MLI,CC,Bordeaux,fr Ligue 1,19,2002,4.8,183,217,84.3,3088,552,85,92,92.4,81,92,88.0,16,20,80.0,0,0.3,0.5,-0.3,8,13,4,1,15,Partidos
-2500,Ibrahima Sissoko,fr FRA,"CC,DF",Strasbourg,fr Ligue 1,23,1997,25.6,826,1040,79.4,14054,4610,390,465,83.9,342,391,87.5,74,125,59.2,5,4.3,3.3,+0.7,28,77,20,4,100,Partidos
+2500,Ibrahima Sissoko,ml MLI,"CC,DF",Strasbourg,fr Ligue 1,23,1997,25.6,826,1040,79.4,14054,4610,390,465,83.9,342,391,87.5,74,125,59.2,5,4.3,3.3,+0.7,28,77,20,4,100,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.,Dist. prg.,Cmp,Int.,% Cmp,Cmp,Int.,% Cmp,Cmp,Int.,% Cmp,Ass,xAG,xA,A-xAG,PC,1/3,PPA,CrAP,PrgP,Partidos
 2501,Moussa Sissoko,fr FRA,CC,Watford,eng Premier League,31,1989,35.8,922,1188,77.6,14966,4705,469,570,82.3,321,398,80.7,89,131,67.9,1,3.1,2.3,-2.1,37,95,24,11,116,Partidos
 2502,Nelson Sissoko,fr FRA,DF,Saint-Étienne,fr Ligue 1,24,1997,0.5,9,12,75.0,157,108,5,7,71.4,2,2,100.0,2,3,66.7,0,0.0,0.0,0.0,0,1,0,0,1,Partidos
@@ -2723,7 +2723,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.
 2617,Aurélien Tchouaméni,fr FRA,CC,Monaco,fr Ligue 1,21,2000,32.5,1795,2091,85.8,32270,9704,723,819,88.3,871,958,90.9,167,233,71.7,2,2.8,4.0,-0.8,21,196,34,4,250,Partidos
 2618,Mathys Tel,fr FRA,"DL,CC",Rennes,fr Ligue 1,16,2005,0.6,16,26,61.5,322,65,9,14,64.3,2,6,33.3,5,6,83.3,0,0.1,0.1,-0.1,1,0,0,0,2,Partidos
 2619,Jordan Tell,gp GLP,DL,Clermont Foot,fr Ligue 1,24,1997,3.2,75,89,84.3,1121,183,43,48,89.6,27,30,90.0,4,4,100.0,1,1.3,0.1,-0.3,5,6,1,0,4,Partidos
-2620,Nathan Tella,eng ENG,"CC,DL",Southampton,eng Premier League,22,1999,8.9,103,177,58.2,1445,383,61,81,75.3,31,55,56.4,4,13,30.8,1,0.6,0.3,+0.4,7,11,4,3,17,Partidos
+2620,Nathan Tella,ng NGA,"CC,DL",Southampton,eng Premier League,22,1999,8.9,103,177,58.2,1445,383,61,81,75.3,31,55,56.4,4,13,30.8,1,0.6,0.3,+0.4,7,11,4,3,17,Partidos
 2621,Alex Telles,br BRA,DF,Manchester Utd,eng Premier League,28,1992,18.4,898,1205,74.5,13213,5198,531,592,89.7,288,389,74.0,53,163,32.5,4,1.9,2.2,+2.1,26,53,16,9,66,Partidos
 2622,Cristian Tello,es ESP,DL,Betis,es La Liga,29,1991,9.1,273,362,75.4,4097,903,153,187,81.8,96,123,78.0,15,26,57.7,2,1.7,1.5,+0.3,16,15,10,3,25,Partidos
 2623,Nahuel Tenaglia,ar ARG,DF,Alavés,es La Liga,25,1996,11.9,305,485,62.9,5242,2711,146,188,77.7,124,179,69.3,31,90,34.4,0,0.1,0.4,-0.1,3,34,9,3,42,Partidos
@@ -2788,7 +2788,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Cmp,Int.,% Cmp,Dist. tot.
 2679,Lucas Torró,es ESP,CC,Osasuna,es La Liga,27,1994,30.3,989,1281,77.2,15897,5119,511,614,83.2,373,475,78.5,69,114,60.5,0,0.6,1.1,-0.6,9,107,13,0,156,Partidos
 2680,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,23,1997,5.4,194,239,81.2,3854,1469,58,69,84.1,110,123,89.4,21,34,61.8,1,0.1,0.0,+0.9,2,11,0,0,12,Partidos
 2681,Cenk Tosun,tr TUR,CC,Everton,eng Premier League,30,1991,0.1,1,1,100.0,22,0,0,0,,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Partidos
-2682,Abdoulaye Touré,fr FRA,CC,Genoa,it Serie A,27,1994,4.8,130,172,75.6,1934,383,66,85,77.6,50,64,78.1,7,10,70.0,0,0.0,0.1,0.0,1,12,0,0,17,Partidos
+2682,Abdoulaye Touré,gn GUI,CC,Genoa,it Serie A,27,1994,4.8,130,172,75.6,1934,383,66,85,77.6,50,64,78.1,7,10,70.0,0,0.0,0.1,0.0,1,12,0,0,17,Partidos
 2683,Almamy Touré,ml MLI,"DF,CC",Eint Frankfurt,de Bundesliga,25,1996,5.6,162,229,70.7,2503,1081,78,97,80.4,69,87,79.3,8,24,33.3,0,0.0,0.1,0.0,0,10,0,0,15,Partidos
 2684,Lucas Tousart,fr FRA,CC,Hertha BSC,de Bundesliga,24,1997,21.8,515,725,71.0,9175,3191,222,281,79.0,215,273,78.8,58,104,55.8,0,0.9,1.3,-0.9,12,57,9,3,79,Partidos
 2685,Yoann Touzghar,tn TUN,DL,Troyes,fr Ligue 1,34,1986,16.2,237,302,78.5,3055,375,159,186,85.5,51,71,71.8,11,12,91.7,0,1.1,1.0,-1.1,21,7,4,0,15,Partidos

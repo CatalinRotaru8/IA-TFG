@@ -191,8 +191,8 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Titular,Mín,90 s,GC,GC90,D
 182,Salvatore Sirigu,it ITA,PO,Fiorentina,it Serie A,35,1987,1,1,90,1.0,0,0.00,5,5,100.0,1,0,0,1,100.0,0,0,0,0,,Partidos
 183,Łukasz Skorupski,pl POL,PO,Bologna,it Serie A,31,1991,37,37,3330,37.0,49,1.32,161,113,73.9,13,12,12,7,18.9,9,7,2,0,22.2,Partidos
 184,François-Joseph Sollacaro,fr FRA,PO,Ajaccio,fr Ligue 1,28,1994,6,6,540,6.0,14,2.33,24,11,45.8,1,1,4,1,16.7,1,1,0,0,0.0,Partidos
-185,Yann Sommer,ch SUI,PO,M'Gladbach,de Bundesliga,33,1988,10,10,900,10.0,14,1.40,60,47,80.0,4,4,2,3,30.0,2,2,0,0,0.0,Partidos
-186,Yann Sommer,ch SUI,PO,Bayern Munich,de Bundesliga,33,1988,19,19,1710,19.0,25,1.32,55,30,67.3,11,4,4,5,26.3,7,7,0,0,0.0,Partidos
+185,Yann Sommer,ch SUI,PO,Bayern Munich,de Bundesliga,33,1988,19,19,1710,19.0,25,1.32,55,30,67.3,11,4,4,5,26.3,7,7,0,0,0.0,Partidos
+186,Yann Sommer,ch SUI,PO,M'Gladbach,de Bundesliga,33,1988,10,10,900,10.0,14,1.40,60,47,80.0,4,4,2,3,30.0,2,2,0,0,0.0,Partidos
 187,David Soria,es ESP,PO,Getafe,es La Liga,29,1993,38,38,3420,38.0,45,1.18,166,119,75.3,10,12,16,13,34.2,8,4,4,0,50.0,Partidos
 188,Marco Sportiello,it ITA,PO,Atalanta,it Serie A,30,1992,15,14,1339,14.9,21,1.41,64,43,68.8,6,3,5,2,14.3,1,1,0,0,0.0,Partidos
 189,Jason Steele,eng ENG,PO,Brighton,eng Premier League,31,1990,15,15,1350,15.0,23,1.53,57,36,61.4,7,3,5,6,40.0,2,1,1,0,50.0,Partidos

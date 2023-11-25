@@ -201,7 +201,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 192,Patrick Bamford,eng ENG,DL,Leeds United,eng Premier League,27,1993,6.2,108,89,19,0,1,0,3,1,0,0,0,0,88,0,3,Partidos
 193,Filippo Bandinelli,it ITA,CC,Empoli,it Serie A,26,1995,21.7,733,700,26,4,4,6,68,14,6,1,1,0,537,7,21,Partidos
 194,Mattia Bani,it ITA,DF,Genoa,it Serie A,27,1993,13.5,469,425,42,34,0,0,1,0,0,0,0,0,333,2,7,Partidos
-195,Simon Banza,,DL,Lens,fr Ligue 1,24,1996,1.4,31,29,1,0,0,1,1,0,0,0,0,0,18,1,1,Partidos
+195,Simon Banza,cd COD,DL,Lens,fr Ligue 1,24,1996,1.4,31,29,1,0,0,1,1,0,0,0,0,0,18,1,1,Partidos
 196,Shandon Baptiste,gd GRN,CC,Brentford,eng Premier League,23,1998,10.1,308,305,3,1,0,0,8,2,0,0,0,0,257,0,3,Partidos
 197,Antonín Barák,cz CZE,"CC,DL",Hellas Verona,it Serie A,26,1994,26.0,1107,1081,17,5,2,4,13,6,0,0,0,0,876,9,37,Partidos
 198,Barbero,es ESP,"DL,CC",Osasuna,es La Liga,22,1998,0.2,11,10,1,0,0,0,0,0,0,0,0,0,7,0,0,Partidos
@@ -1527,7 +1527,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 1467,Manuel Lanzini,ar ARG,"CC,DL",West Ham,eng Premier League,28,1993,19.8,1237,1159,77,10,2,4,28,6,20,16,0,0,1118,1,12,Partidos
 1468,Aymeric Laporte,es ESP,DF,Manchester City,eng Premier League,27,1994,31.4,2940,2888,50,37,4,22,5,13,0,0,0,0,2782,2,2,Partidos
 1469,Julien Laporte,fr FRA,DF,Lorient,fr Ligue 1,27,1993,32.1,1454,1398,48,45,1,21,2,3,0,0,0,0,1223,8,9,Partidos
-1470,Yasser Larouci,fr FRA,DF,Troyes,fr Ligue 1,20,2001,3.8,163,137,26,1,0,2,15,25,0,0,0,0,128,0,3,Partidos
+1470,Yasser Larouci,dz ALG,DF,Troyes,fr Ligue 1,20,2001,3.8,163,137,26,1,0,2,15,25,0,0,0,0,128,0,3,Partidos
 1471,Kevin Lasagna,it ITA,"CC,DL",Hellas Verona,it Serie A,28,1992,13.2,273,254,15,0,1,5,10,2,0,0,0,0,179,4,17,Partidos
 1472,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,eng Premier League,27,1993,22.9,696,679,12,4,0,6,0,1,0,0,0,0,516,5,1,Partidos
 1473,Bryan Lasme,fr FRA,DL,Arminia,de Bundesliga,22,1998,9.7,182,178,4,0,0,0,16,0,0,0,0,0,107,0,7,Partidos
@@ -1707,8 +1707,8 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 1640,Ricardo Mangas,pt POR,DF,Bordeaux,fr Ligue 1,23,1998,26.1,1057,837,218,17,3,10,39,201,0,0,0,0,808,2,22,Partidos
 1641,Kostas Manolas,gr GRE,DF,Napoli,it Serie A,30,1991,3.5,234,228,5,3,0,1,0,0,0,0,0,0,223,1,1,Partidos
 1642,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,27,1994,14.0,424,321,102,3,0,0,9,99,0,0,0,0,308,1,15,Partidos
-1643,Myziane Maolida,fr FRA,CC,Nice,fr Ligue 1,22,1999,0.4,7,7,0,0,0,0,0,0,0,0,0,0,4,0,1,Partidos
-1644,Myziane Maolida,fr FRA,"DL,CC",Hertha BSC,de Bundesliga,22,1999,8.6,229,227,2,0,1,1,7,0,0,0,0,0,155,0,11,Partidos
+1643,Myziane Maolida,km COM,CC,Nice,fr Ligue 1,22,1999,0.4,7,7,0,0,0,0,0,0,0,0,0,0,4,0,1,Partidos
+1644,Myziane Maolida,km COM,"DL,CC",Hertha BSC,de Bundesliga,22,1999,8.6,229,227,2,0,1,1,7,0,0,0,0,0,155,0,11,Partidos
 1645,Sekou Mara,fr FRA,"DL,CC",Bordeaux,fr Ligue 1,19,2002,10.1,193,167,25,0,1,0,4,1,0,0,0,0,129,1,8,Partidos
 1646,Nikola Maraš,rs SRB,DF,Rayo Vallecano,es La Liga,25,1995,11.6,457,441,15,14,0,2,0,1,0,0,0,0,370,1,2,Partidos
 1647,Fernando Marçal,br BRA,"CC,DF",Wolves,eng Premier League,32,1989,16.1,887,743,137,4,0,1,60,130,3,1,1,0,669,7,22,Partidos
@@ -1730,8 +1730,8 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 1662,Răzvan Marin,ro ROU,CC,Cagliari,it Serie A,25,1996,31.3,1303,1113,183,83,6,12,127,9,78,27,43,0,997,7,27,Partidos
 1663,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,27,1994,20.4,1350,1316,31,29,2,5,1,0,0,0,0,0,1195,3,11,Partidos
 1664,Mika Màrmol,es ESP,DF,Barcelona,es La Liga,19,2002,0.0,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Partidos
-1665,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,22,1999,0.3,,,,,,,0,,,,,,,,,Partidos
-1666,Omar Marmoush,eg EGY,DL,Stuttgart,de Bundesliga,22,1999,17.5,,,,,,,43,,,,,,,,,Partidos
+1665,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,22,1999,0.3,9,8,1,0,0,0,0,1,0,0,0,0,6,0,0,Partidos
+1666,Omar Marmoush,eg EGY,DL,Stuttgart,de Bundesliga,22,1999,17.5,451,384,64,13,3,2,44,12,27,2,19,1,309,3,19,Partidos
 1667,Marquinhos,br BRA,DF,Paris S-G,fr Ligue 1,27,1994,31.8,2408,2324,76,63,3,21,6,5,0,0,0,0,2241,8,3,Partidos
 1668,Roger Martí,es ESP,DL,Levante,es La Liga,30,1991,23.5,462,409,49,0,5,4,10,0,0,0,0,0,313,4,14,Partidos
 1669,Anthony Martial,fr FRA,DL,Manchester Utd,eng Premier League,25,1995,2.4,86,85,1,0,1,0,4,0,0,0,0,0,67,0,3,Partidos
@@ -2440,7 +2440,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2345,Marcel Sabitzer,at AUT,"CC,DF",Bayern Munich,de Bundesliga,27,1994,10.1,712,664,44,10,2,5,16,33,0,0,0,0,576,4,20,Partidos
 2346,Falaye Sacko,ml MLI,DF,Saint-Étienne,fr Ligue 1,26,1995,7.4,437,403,34,11,0,2,8,23,0,0,0,0,368,0,10,Partidos
 2347,Alexis Saelemaekers,be BEL,DL,Milan,it Serie A,22,1999,20.7,869,840,28,6,2,1,63,11,10,0,2,0,681,1,26,Partidos
-2348,Rafiki Said Ahamada,km COM,"CC,DL",Brest,fr Ligue 1,21,2000,1.4,57,54,3,1,1,0,5,1,1,0,1,0,42,0,3,Partidos
+2348,Rafiki Said,km COM,"CC,DL",Brest,fr Ligue 1,21,2000,1.4,57,54,3,1,1,0,5,1,1,0,1,0,42,0,3,Partidos
 2349,Wesley Saïd,fr FRA,"DL,CC",Lens,fr Ligue 1,26,1995,7.3,232,222,6,3,0,2,10,2,0,0,0,0,164,4,8,Partidos
 2350,Allan Saint-Maximin,fr FRA,"DL,CC",Newcastle Utd,eng Premier League,24,1997,31.2,747,721,19,0,11,11,60,5,0,0,0,0,529,7,33,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
@@ -2598,7 +2598,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2497,Hugo Siquet,be BEL,DF,Freiburg,de Bundesliga,19,2002,0.2,16,13,3,0,0,0,1,3,0,0,0,0,13,0,0,Partidos
 2498,Salvatore Sirigu,it ITA,PO,Genoa,it Serie A,34,1987,37.0,1182,799,380,117,0,3,0,0,0,0,0,0,777,3,2,Partidos
 2499,Issouf Sissokho,ml MLI,CC,Bordeaux,fr Ligue 1,19,2002,4.8,217,212,2,2,3,0,6,0,0,0,0,0,183,3,8,Partidos
-2500,Ibrahima Sissoko,fr FRA,"CC,DF",Strasbourg,fr Ligue 1,23,1997,25.6,1040,1020,16,11,2,5,21,4,0,0,0,0,826,4,18,Partidos
+2500,Ibrahima Sissoko,ml MLI,"CC,DF",Strasbourg,fr Ligue 1,23,1997,25.6,1040,1020,16,11,2,5,21,4,0,0,0,0,826,4,18,Partidos
 RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón muerto,FK,PL,Camb.,Pcz,Lanz.,SE,Dentro,Fuera,Rect.,Cmp,PA,Bloqueos,Partidos
 2501,Moussa Sissoko,fr FRA,CC,Watford,eng Premier League,31,1989,35.8,1188,1148,36,20,5,8,26,14,0,0,0,0,922,4,27,Partidos
 2502,Nelson Sissoko,fr FRA,DF,Saint-Étienne,fr Ligue 1,24,1997,0.5,12,7,5,0,0,0,0,5,0,0,0,0,9,0,0,Partidos
@@ -2723,7 +2723,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2617,Aurélien Tchouaméni,fr FRA,CC,Monaco,fr Ligue 1,21,2000,32.5,2091,2020,64,62,6,13,17,2,0,0,0,0,1795,7,24,Partidos
 2618,Mathys Tel,fr FRA,"DL,CC",Rennes,fr Ligue 1,16,2005,0.6,26,25,1,0,0,1,6,0,1,1,0,0,16,0,0,Partidos
 2619,Jordan Tell,gp GLP,DL,Clermont Foot,fr Ligue 1,24,1997,3.2,89,84,5,0,0,1,2,2,0,0,0,0,75,0,5,Partidos
-2620,Nathan Tella,eng ENG,"CC,DL",Southampton,eng Premier League,22,1999,8.9,177,168,8,0,1,1,12,3,2,0,0,0,103,1,8,Partidos
+2620,Nathan Tella,ng NGA,"CC,DL",Southampton,eng Premier League,22,1999,8.9,177,168,8,0,1,1,12,3,2,0,0,0,103,1,8,Partidos
 2621,Alex Telles,br BRA,DF,Manchester Utd,eng Premier League,28,1992,18.4,1205,988,212,23,2,1,127,138,51,23,24,0,898,5,22,Partidos
 2622,Cristian Tello,es ESP,DL,Betis,es La Liga,29,1991,9.1,362,355,5,1,0,2,16,2,2,1,1,0,273,2,10,Partidos
 2623,Nahuel Tenaglia,ar ARG,DF,Alavés,es La Liga,25,1996,11.9,485,369,116,2,0,2,24,114,0,0,0,0,305,0,14,Partidos
@@ -2788,7 +2788,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Int.,Balón vivo,Balón m
 2679,Lucas Torró,es ESP,CC,Osasuna,es La Liga,27,1994,30.3,1281,1270,9,9,1,15,7,0,0,0,0,0,989,2,17,Partidos
 2680,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,23,1997,5.4,239,227,12,8,0,4,1,1,0,0,0,0,194,0,2,Partidos
 2681,Cenk Tosun,tr TUR,CC,Everton,eng Premier League,30,1991,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Partidos
-2682,Abdoulaye Touré,fr FRA,CC,Genoa,it Serie A,27,1994,4.8,172,170,1,1,0,0,3,0,0,0,0,0,130,1,4,Partidos
+2682,Abdoulaye Touré,gn GUI,CC,Genoa,it Serie A,27,1994,4.8,172,170,1,1,0,0,3,0,0,0,0,0,130,1,4,Partidos
 2683,Almamy Touré,ml MLI,"DF,CC",Eint Frankfurt,de Bundesliga,25,1996,5.6,229,187,42,3,0,1,12,39,0,0,0,0,162,0,9,Partidos
 2684,Lucas Tousart,fr FRA,CC,Hertha BSC,de Bundesliga,24,1997,21.8,725,701,17,11,4,7,16,3,1,0,1,0,515,7,22,Partidos
 2685,Yoann Touzghar,tn TUN,DL,Troyes,fr Ligue 1,34,1986,16.2,302,269,33,0,0,0,8,0,0,0,0,0,237,0,5,Partidos

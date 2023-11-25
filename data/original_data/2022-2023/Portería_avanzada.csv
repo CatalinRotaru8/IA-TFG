@@ -191,8 +191,8 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,GC,PD,TL,TE,GC,PSxG,PSxG/
 182,Salvatore Sirigu,it ITA,PO,Fiorentina,it Serie A,35,1987,1.0,0,0,0,0,0,1.0,0.19,+1.0,+0.96,6,16,37.5,30,9,40.0,37.7,8,50.0,41.8,12,0,0.0,2,2.00,26.3,Partidos
 183,Łukasz Skorupski,pl POL,PO,Bologna,it Serie A,31,1991,37.0,49,7,1,6,3,47.8,0.25,+1.8,+0.05,146,371,39.4,933,206,29.8,31.7,278,33.5,33.0,492,29,5.9,24,0.65,12.9,Partidos
 184,François-Joseph Sollacaro,fr FRA,PO,Ajaccio,fr Ligue 1,28,1994,6.0,14,1,0,1,1,9.1,0.34,-3.9,-0.65,19,87,21.8,102,11,56.9,40.7,40,72.5,48.2,93,6,6.5,6,1.00,11.5,Partidos
-185,Yann Sommer,ch SUI,PO,M'Gladbach,de Bundesliga,33,1988,10.0,14,2,1,0,1,16.7,0.25,+3.7,+0.37,48,141,34.0,517,52,23.0,28.2,90,24.4,28.6,162,5,3.1,13,1.30,14.6,Partidos
-186,Yann Sommer,ch SUI,PO,Bayern Munich,de Bundesliga,33,1988,19.0,25,7,1,1,0,23.7,0.32,-1.3,-0.07,48,118,40.7,651,83,14.6,25.1,98,23.5,28.7,212,12,5.7,27,1.42,16.7,Partidos
+185,Yann Sommer,ch SUI,PO,Bayern Munich,de Bundesliga,33,1988,19.0,25,7,1,1,0,23.7,0.32,-1.3,-0.07,48,118,40.7,651,83,14.6,25.1,98,23.5,28.7,212,12,5.7,27,1.42,16.7,Partidos
+186,Yann Sommer,ch SUI,PO,M'Gladbach,de Bundesliga,33,1988,10.0,14,2,1,0,1,16.7,0.25,+3.7,+0.37,48,141,34.0,517,52,23.0,28.2,90,24.4,28.6,162,5,3.1,13,1.30,14.6,Partidos
 187,David Soria,es ESP,PO,Getafe,es La Liga,29,1993,38.0,45,4,0,7,2,45.5,0.23,+2.5,+0.07,409,904,45.2,782,99,75.1,49.8,347,91.4,59.8,586,36,6.1,46,1.21,15.0,Partidos
 188,Marco Sportiello,it ITA,PO,Atalanta,it Serie A,30,1992,14.9,21,1,1,2,0,19.6,0.29,-1.4,-0.10,52,148,35.1,346,85,20.5,28.8,116,66.4,49.7,200,18,9.0,18,1.21,15.0,Partidos
 189,Jason Steele,eng ENG,PO,Brighton,eng Premier League,31,1990,15.0,23,1,0,2,3,18.5,0.29,-1.5,-0.10,34,74,45.9,483,48,14.9,24.2,55,3.6,13.9,126,10,7.9,19,1.27,15.7,Partidos

@@ -783,7 +783,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 751,Abdoulaye Diallo,sn SEN,PO,Rennes,fr Ligue 1,26,1992,6,495,83,14.5,5.5,6,83,5,0,,16,1.83,8,4,+4,+0.73,+0.76,9.8,4.8,+5.1,+0.92,+0.83,Partidos
 752,Mustapha Diallo,sn SEN,CC,Nîmes,fr Ligue 1,32,1986,7,455,65,13.3,5.1,6,71,1,1,29,0,1.14,4,9,-5,-0.99,-1.11,4.6,9.5,-4.9,-0.98,-0.93,Partidos
 753,Mohamed Diamé,sn SEN,CC,Newcastle Utd,eng Premier League,31,1987,29,2166,75,63.3,24.1,24,87,20,5,15,3,1.10,21,32,-11,-0.46,-0.82,22.2,35.8,-13.6,-0.57,-0.51,Partidos
-754,Grady Diangana,,"CC,DL",West Ham,eng Premier League,20,1998,17,609,36,17.8,6.8,6,65,0,11,20,6,1.35,6,13,-7,-1.03,-1.16,8.2,13.8,-5.6,-0.82,-0.54,Partidos
+754,Grady Diangana,cd COD,"CC,DL",West Ham,eng Premier League,20,1998,17,609,36,17.8,6.8,6,65,0,11,20,6,1.35,6,13,-7,-1.03,-1.16,8.2,13.8,-5.6,-0.82,-0.54,Partidos
 755,Lassana Diarra,fr FRA,CC,Paris S-G,fr Ligue 1,33,1985,3,159,53,4.6,1.8,2,57,0,1,45,6,3.00,6,0,+6,+3.40,+1.63,3.5,1.5,+2.0,+1.12,-0.24,Partidos
 756,Moussa Diarra,ml MLI,DF,Toulouse,fr Ligue 1,17,2000,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
 757,Amadou Diawara,gn GUI,CC,Napoli,it Serie A,21,1997,13,661,51,19.3,7.3,8,73,3,5,15,14,2.46,15,5,+10,+1.36,+0.45,13.2,6.1,+7.1,+0.96,+0.43,Partidos
@@ -1541,7 +1541,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 1480,Christian Koffi,fr FRA,CC,Fiorentina,it Serie A,17,2000,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
 1481,Hervé Koffi,bf BFA,PO,Lille,fr Ligue 1,21,1996,0,,,,,0,,0,0,,4,,,,,,,,,,,,Partidos
 1482,Dominik Kohr,de GER,CC,Leverkusen,de Bundesliga,24,1994,18,973,54,31.8,10.8,10,86,7,8,14,15,1.72,17,21,-4,-0.37,-1.28,13.7,19.7,-6.0,-0.56,-1.43,Partidos
-1483,Ali Koiki,eng ENG,DF,Burnley,eng Premier League,18,1999,0,,,,,0,,0,0,,2,,,,,,,,,,,,Partidos
+1483,Ali Koiki,eng ENG,"DF,CC",Burnley,eng Premier League,18,1999,0,,,,,0,,0,0,,2,,,,,,,,,,,,Partidos
 1484,Djégui Koita,fr FRA,DF,Guingamp,fr Ligue 1,18,1999,2,173,87,5.1,1.9,1,90,1,1,83,1,1.00,0,1,-1,-0.52,+0.56,1.3,1.9,-0.6,-0.30,+0.04,Partidos
 1485,Seybou Koita,ne NIG,DL,Amiens,fr Ligue 1,24,1994,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
 1486,Koke,es ESP,CC,Atlético Madrid,es La Liga,26,1992,30,2586,86,75.6,28.7,29,88,26,1,24,0,2.00,42,22,+20,+0.70,+0.05,37.6,31.9,+5.6,+0.20,+0.23,Partidos
@@ -1808,7 +1808,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 1737,Juan Manuel Valencia,co COL,DL,Bologna,it Serie A,20,1998,1,28,28,0.8,0.3,0,,0,1,28,11,0.00,0,0,0,0.00,+0.21,0.0,0.6,-0.5,-1.71,-1.66,Partidos
 1738,Harrison Manzala,cd COD,"CC,DL",Angers,fr Ligue 1,24,1994,8,74,9,2.2,0.8,0,,0,8,9,5,1.13,0,3,-3,-3.65,-3.59,1.3,1.0,+0.4,+0.43,+0.37,Partidos
 1739,Fran Manzanara,es ESP,"DF,CC",Levante,es La Liga,21,1996,4,157,39,4.6,1.7,1,93,1,3,21,2,1.25,2,7,-5,-2.87,-2.81,3.2,6.8,-3.7,-2.11,-1.60,Partidos
-1740,Myziane Maolida,fr FRA,DL,Nice,fr Ligue 1,19,1999,14,952,68,27.8,10.6,10,83,2,4,31,1,1.64,8,11,-3,-0.28,-0.21,11.8,12.5,-0.8,-0.07,+0.03,Partidos
+1740,Myziane Maolida,km COM,DL,Nice,fr Ligue 1,19,1999,14,952,68,27.8,10.6,10,83,2,4,31,1,1.64,8,11,-3,-0.28,-0.21,11.8,12.5,-0.8,-0.07,+0.03,Partidos
 1741,Faitout Maouassa,fr FRA,DF,Nîmes,fr Ligue 1,20,1998,27,2137,79,62.5,23.7,25,84,22,2,13,4,1.33,38,29,+9,+0.38,+1.08,32.2,33.1,-0.8,-0.03,+0.37,Partidos
 1742,Faitout Maouassa,fr FRA,"DF,CC",Rennes,fr Ligue 1,20,1998,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
 1743,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,29,1989,12,878,73,25.7,9.8,12,73,7,0,,10,1.83,16,9,+7,+0.72,+0.15,14.7,10.2,+4.5,+0.46,-0.44,Partidos
@@ -2070,7 +2070,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 1989,Glenn Murray,eng ENG,DL,Brighton,eng Premier League,34,1983,38,2508,66,73.3,27.9,30,78,16,8,20,0,0.95,27,45,-18,-0.65,+0.04,26.6,42.6,-16.0,-0.58,+0.20,Partidos
 1990,Nicola Murru,it ITA,DF,Sampdoria,it Serie A,23,1994,35,2934,84,85.8,32.6,34,86,29,1,3,0,1.40,53,47,+6,+0.18,-0.37,46.3,50.2,-3.9,-0.12,-0.02,Partidos
 1991,Mateo Musacchio,ar ARG,DF,Milan,it Serie A,27,1990,29,2610,90,76.3,29.0,29,90,29,0,,5,1.90,48,29,+19,+0.66,+0.66,40.4,33.4,+7.0,+0.24,+0.18,Partidos
-1992,Torben Müsel,de GER,DL,M'Gladbach,de Bundesliga,19,1999,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
+1992,Torben Müsel,de GER,"DL,CC",M'Gladbach,de Bundesliga,19,1999,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
 1993,Florent Muslija,xk KVX,"CC,DL",Hannover 96,de Bundesliga,20,1998,17,679,40,22.2,7.5,6,67,0,11,25,10,0.18,7,12,-5,-0.66,+0.66,8.2,13.4,-5.2,-0.68,+0.27,Partidos
 1994,Juan Musso,ar ARG,PO,Udinese,it Serie A,24,1994,29,2610,90,76.3,29.0,29,90,29,0,,8,1.21,31,40,-9,-0.31,+0.25,32.6,47.1,-14.4,-0.50,-0.19,Partidos
 1995,Shkodran Mustafi,de GER,DF,Arsenal,eng Premier League,26,1992,31,2611,84,76.3,29.0,31,84,25,0,,4,1.84,51,40,+11,+0.38,-0.84,45.7,43.1,+2.6,+0.09,-0.28,Partidos
@@ -2759,7 +2759,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 2651,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,29,1988,34,2962,87,86.6,32.9,34,87,31,0,,0,1.24,32,38,-6,-0.18,-0.18,36.6,35.9,+0.6,+0.02,+0.26,Partidos
 2652,Tobias Sippel,de GER,PO,M'Gladbach,de Bundesliga,30,1988,0,,,,,0,,0,0,,34,,,,,,,,,,,,Partidos
 2653,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,31,1987,36,3169,88,92.7,35.2,36,88,35,0,,0,1.64,48,35,+13,+0.37,-0.35,44.5,43.6,+0.9,+0.02,+0.74,Partidos
-2654,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,20,1997,32,2665,83,77.9,29.6,30,88,24,2,18,3,1.34,42,35,+7,+0.24,-0.12,28.6,36.5,-7.9,-0.27,-0.03,Partidos
+2654,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,20,1997,32,2665,83,77.9,29.6,30,88,24,2,18,3,1.34,42,35,+7,+0.24,-0.12,28.6,36.5,-7.9,-0.27,-0.03,Partidos
 2655,Moussa Sissoko,fr FRA,"CC,DL",Tottenham,eng Premier League,28,1989,29,2330,80,68.1,25.9,27,86,19,2,8,1,1.93,45,28,+17,+0.66,-0.25,35.9,33.5,+2.4,+0.09,-0.35,Partidos
 2656,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,23,1995,25,844,34,24.7,9.4,8,69,1,17,17,7,0.88,13,14,-1,-0.11,+0.17,10.2,13.4,-3.2,-0.34,+0.05,Partidos
 2657,Sito,es ESP,CC,Valencia,es La Liga,21,1996,0,,,,,0,,0,0,,1,,,,,,,,,,,,Partidos
@@ -2957,7 +2957,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,PJ,Mín,Mn/PJ,% min,90 s,Titul
 2842,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,20,1997,14,1158,83,37.8,12.9,13,86,10,1,45,8,1.50,21,16,+5,+0.39,+1.00,17.3,17.8,-0.6,-0.04,+0.43,Partidos
 2843,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,27,1991,25,1059,42,31.0,11.8,10,82,4,15,16,11,1.16,21,17,+4,+0.34,+0.19,16.4,14.1,+2.3,+0.19,+0.13,Partidos
 2844,Azzeddine Toufiqui,fr FRA,CC,Paris S-G,fr Ligue 1,19,1999,0,,,,,0,,0,0,,2,,,,,,,,,,,,Partidos
-2845,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,24,1994,34,2749,81,80.4,30.5,30,89,27,4,20,3,1.35,42,37,+5,+0.16,+0.83,41.5,40.0,+1.4,+0.05,-0.04,Partidos
+2845,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,24,1994,34,2749,81,80.4,30.5,30,89,27,4,20,3,1.35,42,37,+5,+0.16,+0.83,41.5,40.0,+1.4,+0.05,-0.04,Partidos
 2846,Almamy Touré,ml MLI,DF,Monaco,fr Ligue 1,22,1996,4,346,87,10.1,3.8,4,87,3,0,,0,0.25,2,4,-2,-0.52,-0.02,4.4,4.4,0.0,0.00,+0.08,Partidos
 2847,Almamy Touré,ml MLI,"DF,CC",Eint Frankfurt,de Bundesliga,22,1996,7,519,74,17.0,5.8,6,87,5,1,0,3,1.86,10,11,-1,-0.17,-0.63,10.2,8.7,+1.5,+0.26,+0.08,Partidos
 2848,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,21,1997,30,1727,58,50.5,19.2,20,79,11,10,16,5,1.97,35,22,+13,+0.68,+0.15,34.1,18.5,+15.6,+0.81,+0.06,Partidos

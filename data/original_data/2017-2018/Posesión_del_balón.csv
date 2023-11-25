@@ -1311,7 +1311,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Toques,Def. pen.,3.º def
 1259,Ole Käuper,de GER,CC,Werder Bremen,de Bundesliga,20,1997,0.8,44,0,11,27,6,0,44,0,0,,0,,14,52,8,0,0,0,1,1,24,1,Partidos
 1260,Eiji Kawashima,jp JPN,PO,Metz,fr Ligue 1,34,1983,28.5,970,782,963,7,0,0,970,0,0,,0,,404,2172,1433,0,0,0,1,0,267,0,Partidos
 1261,Beram Kayal,il ISR,CC,Brighton,eng Premier League,29,1988,8.3,317,14,77,188,56,6,317,10,5,50.0,5,50.0,139,711,313,4,3,0,7,8,157,13,Partidos
-1262,Joris Kayembe,be BEL,"DL,CC",Nantes,fr Ligue 1,22,1994,1.0,37,3,7,8,23,7,37,4,1,25.0,3,75.0,21,163,104,3,1,2,3,1,24,7,Partidos
+1262,Joris Kayembe,cd COD,"DL,CC",Nantes,fr Ligue 1,22,1994,1.0,37,3,7,8,23,7,37,4,1,25.0,3,75.0,21,163,104,3,1,2,3,1,24,7,Partidos
 1263,Olarenwaju Kayode,ng NGA,"DL,CC",Girona,es La Liga,24,1993,4.3,97,0,12,38,49,14,97,6,3,50.0,3,50.0,58,372,237,10,4,6,17,6,65,22,Partidos
 1264,Moise Kean,it ITA,DL,Hellas Verona,it Serie A,17,2000,12.6,354,6,41,158,170,40,354,61,29,47.5,32,52.5,220,1931,888,30,27,9,32,35,241,61,Partidos
 1265,Michael Keane,eng ENG,DF,Everton,eng Premier League,24,1993,28.4,1555,214,846,656,60,28,1555,7,7,100.0,0,0.0,694,3662,2227,11,13,1,15,3,797,3,Partidos
@@ -1596,7 +1596,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Toques,Def. pen.,3.º def
 1533,Martín Mantovani,ar ARG,DF,Leganés,es La Liga,33,1984,11.4,504,71,315,185,11,8,504,2,2,100.0,0,0.0,204,909,421,2,1,0,4,1,216,0,Partidos
 1534,José Manuel Jurado,es ESP,"CC,DL",Espanyol,es La Liga,31,1986,16.7,779,8,104,442,246,22,779,59,35,59.3,23,39.0,535,3439,1596,48,35,8,32,25,592,59,Partidos
 1535,Harrison Manzala,cd COD,"DL,CC",Amiens,fr Ligue 1,23,1994,20.7,916,18,155,479,302,54,915,65,40,61.5,25,38.5,557,3799,1940,76,43,25,55,38,626,137,Partidos
-1536,Myziane Maolida,fr FRA,"DL,CC",Lyon,fr Ligue 1,18,1999,3.7,186,0,10,87,93,20,186,26,14,53.8,12,46.2,149,1007,479,14,14,8,11,5,153,46,Partidos
+1536,Myziane Maolida,km COM,"DL,CC",Lyon,fr Ligue 1,18,1999,3.7,186,0,10,87,93,20,186,26,14,53.8,12,46.2,149,1007,479,14,14,8,11,5,153,46,Partidos
 1537,Faitout Maouassa,fr FRA,"CC,DL",Rennes,fr Ligue 1,19,1998,9.9,381,5,33,174,179,12,381,31,9,29.0,22,71.0,228,1931,899,37,28,7,26,21,281,78,Partidos
 1538,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,28,1989,14.4,1185,55,329,664,200,12,1185,10,2,20.0,8,80.0,679,3462,2048,37,27,4,18,9,742,63,Partidos
 1539,Vincent Marcel,fr FRA,"CC,DL",Nice,fr Ligue 1,20,1997,0.5,27,0,2,18,8,1,27,0,0,,0,,21,119,64,0,1,0,4,2,21,7,Partidos
@@ -2583,7 +2583,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Toques,Def. pen.,3.º def
 2482,Alin Toșca,ro ROU,DF,Betis,es La Liga,25,1992,4.7,269,24,92,126,54,1,269,3,2,66.7,1,33.3,136,661,280,7,6,0,4,1,158,22,Partidos
 2483,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,26,1991,11.0,376,14,34,145,201,33,376,8,4,50.0,4,50.0,217,728,284,9,11,6,33,12,283,69,Partidos
 2484,Jérémy Toulalan,fr FRA,DF,Bordeaux,fr Ligue 1,33,1983,21.0,1269,145,639,618,24,2,1269,11,9,81.8,2,18.2,775,4316,2562,16,7,2,6,2,769,1,Partidos
-2485,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,23,1994,31.2,1761,81,389,1112,275,16,1761,64,45,70.3,19,29.7,929,4086,1904,24,32,2,42,45,1021,34,Partidos
+2485,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,23,1994,31.2,1761,81,389,1112,275,16,1761,64,45,70.3,19,29.7,929,4086,1904,24,32,2,42,45,1021,34,Partidos
 2486,Almamy Touré,ml MLI,DF,Monaco,fr Ligue 1,21,1996,13.9,837,53,226,405,214,16,837,19,13,68.4,6,31.6,381,1927,1150,32,25,4,17,13,409,76,Partidos
 2487,Thomas Touré,ci CIV,DL,Bordeaux,fr Ligue 1,23,1993,0.1,5,0,0,4,1,0,5,1,0,0.0,1,100.0,4,15,0,0,0,0,0,0,1,0,Partidos
 2488,Thomas Touré,ci CIV,CC,Angers,fr Ligue 1,23,1993,1.4,83,2,9,31,43,6,83,7,2,28.6,5,71.4,65,457,184,4,5,4,5,5,60,19,Partidos
