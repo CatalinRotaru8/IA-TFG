@@ -127,6 +127,9 @@ def transform_file(file_path: str) -> None:
             )
             delete_last_column_from_file(get_file_path(file_path, file))
         elif file == FileName.estadisticas_estandar:
+            delete_duplicate_line_from_file(
+                get_file_path(file_path, file), DeleteLines.estadisticas_estandar
+            )
             delete_last_column_from_file(get_file_path(file_path, file))
         elif file == FileName.pases:
             delete_duplicate_line_from_file(

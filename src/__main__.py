@@ -19,22 +19,7 @@ def main():
     """
     # get_big5_data(Fbref.stats_dict)
 
-    # delete_duplicate_line_from_file(
-    #     get_file_path(CleanData.files_17_18, FileName.porteria_avanzada),
-    #     DeleteLines.porteria_avanzada,
-    # )
-
-    # change_header_from_file(
-    #     get_file_path(CleanData.files_17_18, FileName.porteria_avanzada),
-    #     DeleteLines.porteria_avanzada,
-    # )
-
-    # delete_last_column_from_file(
-    #     get_file_path(CleanData.files_17_18, FileName.porteria_avanzada)
-    # )
-
-    # transform_file(CleanData.files_17_18)
-    # clean_all_data()
+    clean_all_data()
 
 
 if __name__ == "__main__":

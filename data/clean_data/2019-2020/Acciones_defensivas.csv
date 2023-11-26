@@ -1530,7 +1530,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 1529,Kostas Manolas,gr GRE,DF,Napoli,it Serie A,28,1991,24.2,23.0,15,13.0,10.0,0.0,10.0,17.0,58.8,7.0,19.0,14.0,5.0,25,48.0,76.0,1.0
 1530,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,25,1994,17.8,39.0,26,27.0,8.0,4.0,24.0,38.0,63.2,14.0,14.0,2.0,12.0,18,57.0,56.0,0.0
 1531,Giacomo Manzari,it ITA,"DL,CC",Sassuolo,it Serie A,18,2000,0.2,0.0,0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
-1532,Myziane Maolida,fr FRA,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,14.0,10,5.0,6.0,3.0,5.0,12.0,41.7,7.0,8.0,0.0,8.0,3,17.0,3.0,0.0
+1532,Myziane Maolida,km COM,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,14.0,10,5.0,6.0,3.0,5.0,12.0,41.7,7.0,8.0,0.0,8.0,3,17.0,3.0,0.0
 1533,Faitout Maouassa,fr FRA,DF,Rennes,fr Ligue 1,21,1998,20.0,51.0,33,27.0,20.0,4.0,14.0,26.0,53.8,12.0,13.0,5.0,8.0,23,74.0,59.0,0.0
 1534,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,30,1989,9.2,28.0,18,18.0,7.0,3.0,13.0,26.0,50.0,13.0,7.0,3.0,4.0,26,54.0,32.0,0.0
 1535,Marcelo,br BRA,DF,Real Madrid,es La Liga,31,1988,14.4,19.0,11,8.0,8.0,3.0,9.0,28.0,32.1,19.0,19.0,2.0,17.0,18,37.0,21.0,0.0
@@ -1550,7 +1550,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 1549,Guillermo Maripán,cl CHI,DF,Alavés,es La Liga,25,1994,1.0,1.0,1,1.0,0.0,0.0,1.0,2.0,50.0,1.0,0.0,0.0,0.0,2,3.0,10.0,0.0
 1550,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,25,1994,19.5,42.0,26,28.0,13.0,1.0,24.0,41.0,58.5,17.0,30.0,13.0,17.0,25,67.0,69.0,2.0
 1551,Marlon,br BRA,DF,Sassuolo,it Serie A,23,1995,20.2,40.0,23,24.0,15.0,1.0,17.0,27.0,63.0,10.0,20.0,13.0,7.0,35,75.0,69.0,0.0
-1552,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,20,1999,0.9,,1,,,,,,,,,,,1,,,
+1552,Omar Marmoush,eg EGY,"CC,DL",Wolfsburg,de Bundesliga,20,1999,0.9,1.0,1,1.0,0.0,0.0,0.0,0.0,,0.0,1.0,0.0,1.0,1,2.0,0.0,0.0
 1553,Gonzalo Maroni,ar ARG,"CC,DL",Sampdoria,it Serie A,20,1999,2.0,3.0,1,1.0,1.0,1.0,3.0,7.0,42.9,4.0,1.0,0.0,1.0,3,6.0,0.0,0.0
 1554,Marquinhos,br BRA,"CC,DF",Paris S-G,fr Ligue 1,25,1994,16.4,39.0,20,17.0,18.0,4.0,11.0,26.0,42.3,15.0,25.0,8.0,17.0,25,64.0,31.0,1.0
 1555,Bruno Martella,it ITA,DF,Brescia,it Serie A,26,1992,14.1,18.0,9,14.0,3.0,1.0,9.0,16.0,56.3,7.0,13.0,7.0,6.0,17,35.0,48.0,1.0
@@ -2330,7 +2330,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2329,Daley Sinkgraven,nl NED,"DF,CC",Leverkusen,de Bundesliga,24,1995,10.1,20.0,16,11.0,6.0,3.0,8.0,24.0,33.3,16.0,12.0,3.0,9.0,10,30.0,16.0,0.0
 2330,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,30,1988,21.3,42.0,31,24.0,15.0,3.0,19.0,28.0,67.9,9.0,14.0,1.0,13.0,46,88.0,69.0,0.0
 2331,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,32,1987,36.0,0.0,0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,2,2.0,12.0,0.0
-2332,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,21,1997,17.8,46.0,27,21.0,21.0,4.0,16.0,48.0,33.3,32.0,14.0,5.0,9.0,20,66.0,25.0,0.0
+2332,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,21,1997,17.8,46.0,27,21.0,21.0,4.0,16.0,48.0,33.3,32.0,14.0,5.0,9.0,20,66.0,25.0,0.0
 2333,Moussa Sissoko,fr FRA,CC,Tottenham,eng Premier League,29,1989,27.2,39.0,25,25.0,12.0,2.0,20.0,48.0,41.7,28.0,19.0,4.0,15.0,27,66.0,43.0,2.0
 2334,Sambou Sissoko,fr FRA,"CC,DL",Reims,fr Ligue 1,20,1999,0.4,0.0,0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,1,1.0,2.0,0.0
 2335,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,24,1995,9.9,17.0,8,5.0,6.0,6.0,4.0,19.0,21.1,15.0,18.0,0.0,18.0,6,23.0,4.0,1.0
@@ -2404,7 +2404,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2403,Vlatko Stojanovski,mk MKD,DL,Nîmes,fr Ligue 1,22,1997,1.4,3.0,3,0.0,3.0,0.0,1.0,1.0,100.0,0.0,0.0,0.0,0.0,0,3.0,1.0,0.0
 2404,John Stones,eng ENG,DF,Manchester City,eng Premier League,25,1994,12.5,16.0,10,8.0,7.0,1.0,3.0,5.0,60.0,2.0,5.0,3.0,2.0,9,25.0,32.0,2.0
 2405,Thomas Strakosha,al ALB,PO,Lazio,it Serie A,24,1995,38.0,0.0,0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0,0.0,7.0,2.0
-2406,Gabriel Strefezza,,"DF,DL",SPAL,it Serie A,22,1997,23.4,,39,,,,,,,,,,,22,,,
+2406,Gabriel Strefezza,br BRA,"DF,CC",SPAL,it Serie A,22,1997,23.4,64.0,40,28.0,26.0,10.0,22.0,54.0,40.7,32.0,29.0,3.0,26.0,21,85.0,17.0,0.0
 2407,Tobias Strobl,de GER,"CC,DF",M'Gladbach,de Bundesliga,29,1990,6.8,9.0,6,5.0,4.0,0.0,3.0,8.0,37.5,5.0,8.0,4.0,4.0,11,20.0,5.0,0.0
 2408,Christian Strohdiek,de GER,DF,Paderborn 07,de Bundesliga,31,1988,15.1,26.0,22,21.0,5.0,0.0,20.0,42.0,47.6,22.0,16.0,10.0,6.0,25,51.0,92.0,0.0
 2409,Kevin Strootman,nl NED,CC,Marseille,fr Ligue 1,29,1990,15.7,39.0,27,13.0,23.0,3.0,20.0,49.0,40.8,29.0,16.0,1.0,15.0,17,56.0,24.0,0.0
@@ -2456,7 +2456,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2455,Georg Teigl,at AUT,"DF,CC",Augsburg,de Bundesliga,28,1991,1.2,3.0,1,1.0,2.0,0.0,2.0,4.0,50.0,2.0,0.0,0.0,0.0,3,6.0,1.0,0.0
 2456,Álvaro Tejero,es ESP,DF,Eibar,es La Liga,23,1996,16.1,30.0,18,17.0,10.0,3.0,14.0,23.0,60.9,9.0,17.0,4.0,13.0,28,58.0,38.0,0.0
 2457,Bernard Tekpetey,gh GHA,"DL,CC",Düsseldorf,de Bundesliga,21,1997,5.0,4.0,4,1.0,2.0,1.0,0.0,2.0,0.0,2.0,5.0,0.0,5.0,2,6.0,0.0,0.0
-2458,Nathan Tella,eng ENG,DL,Southampton,eng Premier League,20,1999,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+2458,Nathan Tella,ng NGA,DL,Southampton,eng Premier League,20,1999,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
 2459,Cristian Tello,es ESP,"CC,DL",Betis,es La Liga,27,1991,8.7,8.0,5,2.0,2.0,4.0,4.0,8.0,50.0,4.0,5.0,0.0,5.0,4,12.0,0.0,0.0
 2460,Lino Tempelmann,de GER,CC,Freiburg,de Bundesliga,20,1999,0.4,1.0,0,1.0,0.0,0.0,1.0,1.0,100.0,0.0,1.0,1.0,0.0,0,1.0,0.0,0.0
 2461,Łukasz Teodorczyk,pl POL,DL,Udinese,it Serie A,28,1991,2.5,7.0,5,1.0,5.0,1.0,3.0,7.0,42.9,4.0,2.0,0.0,2.0,0,7.0,1.0,0.0
@@ -2514,7 +2514,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Tkl,TklG,3.º def.,3.º c
 2513,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,21,1997,16.2,32.0,19,21.0,11.0,0.0,18.0,27.0,66.7,9.0,33.0,18.0,15.0,31,63.0,75.0,0.0
 2514,Cenk Tosun,tr TUR,DL,Crystal Palace,eng Premier League,28,1991,2.0,2.0,2,2.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0,2.0,1.0,0.0
 2515,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,28,1991,3.2,2.0,0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0,2.0,1.0,0.0
-2516,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,25,1994,24.7,32.0,21,10.0,21.0,1.0,10.0,30.0,33.3,20.0,31.0,11.0,20.0,29,61.0,18.0,1.0
+2516,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,25,1994,24.7,32.0,21,10.0,21.0,1.0,10.0,30.0,33.3,20.0,31.0,11.0,20.0,29,61.0,18.0,1.0
 2517,Almamy Touré,ml MLI,DF,Eint Frankfurt,de Bundesliga,23,1996,16.6,32.0,19,18.0,11.0,3.0,11.0,22.0,50.0,11.0,18.0,7.0,11.0,23,55.0,54.0,1.0
 2518,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,22,1997,19.6,58.0,32,19.0,34.0,5.0,17.0,56.0,30.4,39.0,19.0,7.0,12.0,31,89.0,27.0,1.0
 2519,Andros Townsend,eng ENG,"DL,CC",Crystal Palace,eng Premier League,28,1991,14.4,34.0,21,12.0,17.0,5.0,15.0,37.0,40.5,22.0,18.0,0.0,18.0,15,49.0,10.0,1.0

@@ -1473,7 +1473,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 1472,Julien Laporte,fr FRA,DF,Lorient,fr Ligue 1,28,1993,18.4,1,0,0,10,16,1,0,18,16,0.0,0.0,1,61.0,31.0,21.0,59.6
 1473,Cyle Larin,ca CAN,DL,Valladolid,es La Liga,27,1995,16.3,4,0,0,23,25,29,6,0,3,0.0,1.0,0,41.0,43.0,60.0,41.7
 1474,Juan Larios,es ESP,DF,Southampton,eng Premier League,18,2004,1.7,0,0,0,1,0,0,4,3,6,0.0,0.0,0,9.0,2.0,5.0,28.6
-1475,Yasser Larouci,fr FRA,"DF,CC",Troyes,fr Ligue 1,21,2001,20.0,1,0,0,14,31,3,50,26,13,0.0,0.0,1,123.0,20.0,14.0,58.8
+1475,Yasser Larouci,dz ALG,"DF,CC",Troyes,fr Ligue 1,21,2001,20.0,1,0,0,14,31,3,50,26,13,0.0,0.0,1,123.0,20.0,14.0,58.8
 1476,Jordan Larsson,se SWE,"DL,CC",Schalke 04,de Bundesliga,25,1997,5.1,0,0,0,7,6,1,2,4,5,0.0,0.0,0,23.0,6.0,11.0,35.3
 1477,Kevin Lasagna,it ITA,"DL,CC",Hellas Verona,it Serie A,29,1992,17.5,2,0,0,25,22,15,13,5,6,0.0,0.0,0,64.0,20.0,68.0,22.7
 1478,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,eng Premier League,28,1993,2.4,4,0,0,6,2,0,0,0,0,0.0,0.0,0,5.0,5.0,3.0,62.5
@@ -1537,818 +1537,818 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 1536,Jesper Lindstrøm,dk DEN,"CC,DL",Eint Frankfurt,de Bundesliga,22,2000,18.7,2,0,0,19,19,3,46,9,11,1.0,0.0,0,94.0,6.0,24.0,20.0
 1537,Karol Linetty,pl POL,CC,Torino,it Serie A,27,1995,21.0,8,0,0,50,22,4,21,19,17,0.0,1.0,0,129.0,24.0,26.0,48.0
 1538,Jesse Lingard,eng ENG,"DL,CC",Nott'ham Forest,eng Premier League,29,1992,10.3,1,0,0,8,9,2,5,5,4,0.0,0.0,0,39.0,1.0,3.0,25.0
-1539,Pol Lirola,es ESP,DF,Elche,es La Liga,24,1997,7.0,1,0,0,4,3,0,32,7,6,0.0,0.0,0,45.0,8.0,6.0,57.1
-1540,Mateusz Lis,pl POL,PO,Troyes,fr Ligue 1,25,1997,8.3,1,0,0,1,2,0,0,0,0,0.0,0.0,0,8.0,1.0,0.0,100.0
-1541,Marcin Listkowski,pl POL,"CC,DL",Lecce,it Serie A,24,1998,0.9,0,0,0,2,1,0,3,3,0,0.0,0.0,0,5.0,1.0,0.0,100.0
-1542,Valentino Livramento,eng ENG,"DF,DL",Southampton,eng Premier League,19,2002,0.3,0,0,0,0,2,0,0,2,1,0.0,0.0,0,4.0,0.0,1.0,0.0
-1543,Dejan Ljubicic,at AUT,"CC,DL",Köln,de Bundesliga,24,1997,19.0,3,0,0,26,12,5,42,8,14,0.0,0.0,0,117.0,9.0,22.0,29.0
-1544,Javier Llabrés,es ESP,DL,Mallorca,es La Liga,19,2002,0.2,0,0,0,0,0,2,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
-1545,Diego Llorente,es ESP,DF,Leeds United,eng Premier League,28,1993,7.2,1,0,0,6,2,0,1,15,10,0.0,0.0,0,57.0,18.0,7.0,72.0
-1546,Diego Llorente,es ESP,DF,Roma,it Serie A,28,1993,6.4,0,0,0,9,3,0,0,11,5,0.0,0.0,0,30.0,12.0,5.0,70.6
-1547,Marcos Llorente,es ESP,"CC,DF",Atlético Madrid,es La Liga,27,1995,18.9,5,0,0,30,13,3,44,17,15,0.0,1.0,0,108.0,10.0,19.0,34.5
-1548,Hugo Lloris,fr FRA,PO,Tottenham,eng Premier League,35,1986,24.5,0,0,0,0,2,0,0,1,1,0.0,0.0,1,30.0,9.0,3.0,75.0
-1549,Giovani Lo Celso,ar ARG,"CC,DL",Villarreal,es La Liga,26,1996,12.5,3,0,0,15,31,4,31,6,28,0.0,0.0,0,61.0,2.0,5.0,28.6
-1550,Stanislav Lobotka,sk SVK,CC,Napoli,it Serie A,27,1994,34.5,2,0,0,25,55,0,2,23,44,1.0,0.0,0,254.0,12.0,17.0,41.4
-1551,Manuel Locatelli,it ITA,CC,Juventus,it Serie A,24,1998,27.2,8,0,0,44,31,0,13,27,33,0.0,0.0,0,168.0,34.0,30.0,53.1
-1552,Luka Lochoshvili,ge GEO,DF,Cremonese,it Serie A,24,1998,20.4,4,0,0,27,9,1,6,22,19,0.0,1.0,0,88.0,38.0,32.0,54.3
-1553,Bradley Locko,fr FRA,DF,Reims,fr Ligue 1,20,2002,11.8,3,1,0,10,9,1,13,20,16,0.0,0.0,0,77.0,12.0,8.0,60.0
-1554,Bradley Locko,fr FRA,DF,Brest,fr Ligue 1,20,2002,3.0,0,0,0,0,2,0,6,2,3,0.0,0.0,0,18.0,3.0,2.0,60.0
-1555,Renan Lodi,br BRA,DF,Nott'ham Forest,eng Premier League,24,1998,24.6,7,0,0,29,42,2,75,33,39,0.0,0.0,0,153.0,18.0,19.0,48.6
-1556,Ruben Loftus-Cheek,eng ENG,"CC,DF",Chelsea,eng Premier League,26,1996,17.1,1,0,0,10,34,1,19,12,14,0.0,0.0,1,101.0,22.0,26.0,45.8
-1557,Sean Longstaff,eng ENG,CC,Newcastle Utd,eng Premier League,24,1997,28.0,2,0,0,29,39,5,30,16,21,0.0,0.0,0,141.0,23.0,28.0,45.1
-1558,Ademola Lookman,ng NGA,"DL,CC",Atalanta,it Serie A,24,1997,19.2,3,0,0,24,36,11,38,4,5,1.0,0.0,0,86.0,3.0,13.0,18.8
-1559,Anthony Lopes,pt POR,PO,Lyon,fr Ligue 1,31,1990,31.3,2,1,0,2,6,0,0,3,0,0.0,2.0,0,31.0,3.0,0.0,100.0
-1560,Rony Lopes,pt POR,"CC,DL",Troyes,fr Ligue 1,26,1995,26.1,2,0,0,19,32,1,109,9,12,0.0,0.0,0,113.0,19.0,26.0,42.2
-1561,David López,es ESP,DF,Girona,es La Liga,32,1989,18.4,5,0,0,16,16,3,0,14,18,0.0,0.0,0,106.0,29.0,32.0,47.5
-1562,Diego López,es ESP,PO,Rayo Vallecano,es La Liga,40,1981,1.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,
-1563,Diego López,es ESP,"DL,CC",Valencia,es La Liga,20,2002,5.0,0,0,0,6,7,1,12,3,2,0.0,0.0,0,29.0,7.0,8.0,46.7
-1564,Maxime Lopez,fr FRA,CC,Sassuolo,it Serie A,24,1997,25.5,11,0,0,31,11,0,25,22,18,0.0,0.0,0,172.0,4.0,3.0,57.1
-1565,Pau López,es ESP,PO,Marseille,fr Ligue 1,27,1994,32.5,3,0,0,2,6,0,0,0,0,0.0,2.0,0,46.0,5.0,2.0,71.4
-1566,Unai López,es ESP,CC,Rayo Vallecano,es La Liga,26,1995,13.9,2,0,0,22,17,2,55,15,20,0.0,0.0,0,98.0,7.0,17.0,29.2
-1567,Dion Lopy,sn SEN,CC,Reims,fr Ligue 1,20,2002,15.3,6,2,1,31,25,0,6,22,24,1.0,0.0,0,128.0,15.0,7.0,68.2
-1568,Anthony Losilla,fr FRA,CC,Bochum,de Bundesliga,36,1986,30.2,6,1,0,47,17,3,10,37,49,0.0,1.0,0,203.0,92.0,76.0,54.8
-1569,Jordan Lotomba,ch SUI,DF,Nice,fr Ligue 1,23,1998,27.3,4,0,0,23,31,0,48,32,38,0.0,1.0,0,131.0,25.0,22.0,53.2
-1570,Matteo Lovato,it ITA,DF,Salernitana,it Serie A,22,2000,9.0,2,0,0,6,4,0,0,13,14,0.0,0.0,0,40.0,15.0,16.0,48.4
-1571,Dejan Lovren,hr CRO,DF,Lyon,fr Ligue 1,33,1989,16.2,2,0,0,10,14,0,6,26,19,0.0,1.0,0,103.0,47.0,21.0,69.1
-1572,Sandi Lovrić,si SVN,CC,Udinese,it Serie A,24,1998,25.9,4,0,0,31,33,1,75,26,18,0.0,0.0,0,145.0,7.0,16.0,30.4
-1573,Jamal Lowe,jm JAM,"CC,DL",Bournemouth,eng Premier League,28,1994,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1574,Anthony Lozano,hn HON,DL,Cádiz,es La Liga,29,1993,16.0,6,0,0,43,35,8,7,3,4,1.0,0.0,0,47.0,60.0,79.0,43.2
-1575,Hirving Lozano,mx MEX,DL,Napoli,it Serie A,27,1995,17.8,3,0,0,27,31,4,73,15,13,0.0,0.0,0,60.0,8.0,13.0,38.1
-1576,Pol Lozano,es ESP,CC,Espanyol,es La Liga,22,1999,0.2,1,0,0,1,0,0,1,0,0,0.0,0.0,0,1.0,1.0,1.0,50.0
-1577,Jean Lucas,br BRA,CC,Monaco,fr Ligue 1,24,1998,3.2,0,0,0,4,4,1,1,4,5,0.0,0.0,0,23.0,1.0,7.0,12.5
-1578,Jhon Lucumí,co COL,DF,Bologna,it Serie A,24,1998,32.2,8,0,0,29,18,0,1,35,37,1.0,4.0,1,204.0,41.0,30.0,57.7
-1579,José Luis Gayà,es ESP,DF,Valencia,es La Liga,27,1995,30.1,4,0,0,13,27,7,213,23,46,1.0,0.0,0,166.0,24.0,21.0,53.3
-1580,José Luis Morales,es ESP,"DL,CC",Villarreal,es La Liga,35,1987,13.5,2,0,0,6,10,11,13,2,6,0.0,0.0,0,29.0,8.0,16.0,33.3
-1581,José Luis Palomino,ar ARG,DF,Atalanta,it Serie A,32,1990,8.4,4,0,0,9,5,0,5,28,14,0.0,0.0,1,75.0,24.0,13.0,64.9
-1582,Douglas Luiz,br BRA,CC,Aston Villa,eng Premier League,24,1998,32.5,6,1,0,48,42,2,106,40,42,0.0,0.0,0,197.0,25.0,22.0,53.2
-1583,Romelu Lukaku,be BEL,DL,Inter,it Serie A,29,1993,18.4,1,0,0,16,6,13,24,0,1,0.0,0.0,0,23.0,39.0,35.0,52.7
-1584,Castello Lukeba,fr FRA,DF,Lyon,fr Ligue 1,19,2002,33.2,9,1,1,38,21,1,3,75,23,0.0,2.0,1,209.0,36.0,30.0,54.5
-1585,Dodi Lukebakio,be BEL,"DL,CC",Hertha BSC,de Bundesliga,24,1997,26.6,8,0,0,33,59,17,65,13,11,0.0,1.0,0,121.0,16.0,32.0,33.3
-1586,Saša Lukić,rs SRB,CC,Fulham,eng Premier League,25,1996,4.6,1,0,0,13,10,0,2,5,3,0.0,0.0,0,28.0,4.0,5.0,44.4
-1587,Saša Lukić,rs SRB,CC,Torino,it Serie A,25,1996,13.3,4,0,0,26,10,0,25,13,14,0.0,0.0,0,81.0,22.0,22.0,50.0
-1588,Andriy Lunin,ua UKR,PO,Real Madrid,es La Liga,23,1999,7.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,14.0,0.0,0.0,
-1589,Andrey Lunyov,ru RUS,PO,Leverkusen,de Bundesliga,30,1991,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-1590,Sebastiano Luperto,it ITA,DF,Empoli,it Serie A,25,1996,34.8,4,2,1,21,21,0,2,43,18,0.0,0.0,0,170.0,72.0,67.0,51.8
-1591,Lyanco,br BRA,DF,Southampton,eng Premier League,25,1997,13.1,4,0,0,16,10,1,7,20,16,0.0,0.0,0,83.0,25.0,19.0,56.8
-1592,Charalambos Lykogiannis,gr GRE,DF,Bologna,it Serie A,28,1993,12.3,3,0,0,14,11,1,69,15,8,0.0,0.0,0,54.0,18.0,16.0,52.9
-1593,Youssouf M'Changama,km COM,CC,Auxerre,fr Ligue 1,31,1990,12.0,1,0,0,12,18,0,35,15,11,1.0,0.0,0,62.0,12.0,6.0,66.7
-1594,Awer Mabil,au AUS,"CC,DL",Cádiz,es La Liga,26,1995,1.8,0,0,0,0,3,0,9,0,0,0.0,0.0,0,6.0,1.0,5.0,16.7
-1595,Alexis Mac Allister,ar ARG,CC,Brighton,eng Premier League,23,1998,32.1,8,0,0,35,57,0,29,22,39,0.0,0.0,1,213.0,25.0,16.0,61.0
-1596,Deiver Machado,co COL,"DF,CC",Lens,fr Ligue 1,28,1993,24.3,5,1,0,42,46,6,60,21,26,1.0,0.0,0,116.0,15.0,29.0,34.1
-1597,Darwin Machís,ve VEN,DL,Valladolid,es La Liga,29,1993,6.7,1,0,0,10,12,2,37,3,2,0.0,0.0,0,26.0,2.0,6.0,25.0
-1598,James Maddison,eng ENG,"CC,DL",Leicester City,eng Premier League,25,1996,27.6,10,0,0,31,79,6,123,13,26,1.0,0.0,0,101.0,4.0,10.0,28.6
-1599,Noni Madueke,eng ENG,DL,Chelsea,eng Premier League,20,2002,7.1,0,0,0,4,15,2,19,4,8,0.0,0.0,0,30.0,2.0,5.0,28.6
-1600,Pablo Maffeo,es ESP,DF,Mallorca,es La Liga,25,1997,33.1,6,1,0,32,45,5,123,26,46,0.0,0.0,0,161.0,47.0,32.0,59.5
-1601,Lisandro Magallán,ar ARG,DF,Elche,es La Liga,28,1993,10.0,0,1,0,15,5,0,1,13,11,0.0,0.0,0,53.0,17.0,19.0,47.2
-1602,Soungoutou Magassa,fr FRA,CC,Monaco,fr Ligue 1,18,2003,0.9,0,0,0,2,1,0,0,1,1,0.0,0.0,0,6.0,2.0,1.0,66.7
-1603,Giulio Maggiore,it ITA,CC,Salernitana,it Serie A,24,1998,9.9,2,0,0,20,14,0,3,8,8,0.0,1.0,0,75.0,9.0,14.0,39.1
-1604,Giangiacomo Magnani,it ITA,DF,Hellas Verona,it Serie A,26,1995,17.0,7,1,0,22,8,0,4,21,22,0.0,0.0,1,93.0,33.0,21.0,61.1
-1605,Hugo Magnetti,fr FRA,CC,Brest,fr Ligue 1,24,1998,18.8,2,0,0,17,26,0,20,25,27,0.0,0.0,0,127.0,7.0,18.0,28.0
-1606,Yohann Magnin,fr FRA,CC,Clermont Foot,fr Ligue 1,25,1997,26.7,6,0,0,48,48,3,14,25,54,0.0,3.0,0,149.0,27.0,47.0,36.5
-1607,Harry Maguire,eng ENG,DF,Manchester Utd,eng Premier League,29,1993,8.5,4,0,0,8,4,0,1,13,6,0.0,0.0,0,55.0,25.0,22.0,53.2
-1608,Jon Magunacelaya,es ESP,"CC,DL",Real Sociedad,es La Liga,22,2000,0.7,0,0,0,1,1,0,2,0,0,0.0,0.0,0,4.0,0.0,2.0,0.0
-1609,Riyad Mahrez,dz ALG,"DL,CC",Manchester City,eng Premier League,31,1991,21.3,2,0,0,16,42,7,96,9,14,0.0,0.0,0,82.0,9.0,14.0,39.1
-1610,Arne Maier,de GER,CC,Augsburg,de Bundesliga,23,1999,21.8,3,0,0,12,18,2,64,15,22,0.0,1.0,0,118.0,12.0,17.0,41.4
-1611,Mike Maignan,fr FRA,PO,Milan,it Serie A,27,1995,22.0,0,0,0,0,3,0,0,1,0,0.0,0.0,0,32.0,3.0,0.0,100.0
-1612,Linton Maina,de GER,"DL,CC",Köln,de Bundesliga,23,1999,24.9,1,0,0,17,21,18,87,5,12,0.0,0.0,0,104.0,1.0,26.0,3.7
-1613,Kobbie Mainoo,eng ENG,CC,Manchester Utd,eng Premier League,17,2005,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1614,Ainsley Maitland-Niles,eng ENG,"DF,CC",Southampton,eng Premier League,24,1997,15.6,3,0,0,13,8,0,20,22,24,1.0,1.0,0,90.0,15.0,11.0,57.7
-1615,Jordan Majchrzak,pl POL,DL,Roma,it Serie A,17,2004,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,4.0,20.0
-1616,Lovro Majer,hr CRO,"CC,DL",Rennes,fr Ligue 1,24,1998,18.5,3,0,0,48,30,3,67,21,23,1.0,0.0,0,143.0,7.0,8.0,46.7
-1617,Jean-Victor Makengo,fr FRA,CC,Udinese,it Serie A,24,1998,8.9,2,0,0,9,13,0,6,9,13,0.0,0.0,0,39.0,5.0,1.0,83.3
-1618,Jean-Victor Makengo,fr FRA,CC,Lorient,fr Ligue 1,24,1998,11.8,2,1,1,18,27,0,1,10,8,0.0,0.0,0,79.0,4.0,4.0,50.0
-1619,Béni Makouana,cg CGO,"DL,CC",Montpellier,fr Ligue 1,19,2002,2.2,1,0,0,3,1,0,6,0,0,1.0,0.0,0,10.0,3.0,7.0,30.0
-1620,Nemanja Maksimović,rs SRB,CC,Getafe,es La Liga,27,1995,22.8,3,0,0,25,8,0,9,34,30,0.0,0.0,0,93.0,45.0,30.0,60.0
-1621,Tyrell Malacia,nl NED,DF,Manchester Utd,eng Premier League,22,1999,15.5,6,0,0,39,13,3,15,25,33,0.0,0.0,0,90.0,8.0,4.0,66.7
-1622,Lorenzo Malagrida,it ITA,"CC,DF",Sampdoria,it Serie A,18,2003,1.2,2,0,0,4,1,0,2,0,0,0.0,0.0,0,6.0,2.0,1.0,66.7
-1623,Daniel Maldini,it ITA,"DL,CC",Spezia,it Serie A,20,2001,7.0,1,0,0,13,18,0,19,1,5,0.0,0.0,0,32.0,12.0,17.0,41.4
-1624,Youssef Maleh,ma MAR,CC,Fiorentina,it Serie A,23,1998,3.3,2,0,0,8,3,0,7,1,1,0.0,0.0,0,20.0,3.0,4.0,42.9
-1625,Youssef Maleh,ma MAR,CC,Lecce,it Serie A,23,1998,7.5,3,0,0,22,10,3,8,5,8,0.0,0.0,0,50.0,8.0,8.0,50.0
-1626,Donyell Malen,nl NED,DL,Dortmund,de Bundesliga,23,1999,19.0,0,0,0,12,39,3,69,4,5,1.0,0.0,0,51.0,6.0,11.0,35.3
-1627,Ruslan Malinovskyi,ua UKR,"CC,DL",Atalanta,it Serie A,29,1993,6.1,2,0,0,10,11,0,23,5,8,0.0,0.0,0,57.0,5.0,7.0,41.7
-1628,Ruslan Malinovskyi,ua UKR,"CC,DL",Marseille,fr Ligue 1,29,1993,13.6,4,0,0,29,18,1,38,3,11,0.0,0.0,0,73.0,15.0,24.0,38.5
-1629,Hugo Mallo,es ESP,DF,Celta Vigo,es La Liga,31,1991,24.0,6,1,1,44,23,6,67,24,29,0.0,1.0,0,124.0,52.0,46.0,53.1
-1630,Mickael Malsa,mq MTQ,CC,Valladolid,es La Liga,26,1995,0.8,0,0,0,2,0,0,0,2,2,0.0,0.0,0,5.0,1.0,1.0,50.0
-1631,Giorgi Mamardashvili,ge GEO,PO,Valencia,es La Liga,21,2000,38.0,3,0,0,1,3,0,0,1,0,0.0,1.0,0,61.0,8.0,1.0,88.9
-1632,Hianga Mananga Mbock,fr FRA,CC,Brest,fr Ligue 1,22,1999,0.2,0,0,0,1,0,0,1,0,0,0.0,0.0,0,2.0,1.0,1.0,50.0
-1633,Gianluca Mancini,it ITA,DF,Roma,it Serie A,26,1996,31.8,7,0,0,39,25,2,28,46,19,0.0,1.0,0,112.0,58.0,26.0,69.0
-1634,Steve Mandanda,fr FRA,PO,Rennes,fr Ligue 1,37,1985,33.5,1,0,0,2,3,0,0,0,0,0.0,2.0,0,55.0,6.0,1.0,85.7
-1635,Reinildo Mandava,mz MOZ,DF,Atlético Madrid,es La Liga,28,1994,20.6,4,0,0,32,30,0,16,30,43,0.0,0.0,0,129.0,29.0,20.0,59.2
-1636,Aïssa Mandi,dz ALG,DF,Villarreal,es La Liga,30,1991,16.2,1,0,0,16,10,4,2,21,10,0.0,0.0,0,62.0,20.0,19.0,51.3
-1637,Rolando Mandragora,it ITA,CC,Fiorentina,it Serie A,25,1997,21.7,8,0,0,31,18,1,74,16,24,0.0,0.0,0,121.0,35.0,23.0,60.3
-1638,Sadio Mané,sn SEN,"DL,CC",Bayern Munich,de Bundesliga,30,1992,15.8,2,0,0,16,24,21,22,0,5,1.0,0.0,0,42.0,22.0,18.0,55.0
-1639,Orel Mangala,be BEL,CC,Nott'ham Forest,eng Premier League,24,1998,17.2,3,0,0,22,23,0,6,23,20,0.0,0.0,0,88.0,11.0,9.0,55.0
-1640,Thomas Mangani,fr FRA,CC,Ajaccio,fr Ligue 1,35,1987,14.8,4,1,0,24,13,0,79,24,17,0.0,0.0,0,94.0,20.0,24.0,45.5
-1641,Vito Mannone,it ITA,PO,Lorient,fr Ligue 1,34,1988,17.9,1,0,0,0,1,0,0,0,0,0.0,0.0,0,16.0,3.0,0.0,100.0
-1642,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,28,1994,0.4,0,0,0,0,0,0,1,1,2,0.0,0.0,0,6.0,0.0,0.0,
-1643,Myziane Maolida,fr FRA,"CC,DL",Reims,fr Ligue 1,23,1999,2.6,0,0,0,5,1,1,4,2,3,0.0,0.0,0,17.0,1.0,1.0,50.0
-1644,Myziane Maolida,fr FRA,"DL,CC",Hertha BSC,de Bundesliga,23,1999,1.1,0,0,0,1,0,0,1,0,1,0.0,0.0,0,3.0,0.0,1.0,0.0
-1645,Faitout Maouassa,fr FRA,"DL,DF",Montpellier,fr Ligue 1,24,1998,21.4,0,0,0,32,31,2,81,20,32,0.0,0.0,0,83.0,13.0,12.0,52.0
-1646,Sekou Mara,fr FRA,"DL,CC",Southampton,eng Premier League,20,2002,6.2,1,0,0,20,6,3,1,1,10,0.0,0.0,0,25.0,25.0,40.0,38.5
-1647,Marcão,br BRA,DF,Sevilla,es La Liga,26,1996,4.2,2,0,0,5,6,0,0,6,2,0.0,0.0,0,16.0,8.0,4.0,66.7
-1648,Solly March,eng ENG,"DL,DF",Brighton,eng Premier League,28,1994,30.2,2,0,0,46,39,12,155,24,31,0.0,0.0,0,125.0,29.0,38.0,43.3
-1649,Agustín Marchesín,ar ARG,PO,Celta Vigo,es La Liga,34,1988,19.0,2,0,0,0,4,0,0,0,0,0.0,0.0,0,22.0,3.0,0.0,100.0
-1650,Federico Marchetti,it ITA,PO,Spezia,it Serie A,39,1983,0.7,0,1,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-1651,Vincent Marchetti,fr FRA,CC,Ajaccio,fr Ligue 1,25,1997,27.2,7,0,0,29,36,1,6,19,26,1.0,0.0,0,168.0,5.0,13.0,27.8
-1652,Riccardo Marchizza,it ITA,DF,Sassuolo,it Serie A,24,1998,3.1,1,0,0,7,0,1,18,2,2,0.0,0.0,0,7.0,5.0,2.0,71.4
-1653,Gian Marco Ferrari,it ITA,DF,Sassuolo,it Serie A,30,1992,24.7,5,0,0,24,31,0,6,23,16,0.0,2.0,0,110.0,47.0,24.0,66.2
-1654,Emiliano Marcondes,dk DEN,CC,Bournemouth,eng Premier League,27,1995,0.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-1655,Óscar de Marcos,es ESP,DF,Athletic Club,es La Liga,33,1989,31.3,7,0,0,43,16,2,130,29,33,0.0,0.0,1,198.0,25.0,23.0,52.1
-1656,Alberto Marí,es ESP,"DL,CC",Valencia,es La Liga,21,2001,1.0,1,0,0,3,2,2,0,0,0,0.0,0.0,0,4.0,2.0,3.0,40.0
-1657,José Mari,es ESP,CC,Cádiz,es La Liga,34,1987,4.4,4,0,0,6,7,0,1,5,7,0.0,0.0,0,38.0,5.0,7.0,41.7
-1658,Pablo Marí,es ESP,DF,Monza,it Serie A,28,1993,27.6,4,0,0,31,9,1,1,31,19,0.0,0.0,0,131.0,59.0,27.0,68.6
-1659,José María Giménez,uy URU,DF,Atlético Madrid,es La Liga,27,1995,26.9,9,0,0,19,8,0,0,24,25,0.0,1.0,0,141.0,49.0,24.0,67.1
-1660,Mariano,do DOM,DL,Real Madrid,es La Liga,28,1993,1.7,2,0,0,3,0,1,0,0,0,0.0,0.0,0,4.0,5.0,3.0,62.5
-1661,Pablo Marín,es ESP,"CC,DL",Real Sociedad,es La Liga,19,2003,4.0,1,0,0,12,2,0,3,4,5,0.0,0.0,0,20.0,4.0,7.0,36.4
-1662,Răzvan Marin,ro ROU,CC,Empoli,it Serie A,26,1996,28.2,7,0,0,31,21,1,140,14,22,0.0,1.0,0,148.0,16.0,17.0,48.5
-1663,Diego Mariño,es ESP,PO,Almería,es La Liga,32,1990,0.5,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1664,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,28,1994,24.0,6,1,1,26,7,0,1,38,26,0.0,3.0,1,131.0,48.0,40.0,54.5
-1665,Marlon,br BRA,DF,Monza,it Serie A,26,1995,17.7,7,1,0,23,5,1,5,18,21,0.0,0.0,1,71.0,40.0,21.0,65.6
-1666,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,23,1999,16.4,2,0,0,29,32,13,25,5,10,,,0,,,,
-1667,Marquinhos,br BRA,CC,Arsenal,eng Premier League,19,2003,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1668,Marquinhos,br BRA,DF,Paris S-G,fr Ligue 1,28,1994,30.2,4,0,0,14,10,0,1,23,25,0.0,0.0,1,155.0,35.0,27.0,56.5
-1669,Luca Marrone,it ITA,DF,Monza,it Serie A,32,1990,1.5,0,0,0,1,2,0,0,0,0,0.0,0.0,0,8.0,4.0,5.0,44.4
-1670,Eric Martel,de GER,CC,Köln,de Bundesliga,20,2002,22.4,6,0,0,40,27,0,20,33,41,0.0,0.0,0,154.0,57.0,51.0,52.8
-1671,Roger Martí,es ESP,DL,Elche,es La Liga,31,1991,7.3,2,0,0,16,11,4,5,1,2,0.0,0.0,0,27.0,6.0,12.0,33.3
-1672,Roger Martí,es ESP,DL,Cádiz,es La Liga,31,1991,7.1,1,0,0,26,15,8,0,2,4,0.0,0.0,0,22.0,10.0,23.0,30.3
-1673,Anthony Martial,fr FRA,DL,Manchester Utd,eng Premier League,26,1995,10.9,0,0,0,8,14,7,4,1,3,1.0,0.0,0,20.0,10.0,17.0,37.0
-1674,Aarón Martín,es ESP,DF,Mainz 05,de Bundesliga,25,1997,20.5,3,0,0,28,12,2,145,15,27,0.0,0.0,0,104.0,1.0,13.0,7.1
-1675,Ander Martin,es ESP,"CC,DL",Real Sociedad,es La Liga,21,2000,0.5,0,0,0,2,0,0,4,0,2,0.0,0.0,0,5.0,1.0,3.0,25.0
-1676,Andrés Martín,es ESP,"DL,CC",Rayo Vallecano,es La Liga,23,1999,2.3,1,0,0,5,3,0,11,1,2,0.0,0.0,0,16.0,5.0,2.0,71.4
-1677,Carlos Martín,es ESP,"DL,CC",Atlético Madrid,es La Liga,20,2002,0.3,1,0,0,2,0,1,2,1,2,0.0,0.0,0,3.0,0.0,0.0,
-1678,Iván Martín,es ESP,CC,Girona,es La Liga,23,1999,17.6,2,0,0,18,13,3,18,9,7,1.0,0.0,0,81.0,12.0,16.0,42.9
-1679,Jonas Martin,fr FRA,CC,Lille,fr Ligue 1,32,1990,3.1,2,0,0,9,5,0,3,7,7,0.0,0.0,0,24.0,8.0,3.0,72.7
-1680,Gabriel Martinelli,br BRA,DL,Arsenal,eng Premier League,21,2001,31.0,3,0,0,39,37,8,113,9,18,0.0,0.0,0,103.0,14.0,63.0,18.2
-1681,Arnau Martinez,es ESP,DF,Girona,es La Liga,19,2003,30.4,11,0,0,36,66,6,60,25,45,0.0,1.0,0,171.0,32.0,25.0,56.1
-1682,Emiliano Martínez,ar ARG,PO,Aston Villa,eng Premier League,29,1992,34.9,7,0,0,1,6,0,0,1,0,0.0,1.0,1,41.0,13.0,0.0,100.0
-1683,Iñigo Martínez,es ESP,DF,Athletic Club,es La Liga,31,1991,14.9,1,0,0,13,10,3,5,18,8,0.0,0.0,0,92.0,26.0,19.0,57.8
-1684,Lautaro Martínez,ar ARG,DL,Inter,it Serie A,24,1997,28.6,3,0,0,46,63,13,14,13,14,1.0,0.0,0,95.0,40.0,42.0,48.8
-1685,Lisandro Martínez,ar ARG,DF,Manchester Utd,eng Premier League,24,1998,23.5,6,0,0,21,10,0,0,33,28,0.0,0.0,0,164.0,32.0,31.0,50.8
-1686,Lucas Martínez Quarta,ar ARG,DF,Fiorentina,it Serie A,26,1996,24.1,6,0,0,21,25,1,4,48,48,0.0,0.0,0,167.0,76.0,36.0,67.9
-1687,Roger Martínez,es ESP,DF,Espanyol,es La Liga,18,2004,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-1688,Gelson Martins,pt POR,"CC,DL",Monaco,fr Ligue 1,27,1995,3.8,0,0,0,6,4,2,5,3,8,0.0,0.0,0,25.0,2.0,7.0,22.2
-1689,Adam Marušić,me MNE,DF,Lazio,it Serie A,29,1992,30.7,8,1,0,22,14,1,17,38,30,0.0,0.0,0,175.0,29.0,25.0,53.7
-1690,Omar Mascarell,es ESP,"CC,DF",Elche,es La Liga,29,1993,27.2,6,0,0,21,17,0,22,45,26,0.0,0.0,0,157.0,27.0,21.0,56.3
-1691,Adam Masina,ma MAR,DF,Udinese,it Serie A,28,1994,8.8,2,0,0,11,1,0,10,10,7,0.0,1.0,0,44.0,26.0,11.0,70.3
-1692,Jordi Masip,es ESP,PO,Valladolid,es La Liga,33,1989,27.9,4,0,0,0,5,0,0,1,0,0.0,0.0,0,31.0,6.0,2.0,75.0
-1693,Erhan Mašović,rs SRB,"DF,CC",Bochum,de Bundesliga,23,1998,24.2,3,0,0,24,5,0,2,27,31,0.0,1.0,1,146.0,46.0,54.0,46.0
-1694,Han-Noah Massengo,fr FRA,CC,Auxerre,fr Ligue 1,21,2001,12.4,3,0,0,16,23,1,2,14,15,1.0,0.0,0,59.0,6.0,16.0,27.3
-1695,Yanis Massolin,fr FRA,CC,Clermont Foot,fr Ligue 1,19,2002,0.7,0,0,0,0,1,0,0,2,1,0.0,0.0,0,11.0,2.0,2.0,50.0
-1696,Jaime Mata,es ESP,"DL,CC",Getafe,es La Liga,33,1988,4.9,5,0,0,17,7,4,9,3,10,0.0,0.0,0,27.0,10.0,15.0,40.0
-1697,Pape Matar Sarr,sn SEN,"CC,DL",Tottenham,eng Premier League,19,2002,2.4,1,0,0,4,3,0,0,6,6,0.0,1.0,0,22.0,3.0,5.0,37.5
-1698,Eliot Matazo,be BEL,CC,Monaco,fr Ligue 1,20,2002,13.1,2,0,0,18,12,0,2,15,12,0.0,1.0,0,86.0,10.0,18.0,35.7
-1699,Jean-Philippe Mateta,fr FRA,DL,Crystal Palace,eng Premier League,25,1997,8.6,3,0,0,16,8,8,3,3,1,0.0,0.0,0,23.0,26.0,44.0,37.1
-1700,Nemanja Matić,rs SRB,CC,Roma,it Serie A,33,1988,20.6,5,0,0,19,17,1,12,25,27,0.0,0.0,0,171.0,19.0,14.0,57.6
-1701,Joël Matip,cm CMR,DF,Liverpool,eng Premier League,30,1991,12.1,3,0,0,10,5,1,1,21,8,0.0,0.0,1,78.0,25.0,23.0,52.1
-1702,Henning Matriciani,de GER,DF,Schalke 04,de Bundesliga,22,2000,20.7,1,0,0,19,11,0,20,23,23,0.0,0.0,0,120.0,32.0,24.0,57.1
-1703,Chrislain Matsima,fr FRA,"DF,CC",Lorient,fr Ligue 1,20,2002,2.5,0,0,0,0,1,0,0,2,0,0.0,0.0,0,9.0,3.0,6.0,33.3
-1704,Chrislain Matsima,fr FRA,DF,Monaco,fr Ligue 1,20,2002,5.0,0,0,0,4,2,0,2,9,6,0.0,0.0,0,32.0,17.0,3.0,85.0
-1705,Jean Mattéo Bahoya,fr FRA,"DL,CC",Angers,fr Ligue 1,17,2005,3.0,0,0,0,4,7,0,2,0,3,0.0,0.0,0,14.0,2.0,5.0,28.6
-1706,Azor Matusiwa,nl NED,CC,Reims,fr Ligue 1,24,1998,27.6,4,0,0,43,33,0,4,46,41,0.0,0.0,0,235.0,32.0,35.0,47.8
-1707,Neal Maupay,fr FRA,DL,Everton,eng Premier League,25,1996,12.4,4,0,0,14,21,1,3,5,5,0.0,0.0,0,26.0,15.0,48.0,23.8
-1708,Aïman Maurer,ma MAR,CC,Clermont Foot,fr Ligue 1,17,2004,5.6,0,0,0,5,15,2,19,3,1,0.0,0.0,0,21.0,3.0,7.0,30.0
-1709,Stephy Mavididi,eng ENG,DL,Montpellier,fr Ligue 1,24,1998,14.3,1,1,0,20,18,3,10,4,19,0.0,0.0,0,59.0,10.0,22.0,31.3
-1710,Konstantinos Mavropanos,gr GRE,DF,Stuttgart,de Bundesliga,24,1997,25.4,9,1,1,24,23,1,6,63,27,0.0,0.0,0,183.0,81.0,34.0,70.4
-1711,Christian Mawissa,fr FRA,DF,Toulouse,fr Ligue 1,17,2005,1.1,1,0,0,2,2,0,1,3,0,0.0,1.0,0,3.0,1.0,1.0,50.0
-1712,Philipp Max,de GER,DF,Eint Frankfurt,de Bundesliga,28,1993,7.7,1,0,0,6,2,1,60,3,9,0.0,0.0,0,31.0,5.0,6.0,45.5
-1713,Eric Maxim Choupo-Moting,cm CMR,DL,Bayern Munich,de Bundesliga,33,1989,12.4,0,0,0,4,7,11,3,0,7,0.0,0.0,0,28.0,18.0,21.0,46.2
-1714,Luís Maximiano,pt POR,PO,Lazio,it Serie A,23,1999,0.1,0,1,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1715,Keke Maximilian Topp,de GER,DL,Schalke 04,de Bundesliga,18,2004,0.2,0,0,0,1,0,0,1,1,0,0.0,0.0,0,0.0,1.0,0.0,100.0
-1716,Fernand Mayembo,cg CGO,DF,Ajaccio,fr Ligue 1,26,1996,7.9,1,0,0,9,15,0,0,11,5,1.0,0.0,0,50.0,15.0,5.0,75.0
-1717,Borja Mayoral,es ESP,DL,Getafe,es La Liga,25,1997,30.7,4,0,0,16,38,11,37,3,4,1.0,0.0,0,105.0,36.0,84.0,30.0
-1718,Ibrahim Maza,de GER,"CC,DL",Hertha BSC,de Bundesliga,16,2005,0.8,0,0,0,1,2,0,0,0,1,0.0,0.0,0,2.0,0.0,2.0,0.0
-1719,Derek Mazou-Sacko,fr FRA,CC,Troyes,fr Ligue 1,17,2004,0.2,0,0,0,2,0,0,0,1,0,0.0,0.0,0,1.0,1.0,0.0,100.0
-1720,Noussair Mazraoui,ma MAR,DF,Bayern Munich,de Bundesliga,24,1997,11.9,0,0,0,16,11,3,22,10,21,0.0,1.0,0,46.0,17.0,16.0,51.5
-1721,Pasquale Mazzocchi,it ITA,DF,Salernitana,it Serie A,27,1995,21.8,2,0,0,27,17,5,90,10,18,1.0,0.0,0,129.0,12.0,14.0,46.2
-1722,Kevin Mbabu,ch SUI,"DF,DL",Fulham,eng Premier League,27,1995,1.6,1,0,0,4,0,0,7,3,2,0.0,0.0,0,6.0,2.0,6.0,25.0
-1723,Noah Mbamba,be BEL,CC,Leverkusen,de Bundesliga,17,2005,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1724,Kylian Mbappé,fr FRA,DL,Paris S-G,fr Ligue 1,23,1998,31.3,6,0,0,19,40,33,47,5,4,1.0,0.0,0,54.0,8.0,5.0,61.5
-1725,Mamadou Mbaye,sn SEN,DF,Cádiz,es La Liga,24,1998,8.4,2,0,0,6,2,4,0,7,7,0.0,1.0,0,31.0,26.0,20.0,56.5
-1726,Chancel Mbemba,cd COD,DF,Marseille,fr Ligue 1,27,1994,31.7,2,0,0,19,19,0,40,42,26,1.0,0.0,0,165.0,72.0,35.0,67.3
-1727,Bryan Mbeumo,cm CMR,DL,Brentford,eng Premier League,22,1999,32.3,5,0,0,27,23,6,156,13,18,0.0,0.0,0,135.0,35.0,63.0,35.7
-1728,Jason Mbock,fr FRA,"CC,DL",Angers,fr Ligue 1,22,1999,0.3,0,0,0,0,0,1,4,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1729,Jean-Manuel Mbom,de GER,CC,Werder Bremen,de Bundesliga,22,2000,0.1,0,0,0,1,1,0,0,0,0,0.0,0.0,0,0.0,0.0,2.0,0.0
-1730,Nathanael Mbuku,fr FRA,"DL,CC",Reims,fr Ligue 1,20,2002,0.7,0,0,0,0,7,0,2,0,1,0.0,0.0,0,7.0,0.0,2.0,0.0
-1731,Nathanael Mbuku,fr FRA,"CC,DL",Augsburg,de Bundesliga,20,2002,0.4,0,0,0,0,0,0,1,0,0,0.0,0.0,0,2.0,0.0,0.0,
-1732,James McArthur,sct SCO,CC,Crystal Palace,eng Premier League,34,1987,0.6,0,0,0,0,1,0,0,1,1,0.0,0.0,0,5.0,0.0,0.0,
-1733,Alex McCarthy,eng ENG,PO,Southampton,eng Premier League,32,1989,6.0,0,0,0,0,1,0,0,1,0,0.0,0.0,0,7.0,1.0,0.0,100.0
-1734,John McGinn,sct SCO,"CC,DL",Aston Villa,eng Premier League,27,1994,29.9,7,0,0,41,66,0,50,24,36,2.0,0.0,0,176.0,22.0,21.0,51.2
-1735,Scott McKenna,sct SCO,DF,Nott'ham Forest,eng Premier League,25,1996,17.5,4,0,0,8,4,0,2,12,7,0.0,1.0,0,68.0,36.0,23.0,61.0
-1736,Weston McKennie,us USA,CC,Leeds United,eng Premier League,23,1998,16.0,7,0,0,21,5,1,9,22,13,0.0,0.0,0,95.0,25.0,23.0,52.1
-1737,Weston McKennie,us USA,"CC,DF",Juventus,it Serie A,23,1998,11.7,0,0,0,13,7,3,15,11,5,0.0,0.0,0,43.0,12.0,16.0,42.9
-1738,Dwight McNeil,eng ENG,"DL,CC",Everton,eng Premier League,22,1999,27.8,5,0,0,22,21,1,194,31,41,1.0,0.0,0,175.0,14.0,18.0,43.8
-1739,Scott McTominay,sct SCO,CC,Manchester Utd,eng Premier League,25,1996,12.9,8,0,0,28,16,0,4,14,19,0.0,1.0,0,78.0,34.0,23.0,59.6
-1740,Gary Medel,cl CHI,"CC,DF",Bologna,it Serie A,34,1987,16.4,5,0,0,19,16,0,4,28,15,0.0,0.0,0,141.0,15.0,15.0,50.0
-1741,Facundo Medina,ar ARG,DF,Lens,fr Ligue 1,23,1999,30.9,7,0,0,34,18,0,22,26,20,0.0,0.0,0,212.0,37.0,43.0,46.3
-1742,Fernando Medrano,es ESP,DF,Celta Vigo,es La Liga,22,2000,0.1,0,0,0,1,0,0,0,1,1,0.0,0.0,0,1.0,0.0,0.0,
-1743,Ben Mee,eng ENG,DF,Brentford,eng Premier League,32,1989,36.3,2,0,0,14,15,1,7,48,24,0.0,0.0,0,199.0,131.0,98.0,57.2
-1744,Bamo Meïté,ci CIV,DF,Lorient,fr Ligue 1,21,2001,16.7,5,0,0,16,12,1,0,16,8,0.0,0.0,0,76.0,30.0,35.0,46.2
-1745,Soualiho Meïté,fr FRA,CC,Cremonese,it Serie A,28,1994,26.3,5,0,0,27,47,0,9,27,31,0.0,0.0,0,174.0,28.0,17.0,62.2
-1746,Farid El Melali,dz ALG,"DF,DL",Angers,fr Ligue 1,25,1997,9.0,1,0,0,13,15,2,16,8,12,0.0,0.0,0,53.0,2.0,9.0,18.2
-1747,Gonzalo Melero,es ESP,CC,Almería,es La Liga,28,1994,20.6,5,0,0,24,30,3,2,7,16,0.0,0.0,0,96.0,14.0,17.0,45.2
-1748,Birger Meling,no NOR,DF,Rennes,fr Ligue 1,27,1994,13.4,3,1,0,20,16,2,18,23,15,0.0,0.0,0,71.0,12.0,16.0,42.9
-1749,Memphis,nl NED,DL,Atlético Madrid,es La Liga,28,1994,3.0,1,0,0,2,6,0,5,0,0,0.0,0.0,0,3.0,1.0,5.0,16.7
-1750,Memphis,nl NED,DL,Barcelona,es La Liga,28,1994,1.3,0,0,0,2,2,1,4,0,1,0.0,0.0,0,7.0,1.0,2.0,33.3
-1751,Houboulang Mendes,gw GNB,DF,Almería,es La Liga,24,1998,9.8,2,0,0,13,4,0,31,7,11,0.0,1.0,0,37.0,1.0,1.0,50.0
-1752,Nuno Mendes,pt POR,DF,Paris S-G,fr Ligue 1,20,2002,17.2,2,0,0,25,34,5,30,17,30,0.0,0.0,0,98.0,10.0,6.0,62.5
-1753,Pedro Mendes,pt POR,DF,Montpellier,fr Ligue 1,31,1990,0.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,1.0,1.0,1.0,50.0
-1754,Thiago Mendes,br BRA,"CC,DF",Lyon,fr Ligue 1,30,1992,22.9,3,0,0,24,24,0,6,47,27,0.0,1.0,0,145.0,34.0,20.0,63.0
-1755,Brais Méndez,es ESP,CC,Real Sociedad,es La Liga,25,1997,26.7,6,0,0,60,54,2,125,12,34,0.0,0.0,0,127.0,25.0,29.0,46.3
-1756,Diego Méndez,es ESP,CC,Rayo Vallecano,es La Liga,18,2003,0.0,0,0,0,0,0,0,0,1,0,0.0,0.0,0,0.0,1.0,0.0,100.0
-1757,Antoine Mendy,fr FRA,DF,Nice,fr Ligue 1,18,2004,5.8,0,0,0,9,3,2,13,2,13,0.0,0.0,0,37.0,7.0,11.0,38.9
-1758,Arial Mendy,sn SEN,DF,Clermont Foot,fr Ligue 1,27,1994,2.5,0,0,0,1,7,1,10,4,2,0.0,1.0,0,14.0,5.0,4.0,55.6
-1759,Batista Mendy,fr FRA,"CC,DF",Angers,fr Ligue 1,22,2000,31.8,8,1,1,67,42,1,9,21,30,0.0,1.0,0,193.0,27.0,13.0,67.5
-1760,Edouard Mendy,sn SEN,PO,Chelsea,eng Premier League,30,1992,9.5,1,0,0,0,2,0,0,0,0,0.0,0.0,0,15.0,3.0,0.0,100.0
-1761,Ferland Mendy,fr FRA,DF,Real Madrid,es La Liga,27,1995,15.0,2,0,0,4,18,0,7,14,12,0.0,0.0,0,77.0,7.0,8.0,46.7
-1762,Nampalys Mendy,sn SEN,CC,Leicester City,eng Premier League,30,1992,8.4,1,0,0,9,10,0,1,13,9,0.0,0.0,0,46.0,4.0,6.0,40.0
-1763,Gideon Mensah,gh GHA,DF,Auxerre,fr Ligue 1,24,1998,25.1,5,0,0,29,18,1,67,38,44,0.0,1.0,0,246.0,21.0,20.0,51.2
-1764,Chris Mepham,wls WAL,DF,Bournemouth,eng Premier League,24,1997,24.4,7,0,0,16,7,0,0,30,22,0.0,0.0,2,85.0,53.0,31.0,63.1
-1765,Jorge Meré,es ESP,DF,Cádiz,es La Liga,25,1997,6.7,0,0,0,1,3,0,0,6,7,0.0,0.0,0,27.0,15.0,8.0,65.2
-1766,Alex Meret,it ITA,PO,Napoli,it Serie A,25,1997,34.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,66.0,4.0,0.0,100.0
-1767,Mikel Merino,es ESP,CC,Real Sociedad,es La Liga,26,1996,27.7,5,1,0,74,48,4,25,20,49,0.0,0.0,0,218.0,112.0,59.0,65.5
-1768,Quentin Merlin,fr FRA,DF,Nantes,fr Ligue 1,20,2002,19.9,2,0,0,12,14,0,113,24,19,0.0,0.0,0,112.0,16.0,15.0,51.6
-1769,Yıldırım Mert Çetin,tr TUR,DF,Lecce,it Serie A,25,1997,0.2,0,0,0,0,1,0,0,1,0,0.0,0.0,0,3.0,0.0,0.0,
-1770,Roque Mesa,es ESP,CC,Valladolid,es La Liga,33,1989,18.0,11,1,1,38,25,1,12,13,15,0.0,1.0,0,145.0,11.0,23.0,32.4
-1771,Illan Meslier,fr FRA,PO,Leeds United,eng Premier League,22,2000,34.0,3,0,0,1,5,0,0,1,1,0.0,0.0,0,34.0,10.0,3.0,76.9
-1772,Lionel Messi,ar ARG,"DL,CC",Paris S-G,fr Ligue 1,35,1987,31.5,0,0,0,8,36,6,91,2,18,0.0,0.0,0,75.0,1.0,3.0,25.0
-1773,Junior Messias,br BRA,"DL,DF",Milan,it Serie A,31,1991,16.6,3,0,0,24,24,1,25,7,18,0.0,0.0,0,69.0,25.0,41.0,37.9
-1774,Amine Messoussa,fr FRA,DL,Lille,fr Ligue 1,17,2004,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1775,Thomas Meunier,be BEL,DF,Dortmund,de Bundesliga,30,1991,6.5,2,0,0,12,4,1,16,9,7,0.0,0.0,0,44.0,7.0,3.0,70.0
-1776,Alexander Meyer,de GER,PO,Dortmund,de Bundesliga,31,1991,7.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,14.0,1.0,0.0,100.0
-1777,Sven Michel,de GER,"DL,CC",Union Berlin,de Bundesliga,32,1990,5.5,2,0,0,13,4,4,17,0,5,0.0,0.0,0,29.0,25.0,46.0,35.2
-1778,Alex Mighten,eng ENG,DL,Nott'ham Forest,eng Premier League,20,2002,0.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1779,Tommaso Milanese,it ITA,CC,Cremonese,it Serie A,20,2002,0.3,0,0,0,1,1,0,2,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0
-1780,Nikola Milenković,rs SRB,DF,Fiorentina,it Serie A,24,1997,23.7,4,0,0,39,21,0,0,22,25,0.0,0.0,1,127.0,73.0,30.0,70.9
-1781,Lewis Miley,eng ENG,CC,Newcastle Utd,eng Premier League,16,2006,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-1782,Arkadiusz Milik,pl POL,DL,Juventus,it Serie A,28,1994,17.6,3,1,1,27,29,8,6,1,8,1.0,1.0,0,40.0,36.0,56.0,39.1
-1783,Arkadiusz Milik,pl POL,DL,Marseille,fr Ligue 1,28,1994,1.4,1,0,0,4,1,1,0,0,1,0.0,0.0,0,4.0,2.0,7.0,22.2
-1784,Sergej Milinković-Savić,rs SRB,CC,Lazio,it Serie A,27,1995,33.6,10,0,0,45,72,2,29,28,35,0.0,0.0,0,168.0,96.0,71.0,57.5
-1785,Vanja Milinković-Savić,rs SRB,PO,Torino,it Serie A,25,1997,38.0,4,0,0,0,4,0,0,1,1,0.0,0.0,0,64.0,12.0,2.0,85.7
-1786,Éder Militão,br BRA,DF,Real Madrid,es La Liga,24,1998,30.0,4,0,0,35,38,1,12,42,32,1.0,1.0,0,159.0,64.0,34.0,65.3
-1787,Luka Milivojević,rs SRB,CC,Crystal Palace,eng Premier League,31,1991,5.7,2,0,0,15,3,0,6,12,7,0.0,0.0,0,34.0,6.0,9.0,40.0
-1788,Luis Milla,es ESP,CC,Getafe,es La Liga,27,1994,20.6,6,1,1,29,22,1,75,32,30,0.0,1.0,0,149.0,17.0,19.0,47.2
-1789,Pere Milla,es ESP,"DL,CC",Elche,es La Liga,29,1992,20.5,7,0,0,19,44,13,14,9,20,1.0,0.0,0,97.0,28.0,33.0,45.9
-1790,Enzo Millot,fr FRA,CC,Stuttgart,de Bundesliga,20,2002,9.9,3,0,0,16,19,1,23,12,16,0.0,1.0,0,46.0,8.0,15.0,34.8
-1791,James Milner,eng ENG,"CC,DF",Liverpool,eng Premier League,36,1986,10.1,2,0,0,16,15,0,52,12,16,0.0,0.0,0,64.0,13.0,14.0,48.1
-1792,Marko Milovanović,rs SRB,DL,Almería,es La Liga,18,2003,0.2,1,0,0,2,0,0,0,0,0,0.0,0.0,0,0.0,5.0,3.0,62.5
-1793,Kim Min-jae,kr KOR,DF,Napoli,it Serie A,25,1996,33.9,5,0,0,30,7,0,6,41,30,0.0,0.0,0,211.0,91.0,54.0,62.8
-1794,Yerry Mina,co COL,DF,Everton,eng Premier League,27,1994,6.6,2,0,0,6,10,0,1,6,8,0.0,0.0,0,31.0,19.0,15.0,55.9
-1795,Takumi Minamino,jp JPN,"CC,DL",Monaco,fr Ligue 1,27,1995,8.0,2,0,0,20,10,4,31,6,8,1.0,0.0,0,42.0,7.0,7.0,50.0
-1796,Tyrone Mings,eng ENG,DF,Aston Villa,eng Premier League,29,1993,35.0,7,0,0,18,22,3,3,54,7,1.0,0.0,1,174.0,61.0,24.0,71.8
-1797,Óscar Mingueza,es ESP,DF,Celta Vigo,es La Liga,23,1999,14.3,2,0,0,19,8,1,29,12,21,0.0,2.0,0,90.0,8.0,8.0,50.0
-1798,Rafa Mir,es ESP,DL,Sevilla,es La Liga,25,1997,14.4,1,0,0,23,11,18,6,4,2,0.0,0.0,0,42.0,37.0,42.0,46.8
-1799,Aleksei Miranchuk,ru RUS,CC,Torino,it Serie A,26,1995,23.2,0,0,0,9,22,1,30,2,5,1.0,0.0,0,92.0,10.0,21.0,32.3
-1800,Juan Miranda,es ESP,DF,Betis,es La Liga,22,2000,16.4,1,1,0,15,20,1,73,20,16,0.0,1.0,0,78.0,21.0,17.0,55.3
-1801,Antonio Mirante,it ITA,PO,Milan,it Serie A,39,1983,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1802,Fabio Miretti,it ITA,"CC,DL",Juventus,it Serie A,18,2003,13.7,2,0,0,24,27,4,28,4,11,1.0,0.0,0,74.0,10.0,20.0,33.3
-1803,Filippo Missori,it ITA,DF,Roma,it Serie A,18,2004,2.0,1,0,0,4,0,0,2,3,3,0.0,0.0,0,7.0,2.0,2.0,50.0
-1804,Tyrick Mitchell,eng ENG,DF,Crystal Palace,eng Premier League,22,1999,32.1,5,1,0,33,10,2,70,42,49,0.0,1.0,0,186.0,25.0,26.0,49.0
-1805,Kaoru Mitoma,jp JPN,"DL,CC",Brighton,eng Premier League,25,1997,25.8,0,0,0,29,27,6,41,17,27,1.0,0.0,0,120.0,18.0,19.0,48.6
-1806,Aleksandar Mitrović,rs SRB,DL,Fulham,eng Premier League,27,1994,22.3,7,0,0,34,40,14,4,3,7,2.0,0.0,0,55.0,100.0,105.0,48.8
-1807,Stefan Mitrović,rs SRB,DF,Getafe,es La Liga,32,1990,18.7,5,0,0,13,3,0,0,17,6,0.0,0.0,0,63.0,38.0,16.0,70.4
-1808,Maximilian Mittelstädt,de GER,"DF,CC",Hertha BSC,de Bundesliga,25,1997,9.4,5,0,0,13,9,0,39,26,20,0.0,1.0,0,84.0,10.0,16.0,38.5
-1809,Henrikh Mkhitaryan,am ARM,CC,Inter,it Serie A,33,1989,22.1,4,0,0,28,28,0,19,21,26,0.0,0.0,0,166.0,9.0,12.0,42.9
-1810,Anthony Modeste,fr FRA,DL,Dortmund,de Bundesliga,34,1988,9.0,4,0,0,14,7,6,2,2,4,0.0,0.0,0,15.0,33.0,37.0,47.1
-1811,Luka Modrić,hr CRO,CC,Real Madrid,es La Liga,36,1985,19.4,7,0,0,21,16,3,62,10,9,0.0,0.0,0,86.0,11.0,14.0,44.0
-1812,Terem Moffi,ng NGA,DL,Nice,fr Ligue 1,23,1999,14.8,2,0,0,13,10,5,1,2,6,0.0,0.0,0,28.0,19.0,27.0,41.3
-1813,Terem Moffi,ng NGA,DL,Lorient,fr Ligue 1,23,1999,15.4,1,0,0,17,17,4,3,3,5,0.0,0.0,0,35.0,13.0,47.0,21.7
-1814,Mostafa Mohamed,eg EGY,DL,Nantes,fr Ligue 1,24,1997,21.5,1,0,0,43,28,13,10,10,13,1.0,0.0,0,48.0,76.0,87.0,46.6
-1815,Tobias Mohr,de GER,"DF,CC",Schalke 04,de Bundesliga,26,1995,9.3,0,0,0,5,4,0,87,8,5,0.0,0.0,0,51.0,8.0,12.0,40.0
-1816,Johan Mojica,co COL,DF,Villarreal,es La Liga,29,1992,7.1,0,0,0,3,14,0,40,4,9,0.0,0.0,0,49.0,7.0,4.0,63.6
-1817,Johan Mojica,co COL,"DF,CC",Elche,es La Liga,29,1992,3.0,2,0,0,4,3,0,14,4,3,0.0,1.0,0,33.0,4.0,1.0,80.0
-1818,Clinton Mola,eng ENG,DF,Stuttgart,de Bundesliga,21,2001,0.2,1,0,0,0,0,0,1,1,1,0.0,0.0,0,1.0,1.0,1.0,50.0
-1819,Nahuel Molina,ar ARG,DF,Atlético Madrid,es La Liga,24,1998,31.9,7,1,0,22,16,3,120,18,43,0.0,0.0,0,158.0,22.0,32.0,40.7
-1820,Salvatore Molina,it ITA,DF,Monza,it Serie A,30,1992,2.5,1,0,0,4,3,0,14,1,5,0.0,0.0,0,10.0,0.0,1.0,0.0
-1821,Florent Mollet,fr FRA,CC,Nantes,fr Ligue 1,30,1991,12.1,3,0,0,18,20,3,76,10,6,0.0,0.0,0,57.0,8.0,16.0,33.3
-1822,Florent Mollet,fr FRA,CC,Schalke 04,de Bundesliga,30,1991,4.6,1,0,0,4,7,2,9,1,1,0.0,0.0,0,25.0,1.0,11.0,8.3
-1823,Jon Moncayola,es ESP,"CC,DF",Osasuna,es La Liga,24,1998,27.2,6,0,0,35,17,3,78,17,39,1.0,0.0,0,186.0,17.0,15.0,53.1
-1824,Monchu,es ESP,CC,Valladolid,es La Liga,22,1999,22.6,10,0,0,46,28,1,76,18,29,0.0,1.0,0,119.0,18.0,31.0,36.7
-1825,César Montes,mx MEX,DF,Espanyol,es La Liga,25,1997,17.7,6,0,0,18,6,1,1,14,9,0.0,1.0,0,91.0,68.0,38.0,64.2
-1826,Daniele Montevago,it ITA,DL,Sampdoria,it Serie A,19,2003,2.6,1,0,0,8,4,4,1,0,0,0.0,0.0,0,5.0,14.0,23.0,37.8
-1827,Gonzalo Montiel,ar ARG,DF,Sevilla,es La Liga,25,1997,16.9,8,1,0,19,10,11,39,19,15,0.0,0.0,0,100.0,13.0,16.0,44.8
-1828,Lorenzo Montipò,it ITA,PO,Hellas Verona,it Serie A,26,1996,37.0,1,0,0,0,5,0,0,0,0,0.0,0.0,0,55.0,4.0,2.0,66.7
-1829,Martín Montoya,es ESP,DF,Betis,es La Liga,31,1991,5.0,1,0,0,4,6,0,10,9,8,0.0,0.0,0,24.0,8.0,3.0,72.7
-1830,Kieffer Moore,wls WAL,DL,Bournemouth,eng Premier League,29,1992,14.2,1,0,0,26,30,1,7,1,11,0.0,0.0,0,26.0,68.0,60.0,53.1
-1831,Andrew Moran,ie IRL,DL,Brighton,eng Premier League,18,2003,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1832,Álvaro Morata,es ESP,DL,Atlético Madrid,es La Liga,29,1992,21.1,4,0,0,39,56,26,4,0,11,0.0,0.0,0,57.0,53.0,38.0,58.2
-1833,Jon Morcillo,es ESP,"DL,CC",Athletic Club,es La Liga,23,1998,0.8,0,0,0,1,1,0,6,1,0,0.0,0.0,0,7.0,1.0,1.0,50.0
-1834,Alberto Moreno,es ESP,DF,Villarreal,es La Liga,30,1992,14.4,7,0,0,26,9,3,36,23,12,0.0,0.0,0,62.0,12.0,10.0,54.5
-1835,Álex Moreno,es ESP,DF,Aston Villa,eng Premier League,29,1993,14.8,3,0,0,17,11,0,48,7,14,0.0,0.0,0,69.0,9.0,12.0,42.9
-1836,Álex Moreno,es ESP,DF,Betis,es La Liga,29,1993,15.0,1,0,0,17,19,1,28,17,22,0.0,1.0,0,78.0,9.0,18.0,33.3
-1837,Diego Moreno,es ESP,DF,Osasuna,es La Liga,21,2001,7.1,1,0,0,3,4,1,20,5,4,0.0,0.0,0,33.0,5.0,8.0,38.5
-1838,Gerard Moreno,es ESP,DL,Villarreal,es La Liga,30,1992,13.7,4,0,0,11,14,13,8,5,6,0.0,0.0,0,38.0,19.0,17.0,52.8
-1839,Marlos Moreno,co COL,"CC,DF",Troyes,fr Ligue 1,25,1996,0.1,0,0,0,1,1,0,0,0,2,0.0,0.0,0,1.0,1.0,1.0,50.0
-1840,Tete Morente,es ESP,"CC,DF",Elche,es La Liga,25,1996,23.0,5,0,0,32,21,12,99,25,21,1.0,1.0,0,98.0,35.0,21.0,62.5
-1841,Ilaix Moriba,gn GUI,CC,Valencia,es La Liga,19,2003,11.2,6,2,1,32,33,0,4,4,16,0.0,0.0,0,75.0,25.0,26.0,49.0
-1842,Manu Morlanes,es ESP,CC,Villarreal,es La Liga,23,1999,1.8,0,1,0,1,1,0,0,1,2,0.0,0.0,0,5.0,1.0,2.0,33.3
-1843,Manu Morlanes,es ESP,CC,Mallorca,es La Liga,23,1999,7.8,3,0,0,6,8,0,2,5,9,0.0,0.0,0,40.0,6.0,16.0,27.3
-1844,Nikola Moro,hr CRO,CC,Bologna,it Serie A,24,1998,13.6,1,0,0,15,11,1,18,8,21,0.0,0.0,0,97.0,20.0,11.0,64.5
-1845,Loren Morón,es ESP,DL,Betis,es La Liga,28,1993,0.2,1,0,0,2,0,0,0,0,2,0.0,0.0,0,1.0,0.0,2.0,0.0
-1846,Cristhian Mosquera,co COL,DF,Valencia,es La Liga,18,2004,1.6,0,0,0,0,1,0,1,1,2,0.0,0.0,0,8.0,3.0,2.0,60.0
-1847,Dany Mota,pt POR,"DL,CC",Monza,it Serie A,24,1998,21.2,2,0,0,20,33,13,45,6,7,2.0,0.0,0,60.0,33.0,60.0,35.5
-1848,Lebo Mothiba,za RSA,"DL,CC",Strasbourg,fr Ligue 1,26,1996,4.8,0,0,0,12,12,0,4,0,0,0.0,0.0,0,11.0,10.0,24.0,29.4
-1849,Youssoufa Moukoko,de GER,DL,Dortmund,de Bundesliga,17,2004,12.7,0,0,0,8,8,1,5,2,7,0.0,0.0,0,36.0,5.0,4.0,55.6
-1850,Steve Mounié,bj BEN,DL,Brest,fr Ligue 1,27,1994,18.4,2,0,0,37,25,10,9,3,5,0.0,0.0,0,49.0,151.0,105.0,59.0
-1851,Mason Mount,eng ENG,"CC,DL",Chelsea,eng Premier League,23,1999,18.3,4,0,0,28,27,1,64,8,19,0.0,0.0,0,85.0,9.0,14.0,39.1
-1852,Lucas Moura,br BRA,"CC,DF",Tottenham,eng Premier League,29,1992,1.7,0,1,0,3,3,0,9,2,5,0.0,0.0,0,9.0,5.0,4.0,55.6
-1853,Bevic Moussiti-Oko,cg CGO,DL,Ajaccio,fr Ligue 1,27,1995,7.8,1,0,0,18,22,2,4,2,1,0.0,0.0,0,27.0,53.0,47.0,53.0
-1854,João Moutinho,pt POR,CC,Wolves,eng Premier League,35,1986,19.8,3,0,0,31,15,1,59,18,30,0.0,0.0,0,106.0,8.0,23.0,25.8
-1855,João Moutinho,pt POR,"DF,DL",Spezia,it Serie A,24,1998,0.6,0,0,0,1,0,0,3,0,1,0.0,0.0,0,7.0,0.0,1.0,0.0
-1856,Samuel Moutoussamy,cd COD,CC,Nantes,fr Ligue 1,25,1996,26.7,8,0,0,33,15,0,9,24,34,0.0,0.0,0,167.0,21.0,45.0,31.8
-1857,Divin Mubama,eng ENG,DL,West Ham,eng Premier League,17,2004,0.4,0,0,0,3,1,0,0,0,1,0.0,0.0,0,1.0,2.0,2.0,50.0
-1858,Mykhailo Mudryk,ua UKR,"DL,CC",Chelsea,eng Premier League,21,2001,7.3,1,0,0,8,12,1,25,0,9,0.0,0.0,0,35.0,5.0,8.0,38.5
-1859,François Mughe,cm CMR,CC,Marseille,fr Ligue 1,18,2004,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0
-1860,Nordi Mukiele,fr FRA,DF,Paris S-G,fr Ligue 1,24,1997,12.6,0,0,0,16,14,2,16,14,23,0.0,0.0,0,61.0,21.0,10.0,67.7
-1861,Mert Müldür,tr TUR,"DL,DF",Sassuolo,it Serie A,23,1999,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1862,Florian Müller,de GER,PO,Stuttgart,de Bundesliga,24,1997,19.0,0,0,0,0,2,0,0,0,0,0.0,0.0,0,39.0,3.0,0.0,100.0
-1863,Thomas Müller,de GER,"DL,CC",Bayern Munich,de Bundesliga,32,1989,18.5,0,0,0,9,11,5,31,4,12,0.0,0.0,0,70.0,39.0,24.0,61.9
-1864,Abdul Mumin,gh GHA,DF,Rayo Vallecano,es La Liga,24,1998,10.2,2,0,0,7,8,0,3,9,9,0.0,0.0,0,54.0,13.0,18.0,41.9
-1865,Marshall Munetsi,zw ZIM,CC,Reims,fr Ligue 1,26,1996,30.0,6,0,0,64,38,2,23,26,27,1.0,0.0,0,157.0,58.0,49.0,54.2
-1866,Iker Muniain,es ESP,"CC,DL",Athletic Club,es La Liga,29,1992,18.8,2,0,0,13,62,1,113,4,16,0.0,0.0,0,81.0,3.0,13.0,18.8
-1867,Aihen Muñoz,es ESP,DF,Real Sociedad,es La Liga,24,1997,19.5,2,0,0,29,16,0,54,9,23,0.0,0.0,0,102.0,21.0,25.0,45.7
-1868,Álvaro Muñoz,uy URU,DL,Real Madrid,es La Liga,18,2004,0.9,0,0,0,3,0,3,0,0,1,0.0,0.0,0,4.0,2.0,4.0,33.3
-1869,Iker Muñoz,es ESP,CC,Osasuna,es La Liga,19,2002,2.8,0,0,0,5,4,0,0,3,0,0.0,0.0,0,15.0,6.0,3.0,66.7
-1870,Pablo Muñoz,es ESP,CC,Rayo Vallecano,es La Liga,18,2003,0.1,0,0,0,2,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1871,Luis Muriel,co COL,"DL,CC",Atalanta,it Serie A,31,1991,11.9,2,2,1,18,15,3,82,2,6,1.0,0.0,0,39.0,11.0,27.0,28.9
-1872,Jeison Murillo,co COL,DF,Sampdoria,it Serie A,30,1992,11.7,6,1,1,18,19,0,1,8,11,0.0,0.0,1,65.0,28.0,20.0,58.3
-1873,Vedat Muriqi,xk KVX,DL,Mallorca,es La Liga,28,1994,32.6,6,1,0,59,39,29,11,12,7,1.0,0.0,0,88.0,198.0,156.0,55.9
-1874,Jacob Murphy,eng ENG,DL,Newcastle Utd,eng Premier League,27,1995,13.9,0,0,0,8,14,2,53,7,7,0.0,0.0,0,69.0,3.0,11.0,21.4
-1875,Nicola Murru,it ITA,DF,Sampdoria,it Serie A,27,1994,8.7,3,0,0,15,6,1,9,10,14,0.0,3.0,0,36.0,8.0,8.0,50.0
-1876,Yunus Musah,us USA,CC,Valencia,es La Liga,19,2002,23.4,10,1,0,42,42,3,40,11,35,0.0,0.0,0,97.0,28.0,36.0,43.8
-1877,Jamal Musiala,de GER,"CC,DL",Bayern Munich,de Bundesliga,19,2003,24.4,1,0,0,23,43,1,11,19,23,1.0,0.0,0,144.0,12.0,12.0,50.0
-1878,Juan Musso,ar ARG,PO,Atalanta,it Serie A,28,1994,23.1,1,0,0,0,5,0,0,0,1,0.0,0.0,1,18.0,1.0,0.0,100.0
-1879,Marlon Mustapha,at AUT,"DL,CC",Mainz 05,de Bundesliga,21,2001,0.8,1,0,0,3,0,1,0,0,2,0.0,0.0,0,4.0,1.0,2.0,33.3
-1880,Yvon Mvogo,ch SUI,PO,Lorient,fr Ligue 1,28,1994,20.1,0,0,0,0,3,0,0,2,0,0.0,0.0,0,13.0,5.0,0.0,100.0
-1881,Enock Mwepu,zm ZAM,"DL,CC",Brighton,eng Premier League,24,1998,2.4,0,0,0,2,1,2,3,1,5,0.0,0.0,0,9.0,0.0,7.0,0.0
-1882,Francisco Mwepu,zm ZAM,DL,Cádiz,es La Liga,22,2000,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1883,Vitaliy Mykolenko,ua UKR,DF,Everton,eng Premier League,23,1999,29.5,4,0,0,29,21,0,57,46,34,0.0,0.0,0,150.0,25.0,34.0,42.4
-1884,Joakim Mæhle,dk DEN,"DF,CC",Atalanta,it Serie A,25,1997,24.5,5,1,0,16,19,6,38,24,18,0.0,0.0,0,138.0,4.0,12.0,25.0
-1885,Obite N'Dicka,ci CIV,DF,Eint Frankfurt,de Bundesliga,22,1999,29.9,4,0,0,31,14,0,4,31,18,0.0,1.0,1,193.0,77.0,48.0,61.6
-1886,Nathan N'Goumou,fr FRA,DL,Toulouse,fr Ligue 1,22,2000,1.0,0,0,0,0,0,0,1,2,2,0.0,0.0,0,6.0,1.0,0.0,100.0
-1887,Nathan N'Goumou,fr FRA,DL,M'Gladbach,de Bundesliga,22,2000,7.7,0,0,0,7,6,3,20,1,5,0.0,0.0,0,28.0,8.0,4.0,66.7
-1888,Stanley N'Soki,fr FRA,DF,Hoffenheim,de Bundesliga,23,1999,14.3,2,1,0,13,8,0,1,24,13,0.0,1.0,0,117.0,22.0,12.0,64.7
-1889,Herculano Nabian,pt POR,CC,Empoli,it Serie A,18,2004,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1890,Nacho,es ESP,DF,Real Madrid,es La Liga,32,1990,18.2,7,0,0,16,14,3,14,18,16,0.0,0.0,1,88.0,36.0,21.0,63.2
-1891,Nikolas Nartey,dk DEN,"DF,CC",Stuttgart,de Bundesliga,22,2000,5.3,1,0,0,5,7,1,9,4,6,0.0,0.0,0,34.0,9.0,6.0,60.0
-1892,Juanjo Narváez,co COL,"CC,DL",Valladolid,es La Liga,27,1995,1.6,0,0,0,1,9,1,1,0,1,0.0,0.0,0,5.0,3.0,6.0,33.3
-1893,Matija Nastasić,rs SRB,DF,Mallorca,es La Liga,29,1993,10.1,3,0,0,12,0,1,1,18,8,0.0,0.0,0,31.0,9.0,6.0,60.0
-1894,Roberto Navarro,es ESP,"CC,DL",Real Sociedad,es La Liga,20,2002,3.9,2,0,0,8,6,5,16,2,4,0.0,0.0,0,22.0,7.0,5.0,58.3
-1895,Jesús Navas,es ESP,"DF,DL",Sevilla,es La Liga,36,1985,22.0,5,0,0,7,33,7,135,22,12,0.0,0.0,1,130.0,15.0,28.0,34.9
-1896,Keylor Navas,cr CRC,PO,Nott'ham Forest,eng Premier League,35,1986,17.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,10.0,6.0,0.0,100.0
-1897,Michel Ndary Adopo,fr FRA,"CC,DF",Torino,it Serie A,22,2000,2.9,1,0,0,6,2,0,0,1,2,0.0,0.0,0,20.0,9.0,6.0,60.0
-1898,Youssouf Ndayishimiye,bi BDI,"CC,DF",Nice,fr Ligue 1,23,1998,6.3,2,0,0,5,4,0,2,12,9,0.0,0.0,0,36.0,5.0,6.0,45.5
-1899,Papa Ndiaga Yade,sn SEN,"DF,CC",Troyes,fr Ligue 1,22,2000,6.3,1,1,0,14,10,2,30,8,6,0.0,0.0,0,33.0,5.0,7.0,41.7
-1900,Wilfred Ndidi,ng NGA,CC,Leicester City,eng Premier League,25,1996,18.7,4,0,0,29,14,0,2,38,42,0.0,2.0,0,146.0,25.0,22.0,53.2
-1901,Tanguy Ndombele,fr FRA,CC,Napoli,it Serie A,25,1996,9.0,5,0,0,15,23,0,1,7,8,0.0,1.0,0,42.0,7.0,3.0,70.0
-1902,Álvaro Negredo,es ESP,DL,Cádiz,es La Liga,36,1985,8.4,0,0,0,5,8,7,2,0,4,0.0,0.0,0,9.0,31.0,26.0,54.4
-1903,Reiss Nelson,eng ENG,DL,Arsenal,eng Premier League,22,1999,2.4,0,0,0,8,4,0,12,0,1,0.0,0.0,0,16.0,2.0,5.0,28.6
-1904,Ilija Nestorovski,mk MKD,"DL,CC",Udinese,it Serie A,32,1990,7.1,3,0,0,18,21,5,0,2,3,1.0,0.0,0,13.0,12.0,35.0,25.5
-1905,Neto,br BRA,PO,Bournemouth,eng Premier League,33,1989,26.5,4,0,0,0,4,0,0,0,1,0.0,0.0,0,21.0,4.0,3.0,57.1
-1906,Pedro Neto,pt POR,"DL,CC",Wolves,eng Premier League,22,2000,10.7,1,0,0,8,15,2,66,4,6,1.0,0.0,0,51.0,0.0,7.0,0.0
-1907,Luca Netz,de GER,DF,M'Gladbach,de Bundesliga,19,2003,7.8,0,0,0,5,2,1,6,6,13,0.0,0.0,0,43.0,8.0,12.0,40.0
-1908,Manuel Neuer,de GER,PO,Bayern Munich,de Bundesliga,36,1986,12.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,21.0,3.0,0.0,100.0
-1909,Florian Neuhaus,de GER,CC,M'Gladbach,de Bundesliga,25,1997,15.6,2,0,0,10,21,2,7,12,9,0.0,1.0,0,76.0,3.0,10.0,23.1
-1910,Rúben Neves,pt POR,CC,Wolves,eng Premier League,25,1997,33.5,12,0,0,38,18,1,53,50,43,0.0,1.0,0,237.0,25.0,25.0,50.0
-1911,Neymar,br BRA,"CC,DL",Paris S-G,fr Ligue 1,30,1992,17.2,6,1,1,25,65,5,54,4,14,1.0,0.0,0,63.0,1.0,2.0,33.3
-1912,Jessic Ngankam,de GER,"DL,CC",Hertha BSC,de Bundesliga,22,2000,9.2,5,0,0,19,13,1,2,1,9,1.0,0.0,0,24.0,14.0,52.0,21.2
-1913,Cyril Ngonge,be BEL,"CC,DL",Hellas Verona,it Serie A,22,2000,8.3,2,0,0,13,11,5,18,6,3,0.0,1.0,0,29.0,17.0,35.0,32.7
-1914,Moussa Niakhate,sn SEN,DF,Nott'ham Forest,eng Premier League,26,1996,12.9,1,0,0,12,6,0,2,19,9,0.0,1.0,0,71.0,19.0,15.0,55.9
-1915,Ibrahima Niane,sn SEN,DL,Angers,fr Ligue 1,23,1999,12.6,4,0,0,12,27,2,7,1,2,0.0,0.0,0,35.0,23.0,50.0,31.5
-1916,M'Baye Niang,sn SEN,DL,Auxerre,fr Ligue 1,27,1994,16.5,2,2,0,43,42,8,8,1,7,0.0,1.0,0,37.0,68.0,65.0,51.1
-1917,Tanguy Nianzou,fr FRA,DF,Sevilla,es La Liga,20,2002,15.2,1,1,0,13,14,0,1,16,15,0.0,0.0,0,73.0,32.0,11.0,74.4
-1918,Rasmus Nicolaisen,dk DEN,DF,Toulouse,fr Ligue 1,25,1997,33.3,7,1,1,30,28,1,0,50,21,0.0,1.0,1,188.0,116.0,41.0,73.9
-1919,Hans Nicolussi Caviglia,it ITA,CC,Salernitana,it Serie A,22,2000,6.5,2,0,0,13,6,0,4,7,6,0.0,1.0,0,46.0,9.0,11.0,45.0
-1920,Florian Niederlechner,de GER,"DL,CC",Augsburg,de Bundesliga,31,1990,10.1,1,0,0,13,12,8,4,1,5,0.0,0.0,0,28.0,29.0,39.0,42.6
-1921,Florian Niederlechner,de GER,DL,Hertha BSC,de Bundesliga,31,1990,8.7,2,0,0,8,16,10,4,3,7,0.0,0.0,0,25.0,18.0,39.0,31.6
-1922,Saúl Ñíguez,es ESP,"CC,DF",Atlético Madrid,es La Liga,27,1994,12.2,8,0,0,34,5,2,15,15,27,0.0,1.0,0,51.0,41.0,27.0,60.3
-1923,Dimitris Nikolaou,gr GRE,DF,Spezia,it Serie A,23,1998,32.9,9,1,0,27,20,0,18,27,32,0.0,0.0,0,202.0,30.0,29.0,50.8
-1924,Fernando Niño,es ESP,"CC,DL",Villarreal,es La Liga,21,2000,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0
-1925,Rasmus Nissen,dk DEN,DF,Leeds United,eng Premier League,25,1997,21.8,4,0,0,19,6,1,35,35,35,0.0,0.0,0,119.0,34.0,27.0,55.7
-1926,Justin Njinmah,de GER,DL,Dortmund,de Bundesliga,21,2000,0.2,0,0,0,0,3,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-1927,Eddie Nketiah,eng ENG,DL,Arsenal,eng Premier League,23,1999,12.1,3,0,0,30,25,8,5,1,9,1.0,0.0,0,30.0,10.0,31.0,24.4
-1928,Christopher Nkunku,fr FRA,"DL,CC",RB Leipzig,de Bundesliga,24,1997,21.1,4,0,0,18,37,12,17,8,4,3.0,0.0,0,59.0,17.0,26.0,39.5
-1929,Felix Nmecha,de GER,CC,Wolfsburg,de Bundesliga,21,2000,20.4,3,0,0,29,38,1,7,25,24,1.0,0.0,0,117.0,44.0,30.0,59.5
-1930,Lukas Nmecha,de GER,DL,Wolfsburg,de Bundesliga,23,1998,10.0,3,0,0,6,27,8,2,3,3,0.0,0.0,0,19.0,17.0,19.0,47.2
-1931,Arnaud Nordin,fr FRA,DL,Montpellier,fr Ligue 1,24,1998,26.7,4,0,0,21,82,4,49,14,14,2.0,0.0,0,120.0,21.0,59.0,26.3
-1932,Riad Nouri,fr FRA,"CC,DL",Ajaccio,fr Ligue 1,37,1985,18.8,3,0,0,16,15,7,86,15,12,0.0,0.0,0,84.0,13.0,17.0,43.3
-1933,Hugo Novoa,es ESP,"DF,DL",RB Leipzig,de Bundesliga,19,2003,2.0,0,0,0,6,2,4,10,1,2,0.0,0.0,0,4.0,3.0,4.0,42.9
-1934,Samuel Ntanda,be BEL,CC,Sampdoria,it Serie A,17,2005,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1935,Randy Ntekja,fr FRA,"DL,CC",Elche,es La Liga,24,1997,8.1,1,0,0,21,17,3,0,4,10,0.0,0.0,0,38.0,15.0,31.0,32.6
-1936,Randy Ntekja,fr FRA,"DL,CC",Rayo Vallecano,es La Liga,24,1997,1.3,0,1,0,4,5,0,0,2,2,0.0,0.0,0,11.0,5.0,4.0,55.6
-1937,Alexander Nübel,de GER,PO,Monaco,fr Ligue 1,25,1996,38.0,2,0,0,0,2,0,0,1,0,0.0,0.0,0,43.0,7.0,1.0,87.5
-1938,Matheus Nunes,pt POR,CC,Wolves,eng Premier League,23,1998,27.4,2,1,0,37,49,2,43,16,43,0.0,1.0,0,154.0,22.0,30.0,42.3
-1939,Darwin Núñez,uy URU,DL,Liverpool,eng Premier League,23,1999,18.8,1,1,0,25,17,17,18,3,5,1.0,0.0,0,44.0,36.0,51.0,41.4
-1940,Unai Núñez,es ESP,DF,Celta Vigo,es La Liga,25,1997,35.0,8,0,0,25,31,1,3,72,35,0.0,0.0,1,205.0,70.0,53.0,56.9
-1941,Bram Nuytinck,nl NED,DF,Udinese,it Serie A,32,1990,4.3,1,0,0,4,2,0,0,5,4,0.0,0.0,0,19.0,7.0,5.0,58.3
-1942,Bram Nuytinck,nl NED,DF,Sampdoria,it Serie A,32,1990,16.6,4,0,0,23,8,0,0,23,38,0.0,1.0,0,74.0,29.0,34.0,46.0
-1943,Ethan Nwaneri,eng ENG,DL,Arsenal,eng Premier League,15,2007,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-1944,Gerzino Nyamsi,fr FRA,DF,Strasbourg,fr Ligue 1,25,1997,17.5,4,1,0,37,3,0,1,10,20,0.0,2.0,0,108.0,37.0,20.0,64.9
-1945,Ørjan Nyland,no NOR,PO,RB Leipzig,de Bundesliga,31,1990,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,5.0,0.0,1.0,0.0
-1946,M'Bala Nzola,ao ANG,DL,Spezia,it Serie A,25,1996,29.5,8,0,0,57,41,10,10,7,5,0.0,0.0,0,74.0,42.0,80.0,34.4
-1947,Christian Nørgaard,dk DEN,CC,Brentford,eng Premier League,28,1994,19.6,6,0,0,35,20,0,11,34,30,1.0,0.0,0,165.0,18.0,20.0,47.4
-1948,Lewis O'Brien,eng ENG,CC,Nott'ham Forest,eng Premier League,23,1998,6.5,2,0,0,5,15,0,4,5,9,0.0,0.0,0,51.0,2.0,6.0,25.0
-1949,Pedro Obiang,gq EQG,CC,Sassuolo,it Serie A,30,1992,9.7,2,0,0,16,8,0,1,8,17,0.0,0.0,0,53.0,17.0,20.0,45.9
-1950,Jan Oblak,si SVN,PO,Atlético Madrid,es La Liga,29,1993,27.7,1,0,0,0,3,0,0,1,0,0.0,0.0,0,24.0,2.0,0.0,100.0
-1951,Brian Ocampo,uy URU,"CC,DL",Cádiz,es La Liga,23,1999,12.4,2,0,0,32,27,2,34,3,15,0.0,0.0,0,92.0,7.0,13.0,35.0
-1952,Lucas Ocampos,ar ARG,"DL,CC",Sevilla,es La Liga,28,1994,12.9,7,0,0,15,24,6,26,8,14,1.0,0.0,0,74.0,30.0,16.0,65.2
-1953,Guillermo Ochoa,mx MEX,PO,Salernitana,it Serie A,37,1985,20.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,22.0,2.0,0.0,100.0
-1954,Wilson Odobert,fr FRA,"CC,DL",Troyes,fr Ligue 1,17,2004,19.6,0,0,0,9,16,2,34,15,14,0.0,0.0,0,74.0,7.0,21.0,25.0
-1955,Álvaro Odriozola,es ESP,DF,Real Madrid,es La Liga,26,1995,0.4,0,0,0,0,2,0,3,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
-1956,Tim Oermann,de GER,DF,Bochum,de Bundesliga,18,2003,2.2,0,0,0,3,0,0,0,1,1,0.0,0.0,0,5.0,4.0,5.0,44.4
-1957,Odeluga Offiah,eng ENG,DF,Brighton,eng Premier League,19,2002,0.3,0,0,0,0,0,0,0,0,1,0.0,0.0,0,3.0,0.0,1.0,0.0
-1958,Angelo Ogbonna,it ITA,DF,West Ham,eng Premier League,34,1988,13.7,0,0,0,2,4,0,0,17,4,0.0,0.0,0,61.0,35.0,20.0,63.6
-1959,Florent Ogier,fr FRA,DF,Clermont Foot,fr Ligue 1,33,1989,18.9,4,0,0,15,9,0,3,18,16,0.0,1.0,0,87.0,28.0,27.0,50.9
-1960,Marios Oikonomou,gr GRE,DF,Sampdoria,it Serie A,29,1992,2.4,3,0,0,3,2,0,0,4,2,0.0,0.0,0,16.0,4.0,2.0,66.7
-1961,David Okereke,ng NGA,"DL,CC",Cremonese,it Serie A,24,1997,25.2,4,0,0,21,33,9,22,10,8,3.0,1.0,0,60.0,49.0,85.0,36.6
-1962,Caleb Okoli,it ITA,DF,Atalanta,it Serie A,21,2001,10.7,3,0,0,15,8,0,2,30,17,0.0,0.0,0,66.0,43.0,25.0,63.2
-1963,Olasagasti,es ESP,"CC,DF",Real Sociedad,es La Liga,21,2000,0.7,0,0,0,1,4,0,0,0,4,0.0,0.0,0,6.0,2.0,0.0,100.0
-1964,Lucas Olaza,uy URU,DF,Valladolid,es La Liga,28,1994,16.6,3,0,0,12,20,2,71,14,14,0.0,0.0,0,72.0,27.0,30.0,47.4
-1965,Finn Ole Becker,de GER,CC,Hoffenheim,de Bundesliga,22,2000,5.7,0,0,0,4,5,1,3,5,2,0.0,0.0,0,43.0,3.0,11.0,21.4
-1966,Mathias Olesen,lu LUX,CC,Köln,de Bundesliga,21,2001,5.3,1,0,0,6,5,1,2,2,5,0.0,0.0,0,29.0,3.0,6.0,33.3
-1967,Michael Olise,fr FRA,"DL,CC",Crystal Palace,eng Premier League,20,2001,30.5,2,0,0,28,69,7,242,26,34,0.0,1.0,0,165.0,17.0,38.0,30.9
-1968,Brian Oliván,es ESP,DF,Espanyol,es La Liga,28,1994,26.7,7,0,0,32,15,3,140,22,27,0.0,0.0,0,147.0,17.0,37.0,31.5
-1969,Lucas Oliveira Rosa,br BRA,DF,Valladolid,es La Liga,22,2000,10.3,3,0,0,19,11,1,37,15,18,0.0,0.0,0,55.0,15.0,12.0,55.6
-1970,Mathías Olivera,uy URU,DF,Napoli,it Serie A,24,1997,18.3,2,0,0,21,25,2,19,22,23,0.0,0.0,0,99.0,33.0,42.0,44.0
-1971,Dani Olmo,es ESP,"CC,DL",RB Leipzig,de Bundesliga,24,1998,14.2,2,0,0,17,40,1,11,6,9,0.0,0.0,0,84.0,8.0,17.0,32.0
-1972,Jan Olschowsky,de GER,PO,M'Gladbach,de Bundesliga,20,2001,4.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,8.0,0.0,0.0,
-1973,Robin Olsen,se SWE,PO,Aston Villa,eng Premier League,32,1990,3.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,
-1974,Warmed Omari,fr FRA,DF,Rennes,fr Ligue 1,22,2000,15.1,2,1,0,8,6,3,0,17,11,0.0,0.0,0,69.0,37.0,19.0,66.1
-1975,Jonas Omlin,ch SUI,PO,Montpellier,fr Ligue 1,28,1994,13.0,1,1,0,1,3,0,0,0,0,0.0,0.0,0,16.0,3.0,0.0,100.0
-1976,Jonas Omlin,ch SUI,PO,M'Gladbach,de Bundesliga,28,1994,14.3,0,0,0,0,2,0,0,0,1,0.0,0.0,0,31.0,3.0,0.0,100.0
-1977,Ado Onaiwu,jp JPN,DL,Toulouse,fr Ligue 1,26,1995,12.0,0,0,0,15,15,3,5,2,6,0.0,0.0,0,35.0,37.0,38.0,49.3
-1978,Amadou Onana,be BEL,CC,Everton,eng Premier League,20,2001,27.6,9,0,0,44,49,2,5,37,43,0.0,0.0,0,150.0,60.0,55.0,52.2
-1979,André Onana,cm CMR,PO,Inter,it Serie A,26,1996,24.0,1,0,0,0,3,0,0,0,0,0.0,0.0,1,24.0,3.0,0.0,100.0
-1980,Jean Onana,cm CMR,"CC,DF",Lens,fr Ligue 1,22,2000,9.0,3,0,0,7,10,2,3,18,17,0.0,0.0,0,63.0,9.0,7.0,56.3
-1981,Karim Onisiwo,at AUT,"DL,CC",Mainz 05,de Bundesliga,30,1992,28.2,4,0,0,49,33,22,57,2,12,1.0,0.0,0,67.0,56.0,67.0,45.5
-1982,Josh Onomah,eng ENG,CC,Fulham,eng Premier League,25,1997,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,1.0,0.0,100.0
-1983,Paul Onuachu,ng NGA,DL,Southampton,eng Premier League,28,1994,4.5,0,0,0,14,6,6,0,0,2,0.0,0.0,0,14.0,37.0,30.0,55.2
-1984,Frank Onyeka,ng NGA,CC,Brentford,eng Premier League,24,1998,9.4,0,0,0,15,26,2,2,10,14,0.0,0.0,0,50.0,7.0,15.0,31.8
-1985,Loïs Openda,be BEL,DL,Lens,fr Ligue 1,22,2000,28.0,2,0,0,42,47,22,30,2,9,0.0,0.0,0,60.0,13.0,20.0,39.4
-1986,Willi Orban,hu HUN,DF,RB Leipzig,de Bundesliga,29,1992,32.8,3,0,0,17,34,3,3,39,30,0.0,0.0,1,194.0,111.0,75.0,59.7
-1987,Ivan Ordets,ua UKR,DF,Bochum,de Bundesliga,30,1992,27.2,4,0,0,32,23,3,1,57,19,1.0,1.0,0,150.0,138.0,70.0,66.3
-1988,Divock Origi,be BEL,DL,Milan,it Serie A,27,1995,11.4,1,0,0,13,17,6,11,0,5,0.0,0.0,0,33.0,15.0,34.0,30.6
-1989,Aimar Oroz,es ESP,"CC,DL",Osasuna,es La Liga,20,2001,22.4,6,0,0,36,61,2,7,24,14,0.0,0.0,0,106.0,17.0,39.0,30.4
-1990,Mislav Oršić,hr CRO,CC,Southampton,eng Premier League,29,1992,0.1,0,0,0,0,0,1,0,0,1,0.0,0.0,0,1.0,0.0,0.0,
-1991,Riccardo Orsolini,it ITA,DL,Bologna,it Serie A,25,1997,23.6,8,2,1,39,43,18,99,8,19,1.0,0.0,0,113.0,16.0,25.0,39.0
-1992,Stefan Ortega,de GER,PO,Manchester City,eng Premier League,29,1992,3.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,7.0,1.0,0.0,100.0
-1993,Pedro Ortiz,es ESP,CC,Sevilla,es La Liga,21,2000,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-1994,Jordi Osei-Tutu,eng ENG,"DF,DL",Bochum,de Bundesliga,23,1998,8.3,3,0,0,8,23,3,15,10,18,0.0,0.0,0,48.0,6.0,12.0,33.3
-1995,Victor Osimhen,ng NGA,DL,Napoli,it Serie A,23,1998,28.5,4,0,0,40,38,32,19,6,6,2.0,1.0,0,58.0,65.0,54.0,54.6
-1996,Patrick Osterhage,de GER,CC,Bochum,de Bundesliga,22,2000,11.4,3,0,0,19,9,0,12,12,17,0.0,0.0,0,55.0,11.0,23.0,32.4
-1997,Paulo Otávio,br BRA,DF,Wolfsburg,de Bundesliga,27,1994,22.7,7,0,0,25,40,0,68,30,46,0.0,0.0,1,110.0,27.0,36.0,42.9
-1998,Dango Ouattara,bf BFA,"CC,DL",Bournemouth,eng Premier League,20,2002,13.8,1,0,0,6,15,8,30,13,15,0.0,0.0,0,64.0,30.0,37.0,44.8
-1999,Dango Ouattara,bf BFA,"DL,CC",Lorient,fr Ligue 1,20,2002,17.2,3,1,1,15,43,2,33,19,26,2.0,0.0,0,90.0,37.0,38.0,49.3
-2000,Remi Oudin,fr FRA,"DL,CC",Lecce,it Serie A,25,1996,14.7,3,0,0,10,14,2,113,29,13,0.0,0.0,0,90.0,11.0,12.0,47.8
-2001,Zinédine Ould Khaled,fr FRA,"CC,DL",Angers,fr Ligue 1,22,2000,0.6,0,0,0,1,0,0,0,2,1,0.0,0.0,0,6.0,1.0,2.0,33.3
-2002,Azzedine Ounahi,ma MAR,"CC,DL",Marseille,fr Ligue 1,22,2000,1.3,0,0,0,1,3,0,0,0,1,0.0,0.0,0,8.0,0.0,5.0,0.0
-2003,Azzedine Ounahi,ma MAR,"CC,DL",Angers,fr Ligue 1,22,2000,12.5,1,0,0,11,24,1,17,15,8,0.0,0.0,0,70.0,5.0,12.0,29.4
-2004,Adam Ounas,dz ALG,DL,Napoli,it Serie A,25,1996,0.2,0,0,0,0,0,0,0,1,0,0.0,0.0,0,0.0,1.0,0.0,100.0
-2005,Adam Ounas,dz ALG,"DL,CC",Lille,fr Ligue 1,25,1996,11.8,2,0,0,15,29,2,75,7,11,1.0,0.0,0,60.0,5.0,10.0,33.3
-2006,Thomas Ouwejan,nl NED,DF,Schalke 04,de Bundesliga,25,1996,10.0,1,0,0,6,6,1,96,13,8,0.0,1.0,0,61.0,4.0,13.0,23.5
-2007,Reece Oxford,eng ENG,DF,Augsburg,de Bundesliga,23,1998,1.0,0,0,0,0,2,0,0,1,1,0.0,0.0,0,6.0,7.0,7.0,50.0
-2008,Alex Oxlade-Chamberlain,eng ENG,"DL,CC",Liverpool,eng Premier League,28,1993,3.7,0,0,0,3,4,1,2,1,4,0.0,0.0,0,20.0,1.0,4.0,20.0
-2009,Mikel Oyarzabal,es ESP,"DL,CC",Real Sociedad,es La Liga,25,1997,13.5,1,0,0,15,16,12,28,3,7,1.0,0.0,0,56.0,15.0,29.0,34.1
-2010,Salih Özcan,tr TUR,CC,Dortmund,de Bundesliga,24,1998,17.5,6,0,0,26,24,0,3,28,18,0.0,0.0,0,126.0,20.0,19.0,51.3
-2011,Cenk Özkacar,tr TUR,DF,Valencia,es La Liga,21,2000,15.2,1,0,0,7,10,0,3,12,20,0.0,0.0,0,106.0,49.0,34.0,59.0
-2012,David Ozoh,eng ENG,DL,Crystal Palace,eng Premier League,17,2005,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2013,Levin Öztunalı,de GER,CC,Union Berlin,de Bundesliga,26,1996,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
-2014,Fernando Pacheco,es ESP,PO,Almería,es La Liga,30,1992,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2015,Fernando Pacheco,es ESP,PO,Espanyol,es La Liga,30,1992,16.0,0,0,0,0,4,0,0,1,0,0.0,0.0,0,13.0,4.0,1.0,80.0
-2016,Jon Pacheco,es ESP,DF,Real Sociedad,es La Liga,21,2001,13.3,2,0,0,18,11,1,0,12,10,0.0,1.0,0,55.0,30.0,23.0,56.6
-2017,Gonçalo Paciência,pt POR,"DL,CC",Celta Vigo,es La Liga,27,1994,7.4,2,1,0,19,17,0,6,0,5,0.0,0.0,0,20.0,29.0,23.0,55.8
-2018,Simone Pafundi,it ITA,"CC,DL",Udinese,it Serie A,16,2006,0.9,0,0,0,0,3,0,1,1,5,0.0,0.0,0,6.0,1.0,0.0,100.0
-2019,Exequiel Palacios,ar ARG,CC,Leverkusen,de Bundesliga,23,1998,18.4,4,0,0,23,40,1,5,33,36,0.0,1.0,0,172.0,13.0,14.0,48.1
-2020,Helibelton Palacios,co COL,DF,Elche,es La Liga,29,1993,21.3,6,0,0,30,19,0,18,20,20,0.0,0.0,0,118.0,21.0,25.0,45.7
-2021,Ante Palaversa,hr CRO,CC,Troyes,fr Ligue 1,22,2000,0.3,0,0,0,0,0,0,2,1,1,0.0,0.0,0,7.0,0.0,0.0,
-2022,Isaac Palazón Camacho,es ESP,"DL,CC",Rayo Vallecano,es La Liga,27,1994,32.9,4,0,0,37,104,9,192,17,30,0.0,0.0,0,210.0,30.0,83.0,26.5
-2023,João Palhinha,pt POR,CC,Fulham,eng Premier League,27,1995,34.5,14,0,0,48,50,1,3,46,83,0.0,1.0,1,212.0,71.0,39.0,64.5
-2024,Nicolas Pallois,fr FRA,DF,Nantes,fr Ligue 1,34,1987,24.6,4,1,1,20,6,1,7,30,44,0.0,1.0,1,174.0,35.0,25.0,58.3
-2025,Cole Palmer,eng ENG,"CC,DL",Manchester City,eng Premier League,20,2002,4.1,1,0,0,1,6,1,7,1,1,0.0,0.0,0,20.0,1.0,3.0,25.0
-2026,Erik Palmer-Brown,us USA,DF,Troyes,fr Ligue 1,25,1997,35.5,5,0,0,29,12,1,2,26,27,0.0,1.0,1,178.0,56.0,32.0,63.6
-2027,Emerson Palmieri,it ITA,DF,West Ham,eng Premier League,27,1994,14.7,2,0,0,13,15,0,47,15,14,0.0,0.0,0,66.0,18.0,9.0,66.7
-2028,Miloš Pantović,rs SRB,CC,Union Berlin,de Bundesliga,26,1996,2.3,1,0,0,4,5,2,3,0,2,0.0,0.0,0,15.0,6.0,9.0,40.0
-2029,Flavio Paoletti,it ITA,CC,Sampdoria,it Serie A,19,2003,3.2,1,0,0,5,3,0,1,5,2,0.0,0.0,0,18.0,1.0,6.0,14.3
-2030,Antonios Papadopoulos,de GER,DF,Dortmund,de Bundesliga,22,1999,0.1,0,0,0,2,0,0,0,1,0,0.0,0.0,0,2.0,1.0,0.0,100.0
-2031,Lucas Paquetá,br BRA,CC,West Ham,eng Premier League,24,1997,23.9,5,0,0,50,30,1,22,16,53,2.0,0.0,0,144.0,36.0,32.0,52.9
-2032,Lucas Paquetá,br BRA,CC,Lyon,fr Ligue 1,24,1997,1.8,0,0,0,2,3,0,1,1,4,0.0,0.0,0,10.0,4.0,1.0,80.0
-2033,Aitor Paredes,es ESP,DF,Athletic Club,es La Liga,22,2000,9.5,3,0,0,12,2,0,2,14,6,0.0,0.0,1,59.0,21.0,7.0,75.0
-2034,Kevin Paredes,us USA,"DL,CC",Wolfsburg,de Bundesliga,19,2003,5.9,2,0,0,4,18,2,22,6,9,0.0,0.0,0,38.0,3.0,5.0,37.5
-2035,Leandro Paredes,ar ARG,CC,Juventus,it Serie A,28,1994,10.9,7,1,0,20,10,0,51,17,13,0.0,1.0,0,75.0,4.0,3.0,57.1
-2036,Leandro Paredes,ar ARG,CC,Paris S-G,fr Ligue 1,28,1994,0.6,0,0,0,0,1,0,0,1,1,0.0,0.0,0,2.0,0.0,0.0,
-2037,Daniel Parejo,es ESP,CC,Villarreal,es La Liga,33,1989,36.5,6,0,0,30,75,0,144,29,40,0.0,1.0,0,257.0,17.0,21.0,44.7
-2038,Fabiano Parisi,it ITA,DF,Empoli,it Serie A,21,2000,31.4,10,1,0,34,74,0,59,41,35,1.0,1.0,0,233.0,30.0,13.0,69.8
-2039,Moises Parra Gutierrez,es ESP,DL,Getafe,es La Liga,20,2002,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-2040,Raúl Parra,es ESP,DF,Cádiz,es La Liga,22,1999,3.4,1,0,0,6,3,0,6,1,2,0.0,0.0,0,17.0,3.0,1.0,75.0
-2041,Thomas Partey,gh GHA,CC,Arsenal,eng Premier League,29,1993,27.6,5,0,0,37,23,0,9,28,40,0.0,0.0,0,225.0,37.0,25.0,59.7
-2042,Marco Pašalić,hr CRO,CC,Dortmund,de Bundesliga,21,2000,0.1,0,0,0,1,0,0,1,0,0,0.0,0.0,0,2.0,0.0,0.0,
-2043,Mario Pašalić,hr CRO,"CC,DL",Atalanta,it Serie A,27,1995,19.7,3,0,0,24,16,2,5,21,10,0.0,0.0,0,102.0,37.0,34.0,52.1
-2044,Pascu,es ESP,"DF,DL",Villarreal,es La Liga,19,2003,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,
-2045,Felix Passlack,de GER,DF,Dortmund,de Bundesliga,24,1998,0.7,0,0,0,0,1,0,2,0,3,0.0,0.0,0,5.0,1.0,1.0,50.0
-2046,Javier Pastore,ar ARG,CC,Elche,es La Liga,33,1989,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-2047,Patric,es ESP,DF,Lazio,it Serie A,29,1993,15.7,1,0,0,3,4,0,0,11,11,0.0,0.0,0,96.0,8.0,22.0,26.7
-2048,Rui Patrício,pt POR,PO,Roma,it Serie A,34,1988,35.0,1,0,0,1,0,0,0,2,1,0.0,1.0,0,37.0,2.0,0.0,100.0
-2049,Nathan Patterson,sct SCO,"DF,CC",Everton,eng Premier League,20,2001,14.2,3,0,0,14,13,1,39,15,24,0.0,0.0,0,80.0,10.0,12.0,45.5
-2050,Paulinho,br BRA,DL,Leverkusen,de Bundesliga,22,2000,0.9,0,0,0,0,1,0,0,0,0,0.0,0.0,0,5.0,1.0,4.0,20.0
-2051,Gabriel Paulista,br BRA,DF,Valencia,es La Liga,31,1990,16.7,4,2,1,12,11,0,0,32,9,0.0,1.0,0,83.0,42.0,30.0,58.3
-2052,Benjamin Pavard,fr FRA,DF,Bayern Munich,de Bundesliga,26,1996,27.0,6,0,0,28,17,5,45,44,41,0.0,3.0,0,153.0,64.0,33.0,66.0
-2053,Jiří Pavlenka,cz CZE,PO,Werder Bremen,de Bundesliga,30,1992,32.3,1,0,0,0,7,0,0,3,0,0.0,0.0,0,50.0,8.0,1.0,88.9
-2054,Dimitri Payet,fr FRA,"CC,DL",Marseille,fr Ligue 1,35,1987,9.3,0,0,0,5,19,2,58,0,4,0.0,0.0,0,46.0,5.0,5.0,50.0
-2055,Ben Pearson,eng ENG,CC,Bournemouth,eng Premier League,27,1995,3.2,1,0,0,9,2,0,0,2,3,0.0,0.0,0,19.0,2.0,3.0,40.0
-2056,Kristian Pedersen,dk DEN,DF,Köln,de Bundesliga,27,1994,3.1,1,0,0,5,1,0,4,6,4,0.0,0.0,0,19.0,10.0,4.0,71.4
-2057,Mads Pedersen,dk DEN,"DF,CC",Augsburg,de Bundesliga,25,1996,20.4,6,0,0,23,23,0,46,20,23,0.0,0.0,0,122.0,7.0,23.0,23.3
-2058,Alfonso Pedraza,es ESP,DF,Villarreal,es La Liga,26,1996,18.1,5,0,0,20,15,2,76,18,26,0.0,0.0,0,88.0,12.0,12.0,50.0
-2059,Pedri,es ESP,CC,Barcelona,es La Liga,19,2002,22.0,2,0,0,8,43,4,25,13,22,0.0,0.0,0,134.0,3.0,5.0,37.5
-2060,Pedro,es ESP,DL,Lazio,it Serie A,35,1987,21.1,1,0,0,26,30,5,34,6,24,1.0,0.0,0,89.0,1.0,5.0,16.7
-2061,Adrià Pedrosa,es ESP,"DF,CC",Espanyol,es La Liga,24,1998,2.5,0,0,0,3,4,1,9,5,1,0.0,0.0,0,18.0,1.0,1.0,50.0
-2062,Jordan Pefok,us USA,DL,Union Berlin,de Bundesliga,26,1996,15.1,3,0,0,37,13,9,2,4,7,0.0,0.0,0,41.0,106.0,92.0,53.5
-2063,Gianluca Pegolo,it ITA,PO,Sassuolo,it Serie A,41,1981,2.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-2064,Dženan Pejčinović,de GER,DL,Wolfsburg,de Bundesliga,17,2005,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,4.0,20.0
-2065,Peter Pekarík,sk SVK,DF,Hertha BSC,de Bundesliga,35,1986,2.3,0,0,0,0,0,0,4,4,3,0.0,0.0,0,14.0,4.0,5.0,44.4
-2066,Pietro Pellegri,it ITA,DL,Torino,it Serie A,21,2001,5.2,3,0,0,15,14,7,3,0,2,0.0,0.0,0,12.0,11.0,33.0,25.0
-2067,Lorenzo Pellegrini,it ITA,CC,Roma,it Serie A,26,1996,28.3,5,0,0,25,57,5,162,26,29,0.0,0.0,0,130.0,12.0,24.0,33.3
-2068,Luca Pellegrini,it ITA,DF,Lazio,it Serie A,23,1999,2.0,3,0,0,5,1,0,15,7,0,0.0,0.0,0,12.0,3.0,7.0,30.0
-2069,Luca Pellegrini,it ITA,DF,Eint Frankfurt,de Bundesliga,23,1999,6.2,1,0,0,8,8,0,54,7,8,0.0,0.0,0,53.0,5.0,3.0,62.5
-2070,Théo Pellenard,fr FRA,DF,Auxerre,fr Ligue 1,28,1994,1.1,0,0,0,1,0,0,1,2,0,0.0,0.0,0,2.0,1.0,0.0,100.0
-2071,Facundo Pellistri,uy URU,"DL,CC",Manchester Utd,eng Premier League,20,2001,0.7,0,0,0,1,2,0,0,0,1,0.0,0.0,0,1.0,0.0,0.0,
-2072,Timothee Pembele,fr FRA,DF,Paris S-G,fr Ligue 1,19,2002,2.9,0,0,0,0,1,0,4,4,5,0.0,0.0,0,5.0,3.0,3.0,50.0
-2073,Iñaki Peña,es ESP,PO,Barcelona,es La Liga,23,1999,0.8,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,
-2074,Rubén Peña,es ESP,"DF,CC",Osasuna,es La Liga,31,1991,14.2,2,1,0,26,14,0,54,17,18,0.0,0.0,0,94.0,14.0,19.0,42.4
-2075,Patrick Pentz,at AUT,PO,Reims,fr Ligue 1,25,1997,7.0,1,0,0,0,2,0,0,0,0,0.0,0.0,0,8.0,0.0,0.0,
-2076,Nicolas Pépé,ci CIV,"DL,CC",Nice,fr Ligue 1,27,1995,16.6,2,0,0,13,33,6,42,3,13,2.0,0.0,0,76.0,8.0,13.0,38.1
-2077,Ricardo Pepi,us USA,DL,Augsburg,de Bundesliga,19,2003,1.1,0,0,0,0,0,0,0,0,1,0.0,0.0,0,5.0,3.0,8.0,27.3
-2078,Pepín,gq EQG,CC,Monza,it Serie A,25,1996,12.5,4,0,0,19,12,0,11,13,19,0.0,0.0,0,66.0,6.0,7.0,46.2
-2079,Alberto Perea,es ESP,CC,Cádiz,es La Liga,31,1990,0.5,0,0,0,0,2,0,1,0,0,0.0,0.0,0,2.0,0.0,2.0,0.0
-2080,Juan Perea,co COL,DL,Stuttgart,de Bundesliga,22,2000,4.6,0,0,0,12,12,6,6,1,4,0.0,0.0,0,16.0,6.0,18.0,25.0
-2081,Andreas Pereira,br BRA,CC,Fulham,eng Premier League,26,1996,29.9,8,0,0,41,31,2,196,6,9,0.0,1.0,0,117.0,9.0,28.0,24.3
-2082,Brayann Pereira,fr FRA,DF,Auxerre,fr Ligue 1,19,2003,2.0,0,0,0,1,4,0,9,2,5,0.0,0.0,0,9.0,3.0,0.0,100.0
-2083,Danilo Pereira,pt POR,"DF,CC",Paris S-G,fr Ligue 1,30,1991,26.8,3,0,0,17,14,1,3,36,17,0.0,0.0,0,184.0,34.0,22.0,60.7
-2084,Mathias Pereira Lage,pt POR,"CC,DL",Brest,fr Ligue 1,25,1996,14.0,2,0,0,23,27,1,34,14,7,1.0,0.0,0,69.0,21.0,28.0,42.9
-2085,Ricardo Pereira,pt POR,"DF,CC",Leicester City,eng Premier League,28,1993,5.0,2,0,0,4,4,0,16,4,7,0.0,0.0,0,30.0,5.0,11.0,31.3
-2086,Roberto Pereyra,ar ARG,"DF,CC",Udinese,it Serie A,31,1991,31.3,7,0,0,31,47,2,71,16,20,0.0,1.0,0,160.0,3.0,9.0,25.0
-2087,Ayoze Pérez,es ESP,"CC,DL",Leicester City,eng Premier League,29,1993,4.2,0,0,0,7,12,0,17,2,8,0.0,0.0,0,35.0,2.0,4.0,33.3
-2088,Ayoze Pérez,es ESP,"DL,CC",Betis,es La Liga,29,1993,15.4,3,0,0,32,29,2,7,13,15,2.0,0.0,0,67.0,8.0,24.0,25.0
-2089,Carles Pérez,es ESP,"CC,DL",Celta Vigo,es La Liga,24,1998,23.8,5,0,0,35,37,9,36,6,23,1.0,0.0,0,110.0,6.0,40.0,13.0
-2090,Francisco Perez,es ESP,"DL,CC",Valencia,es La Liga,19,2002,1.6,2,0,0,4,3,3,8,0,1,0.0,0.0,0,12.0,0.0,2.0,0.0
-2091,Kike Pérez,es ESP,CC,Valladolid,es La Liga,25,1997,25.6,9,0,0,57,57,4,58,20,33,0.0,0.0,0,186.0,31.0,31.0,50.0
-2092,Lucas Pérez,es ESP,DL,Cádiz,es La Liga,33,1988,7.0,3,0,0,5,4,6,40,1,2,0.0,0.0,0,21.0,2.0,8.0,20.0
-2093,Luis Pérez,es ESP,DF,Valladolid,es La Liga,27,1995,13.5,2,0,0,12,16,4,54,16,24,0.0,0.0,0,55.0,7.0,16.0,30.4
-2094,Nehuén Pérez,ar ARG,DF,Udinese,it Serie A,22,2000,31.3,7,1,0,29,11,0,18,35,40,0.0,0.0,1,146.0,35.0,22.0,61.4
-2095,Simone Perilli,it ITA,PO,Hellas Verona,it Serie A,27,1995,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-2096,Mattia Perin,it ITA,PO,Juventus,it Serie A,29,1992,10.5,0,0,0,0,1,0,0,0,0,0.0,0.0,0,18.0,2.0,0.0,100.0
-2097,Samuele Perisan,it ITA,PO,Empoli,it Serie A,24,1997,7.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,3.0,1.0,1.0,50.0
-2098,Ivan Perišić,hr CRO,"DF,CC",Tottenham,eng Premier League,33,1989,23.4,6,0,0,30,8,6,196,22,24,0.0,0.0,0,117.0,33.0,32.0,50.8
-2099,Romain Perraud,fr FRA,DF,Southampton,eng Premier League,24,1997,20.4,4,0,0,31,15,3,77,20,33,0.0,0.0,1,97.0,14.0,23.0,37.8
-2100,Gaëtan Perrin,fr FRA,"CC,DL",Auxerre,fr Ligue 1,26,1996,15.5,1,0,0,18,22,4,30,10,8,0.0,0.0,0,84.0,14.0,22.0,38.9
-2101,Lucas Perrin,fr FRA,DF,Strasbourg,fr Ligue 1,23,1998,19.6,4,0,0,23,19,0,8,36,27,0.0,1.0,0,112.0,36.0,19.0,65.5
-2102,Máximo Perrone,ar ARG,CC,Manchester City,eng Premier League,19,2003,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,
-2103,Matteo Pessina,it ITA,CC,Monza,it Serie A,25,1997,32.6,6,0,0,41,53,1,36,37,36,0.0,0.0,0,225.0,38.0,35.0,52.1
-2104,Andrea Petagna,it ITA,DL,Monza,it Serie A,27,1995,18.5,2,0,0,29,30,10,3,3,5,1.0,1.0,0,46.0,39.0,36.0,52.0
-2105,Nils Petersen,de GER,DL,Freiburg,de Bundesliga,33,1988,3.1,1,0,0,5,2,3,0,1,4,0.0,0.0,0,8.0,14.0,23.0,37.8
-2106,Lukas Petkov,bg BUL,"CC,DL",Augsburg,de Bundesliga,21,2000,1.6,1,0,0,4,1,0,0,1,1,0.0,0.0,0,6.0,5.0,15.0,25.0
-2107,Cameron Peupion,au AUS,CC,Brighton,eng Premier League,19,2002,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0
-2108,Germán Pezzella,ar ARG,DF,Betis,es La Liga,31,1991,27.9,4,3,0,27,17,1,2,50,28,0.0,0.0,0,108.0,73.0,31.0,70.2
-2109,Giuseppe Pezzella,it ITA,DF,Lecce,it Serie A,24,1997,10.2,2,0,0,16,11,1,34,8,9,0.0,0.0,0,49.0,11.0,8.0,57.9
-2110,Luca Pfeiffer,de GER,DL,Stuttgart,de Bundesliga,25,1996,7.8,1,1,0,14,9,1,1,1,1,0.0,0.0,0,16.0,30.0,28.0,51.7
-2111,Maximilian Philipp,de GER,DL,Wolfsburg,de Bundesliga,28,1994,1.3,0,0,0,0,7,1,7,0,1,0.0,0.0,0,3.0,1.0,2.0,33.3
-2112,Maximilian Philipp,de GER,"DL,CC",Werder Bremen,de Bundesliga,28,1994,4.9,1,0,0,7,12,3,0,3,5,0.0,0.0,0,16.0,7.0,23.0,23.3
-2113,Kalvin Phillips,eng ENG,CC,Manchester City,eng Premier League,26,1995,3.3,1,0,0,10,2,0,0,5,4,0.0,0.0,0,19.0,5.0,2.0,71.4
-2114,Nathaniel Phillips,eng ENG,DF,Liverpool,eng Premier League,25,1997,0.7,0,0,0,1,0,0,0,2,1,0.0,0.0,0,14.0,4.0,0.0,100.0
-2115,Krzysztof Piątek,pl POL,DL,Salernitana,it Serie A,27,1995,23.8,5,0,0,39,44,22,14,2,11,0.0,0.0,0,58.0,90.0,115.0,43.9
-2116,Roberto Piccoli,it ITA,DL,Hellas Verona,it Serie A,21,2001,2.1,0,0,0,2,3,4,3,0,0,0.0,0.0,0,4.0,3.0,13.0,18.8
-2117,Roberto Piccoli,it ITA,DL,Empoli,it Serie A,21,2001,5.7,0,0,0,7,3,4,1,1,1,0.0,0.0,0,15.0,18.0,26.0,40.9
-2118,Charles Pickel,cd COD,CC,Cremonese,it Serie A,25,1997,27.6,8,1,0,34,18,4,11,24,23,0.0,0.0,0,163.0,47.0,76.0,38.2
-2119,Jordan Pickford,eng ENG,PO,Everton,eng Premier League,28,1994,37.0,6,0,0,1,5,0,0,4,0,0.0,1.0,0,36.0,8.0,3.0,72.7
-2120,Amos Pieper,de GER,DF,Werder Bremen,de Bundesliga,24,1998,21.7,9,0,0,24,15,2,17,30,28,0.0,1.0,0,131.0,68.0,31.0,68.7
-2121,Ronaël Pierre-Gabriel,fr FRA,DF,Espanyol,es La Liga,24,1998,2.6,2,1,1,4,4,0,10,9,9,0.0,0.0,0,18.0,4.0,2.0,66.7
-2122,Ronaël Pierre-Gabriel,fr FRA,DF,Strasbourg,fr Ligue 1,24,1998,7.3,3,0,0,12,8,2,19,9,18,0.0,0.0,0,41.0,8.0,7.0,53.3
-2123,Andrea Pinamonti,it ITA,DL,Sassuolo,it Serie A,23,1999,24.0,3,1,0,21,31,8,14,2,7,1.0,0.0,0,32.0,36.0,79.0,31.3
-2124,Ethan Pinnock,jm JAM,DF,Brentford,eng Premier League,29,1993,30.0,0,0,0,6,10,0,10,35,28,0.0,0.0,1,123.0,105.0,52.0,66.9
-2125,Yeremi Pino,es ESP,"DL,CC",Villarreal,es La Liga,19,2002,27.2,8,0,0,65,53,18,20,15,38,1.0,0.0,0,107.0,24.0,37.0,39.3
-2126,Gerard Piqué,es ESP,DF,Barcelona,es La Liga,35,1987,4.3,2,1,0,7,2,0,0,2,4,0.0,0.0,0,26.0,20.0,6.0,76.9
-2127,Lorenzo Pirola,it ITA,DF,Salernitana,it Serie A,20,2002,21.6,4,0,0,28,9,0,1,30,29,0.0,0.0,0,83.0,48.0,39.0,55.2
-2128,Niccolò Pisilli,it ITA,CC,Roma,it Serie A,17,2004,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2129,Marko Pjaca,hr CRO,"CC,DL",Empoli,it Serie A,27,1995,5.8,1,0,0,2,7,1,25,3,3,0.0,0.0,0,30.0,7.0,7.0,50.0
-2130,Óscar Plano,es ESP,"DL,CC",Valladolid,es La Liga,31,1991,22.6,3,0,0,23,49,7,23,29,25,1.0,0.0,0,108.0,34.0,50.0,40.5
-2131,Gonzalo Plata,ec ECU,DL,Valladolid,es La Liga,21,2000,25.6,1,0,0,22,41,4,54,12,35,3.0,0.0,0,123.0,17.0,44.0,27.9
-2132,Marvin Plattenhardt,de GER,DF,Hertha BSC,de Bundesliga,30,1992,26.7,3,0,0,21,31,1,156,15,33,1.0,0.0,0,117.0,19.0,17.0,52.8
-2133,Alassane Pléa,fr FRA,DL,M'Gladbach,de Bundesliga,29,1993,19.7,5,0,0,24,32,4,48,12,8,0.0,1.0,0,88.0,14.0,29.0,32.6
-2134,Tommaso Pobega,it ITA,CC,Milan,it Serie A,23,1999,9.8,4,0,0,30,5,0,5,9,16,0.0,0.0,0,51.0,13.0,18.0,41.9
-2135,Daniel Podence,pt POR,"DL,CC",Wolves,eng Premier League,26,1995,19.7,5,0,0,26,23,4,56,7,17,0.0,0.0,0,87.0,6.0,12.0,33.3
-2136,Paul Pogba,fr FRA,"CC,DL",Juventus,it Serie A,29,1993,1.2,0,0,0,2,7,0,2,0,0,0.0,0.0,0,6.0,7.0,3.0,70.0
-2137,Joel Pohjanpalo,fi FIN,"DL,CC",Leverkusen,de Bundesliga,27,1994,0.0,0,0,0,0,0,1,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
-2138,Matteo Politano,it ITA,DL,Napoli,it Serie A,28,1993,13.0,1,0,0,11,22,1,82,7,9,0.0,0.0,0,66.0,3.0,6.0,33.3
-2139,Sebastian Polter,de GER,DL,Schalke 04,de Bundesliga,31,1991,7.0,3,0,0,23,11,3,2,1,3,0.0,0.0,0,24.0,39.0,35.0,52.7
-2140,Ezequiel Ponce,ar ARG,"DL,CC",Elche,es La Liga,25,1997,12.5,2,1,0,32,9,8,1,1,7,1.0,0.0,0,36.0,35.0,44.0,44.3
-2141,Julien Ponceau,fr FRA,CC,Lorient,fr Ligue 1,21,2000,18.4,1,0,0,21,25,4,12,14,19,0.0,0.0,0,105.0,8.0,27.0,22.9
-2142,Marin Pongračić,hr CRO,DF,Lecce,it Serie A,24,1997,8.8,2,0,0,15,0,0,0,16,14,0.0,0.0,0,59.0,9.0,10.0,47.4
-2143,Nick Pope,eng ENG,PO,Newcastle Utd,eng Premier League,30,1992,36.2,3,1,0,1,2,0,0,0,0,0.0,0.0,0,30.0,4.0,1.0,80.0
-2144,Łukasz Poręba,pl POL,CC,Lens,fr Ligue 1,22,2000,2.9,1,0,0,9,2,0,6,4,4,0.0,0.0,0,12.0,3.0,1.0,75.0
-2145,Jackson Porozo,ec ECU,DF,Troyes,fr Ligue 1,21,2000,18.0,3,0,0,29,18,1,3,33,20,0.0,0.0,0,75.0,47.0,25.0,65.3
-2146,Pedro Porro,es ESP,"DF,CC",Tottenham,eng Premier League,22,1999,12.6,0,0,0,12,16,1,77,15,16,0.0,0.0,0,85.0,1.0,11.0,8.3
-2147,Francisco Portillo,es ESP,"CC,DL",Almería,es La Liga,32,1990,8.0,1,0,0,2,3,2,12,7,6,0.0,0.0,0,54.0,5.0,5.0,50.0
-2148,Portu,es ESP,"CC,DF",Getafe,es La Liga,30,1992,19.7,7,1,1,25,25,10,91,17,21,0.0,0.0,0,91.0,20.0,34.0,37.0
-2149,Stefan Posch,at AUT,DF,Bologna,it Serie A,25,1997,28.1,6,0,0,47,28,1,49,35,43,0.0,0.0,0,157.0,27.0,28.0,49.1
-2150,Stefan Posch,at AUT,DF,Hoffenheim,de Bundesliga,25,1997,0.2,2,1,1,2,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2151,Yussuf Poulsen,dk DEN,DL,RB Leipzig,de Bundesliga,28,1994,4.6,1,0,0,10,9,2,4,0,4,0.0,0.0,0,21.0,27.0,12.0,69.2
-2152,José Pozo,es ESP,"CC,DL",Rayo Vallecano,es La Liga,26,1996,1.0,0,0,0,2,4,0,4,1,2,0.0,0.0,0,5.0,2.0,3.0,40.0
-2153,Manuel Pozo,es ESP,DL,Valladolid,es La Liga,20,2001,0.2,0,0,0,0,0,0,1,2,0,0.0,0.0,0,4.0,0.0,0.0,
-2154,Alejandro Pozo Pozo,es ESP,DF,Almería,es La Liga,23,1999,20.9,2,0,0,15,14,1,70,26,19,0.0,1.0,0,138.0,12.0,23.0,34.3
-2155,Dennis Praet,be BEL,"CC,DL",Leicester City,eng Premier League,28,1994,7.2,1,0,0,9,8,1,15,5,9,0.0,0.0,0,48.0,1.0,11.0,8.3
-2156,Abdón Prats,es ESP,"DL,CC",Mallorca,es La Liga,29,1992,4.6,1,0,0,5,6,2,0,0,0,0.0,0.0,0,12.0,14.0,38.0,26.9
-2157,Sanjin Prcić,ba BIH,CC,Strasbourg,fr Ligue 1,28,1993,18.1,3,1,0,16,19,1,29,25,12,0.0,0.0,0,152.0,16.0,7.0,69.6
-2158,Isaac Price,nir NIR,CC,Everton,eng Premier League,18,2003,0.4,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2159,Grischa Prömel,de GER,CC,Hoffenheim,de Bundesliga,27,1995,16.2,4,0,0,32,36,2,6,8,19,0.0,0.0,0,83.0,21.0,29.0,42.0
-2160,Ivan Provedel,it ITA,PO,Lazio,it Serie A,28,1994,37.9,1,0,0,0,5,0,0,0,0,0.0,0.0,0,78.0,3.0,1.0,75.0
-2161,Javi Puado,es ESP,"DL,CC",Espanyol,es La Liga,24,1998,26.0,4,0,0,16,25,4,36,10,11,1.0,0.0,0,135.0,21.0,41.0,33.9
-2162,Mehdi Puch Herrantz,fr FRA,CC,Ajaccio,fr Ligue 1,18,2004,0.5,0,0,0,1,1,0,0,3,2,0.0,0.0,0,6.0,0.0,1.0,0.0
-2163,Tymoteusz Puchacz,pl POL,DF,Union Berlin,de Bundesliga,23,1999,0.6,0,0,0,0,0,0,5,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
-2164,Arnau Puigmal,es ESP,"CC,DL",Almería,es La Liga,21,2001,8.5,4,0,0,10,15,2,18,11,14,0.0,1.0,0,36.0,3.0,8.0,27.3
-2165,Christian Pulisic,us USA,"DL,DF",Chelsea,eng Premier League,23,1998,9.1,1,0,0,10,15,0,18,4,6,0.0,0.0,0,31.0,5.0,18.0,21.7
-2166,Ignacio Pussetto,ar ARG,"CC,DF",Sampdoria,it Serie A,26,1995,1.7,1,0,0,7,1,0,5,0,3,0.0,0.0,0,4.0,4.0,5.0,44.4
-2167,Niklas Pyyhtiä,fi FIN,CC,Bologna,it Serie A,18,2003,1.2,0,0,0,0,0,0,0,1,0,0.0,0.0,0,7.0,1.0,6.0,14.3
-2168,Fabio Quagliarella,it ITA,DL,Sampdoria,it Serie A,39,1983,8.9,2,0,0,4,19,6,14,0,1,0.0,0.0,0,29.0,9.0,28.0,24.3
-2169,Giacomo Quagliata,it ITA,DF,Cremonese,it Serie A,22,2000,7.8,0,1,0,13,12,0,54,11,8,0.0,0.0,0,57.0,2.0,14.0,12.5
-2170,Eduardo Quaresma,pt POR,DF,Hoffenheim,de Bundesliga,20,2002,1.0,0,0,0,1,1,0,0,0,3,0.0,0.0,0,10.0,1.0,1.0,50.0
-2171,Joshua Quarshie,de GER,CC,Hoffenheim,de Bundesliga,18,2004,0.0,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2172,Ghjuvanni Quilichini,fr FRA,PO,Ajaccio,fr Ligue 1,19,2002,0.9,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
-2173,Domingos Quina,pt POR,CC,Elche,es La Liga,22,1999,3.1,3,1,1,5,11,0,6,3,2,0.0,0.0,0,27.0,0.0,1.0,0.0
-2174,Rubén Quintanilla,es ESP,DF,Mallorca,es La Liga,20,2002,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2175,Adrien Rabiot,fr FRA,CC,Juventus,it Serie A,27,1995,30.5,9,0,0,45,42,2,34,26,35,0.0,0.0,0,179.0,50.0,39.0,56.2
-2176,Nemanja Radonjić,rs SRB,"CC,DL",Torino,it Serie A,26,1996,16.2,1,0,0,17,17,12,76,2,1,0.0,0.0,0,63.0,7.0,14.0,33.3
-2177,Ivan Radovanović,rs SRB,"CC,DF",Salernitana,it Serie A,33,1988,7.5,1,1,0,4,7,0,0,7,4,0.0,0.0,0,47.0,8.0,12.0,40.0
-2178,Ionuț Radu,ro ROU,PO,Cremonese,it Serie A,25,1997,9.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,11.0,3.0,1.0,75.0
-2179,Ionuț Radu,ro ROU,PO,Auxerre,fr Ligue 1,25,1997,17.0,0,0,0,1,0,0,0,0,0,0.0,0.0,0,19.0,3.0,0.0,100.0
-2180,Ștefan Radu,ro ROU,DL,Lazio,it Serie A,35,1986,0.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2181,Antonio Raillo,es ESP,DF,Mallorca,es La Liga,30,1991,30.7,11,1,0,42,21,5,0,31,21,1.0,0.0,0,140.0,92.0,51.0,64.3
-2182,Antonio Raimondo,it ITA,DL,Bologna,it Serie A,18,2004,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,3.0,0.0
-2183,Predrag Rajković,rs SRB,PO,Mallorca,es La Liga,26,1995,36.0,3,0,0,1,3,0,0,0,0,0.0,1.0,0,23.0,5.0,1.0,83.3
-2184,Ivan Rakitić,hr CRO,CC,Sevilla,es La Liga,34,1988,19.9,3,1,0,16,27,3,74,27,26,0.0,0.0,0,111.0,20.0,20.0,50.0
-2185,Diant Ramaj,de GER,PO,Eint Frankfurt,de Bundesliga,20,2001,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,1.0,0.0,100.0
-2186,Largie Ramazani,be BEL,"DL,CC",Almería,es La Liga,21,2001,15.6,6,0,0,31,15,12,20,15,9,1.0,1.0,0,57.0,5.0,18.0,21.7
-2187,Simon Ramet,fr FRA,DF,Lille,fr Ligue 1,19,2003,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2188,Adil Rami,fr FRA,DF,Troyes,fr Ligue 1,36,1985,17.7,2,0,0,10,14,1,5,25,14,0.0,1.0,0,93.0,29.0,16.0,64.4
-2189,Chris Ramos,es ESP,DL,Cádiz,es La Liga,25,1997,7.9,2,0,0,21,12,0,6,1,9,1.0,0.0,0,23.0,65.0,48.0,57.5
-2190,Sergio Ramos,es ESP,DF,Paris S-G,fr Ligue 1,36,1986,30.0,3,1,0,36,24,4,13,34,26,1.0,0.0,0,173.0,55.0,34.0,61.8
-2191,Aaron Ramsdale,eng ENG,PO,Arsenal,eng Premier League,24,1998,38.0,1,0,0,0,4,0,0,0,1,0.0,0.0,0,33.0,6.0,0.0,100.0
-2192,Aaron Ramsey,wls WAL,CC,Nice,fr Ligue 1,31,1990,17.6,3,0,0,23,18,3,62,17,25,1.0,0.0,0,115.0,6.0,12.0,33.3
-2193,Jacob Ramsey,eng ENG,"CC,DL",Aston Villa,eng Premier League,21,2001,29.3,5,0,0,35,45,2,18,23,39,0.0,1.0,1,141.0,16.0,33.0,32.7
-2194,Luca Ranieri,it ITA,DF,Fiorentina,it Serie A,23,1999,5.6,1,0,0,6,2,2,0,11,4,0.0,0.0,0,30.0,11.0,13.0,45.8
-2195,Andrea Ranocchia,it ITA,DF,Monza,it Serie A,34,1988,0.5,0,0,0,2,0,0,0,0,1,0.0,0.0,0,1.0,1.0,2.0,33.3
-2196,Filippo Ranocchia,it ITA,CC,Monza,it Serie A,21,2001,5.9,1,0,0,7,12,0,13,4,6,0.0,0.0,0,32.0,2.0,6.0,25.0
-2197,Lilian Raolisoa,fr FRA,"DF,CC",Angers,fr Ligue 1,22,2000,1.9,0,0,0,1,3,0,10,3,9,0.0,0.0,0,17.0,1.0,0.0,100.0
-2198,Raphinha,br BRA,DL,Barcelona,es La Liga,25,1996,23.0,9,0,0,22,37,15,172,14,19,0.0,0.0,0,98.0,14.0,9.0,60.9
-2199,Nicolai Rapp,de GER,"CC,DF",Werder Bremen,de Bundesliga,25,1996,0.8,0,0,0,2,0,0,1,0,1,0.0,0.0,0,6.0,1.0,2.0,33.3
-2200,Elba Rashani,xk KVX,"CC,DL",Clermont Foot,fr Ligue 1,29,1993,24.0,3,0,0,36,29,4,58,21,26,1.0,0.0,0,101.0,16.0,42.0,27.6
-2201,Marcus Rashford,eng ENG,DL,Manchester Utd,eng Premier League,24,1997,32.0,2,0,0,15,23,15,24,7,10,0.0,0.0,0,100.0,20.0,40.0,33.3
-2202,Giacomo Raspadori,it ITA,DL,Sassuolo,it Serie A,22,2000,0.5,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2203,Giacomo Raspadori,it ITA,"DL,CC",Napoli,it Serie A,22,2000,10.1,1,0,0,7,12,1,32,4,8,0.0,0.0,0,31.0,3.0,8.0,27.3
-2204,Rafael Ratão,br BRA,"DL,CC",Toulouse,fr Ligue 1,26,1995,20.6,2,0,0,28,33,2,52,21,36,0.0,0.0,0,116.0,10.0,13.0,43.5
-2205,David Raum,de GER,"DF,CC",RB Leipzig,de Bundesliga,24,1998,18.7,5,0,0,21,14,2,141,16,25,0.0,2.0,0,113.0,16.0,12.0,57.1
-2206,Nicola Ravaglia,it ITA,PO,Sampdoria,it Serie A,33,1988,9.0,0,0,0,1,2,0,0,0,0,0.0,1.0,0,4.0,3.0,0.0,100.0
-2207,Rayan Raveloson,mg MAD,"DF,CC",Auxerre,fr Ligue 1,25,1997,27.0,0,0,0,22,35,1,33,39,23,0.0,0.0,1,181.0,29.0,22.0,56.9
-2208,David Raya,es ESP,PO,Brentford,eng Premier League,26,1995,38.0,1,0,0,0,6,0,0,1,0,0.0,0.0,1,47.0,12.0,2.0,85.7
-2209,Tim Ream,us USA,DF,Fulham,eng Premier League,34,1987,32.2,2,0,0,18,7,1,4,41,16,0.0,1.0,0,199.0,48.0,31.0,60.8
-2210,Ante Rebić,hr CRO,"DL,CC",Milan,it Serie A,28,1993,10.9,4,0,0,18,15,8,39,1,8,0.0,0.0,0,36.0,12.0,15.0,44.4
-2211,Arkadiusz Reca,pl POL,DF,Spezia,it Serie A,27,1995,24.1,5,0,0,32,15,2,99,24,28,0.0,1.0,0,125.0,19.0,22.0,46.3
-2212,Nathan Redmond,eng ENG,DF,Southampton,eng Premier League,28,1994,0.0,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2213,Harrison Reed,eng ENG,CC,Fulham,eng Premier League,27,1995,31.8,5,0,0,38,21,4,54,19,27,0.0,0.0,1,160.0,29.0,36.0,44.6
-2214,Sergio Reguilón,es ESP,DF,Atlético Madrid,es La Liga,25,1996,3.4,3,1,1,4,6,1,9,2,5,0.0,0.0,0,15.0,8.0,5.0,61.5
-2215,Bobby Reid,jm JAM,"DL,DF",Fulham,eng Premier League,29,1993,27.5,8,0,0,34,22,11,53,20,24,2.0,1.0,0,135.0,12.0,41.0,22.6
-2216,Pepe Reina,es ESP,PO,Villarreal,es La Liga,39,1982,22.0,2,0,0,0,1,0,0,1,0,0.0,0.0,0,23.0,3.0,0.0,100.0
-2217,Jeff Reine-Adélaïde,fr FRA,CC,Troyes,fr Ligue 1,24,1998,2.6,0,0,0,2,5,0,0,2,2,0.0,0.0,0,14.0,3.0,4.0,42.9
-2218,Jeff Reine-Adélaïde,fr FRA,CC,Lyon,fr Ligue 1,24,1998,3.7,1,0,0,7,4,0,13,6,5,0.0,0.0,0,30.0,3.0,3.0,50.0
-2219,Reinier,br BRA,"CC,DL",Girona,es La Liga,20,2002,7.2,1,1,0,4,15,2,2,5,10,0.0,0.0,0,29.0,6.0,12.0,33.3
-2220,Rocco Reitz,de GER,CC,M'Gladbach,de Bundesliga,20,2002,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2221,Karim Rekik,nl NED,DF,Sevilla,es La Liga,27,1994,13.1,2,0,0,20,5,0,1,10,5,0.0,0.0,1,71.0,22.0,10.0,68.8
-2222,Álex Remiro,es ESP,PO,Real Sociedad,es La Liga,27,1995,38.0,1,0,0,0,4,0,0,0,1,0.0,0.0,0,58.0,7.0,1.0,87.5
-2223,Panagiotis Retsos,gr GRE,DF,Hellas Verona,it Serie A,23,1998,1.4,0,0,0,4,2,0,0,2,4,0.0,0.0,0,7.0,3.0,3.0,50.0
-2224,Marco Reus,de GER,"CC,DL",Dortmund,de Bundesliga,33,1989,15.0,4,0,0,18,18,3,19,8,17,1.0,0.0,0,52.0,12.0,21.0,36.4
-2225,Alejandro Revuelta Montero,es ESP,DF,Getafe,es La Liga,22,2000,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2226,Elvis Rexhbeçaj,de GER,CC,Augsburg,de Bundesliga,24,1997,28.0,6,0,0,27,49,0,17,17,30,0.0,0.0,1,152.0,35.0,33.0,51.5
-2227,Gio Reyna,us USA,"DL,CC",Dortmund,de Bundesliga,19,2002,6.9,2,0,0,8,17,1,17,3,7,0.0,1.0,0,23.0,7.0,14.0,33.3
-2228,Chadi Riad,ma MAR,CC,Barcelona,es La Liga,19,2003,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2229,Nico Ribaudo,es ESP,"CC,DL",Espanyol,es La Liga,21,2001,13.9,4,0,0,24,33,3,44,5,13,0.0,0.0,0,65.0,12.0,28.0,30.0
-2230,Alexsandro Ribeiro,br BRA,DF,Lille,fr Ligue 1,22,1999,17.9,4,0,0,18,20,2,4,25,18,0.0,0.0,0,113.0,32.0,28.0,53.3
-2231,Franck Ribéry,fr FRA,CC,Salernitana,it Serie A,39,1983,0.4,0,0,0,0,1,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,
-2232,Samuele Ricci,it ITA,CC,Torino,it Serie A,20,2001,23.0,6,0,0,22,58,0,31,17,21,0.0,0.0,0,136.0,11.0,15.0,42.3
-2233,Declan Rice,eng ENG,CC,West Ham,eng Premier League,23,1999,36.4,5,0,0,23,11,1,44,63,38,0.0,0.0,0,334.0,37.0,26.0,58.7
-2234,Chris Richards,us USA,DF,Crystal Palace,eng Premier League,22,2000,5.0,0,0,0,2,1,1,0,8,6,0.0,0.0,0,15.0,14.0,4.0,77.8
-2235,Richarlison,br BRA,"CC,DL",Tottenham,eng Premier League,25,1997,11.2,3,0,0,14,22,9,16,5,16,2.0,0.0,0,52.0,18.0,29.0,38.3
-2236,Marco Richter,de GER,"CC,DL",Hertha BSC,de Bundesliga,24,1997,20.4,8,0,0,36,33,6,82,24,23,0.0,0.0,0,161.0,12.0,31.0,27.9
-2237,Diego Rico,es ESP,DF,Real Sociedad,es La Liga,29,1993,18.3,3,0,0,27,26,2,55,20,21,0.0,0.0,0,96.0,18.0,17.0,51.4
-2238,Jaïro Riedewald,nl NED,"DF,CC",Crystal Palace,eng Premier League,25,1996,0.7,0,0,0,2,1,0,0,0,1,0.0,0.0,0,8.0,2.0,1.0,66.7
-2239,Manuel Riemann,de GER,PO,Bochum,de Bundesliga,33,1988,34.0,3,0,0,1,4,0,1,5,2,0.0,1.0,1,105.0,11.0,3.0,78.6
-2240,Tomás Rincón,ve VEN,CC,Sampdoria,it Serie A,34,1988,28.4,7,1,0,58,28,0,21,30,27,0.0,0.0,0,164.0,35.0,16.0,68.6
-2241,Rémy Riou,fr FRA,PO,Lyon,fr Ligue 1,34,1987,6.7,0,0,0,0,0,0,0,0,0,0.0,0.0,0,14.0,0.0,0.0,
-2242,Renaud Ripart,fr FRA,"DL,CC",Troyes,fr Ligue 1,29,1993,14.7,4,0,0,25,25,6,21,7,23,0.0,0.0,0,54.0,56.0,78.0,41.8
-2243,Rodrigo Riquelme,es ESP,"CC,DL",Girona,es La Liga,22,2000,24.2,1,0,0,27,36,5,78,11,8,0.0,1.0,0,111.0,9.0,13.0,40.9
-2244,Matt Ritchie,sct SCO,"DL,CC",Newcastle Utd,eng Premier League,32,1989,0.4,0,0,0,0,0,0,2,1,1,0.0,0.0,0,3.0,1.0,0.0,100.0
-2245,Sergi Roberto,es ESP,"DF,CC",Barcelona,es La Liga,30,1992,14.5,3,0,0,19,12,2,25,11,15,0.0,0.0,0,62.0,7.0,12.0,36.8
-2246,Lucas Robertone,ar ARG,CC,Almería,es La Liga,25,1997,31.6,7,0,0,33,89,3,137,46,28,0.0,0.0,0,207.0,20.0,36.0,35.7
-2247,Andrew Robertson,sct SCO,DF,Liverpool,eng Premier League,28,1994,28.7,3,0,0,22,10,7,195,18,21,0.0,0.0,0,174.0,22.0,24.0,47.8
-2248,Antonee Robinson,us USA,DF,Fulham,eng Premier League,24,1997,34.3,8,0,0,33,23,3,134,53,38,0.0,1.0,0,235.0,40.0,30.0,57.1
-2249,Joel Robles,es ESP,PO,Leeds United,eng Premier League,32,1990,4.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,3.0,0.0,100.0
-2250,Joel Roca,es ESP,"CC,DL",Girona,es La Liga,17,2005,0.9,1,0,0,2,5,0,0,0,2,0.0,0.0,0,5.0,0.0,0.0,
-2251,Marc Roca,es ESP,CC,Leeds United,eng Premier League,25,1996,25.7,7,0,0,40,29,0,76,23,40,0.0,0.0,0,169.0,18.0,13.0,58.1
-2252,Enzo Roco,cl CHI,DF,Elche,es La Liga,29,1992,18.4,7,1,1,34,10,0,1,17,13,0.0,4.0,0,83.0,46.0,20.0,69.7
-2253,Marek Rodák,sk SVK,PO,Fulham,eng Premier League,25,1996,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,1.0,0.0,100.0
-2254,Sebastian Rode,de GER,CC,Eint Frankfurt,de Bundesliga,31,1990,15.7,6,0,0,22,18,0,8,16,24,0.0,0.0,0,108.0,12.0,10.0,54.5
-2255,Joe Rodon,wls WAL,DF,Rennes,fr Ligue 1,24,1997,15.7,2,1,0,11,18,0,1,9,7,0.0,0.0,0,76.0,44.0,30.0,59.5
-2256,Rodri,es ESP,CC,Manchester City,eng Premier League,26,1996,32.3,5,0,0,47,20,3,6,33,41,0.0,0.0,0,301.0,72.0,32.0,69.2
-2257,Rodri,es ESP,"DL,CC",Betis,es La Liga,22,2000,17.8,0,0,0,6,39,2,47,13,11,1.0,0.0,0,102.0,2.0,12.0,14.3
-2258,Rodrigo,es ESP,"DL,CC",Leeds United,eng Premier League,31,1991,21.5,6,0,0,29,11,10,21,6,10,0.0,0.0,0,66.0,34.0,66.0,34.0
-2259,Ángel Rodríguez,es ESP,"DL,CC",Mallorca,es La Liga,35,1987,4.4,1,0,0,9,6,2,2,1,1,0.0,0.0,0,12.0,10.0,9.0,52.6
-2260,Óscar Rodríguez Arnaiz,es ESP,CC,Celta Vigo,es La Liga,24,1998,19.7,6,0,0,22,26,2,83,24,25,0.0,1.0,0,115.0,11.0,20.0,35.5
-2261,Dani Rodríguez,es ESP,CC,Mallorca,es La Liga,34,1988,23.3,8,0,0,49,33,4,32,21,23,0.0,0.0,0,133.0,11.0,37.0,22.9
-2262,Guido Rodríguez,ar ARG,CC,Betis,es La Liga,28,1994,31.9,8,0,0,45,64,1,9,42,75,0.0,0.0,1,213.0,44.0,46.0,48.9
-2263,Miguel Rodríguez,es ESP,"CC,DL",Celta Vigo,es La Liga,19,2003,2.8,0,0,0,6,8,1,13,1,5,0.0,0.0,0,16.0,1.0,8.0,11.1
-2264,Pablo Rodríguez,es ESP,"DL,CC",Lecce,it Serie A,20,2001,0.6,0,0,0,1,2,0,4,0,1,0.0,0.0,0,2.0,0.0,2.0,0.0
-2265,Ricardo Rodríguez,ch SUI,DF,Torino,it Serie A,29,1992,29.7,3,0,0,25,8,0,71,38,33,0.0,0.0,0,164.0,30.0,29.0,50.8
-2266,Rodrygo,br BRA,"DL,CC",Real Madrid,es La Liga,21,2001,26.4,4,0,0,18,49,10,22,8,10,2.0,0.0,0,63.0,14.0,23.0,37.8
-2267,Mads Roerslev,dk DEN,DF,Brentford,eng Premier League,23,1999,12.3,0,0,0,4,3,0,20,9,12,0.0,0.0,0,48.0,8.0,12.0,40.0
-2268,Agustín Rogel,uy URU,DF,Hertha BSC,de Bundesliga,24,1997,15.8,7,0,0,21,6,1,0,11,9,0.0,0.0,0,62.0,49.0,35.0,58.3
-2269,Rogério,br BRA,DF,Sassuolo,it Serie A,24,1998,33.3,5,1,0,30,38,0,113,37,21,0.0,0.0,0,162.0,21.0,32.0,39.6
-2270,Merlin Röhl,de GER,"CC,DL",Freiburg,de Bundesliga,20,2002,0.6,0,0,0,1,4,0,0,0,0,0.0,0.0,0,6.0,1.0,0.0,100.0
-2271,Tony Rölke,de GER,DL,Hertha BSC,de Bundesliga,19,2003,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,2.0,0.0
-2272,Filippo Romagna,it ITA,DF,Sassuolo,it Serie A,25,1997,0.5,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,2.0,0.0,100.0
-2273,Alessio Romagnoli,it ITA,DF,Lazio,it Serie A,27,1995,32.5,6,0,0,35,19,1,0,38,15,0.0,0.0,0,139.0,78.0,45.0,63.4
-2274,Simone Romagnoli,it ITA,DF,Lecce,it Serie A,32,1990,1.9,0,0,0,3,0,0,0,1,5,0.0,0.0,0,9.0,10.0,8.0,55.6
-2275,Leonardo Román,es ESP,PO,Mallorca,es La Liga,22,2000,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,4.0,0.0,0.0,
-2276,Cristian Romero,ar ARG,DF,Tottenham,eng Premier League,24,1998,26.3,11,1,1,42,12,0,0,44,36,1.0,1.0,0,173.0,57.0,26.0,68.7
-2277,Iván Romero,es ESP,CC,Sevilla,es La Liga,21,2001,0.1,1,0,0,1,1,0,0,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0
-2278,Luka Romero,ar ARG,DL,Lazio,it Serie A,17,2004,1.7,0,0,0,3,6,0,0,3,0,0.0,0.0,0,10.0,2.0,1.0,66.7
-2279,Oriol Romeu,es ESP,CC,Southampton,eng Premier League,30,1991,0.8,0,0,0,1,2,0,1,1,0,0.0,0.0,0,8.0,2.0,0.0,100.0
-2280,Oriol Romeu,es ESP,CC,Girona,es La Liga,30,1991,32.8,10,1,1,59,33,0,13,37,38,0.0,1.0,0,195.0,39.0,46.0,45.9
-2281,Cristiano Ronaldo,pt POR,DL,Manchester Utd,eng Premier League,37,1985,5.8,2,0,0,7,5,8,3,1,2,0.0,0.0,0,12.0,15.0,8.0,65.2
-2282,Connor Ronan,ie IRL,CC,Wolves,eng Premier League,24,1998,0.0,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2283,Salomón Rondón,ve VEN,DL,Everton,eng Premier League,32,1989,1.2,0,0,0,4,0,2,0,0,0,0.0,0.0,0,1.0,7.0,6.0,53.8
-2284,Valentin Rongier,fr FRA,CC,Marseille,fr Ligue 1,27,1994,33.7,8,0,0,52,29,0,8,54,59,0.0,0.0,0,267.0,43.0,30.0,58.9
-2285,Marten de Roon,nl NED,CC,Atalanta,it Serie A,31,1991,32.9,7,0,0,46,24,1,13,36,39,0.0,0.0,0,218.0,51.0,31.0,62.2
-2286,Pablo Rosario,nl NED,"CC,DF",Nice,fr Ligue 1,25,1997,19.6,6,0,0,18,13,0,11,23,26,0.0,0.0,0,97.0,16.0,22.0,42.1
-2287,Francesco Rossi,it ITA,PO,Atalanta,it Serie A,31,1991,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2288,Tom Rothe,de GER,DF,Dortmund,de Bundesliga,17,2004,0.3,0,0,0,2,0,0,2,1,1,0.0,0.0,0,4.0,0.0,0.0,
-2289,Joe Rothwell,eng ENG,CC,Bournemouth,eng Premier League,27,1995,11.3,1,0,0,17,3,0,26,9,13,0.0,0.0,0,56.0,1.0,3.0,25.0
-2290,Anthony Rouault,fr FRA,DF,Toulouse,fr Ligue 1,21,2001,36.8,4,1,1,21,17,1,0,56,37,0.0,0.0,1,213.0,86.0,64.0,57.3
-2291,Jérôme Roussillon,fr FRA,"CC,DF",Wolfsburg,de Bundesliga,29,1993,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,2.0,1.0,1.0,50.0
-2292,Jérôme Roussillon,fr FRA,DF,Union Berlin,de Bundesliga,29,1993,10.6,2,0,0,12,13,0,36,4,9,0.0,0.0,0,54.0,6.0,11.0,35.3
-2293,Nicolò Rovella,it ITA,CC,Monza,it Serie A,20,2001,19.3,5,1,0,26,21,2,28,40,29,0.0,0.0,0,141.0,9.0,10.0,47.4
-2294,Nicolò Rovella,it ITA,CC,Juventus,it Serie A,20,2001,0.3,1,0,0,1,1,0,3,0,1,0.0,0.0,0,1.0,0.0,0.0,
-2295,Amir Rrahmani,xk KVX,DF,Napoli,it Serie A,28,1994,27.2,2,0,0,22,12,1,1,14,18,0.0,0.0,0,162.0,67.0,40.0,62.6
-2296,Ruan,br BRA,DF,Sassuolo,it Serie A,23,1999,19.0,13,3,2,27,14,0,0,24,26,0.0,1.0,1,112.0,51.0,36.0,58.6
-2297,Rubén,es ESP,"DF,CC",Espanyol,es La Liga,21,2001,9.9,1,0,0,18,7,0,48,18,15,0.0,0.0,0,64.0,15.0,4.0,78.9
-2298,Antonio Rüdiger,de GER,DF,Real Madrid,es La Liga,29,1993,26.8,1,0,0,13,7,2,5,19,16,0.0,0.0,0,158.0,37.0,22.0,62.7
-2299,Sebastian Rudy,de GER,CC,Hoffenheim,de Bundesliga,32,1990,8.8,3,0,0,22,9,0,41,11,12,0.0,0.0,0,54.0,7.0,10.0,41.2
-2300,Daniele Rugani,it ITA,DF,Juventus,it Serie A,28,1994,6.3,0,0,0,5,0,1,0,7,0,0.0,0.0,0,16.0,11.0,9.0,55.0
-2301,Matteo Ruggeri,it ITA,"DF,CC",Atalanta,it Serie A,20,2002,9.2,3,0,0,10,5,0,38,12,12,0.0,0.0,0,57.0,13.0,6.0,68.4
-2302,Mário Rui,pt POR,DF,Napoli,it Serie A,31,1991,19.4,2,1,0,19,31,0,110,15,22,0.0,0.0,0,155.0,13.0,25.0,34.2
-2303,Aitor Ruibal,es ESP,"DF,DL",Betis,es La Liga,26,1996,16.2,4,1,0,22,18,3,31,24,29,0.0,0.0,0,102.0,14.0,18.0,43.8
-2304,Kays Ruiz,ma MAR,CC,Auxerre,fr Ligue 1,19,2002,0.7,1,0,0,2,3,0,0,3,1,0.0,0.0,0,10.0,0.0,0.0,
-2305,Fabián Ruiz Peña,es ESP,CC,Paris S-G,fr Ligue 1,26,1996,21.0,0,0,0,19,13,4,13,18,28,0.0,1.0,0,157.0,5.0,7.0,41.7
-2306,Víctor Ruiz,es ESP,DF,Betis,es La Liga,33,1989,6.2,0,0,0,4,2,1,0,6,3,0.0,0.0,0,29.0,17.0,7.0,70.8
-2307,Gerónimo Rulli,ar ARG,PO,Villarreal,es La Liga,30,1992,14.0,1,0,0,0,1,0,0,1,0,0.0,0.0,0,20.0,3.0,0.0,100.0
-2308,Alessandro Russo,it ITA,PO,Sassuolo,it Serie A,21,2001,1.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2309,Franco Russo,ar ARG,DF,Mallorca,es La Liga,27,1994,1.6,0,0,0,0,2,0,0,3,1,0.0,0.0,0,12.0,3.0,2.0,60.0
-2310,Georginio Rutter,fr FRA,"DL,CC",Leeds United,eng Premier League,20,2002,3.0,0,0,0,5,6,1,0,3,9,0.0,0.0,0,7.0,11.0,9.0,55.0
-2311,Georginio Rutter,fr FRA,DL,Hoffenheim,de Bundesliga,20,2002,11.2,2,0,0,17,19,17,11,5,4,1.0,0.0,0,25.0,9.0,23.0,28.1
-2312,Julian Ryerson,no NOR,DF,Union Berlin,de Bundesliga,24,1997,11.5,2,0,0,16,12,1,41,12,17,0.0,0.0,0,77.0,5.0,11.0,31.3
-2313,Julian Ryerson,no NOR,DF,Dortmund,de Bundesliga,24,1997,15.7,2,0,0,15,19,1,50,8,15,0.0,0.0,0,96.0,13.0,9.0,59.1
-2314,Frederik Rønnow,dk DEN,PO,Union Berlin,de Bundesliga,29,1992,29.0,2,0,0,0,4,0,0,0,0,0.0,0.0,0,42.0,10.0,2.0,83.3
-2315,José Sá,pt POR,PO,Wolves,eng Premier League,29,1993,36.0,2,0,0,1,8,0,0,0,0,0.0,1.0,0,45.0,6.0,1.0,85.7
-2316,Youssouf Sabaly,sn SEN,DF,Betis,es La Liga,29,1993,18.7,2,0,0,20,33,2,17,19,23,0.0,0.0,0,109.0,5.0,11.0,31.3
-2317,Halid Šabanović,ba BIH,DF,Angers,fr Ligue 1,22,1999,7.1,1,1,0,10,2,1,8,8,6,0.0,0.0,0,28.0,4.0,4.0,50.0
-2318,Abdelhamid Sabiri,ma MAR,"CC,DL",Sampdoria,it Serie A,25,1996,11.9,5,0,0,28,39,0,54,2,7,0.0,0.0,0,50.0,30.0,29.0,50.8
-2319,Marcel Sabitzer,at AUT,CC,Manchester Utd,eng Premier League,28,1994,7.0,1,0,0,8,10,1,4,8,8,0.0,0.0,0,52.0,13.0,11.0,54.2
-2320,Marcel Sabitzer,at AUT,CC,Bayern Munich,de Bundesliga,28,1994,7.0,2,0,0,7,1,1,5,10,14,0.0,0.0,0,47.0,8.0,11.0,42.1
-2321,Falaye Sacko,ml MLI,DF,Montpellier,fr Ligue 1,27,1995,28.7,3,0,0,26,19,5,36,33,25,0.0,3.0,1,179.0,17.0,18.0,48.6
-2322,Umar Sadiq,ng NGA,DL,Almería,es La Liga,25,1997,2.7,1,0,0,9,2,7,0,0,0,0.0,0.0,0,8.0,4.0,10.0,28.6
-2323,Umar Sadiq,ng NGA,DL,Real Sociedad,es La Liga,25,1997,0.9,0,0,0,3,1,4,0,0,1,0.0,0.0,0,1.0,2.0,2.0,50.0
-2324,Alexis Saelemaekers,be BEL,"DL,DF",Milan,it Serie A,23,1999,15.6,1,0,0,23,22,2,48,19,20,0.0,1.0,0,63.0,9.0,5.0,64.3
-2325,Wesley Saïd,fr FRA,"DL,CC",Lens,fr Ligue 1,27,1995,7.2,2,0,0,20,1,1,5,1,1,0.0,0.0,0,20.0,5.0,7.0,41.7
-2326,Allan Saint-Maximin,fr FRA,DL,Newcastle Utd,eng Premier League,25,1997,12.4,1,0,0,6,16,2,32,5,3,0.0,0.0,0,69.0,2.0,2.0,50.0
-2327,Théo Sainte-Luce,fr FRA,DF,Montpellier,fr Ligue 1,23,1998,5.9,0,0,0,13,1,0,10,10,11,0.0,0.0,0,21.0,6.0,9.0,40.0
-2328,Samuel Sáiz,es ESP,CC,Girona,es La Liga,31,1991,2.7,1,0,0,3,4,2,6,0,2,0.0,0.0,0,15.0,2.0,3.0,40.0
-2329,Bukayo Saka,eng ENG,DL,Arsenal,eng Premier League,20,2001,35.3,6,0,0,43,65,9,172,14,34,0.0,0.0,0,127.0,16.0,38.0,29.6
-2330,Hamza Sakhi,fr FRA,CC,Auxerre,fr Ligue 1,26,1996,18.4,1,0,0,13,21,5,88,25,22,0.0,0.0,0,106.0,6.0,3.0,66.7
-2331,Mamadou Sakho,fr FRA,DF,Montpellier,fr Ligue 1,32,1990,8.5,2,0,0,6,5,0,0,8,5,0.0,2.0,0,45.0,22.0,18.0,55.0
-2332,Jacopo Sala,it ITA,CC,Spezia,it Serie A,30,1991,1.2,1,0,0,3,3,0,4,1,0,0.0,0.0,0,5.0,1.0,0.0,100.0
-2333,Ibrahim Salah,ma MAR,"DL,CC",Rennes,fr Ligue 1,20,2001,2.5,0,0,0,2,1,2,8,2,1,0.0,0.0,0,18.0,2.0,4.0,33.3
-2334,Mohamed Salah,eg EGY,DL,Liverpool,eng Premier League,30,1992,36.6,2,0,0,20,33,22,38,6,12,0.0,0.0,0,100.0,8.0,30.0,21.1
-2335,Amine Salama,fr FRA,"DL,CC",Angers,fr Ligue 1,22,2000,13.9,1,0,0,7,9,6,12,10,9,0.0,0.0,0,51.0,8.0,19.0,29.6
-2336,Kike Salas,es ESP,DF,Sevilla,es La Liga,20,2002,4.1,1,1,0,4,1,0,0,5,1,0.0,1.0,0,14.0,9.0,6.0,60.0
-2337,William Saliba,fr FRA,DF,Arsenal,eng Premier League,21,2001,26.8,4,0,0,19,13,0,1,19,20,0.0,2.0,1,206.0,53.0,43.0,55.2
-2338,Dikeni Salifou,tg TOG,CC,Werder Bremen,de Bundesliga,19,2003,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
-2339,Mohammed Salisu,gh GHA,DF,Southampton,eng Premier League,23,1999,21.9,5,0,0,26,3,1,13,31,29,0.0,0.0,1,158.0,55.0,26.0,67.9
-2340,Roland Sallai,hu HUN,"CC,DL",Freiburg,de Bundesliga,25,1997,11.1,6,0,0,29,30,3,35,2,8,2.0,0.0,0,58.0,21.0,18.0,53.8
-2341,Yoann Salmier,gf GUF,DF,Troyes,fr Ligue 1,29,1992,29.4,5,1,0,30,28,0,7,39,29,1.0,2.0,0,181.0,54.0,32.0,62.8
-2342,Salvi,es ESP,"DL,CC",Rayo Vallecano,es La Liga,31,1991,5.4,2,0,0,8,10,2,37,2,8,0.0,0.0,0,30.0,4.0,11.0,26.7
-2343,Lazar Samardzic,rs SRB,CC,Udinese,it Serie A,20,2002,20.5,1,0,0,26,13,0,92,11,16,0.0,0.0,0,107.0,9.0,22.0,29.0
-2344,Diadie Samassékou,ml MLI,"CC,DL",Hoffenheim,de Bundesliga,26,1996,0.4,1,0,0,3,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,
-2345,Mama Samba Baldé,gw GNB,DL,Troyes,fr Ligue 1,26,1995,29.6,6,2,1,38,46,22,13,10,21,2.0,0.0,0,100.0,43.0,76.0,36.1
-2346,Brice Samba,fr FRA,PO,Lens,fr Ligue 1,28,1994,37.0,3,0,0,0,6,0,0,0,0,0.0,0.0,0,42.0,8.0,2.0,80.0
-2347,Albert Sambi Lokonga,be BEL,CC,Arsenal,eng Premier League,22,1999,2.2,0,0,0,1,5,0,0,5,1,0.0,0.0,0,14.0,3.0,2.0,60.0
-2348,Albert Sambi Lokonga,be BEL,CC,Crystal Palace,eng Premier League,22,1999,6.0,2,0,0,7,12,0,0,7,10,0.0,0.0,0,34.0,5.0,11.0,31.3
-2349,Junior Sambia,fr FRA,DF,Salernitana,it Serie A,25,1996,7.7,3,0,0,11,17,0,33,8,5,0.0,0.0,0,34.0,15.0,10.0,60.0
-2350,Samuel,br BRA,"DL,CC",Valencia,es La Liga,22,1999,32.1,4,0,0,35,60,15,82,18,43,2.0,0.0,0,170.0,17.0,41.0,29.3
+1539,Samuel Lino,br BRA,"DL,CC",Valencia,es La Liga,22,1999,32.1,4,0,0,35,60,15,82,18,43,2.0,0.0,0,170.0,17.0,41.0,29.3
+1540,Pol Lirola,es ESP,DF,Elche,es La Liga,24,1997,7.0,1,0,0,4,3,0,32,7,6,0.0,0.0,0,45.0,8.0,6.0,57.1
+1541,Mateusz Lis,pl POL,PO,Troyes,fr Ligue 1,25,1997,8.3,1,0,0,1,2,0,0,0,0,0.0,0.0,0,8.0,1.0,0.0,100.0
+1542,Marcin Listkowski,pl POL,"CC,DL",Lecce,it Serie A,24,1998,0.9,0,0,0,2,1,0,3,3,0,0.0,0.0,0,5.0,1.0,0.0,100.0
+1543,Valentino Livramento,eng ENG,"DF,DL",Southampton,eng Premier League,19,2002,0.3,0,0,0,0,2,0,0,2,1,0.0,0.0,0,4.0,0.0,1.0,0.0
+1544,Dejan Ljubicic,at AUT,"CC,DL",Köln,de Bundesliga,24,1997,19.0,3,0,0,26,12,5,42,8,14,0.0,0.0,0,117.0,9.0,22.0,29.0
+1545,Javier Llabrés,es ESP,DL,Mallorca,es La Liga,19,2002,0.2,0,0,0,0,0,2,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
+1546,Diego Llorente,es ESP,DF,Leeds United,eng Premier League,28,1993,7.2,1,0,0,6,2,0,1,15,10,0.0,0.0,0,57.0,18.0,7.0,72.0
+1547,Diego Llorente,es ESP,DF,Roma,it Serie A,28,1993,6.4,0,0,0,9,3,0,0,11,5,0.0,0.0,0,30.0,12.0,5.0,70.6
+1548,Marcos Llorente,es ESP,"CC,DF",Atlético Madrid,es La Liga,27,1995,18.9,5,0,0,30,13,3,44,17,15,0.0,1.0,0,108.0,10.0,19.0,34.5
+1549,Hugo Lloris,fr FRA,PO,Tottenham,eng Premier League,35,1986,24.5,0,0,0,0,2,0,0,1,1,0.0,0.0,1,30.0,9.0,3.0,75.0
+1550,Giovani Lo Celso,ar ARG,"CC,DL",Villarreal,es La Liga,26,1996,12.5,3,0,0,15,31,4,31,6,28,0.0,0.0,0,61.0,2.0,5.0,28.6
+1551,Stanislav Lobotka,sk SVK,CC,Napoli,it Serie A,27,1994,34.5,2,0,0,25,55,0,2,23,44,1.0,0.0,0,254.0,12.0,17.0,41.4
+1552,Manuel Locatelli,it ITA,CC,Juventus,it Serie A,24,1998,27.2,8,0,0,44,31,0,13,27,33,0.0,0.0,0,168.0,34.0,30.0,53.1
+1553,Luka Lochoshvili,ge GEO,DF,Cremonese,it Serie A,24,1998,20.4,4,0,0,27,9,1,6,22,19,0.0,1.0,0,88.0,38.0,32.0,54.3
+1554,Bradley Locko,fr FRA,DF,Reims,fr Ligue 1,20,2002,11.8,3,1,0,10,9,1,13,20,16,0.0,0.0,0,77.0,12.0,8.0,60.0
+1555,Bradley Locko,fr FRA,DF,Brest,fr Ligue 1,20,2002,3.0,0,0,0,0,2,0,6,2,3,0.0,0.0,0,18.0,3.0,2.0,60.0
+1556,Renan Lodi,br BRA,DF,Nott'ham Forest,eng Premier League,24,1998,24.6,7,0,0,29,42,2,75,33,39,0.0,0.0,0,153.0,18.0,19.0,48.6
+1557,Ruben Loftus-Cheek,eng ENG,"CC,DF",Chelsea,eng Premier League,26,1996,17.1,1,0,0,10,34,1,19,12,14,0.0,0.0,1,101.0,22.0,26.0,45.8
+1558,Sean Longstaff,eng ENG,CC,Newcastle Utd,eng Premier League,24,1997,28.0,2,0,0,29,39,5,30,16,21,0.0,0.0,0,141.0,23.0,28.0,45.1
+1559,Ademola Lookman,ng NGA,"DL,CC",Atalanta,it Serie A,24,1997,19.2,3,0,0,24,36,11,38,4,5,1.0,0.0,0,86.0,3.0,13.0,18.8
+1560,Anthony Lopes,pt POR,PO,Lyon,fr Ligue 1,31,1990,31.3,2,1,0,2,6,0,0,3,0,0.0,2.0,0,31.0,3.0,0.0,100.0
+1561,Rony Lopes,pt POR,"CC,DL",Troyes,fr Ligue 1,26,1995,26.1,2,0,0,19,32,1,109,9,12,0.0,0.0,0,113.0,19.0,26.0,42.2
+1562,David López,es ESP,DF,Girona,es La Liga,32,1989,18.4,5,0,0,16,16,3,0,14,18,0.0,0.0,0,106.0,29.0,32.0,47.5
+1563,Diego López,es ESP,PO,Rayo Vallecano,es La Liga,40,1981,1.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,
+1564,Diego López,es ESP,"DL,CC",Valencia,es La Liga,20,2002,5.0,0,0,0,6,7,1,12,3,2,0.0,0.0,0,29.0,7.0,8.0,46.7
+1565,Maxime Lopez,fr FRA,CC,Sassuolo,it Serie A,24,1997,25.5,11,0,0,31,11,0,25,22,18,0.0,0.0,0,172.0,4.0,3.0,57.1
+1566,Pau López,es ESP,PO,Marseille,fr Ligue 1,27,1994,32.5,3,0,0,2,6,0,0,0,0,0.0,2.0,0,46.0,5.0,2.0,71.4
+1567,Unai López,es ESP,CC,Rayo Vallecano,es La Liga,26,1995,13.9,2,0,0,22,17,2,55,15,20,0.0,0.0,0,98.0,7.0,17.0,29.2
+1568,Dion Lopy,sn SEN,CC,Reims,fr Ligue 1,20,2002,15.3,6,2,1,31,25,0,6,22,24,1.0,0.0,0,128.0,15.0,7.0,68.2
+1569,Anthony Losilla,fr FRA,CC,Bochum,de Bundesliga,36,1986,30.2,6,1,0,47,17,3,10,37,49,0.0,1.0,0,203.0,92.0,76.0,54.8
+1570,Jordan Lotomba,ch SUI,DF,Nice,fr Ligue 1,23,1998,27.3,4,0,0,23,31,0,48,32,38,0.0,1.0,0,131.0,25.0,22.0,53.2
+1571,Matteo Lovato,it ITA,DF,Salernitana,it Serie A,22,2000,9.0,2,0,0,6,4,0,0,13,14,0.0,0.0,0,40.0,15.0,16.0,48.4
+1572,Dejan Lovren,hr CRO,DF,Lyon,fr Ligue 1,33,1989,16.2,2,0,0,10,14,0,6,26,19,0.0,1.0,0,103.0,47.0,21.0,69.1
+1573,Sandi Lovrić,si SVN,CC,Udinese,it Serie A,24,1998,25.9,4,0,0,31,33,1,75,26,18,0.0,0.0,0,145.0,7.0,16.0,30.4
+1574,Jamal Lowe,jm JAM,"CC,DL",Bournemouth,eng Premier League,28,1994,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1575,Anthony Lozano,hn HON,DL,Cádiz,es La Liga,29,1993,16.0,6,0,0,43,35,8,7,3,4,1.0,0.0,0,47.0,60.0,79.0,43.2
+1576,Hirving Lozano,mx MEX,DL,Napoli,it Serie A,27,1995,17.8,3,0,0,27,31,4,73,15,13,0.0,0.0,0,60.0,8.0,13.0,38.1
+1577,Pol Lozano,es ESP,CC,Espanyol,es La Liga,22,1999,0.2,1,0,0,1,0,0,1,0,0,0.0,0.0,0,1.0,1.0,1.0,50.0
+1578,Jean Lucas,br BRA,CC,Monaco,fr Ligue 1,24,1998,3.2,0,0,0,4,4,1,1,4,5,0.0,0.0,0,23.0,1.0,7.0,12.5
+1579,Jhon Lucumí,co COL,DF,Bologna,it Serie A,24,1998,32.2,8,0,0,29,18,0,1,35,37,1.0,4.0,1,204.0,41.0,30.0,57.7
+1580,José Luis Gayà,es ESP,DF,Valencia,es La Liga,27,1995,30.1,4,0,0,13,27,7,213,23,46,1.0,0.0,0,166.0,24.0,21.0,53.3
+1581,José Luis Morales,es ESP,"DL,CC",Villarreal,es La Liga,35,1987,13.5,2,0,0,6,10,11,13,2,6,0.0,0.0,0,29.0,8.0,16.0,33.3
+1582,José Luis Palomino,ar ARG,DF,Atalanta,it Serie A,32,1990,8.4,4,0,0,9,5,0,5,28,14,0.0,0.0,1,75.0,24.0,13.0,64.9
+1583,Douglas Luiz,br BRA,CC,Aston Villa,eng Premier League,24,1998,32.5,6,1,0,48,42,2,106,40,42,0.0,0.0,0,197.0,25.0,22.0,53.2
+1584,Romelu Lukaku,be BEL,DL,Inter,it Serie A,29,1993,18.4,1,0,0,16,6,13,24,0,1,0.0,0.0,0,23.0,39.0,35.0,52.7
+1585,Castello Lukeba,fr FRA,DF,Lyon,fr Ligue 1,19,2002,33.2,9,1,1,38,21,1,3,75,23,0.0,2.0,1,209.0,36.0,30.0,54.5
+1586,Dodi Lukebakio,be BEL,"DL,CC",Hertha BSC,de Bundesliga,24,1997,26.6,8,0,0,33,59,17,65,13,11,0.0,1.0,0,121.0,16.0,32.0,33.3
+1587,Saša Lukić,rs SRB,CC,Fulham,eng Premier League,25,1996,4.6,1,0,0,13,10,0,2,5,3,0.0,0.0,0,28.0,4.0,5.0,44.4
+1588,Saša Lukić,rs SRB,CC,Torino,it Serie A,25,1996,13.3,4,0,0,26,10,0,25,13,14,0.0,0.0,0,81.0,22.0,22.0,50.0
+1589,Andriy Lunin,ua UKR,PO,Real Madrid,es La Liga,23,1999,7.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,14.0,0.0,0.0,
+1590,Andrey Lunyov,ru RUS,PO,Leverkusen,de Bundesliga,30,1991,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+1591,Sebastiano Luperto,it ITA,DF,Empoli,it Serie A,25,1996,34.8,4,2,1,21,21,0,2,43,18,0.0,0.0,0,170.0,72.0,67.0,51.8
+1592,Lyanco,br BRA,DF,Southampton,eng Premier League,25,1997,13.1,4,0,0,16,10,1,7,20,16,0.0,0.0,0,83.0,25.0,19.0,56.8
+1593,Charalambos Lykogiannis,gr GRE,DF,Bologna,it Serie A,28,1993,12.3,3,0,0,14,11,1,69,15,8,0.0,0.0,0,54.0,18.0,16.0,52.9
+1594,Youssouf M'Changama,km COM,CC,Auxerre,fr Ligue 1,31,1990,12.0,1,0,0,12,18,0,35,15,11,1.0,0.0,0,62.0,12.0,6.0,66.7
+1595,Awer Mabil,au AUS,"CC,DL",Cádiz,es La Liga,26,1995,1.8,0,0,0,0,3,0,9,0,0,0.0,0.0,0,6.0,1.0,5.0,16.7
+1596,Alexis Mac Allister,ar ARG,CC,Brighton,eng Premier League,23,1998,32.1,8,0,0,35,57,0,29,22,39,0.0,0.0,1,213.0,25.0,16.0,61.0
+1597,Deiver Machado,co COL,"DF,CC",Lens,fr Ligue 1,28,1993,24.3,5,1,0,42,46,6,60,21,26,1.0,0.0,0,116.0,15.0,29.0,34.1
+1598,Darwin Machís,ve VEN,DL,Valladolid,es La Liga,29,1993,6.7,1,0,0,10,12,2,37,3,2,0.0,0.0,0,26.0,2.0,6.0,25.0
+1599,James Maddison,eng ENG,"CC,DL",Leicester City,eng Premier League,25,1996,27.6,10,0,0,31,79,6,123,13,26,1.0,0.0,0,101.0,4.0,10.0,28.6
+1600,Noni Madueke,eng ENG,DL,Chelsea,eng Premier League,20,2002,7.1,0,0,0,4,15,2,19,4,8,0.0,0.0,0,30.0,2.0,5.0,28.6
+1601,Pablo Maffeo,es ESP,DF,Mallorca,es La Liga,25,1997,33.1,6,1,0,32,45,5,123,26,46,0.0,0.0,0,161.0,47.0,32.0,59.5
+1602,Lisandro Magallán,ar ARG,DF,Elche,es La Liga,28,1993,10.0,0,1,0,15,5,0,1,13,11,0.0,0.0,0,53.0,17.0,19.0,47.2
+1603,Soungoutou Magassa,fr FRA,CC,Monaco,fr Ligue 1,18,2003,0.9,0,0,0,2,1,0,0,1,1,0.0,0.0,0,6.0,2.0,1.0,66.7
+1604,Giulio Maggiore,it ITA,CC,Salernitana,it Serie A,24,1998,9.9,2,0,0,20,14,0,3,8,8,0.0,1.0,0,75.0,9.0,14.0,39.1
+1605,Giangiacomo Magnani,it ITA,DF,Hellas Verona,it Serie A,26,1995,17.0,7,1,0,22,8,0,4,21,22,0.0,0.0,1,93.0,33.0,21.0,61.1
+1606,Hugo Magnetti,fr FRA,CC,Brest,fr Ligue 1,24,1998,18.8,2,0,0,17,26,0,20,25,27,0.0,0.0,0,127.0,7.0,18.0,28.0
+1607,Yohann Magnin,fr FRA,CC,Clermont Foot,fr Ligue 1,25,1997,26.7,6,0,0,48,48,3,14,25,54,0.0,3.0,0,149.0,27.0,47.0,36.5
+1608,Harry Maguire,eng ENG,DF,Manchester Utd,eng Premier League,29,1993,8.5,4,0,0,8,4,0,1,13,6,0.0,0.0,0,55.0,25.0,22.0,53.2
+1609,Jon Magunacelaya,es ESP,"CC,DL",Real Sociedad,es La Liga,22,2000,0.7,0,0,0,1,1,0,2,0,0,0.0,0.0,0,4.0,0.0,2.0,0.0
+1610,Riyad Mahrez,dz ALG,"DL,CC",Manchester City,eng Premier League,31,1991,21.3,2,0,0,16,42,7,96,9,14,0.0,0.0,0,82.0,9.0,14.0,39.1
+1611,Arne Maier,de GER,CC,Augsburg,de Bundesliga,23,1999,21.8,3,0,0,12,18,2,64,15,22,0.0,1.0,0,118.0,12.0,17.0,41.4
+1612,Mike Maignan,fr FRA,PO,Milan,it Serie A,27,1995,22.0,0,0,0,0,3,0,0,1,0,0.0,0.0,0,32.0,3.0,0.0,100.0
+1613,Linton Maina,de GER,"DL,CC",Köln,de Bundesliga,23,1999,24.9,1,0,0,17,21,18,87,5,12,0.0,0.0,0,104.0,1.0,26.0,3.7
+1614,Kobbie Mainoo,eng ENG,CC,Manchester Utd,eng Premier League,17,2005,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1615,Ainsley Maitland-Niles,eng ENG,"DF,CC",Southampton,eng Premier League,24,1997,15.6,3,0,0,13,8,0,20,22,24,1.0,1.0,0,90.0,15.0,11.0,57.7
+1616,Jordan Majchrzak,pl POL,DL,Roma,it Serie A,17,2004,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,4.0,20.0
+1617,Lovro Majer,hr CRO,"CC,DL",Rennes,fr Ligue 1,24,1998,18.5,3,0,0,48,30,3,67,21,23,1.0,0.0,0,143.0,7.0,8.0,46.7
+1618,Jean-Victor Makengo,fr FRA,CC,Udinese,it Serie A,24,1998,8.9,2,0,0,9,13,0,6,9,13,0.0,0.0,0,39.0,5.0,1.0,83.3
+1619,Jean-Victor Makengo,fr FRA,CC,Lorient,fr Ligue 1,24,1998,11.8,2,1,1,18,27,0,1,10,8,0.0,0.0,0,79.0,4.0,4.0,50.0
+1620,Béni Makouana,cg CGO,"DL,CC",Montpellier,fr Ligue 1,19,2002,2.2,1,0,0,3,1,0,6,0,0,1.0,0.0,0,10.0,3.0,7.0,30.0
+1621,Nemanja Maksimović,rs SRB,CC,Getafe,es La Liga,27,1995,22.8,3,0,0,25,8,0,9,34,30,0.0,0.0,0,93.0,45.0,30.0,60.0
+1622,Tyrell Malacia,nl NED,DF,Manchester Utd,eng Premier League,22,1999,15.5,6,0,0,39,13,3,15,25,33,0.0,0.0,0,90.0,8.0,4.0,66.7
+1623,Lorenzo Malagrida,it ITA,"CC,DF",Sampdoria,it Serie A,18,2003,1.2,2,0,0,4,1,0,2,0,0,0.0,0.0,0,6.0,2.0,1.0,66.7
+1624,Daniel Maldini,it ITA,"DL,CC",Spezia,it Serie A,20,2001,7.0,1,0,0,13,18,0,19,1,5,0.0,0.0,0,32.0,12.0,17.0,41.4
+1625,Youssef Maleh,ma MAR,CC,Fiorentina,it Serie A,23,1998,3.3,2,0,0,8,3,0,7,1,1,0.0,0.0,0,20.0,3.0,4.0,42.9
+1626,Youssef Maleh,ma MAR,CC,Lecce,it Serie A,23,1998,7.5,3,0,0,22,10,3,8,5,8,0.0,0.0,0,50.0,8.0,8.0,50.0
+1627,Donyell Malen,nl NED,DL,Dortmund,de Bundesliga,23,1999,19.0,0,0,0,12,39,3,69,4,5,1.0,0.0,0,51.0,6.0,11.0,35.3
+1628,Ruslan Malinovskyi,ua UKR,"CC,DL",Atalanta,it Serie A,29,1993,6.1,2,0,0,10,11,0,23,5,8,0.0,0.0,0,57.0,5.0,7.0,41.7
+1629,Ruslan Malinovskyi,ua UKR,"CC,DL",Marseille,fr Ligue 1,29,1993,13.6,4,0,0,29,18,1,38,3,11,0.0,0.0,0,73.0,15.0,24.0,38.5
+1630,Hugo Mallo,es ESP,DF,Celta Vigo,es La Liga,31,1991,24.0,6,1,1,44,23,6,67,24,29,0.0,1.0,0,124.0,52.0,46.0,53.1
+1631,Mickael Malsa,mq MTQ,CC,Valladolid,es La Liga,26,1995,0.8,0,0,0,2,0,0,0,2,2,0.0,0.0,0,5.0,1.0,1.0,50.0
+1632,Giorgi Mamardashvili,ge GEO,PO,Valencia,es La Liga,21,2000,38.0,3,0,0,1,3,0,0,1,0,0.0,1.0,0,61.0,8.0,1.0,88.9
+1633,Hianga Mananga Mbock,fr FRA,CC,Brest,fr Ligue 1,22,1999,0.2,0,0,0,1,0,0,1,0,0,0.0,0.0,0,2.0,1.0,1.0,50.0
+1634,Gianluca Mancini,it ITA,DF,Roma,it Serie A,26,1996,31.8,7,0,0,39,25,2,28,46,19,0.0,1.0,0,112.0,58.0,26.0,69.0
+1635,Steve Mandanda,fr FRA,PO,Rennes,fr Ligue 1,37,1985,33.5,1,0,0,2,3,0,0,0,0,0.0,2.0,0,55.0,6.0,1.0,85.7
+1636,Reinildo Mandava,mz MOZ,DF,Atlético Madrid,es La Liga,28,1994,20.6,4,0,0,32,30,0,16,30,43,0.0,0.0,0,129.0,29.0,20.0,59.2
+1637,Aïssa Mandi,dz ALG,DF,Villarreal,es La Liga,30,1991,16.2,1,0,0,16,10,4,2,21,10,0.0,0.0,0,62.0,20.0,19.0,51.3
+1638,Rolando Mandragora,it ITA,CC,Fiorentina,it Serie A,25,1997,21.7,8,0,0,31,18,1,74,16,24,0.0,0.0,0,121.0,35.0,23.0,60.3
+1639,Sadio Mané,sn SEN,"DL,CC",Bayern Munich,de Bundesliga,30,1992,15.8,2,0,0,16,24,21,22,0,5,1.0,0.0,0,42.0,22.0,18.0,55.0
+1640,Orel Mangala,be BEL,CC,Nott'ham Forest,eng Premier League,24,1998,17.2,3,0,0,22,23,0,6,23,20,0.0,0.0,0,88.0,11.0,9.0,55.0
+1641,Thomas Mangani,fr FRA,CC,Ajaccio,fr Ligue 1,35,1987,14.8,4,1,0,24,13,0,79,24,17,0.0,0.0,0,94.0,20.0,24.0,45.5
+1642,Vito Mannone,it ITA,PO,Lorient,fr Ligue 1,34,1988,17.9,1,0,0,0,1,0,0,0,0,0.0,0.0,0,16.0,3.0,0.0,100.0
+1643,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,28,1994,0.4,0,0,0,0,0,0,1,1,2,0.0,0.0,0,6.0,0.0,0.0,
+1644,Myziane Maolida,km COM,"CC,DL",Reims,fr Ligue 1,23,1999,2.6,0,0,0,5,1,1,4,2,3,0.0,0.0,0,17.0,1.0,1.0,50.0
+1645,Myziane Maolida,km COM,"DL,CC",Hertha BSC,de Bundesliga,23,1999,1.1,0,0,0,1,0,0,1,0,1,0.0,0.0,0,3.0,0.0,1.0,0.0
+1646,Faitout Maouassa,fr FRA,"DL,DF",Montpellier,fr Ligue 1,24,1998,21.4,0,0,0,32,31,2,81,20,32,0.0,0.0,0,83.0,13.0,12.0,52.0
+1647,Sekou Mara,fr FRA,"DL,CC",Southampton,eng Premier League,20,2002,6.2,1,0,0,20,6,3,1,1,10,0.0,0.0,0,25.0,25.0,40.0,38.5
+1648,Marcão,br BRA,DF,Sevilla,es La Liga,26,1996,4.2,2,0,0,5,6,0,0,6,2,0.0,0.0,0,16.0,8.0,4.0,66.7
+1649,Solly March,eng ENG,"DL,DF",Brighton,eng Premier League,28,1994,30.2,2,0,0,46,39,12,155,24,31,0.0,0.0,0,125.0,29.0,38.0,43.3
+1650,Agustín Marchesín,ar ARG,PO,Celta Vigo,es La Liga,34,1988,19.0,2,0,0,0,4,0,0,0,0,0.0,0.0,0,22.0,3.0,0.0,100.0
+1651,Federico Marchetti,it ITA,PO,Spezia,it Serie A,39,1983,0.7,0,1,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+1652,Vincent Marchetti,fr FRA,CC,Ajaccio,fr Ligue 1,25,1997,27.2,7,0,0,29,36,1,6,19,26,1.0,0.0,0,168.0,5.0,13.0,27.8
+1653,Riccardo Marchizza,it ITA,DF,Sassuolo,it Serie A,24,1998,3.1,1,0,0,7,0,1,18,2,2,0.0,0.0,0,7.0,5.0,2.0,71.4
+1654,Gian Marco Ferrari,it ITA,DF,Sassuolo,it Serie A,30,1992,24.7,5,0,0,24,31,0,6,23,16,0.0,2.0,0,110.0,47.0,24.0,66.2
+1655,Emiliano Marcondes,dk DEN,CC,Bournemouth,eng Premier League,27,1995,0.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+1656,Óscar de Marcos,es ESP,DF,Athletic Club,es La Liga,33,1989,31.3,7,0,0,43,16,2,130,29,33,0.0,0.0,1,198.0,25.0,23.0,52.1
+1657,Alberto Marí,es ESP,"DL,CC",Valencia,es La Liga,21,2001,1.0,1,0,0,3,2,2,0,0,0,0.0,0.0,0,4.0,2.0,3.0,40.0
+1658,José Mari,es ESP,CC,Cádiz,es La Liga,34,1987,4.4,4,0,0,6,7,0,1,5,7,0.0,0.0,0,38.0,5.0,7.0,41.7
+1659,Pablo Marí,es ESP,DF,Monza,it Serie A,28,1993,27.6,4,0,0,31,9,1,1,31,19,0.0,0.0,0,131.0,59.0,27.0,68.6
+1660,José María Giménez,uy URU,DF,Atlético Madrid,es La Liga,27,1995,26.9,9,0,0,19,8,0,0,24,25,0.0,1.0,0,141.0,49.0,24.0,67.1
+1661,Mariano,do DOM,DL,Real Madrid,es La Liga,28,1993,1.7,2,0,0,3,0,1,0,0,0,0.0,0.0,0,4.0,5.0,3.0,62.5
+1662,Pablo Marín,es ESP,"CC,DL",Real Sociedad,es La Liga,19,2003,4.0,1,0,0,12,2,0,3,4,5,0.0,0.0,0,20.0,4.0,7.0,36.4
+1663,Răzvan Marin,ro ROU,CC,Empoli,it Serie A,26,1996,28.2,7,0,0,31,21,1,140,14,22,0.0,1.0,0,148.0,16.0,17.0,48.5
+1664,Diego Mariño,es ESP,PO,Almería,es La Liga,32,1990,0.5,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1665,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,28,1994,24.0,6,1,1,26,7,0,1,38,26,0.0,3.0,1,131.0,48.0,40.0,54.5
+1666,Marlon,br BRA,DF,Monza,it Serie A,26,1995,17.7,7,1,0,23,5,1,5,18,21,0.0,0.0,1,71.0,40.0,21.0,65.6
+1667,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,23,1999,16.4,2,0,0,29,32,13,25,7,10,0.0,0.0,0,74.0,43.0,45.0,48.9
+1668,Marquinhos,br BRA,CC,Arsenal,eng Premier League,19,2003,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1669,Marquinhos,br BRA,DF,Paris S-G,fr Ligue 1,28,1994,30.2,4,0,0,14,10,0,1,23,25,0.0,0.0,1,155.0,35.0,27.0,56.5
+1670,Luca Marrone,it ITA,DF,Monza,it Serie A,32,1990,1.5,0,0,0,1,2,0,0,0,0,0.0,0.0,0,8.0,4.0,5.0,44.4
+1671,Eric Martel,de GER,CC,Köln,de Bundesliga,20,2002,22.4,6,0,0,40,27,0,20,33,41,0.0,0.0,0,154.0,57.0,51.0,52.8
+1672,Roger Martí,es ESP,DL,Elche,es La Liga,31,1991,7.3,2,0,0,16,11,4,5,1,2,0.0,0.0,0,27.0,6.0,12.0,33.3
+1673,Roger Martí,es ESP,DL,Cádiz,es La Liga,31,1991,7.1,1,0,0,26,15,8,0,2,4,0.0,0.0,0,22.0,10.0,23.0,30.3
+1674,Anthony Martial,fr FRA,DL,Manchester Utd,eng Premier League,26,1995,10.9,0,0,0,8,14,7,4,1,3,1.0,0.0,0,20.0,10.0,17.0,37.0
+1675,Aarón Martín,es ESP,DF,Mainz 05,de Bundesliga,25,1997,20.5,3,0,0,28,12,2,145,15,27,0.0,0.0,0,104.0,1.0,13.0,7.1
+1676,Ander Martin,es ESP,"CC,DL",Real Sociedad,es La Liga,21,2000,0.5,0,0,0,2,0,0,4,0,2,0.0,0.0,0,5.0,1.0,3.0,25.0
+1677,Andrés Martín,es ESP,"DL,CC",Rayo Vallecano,es La Liga,23,1999,2.3,1,0,0,5,3,0,11,1,2,0.0,0.0,0,16.0,5.0,2.0,71.4
+1678,Carlos Martín,es ESP,"DL,CC",Atlético Madrid,es La Liga,20,2002,0.3,1,0,0,2,0,1,2,1,2,0.0,0.0,0,3.0,0.0,0.0,
+1679,Iván Martín,es ESP,CC,Girona,es La Liga,23,1999,17.6,2,0,0,18,13,3,18,9,7,1.0,0.0,0,81.0,12.0,16.0,42.9
+1680,Jonas Martin,fr FRA,CC,Lille,fr Ligue 1,32,1990,3.1,2,0,0,9,5,0,3,7,7,0.0,0.0,0,24.0,8.0,3.0,72.7
+1681,Gabriel Martinelli,br BRA,DL,Arsenal,eng Premier League,21,2001,31.0,3,0,0,39,37,8,113,9,18,0.0,0.0,0,103.0,14.0,63.0,18.2
+1682,Arnau Martinez,es ESP,DF,Girona,es La Liga,19,2003,30.4,11,0,0,36,66,6,60,25,45,0.0,1.0,0,171.0,32.0,25.0,56.1
+1683,Emiliano Martínez,ar ARG,PO,Aston Villa,eng Premier League,29,1992,34.9,7,0,0,1,6,0,0,1,0,0.0,1.0,1,41.0,13.0,0.0,100.0
+1684,Iñigo Martínez,es ESP,DF,Athletic Club,es La Liga,31,1991,14.9,1,0,0,13,10,3,5,18,8,0.0,0.0,0,92.0,26.0,19.0,57.8
+1685,Lautaro Martínez,ar ARG,DL,Inter,it Serie A,24,1997,28.6,3,0,0,46,63,13,14,13,14,1.0,0.0,0,95.0,40.0,42.0,48.8
+1686,Lisandro Martínez,ar ARG,DF,Manchester Utd,eng Premier League,24,1998,23.5,6,0,0,21,10,0,0,33,28,0.0,0.0,0,164.0,32.0,31.0,50.8
+1687,Lucas Martínez Quarta,ar ARG,DF,Fiorentina,it Serie A,26,1996,24.1,6,0,0,21,25,1,4,48,48,0.0,0.0,0,167.0,76.0,36.0,67.9
+1688,Roger Martínez,es ESP,DF,Espanyol,es La Liga,18,2004,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+1689,Gelson Martins,pt POR,"CC,DL",Monaco,fr Ligue 1,27,1995,3.8,0,0,0,6,4,2,5,3,8,0.0,0.0,0,25.0,2.0,7.0,22.2
+1690,Adam Marušić,me MNE,DF,Lazio,it Serie A,29,1992,30.7,8,1,0,22,14,1,17,38,30,0.0,0.0,0,175.0,29.0,25.0,53.7
+1691,Omar Mascarell,es ESP,"CC,DF",Elche,es La Liga,29,1993,27.2,6,0,0,21,17,0,22,45,26,0.0,0.0,0,157.0,27.0,21.0,56.3
+1692,Adam Masina,ma MAR,DF,Udinese,it Serie A,28,1994,8.8,2,0,0,11,1,0,10,10,7,0.0,1.0,0,44.0,26.0,11.0,70.3
+1693,Jordi Masip,es ESP,PO,Valladolid,es La Liga,33,1989,27.9,4,0,0,0,5,0,0,1,0,0.0,0.0,0,31.0,6.0,2.0,75.0
+1694,Erhan Mašović,rs SRB,"DF,CC",Bochum,de Bundesliga,23,1998,24.2,3,0,0,24,5,0,2,27,31,0.0,1.0,1,146.0,46.0,54.0,46.0
+1695,Han-Noah Massengo,fr FRA,CC,Auxerre,fr Ligue 1,21,2001,12.4,3,0,0,16,23,1,2,14,15,1.0,0.0,0,59.0,6.0,16.0,27.3
+1696,Yanis Massolin,fr FRA,CC,Clermont Foot,fr Ligue 1,19,2002,0.7,0,0,0,0,1,0,0,2,1,0.0,0.0,0,11.0,2.0,2.0,50.0
+1697,Jaime Mata,es ESP,"DL,CC",Getafe,es La Liga,33,1988,4.9,5,0,0,17,7,4,9,3,10,0.0,0.0,0,27.0,10.0,15.0,40.0
+1698,Pape Matar Sarr,sn SEN,"CC,DL",Tottenham,eng Premier League,19,2002,2.4,1,0,0,4,3,0,0,6,6,0.0,1.0,0,22.0,3.0,5.0,37.5
+1699,Eliot Matazo,be BEL,CC,Monaco,fr Ligue 1,20,2002,13.1,2,0,0,18,12,0,2,15,12,0.0,1.0,0,86.0,10.0,18.0,35.7
+1700,Jean-Philippe Mateta,fr FRA,DL,Crystal Palace,eng Premier League,25,1997,8.6,3,0,0,16,8,8,3,3,1,0.0,0.0,0,23.0,26.0,44.0,37.1
+1701,Nemanja Matić,rs SRB,CC,Roma,it Serie A,33,1988,20.6,5,0,0,19,17,1,12,25,27,0.0,0.0,0,171.0,19.0,14.0,57.6
+1702,Joël Matip,cm CMR,DF,Liverpool,eng Premier League,30,1991,12.1,3,0,0,10,5,1,1,21,8,0.0,0.0,1,78.0,25.0,23.0,52.1
+1703,Henning Matriciani,de GER,DF,Schalke 04,de Bundesliga,22,2000,20.7,1,0,0,19,11,0,20,23,23,0.0,0.0,0,120.0,32.0,24.0,57.1
+1704,Chrislain Matsima,fr FRA,"DF,CC",Lorient,fr Ligue 1,20,2002,2.5,0,0,0,0,1,0,0,2,0,0.0,0.0,0,9.0,3.0,6.0,33.3
+1705,Chrislain Matsima,fr FRA,DF,Monaco,fr Ligue 1,20,2002,5.0,0,0,0,4,2,0,2,9,6,0.0,0.0,0,32.0,17.0,3.0,85.0
+1706,Jean Mattéo Bahoya,fr FRA,"DL,CC",Angers,fr Ligue 1,17,2005,3.0,0,0,0,4,7,0,2,0,3,0.0,0.0,0,14.0,2.0,5.0,28.6
+1707,Azor Matusiwa,nl NED,CC,Reims,fr Ligue 1,24,1998,27.6,4,0,0,43,33,0,4,46,41,0.0,0.0,0,235.0,32.0,35.0,47.8
+1708,Neal Maupay,fr FRA,DL,Everton,eng Premier League,25,1996,12.4,4,0,0,14,21,1,3,5,5,0.0,0.0,0,26.0,15.0,48.0,23.8
+1709,Aïman Maurer,ma MAR,CC,Clermont Foot,fr Ligue 1,17,2004,5.6,0,0,0,5,15,2,19,3,1,0.0,0.0,0,21.0,3.0,7.0,30.0
+1710,Stephy Mavididi,eng ENG,DL,Montpellier,fr Ligue 1,24,1998,14.3,1,1,0,20,18,3,10,4,19,0.0,0.0,0,59.0,10.0,22.0,31.3
+1711,Konstantinos Mavropanos,gr GRE,DF,Stuttgart,de Bundesliga,24,1997,25.4,9,1,1,24,23,1,6,63,27,0.0,0.0,0,183.0,81.0,34.0,70.4
+1712,Christian Mawissa,fr FRA,DF,Toulouse,fr Ligue 1,17,2005,1.1,1,0,0,2,2,0,1,3,0,0.0,1.0,0,3.0,1.0,1.0,50.0
+1713,Philipp Max,de GER,DF,Eint Frankfurt,de Bundesliga,28,1993,7.7,1,0,0,6,2,1,60,3,9,0.0,0.0,0,31.0,5.0,6.0,45.5
+1714,Eric Maxim Choupo-Moting,cm CMR,DL,Bayern Munich,de Bundesliga,33,1989,12.4,0,0,0,4,7,11,3,0,7,0.0,0.0,0,28.0,18.0,21.0,46.2
+1715,Luís Maximiano,pt POR,PO,Lazio,it Serie A,23,1999,0.1,0,1,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1716,Keke Maximilian Topp,de GER,DL,Schalke 04,de Bundesliga,18,2004,0.2,0,0,0,1,0,0,1,1,0,0.0,0.0,0,0.0,1.0,0.0,100.0
+1717,Fernand Mayembo,cg CGO,DF,Ajaccio,fr Ligue 1,26,1996,7.9,1,0,0,9,15,0,0,11,5,1.0,0.0,0,50.0,15.0,5.0,75.0
+1718,Borja Mayoral,es ESP,DL,Getafe,es La Liga,25,1997,30.7,4,0,0,16,38,11,37,3,4,1.0,0.0,0,105.0,36.0,84.0,30.0
+1719,Ibrahim Maza,de GER,"CC,DL",Hertha BSC,de Bundesliga,16,2005,0.8,0,0,0,1,2,0,0,0,1,0.0,0.0,0,2.0,0.0,2.0,0.0
+1720,Derek Mazou-Sacko,fr FRA,CC,Troyes,fr Ligue 1,17,2004,0.2,0,0,0,2,0,0,0,1,0,0.0,0.0,0,1.0,1.0,0.0,100.0
+1721,Noussair Mazraoui,ma MAR,DF,Bayern Munich,de Bundesliga,24,1997,11.9,0,0,0,16,11,3,22,10,21,0.0,1.0,0,46.0,17.0,16.0,51.5
+1722,Pasquale Mazzocchi,it ITA,DF,Salernitana,it Serie A,27,1995,21.8,2,0,0,27,17,5,90,10,18,1.0,0.0,0,129.0,12.0,14.0,46.2
+1723,Kevin Mbabu,ch SUI,"DF,DL",Fulham,eng Premier League,27,1995,1.6,1,0,0,4,0,0,7,3,2,0.0,0.0,0,6.0,2.0,6.0,25.0
+1724,Noah Mbamba,be BEL,CC,Leverkusen,de Bundesliga,17,2005,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1725,Kylian Mbappé,fr FRA,DL,Paris S-G,fr Ligue 1,23,1998,31.3,6,0,0,19,40,33,47,5,4,1.0,0.0,0,54.0,8.0,5.0,61.5
+1726,Mamadou Mbaye,sn SEN,DF,Cádiz,es La Liga,24,1998,8.4,2,0,0,6,2,4,0,7,7,0.0,1.0,0,31.0,26.0,20.0,56.5
+1727,Chancel Mbemba,cd COD,DF,Marseille,fr Ligue 1,27,1994,31.7,2,0,0,19,19,0,40,42,26,1.0,0.0,0,165.0,72.0,35.0,67.3
+1728,Bryan Mbeumo,cm CMR,DL,Brentford,eng Premier League,22,1999,32.3,5,0,0,27,23,6,156,13,18,0.0,0.0,0,135.0,35.0,63.0,35.7
+1729,Jason Mbock,fr FRA,"CC,DL",Angers,fr Ligue 1,22,1999,0.3,0,0,0,0,0,1,4,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1730,Jean-Manuel Mbom,de GER,CC,Werder Bremen,de Bundesliga,22,2000,0.1,0,0,0,1,1,0,0,0,0,0.0,0.0,0,0.0,0.0,2.0,0.0
+1731,Nathanael Mbuku,fr FRA,"DL,CC",Reims,fr Ligue 1,20,2002,0.7,0,0,0,0,7,0,2,0,1,0.0,0.0,0,7.0,0.0,2.0,0.0
+1732,Nathanael Mbuku,fr FRA,"CC,DL",Augsburg,de Bundesliga,20,2002,0.4,0,0,0,0,0,0,1,0,0,0.0,0.0,0,2.0,0.0,0.0,
+1733,James McArthur,sct SCO,CC,Crystal Palace,eng Premier League,34,1987,0.6,0,0,0,0,1,0,0,1,1,0.0,0.0,0,5.0,0.0,0.0,
+1734,Alex McCarthy,eng ENG,PO,Southampton,eng Premier League,32,1989,6.0,0,0,0,0,1,0,0,1,0,0.0,0.0,0,7.0,1.0,0.0,100.0
+1735,John McGinn,sct SCO,"CC,DL",Aston Villa,eng Premier League,27,1994,29.9,7,0,0,41,66,0,50,24,36,2.0,0.0,0,176.0,22.0,21.0,51.2
+1736,Scott McKenna,sct SCO,DF,Nott'ham Forest,eng Premier League,25,1996,17.5,4,0,0,8,4,0,2,12,7,0.0,1.0,0,68.0,36.0,23.0,61.0
+1737,Weston McKennie,us USA,CC,Leeds United,eng Premier League,23,1998,16.0,7,0,0,21,5,1,9,22,13,0.0,0.0,0,95.0,25.0,23.0,52.1
+1738,Weston McKennie,us USA,"CC,DF",Juventus,it Serie A,23,1998,11.7,0,0,0,13,7,3,15,11,5,0.0,0.0,0,43.0,12.0,16.0,42.9
+1739,Dwight McNeil,eng ENG,"DL,CC",Everton,eng Premier League,22,1999,27.8,5,0,0,22,21,1,194,31,41,1.0,0.0,0,175.0,14.0,18.0,43.8
+1740,Scott McTominay,sct SCO,CC,Manchester Utd,eng Premier League,25,1996,12.9,8,0,0,28,16,0,4,14,19,0.0,1.0,0,78.0,34.0,23.0,59.6
+1741,Gary Medel,cl CHI,"CC,DF",Bologna,it Serie A,34,1987,16.4,5,0,0,19,16,0,4,28,15,0.0,0.0,0,141.0,15.0,15.0,50.0
+1742,Facundo Medina,ar ARG,DF,Lens,fr Ligue 1,23,1999,30.9,7,0,0,34,18,0,22,26,20,0.0,0.0,0,212.0,37.0,43.0,46.3
+1743,Fernando Medrano,es ESP,DF,Celta Vigo,es La Liga,22,2000,0.1,0,0,0,1,0,0,0,1,1,0.0,0.0,0,1.0,0.0,0.0,
+1744,Ben Mee,eng ENG,DF,Brentford,eng Premier League,32,1989,36.3,2,0,0,14,15,1,7,48,24,0.0,0.0,0,199.0,131.0,98.0,57.2
+1745,Bamo Meïté,ci CIV,DF,Lorient,fr Ligue 1,21,2001,16.7,5,0,0,16,12,1,0,16,8,0.0,0.0,0,76.0,30.0,35.0,46.2
+1746,Soualiho Meïté,fr FRA,CC,Cremonese,it Serie A,28,1994,26.3,5,0,0,27,47,0,9,27,31,0.0,0.0,0,174.0,28.0,17.0,62.2
+1747,Farid El Melali,dz ALG,"DF,DL",Angers,fr Ligue 1,25,1997,9.0,1,0,0,13,15,2,16,8,12,0.0,0.0,0,53.0,2.0,9.0,18.2
+1748,Gonzalo Melero,es ESP,CC,Almería,es La Liga,28,1994,20.6,5,0,0,24,30,3,2,7,16,0.0,0.0,0,96.0,14.0,17.0,45.2
+1749,Birger Meling,no NOR,DF,Rennes,fr Ligue 1,27,1994,13.4,3,1,0,20,16,2,18,23,15,0.0,0.0,0,71.0,12.0,16.0,42.9
+1750,Memphis,nl NED,DL,Atlético Madrid,es La Liga,28,1994,3.0,1,0,0,2,6,0,5,0,0,0.0,0.0,0,3.0,1.0,5.0,16.7
+1751,Memphis,nl NED,DL,Barcelona,es La Liga,28,1994,1.3,0,0,0,2,2,1,4,0,1,0.0,0.0,0,7.0,1.0,2.0,33.3
+1752,Houboulang Mendes,gw GNB,DF,Almería,es La Liga,24,1998,9.8,2,0,0,13,4,0,31,7,11,0.0,1.0,0,37.0,1.0,1.0,50.0
+1753,Nuno Mendes,pt POR,DF,Paris S-G,fr Ligue 1,20,2002,17.2,2,0,0,25,34,5,30,17,30,0.0,0.0,0,98.0,10.0,6.0,62.5
+1754,Pedro Mendes,pt POR,DF,Montpellier,fr Ligue 1,31,1990,0.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,1.0,1.0,1.0,50.0
+1755,Thiago Mendes,br BRA,"CC,DF",Lyon,fr Ligue 1,30,1992,22.9,3,0,0,24,24,0,6,47,27,0.0,1.0,0,145.0,34.0,20.0,63.0
+1756,Brais Méndez,es ESP,CC,Real Sociedad,es La Liga,25,1997,26.7,6,0,0,60,54,2,125,12,34,0.0,0.0,0,127.0,25.0,29.0,46.3
+1757,Diego Méndez,es ESP,CC,Rayo Vallecano,es La Liga,18,2003,0.0,0,0,0,0,0,0,0,1,0,0.0,0.0,0,0.0,1.0,0.0,100.0
+1758,Antoine Mendy,fr FRA,DF,Nice,fr Ligue 1,18,2004,5.8,0,0,0,9,3,2,13,2,13,0.0,0.0,0,37.0,7.0,11.0,38.9
+1759,Arial Mendy,sn SEN,DF,Clermont Foot,fr Ligue 1,27,1994,2.5,0,0,0,1,7,1,10,4,2,0.0,1.0,0,14.0,5.0,4.0,55.6
+1760,Batista Mendy,fr FRA,"CC,DF",Angers,fr Ligue 1,22,2000,31.8,8,1,1,67,42,1,9,21,30,0.0,1.0,0,193.0,27.0,13.0,67.5
+1761,Edouard Mendy,sn SEN,PO,Chelsea,eng Premier League,30,1992,9.5,1,0,0,0,2,0,0,0,0,0.0,0.0,0,15.0,3.0,0.0,100.0
+1762,Ferland Mendy,fr FRA,DF,Real Madrid,es La Liga,27,1995,15.0,2,0,0,4,18,0,7,14,12,0.0,0.0,0,77.0,7.0,8.0,46.7
+1763,Nampalys Mendy,sn SEN,CC,Leicester City,eng Premier League,30,1992,8.4,1,0,0,9,10,0,1,13,9,0.0,0.0,0,46.0,4.0,6.0,40.0
+1764,Gideon Mensah,gh GHA,DF,Auxerre,fr Ligue 1,24,1998,25.1,5,0,0,29,18,1,67,38,44,0.0,1.0,0,246.0,21.0,20.0,51.2
+1765,Chris Mepham,wls WAL,DF,Bournemouth,eng Premier League,24,1997,24.4,7,0,0,16,7,0,0,30,22,0.0,0.0,2,85.0,53.0,31.0,63.1
+1766,Jorge Meré,es ESP,DF,Cádiz,es La Liga,25,1997,6.7,0,0,0,1,3,0,0,6,7,0.0,0.0,0,27.0,15.0,8.0,65.2
+1767,Alex Meret,it ITA,PO,Napoli,it Serie A,25,1997,34.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,66.0,4.0,0.0,100.0
+1768,Mikel Merino,es ESP,CC,Real Sociedad,es La Liga,26,1996,27.7,5,1,0,74,48,4,25,20,49,0.0,0.0,0,218.0,112.0,59.0,65.5
+1769,Quentin Merlin,fr FRA,DF,Nantes,fr Ligue 1,20,2002,19.9,2,0,0,12,14,0,113,24,19,0.0,0.0,0,112.0,16.0,15.0,51.6
+1770,Yıldırım Mert Çetin,tr TUR,DF,Lecce,it Serie A,25,1997,0.2,0,0,0,0,1,0,0,1,0,0.0,0.0,0,3.0,0.0,0.0,
+1771,Roque Mesa,es ESP,CC,Valladolid,es La Liga,33,1989,18.0,11,1,1,38,25,1,12,13,15,0.0,1.0,0,145.0,11.0,23.0,32.4
+1772,Illan Meslier,fr FRA,PO,Leeds United,eng Premier League,22,2000,34.0,3,0,0,1,5,0,0,1,1,0.0,0.0,0,34.0,10.0,3.0,76.9
+1773,Lionel Messi,ar ARG,"DL,CC",Paris S-G,fr Ligue 1,35,1987,31.5,0,0,0,8,36,6,91,2,18,0.0,0.0,0,75.0,1.0,3.0,25.0
+1774,Junior Messias,br BRA,"DL,DF",Milan,it Serie A,31,1991,16.6,3,0,0,24,24,1,25,7,18,0.0,0.0,0,69.0,25.0,41.0,37.9
+1775,Amine Messoussa,fr FRA,DL,Lille,fr Ligue 1,17,2004,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1776,Thomas Meunier,be BEL,DF,Dortmund,de Bundesliga,30,1991,6.5,2,0,0,12,4,1,16,9,7,0.0,0.0,0,44.0,7.0,3.0,70.0
+1777,Alexander Meyer,de GER,PO,Dortmund,de Bundesliga,31,1991,7.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,14.0,1.0,0.0,100.0
+1778,Sven Michel,de GER,"DL,CC",Union Berlin,de Bundesliga,32,1990,5.5,2,0,0,13,4,4,17,0,5,0.0,0.0,0,29.0,25.0,46.0,35.2
+1779,Alex Mighten,eng ENG,DL,Nott'ham Forest,eng Premier League,20,2002,0.1,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1780,Tommaso Milanese,it ITA,CC,Cremonese,it Serie A,20,2002,0.3,0,0,0,1,1,0,2,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+1781,Nikola Milenković,rs SRB,DF,Fiorentina,it Serie A,24,1997,23.7,4,0,0,39,21,0,0,22,25,0.0,0.0,1,127.0,73.0,30.0,70.9
+1782,Lewis Miley,eng ENG,CC,Newcastle Utd,eng Premier League,16,2006,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+1783,Arkadiusz Milik,pl POL,DL,Juventus,it Serie A,28,1994,17.6,3,1,1,27,29,8,6,1,8,1.0,1.0,0,40.0,36.0,56.0,39.1
+1784,Arkadiusz Milik,pl POL,DL,Marseille,fr Ligue 1,28,1994,1.4,1,0,0,4,1,1,0,0,1,0.0,0.0,0,4.0,2.0,7.0,22.2
+1785,Sergej Milinković-Savić,rs SRB,CC,Lazio,it Serie A,27,1995,33.6,10,0,0,45,72,2,29,28,35,0.0,0.0,0,168.0,96.0,71.0,57.5
+1786,Vanja Milinković-Savić,rs SRB,PO,Torino,it Serie A,25,1997,38.0,4,0,0,0,4,0,0,1,1,0.0,0.0,0,64.0,12.0,2.0,85.7
+1787,Éder Militão,br BRA,DF,Real Madrid,es La Liga,24,1998,30.0,4,0,0,35,38,1,12,42,32,1.0,1.0,0,159.0,64.0,34.0,65.3
+1788,Luka Milivojević,rs SRB,CC,Crystal Palace,eng Premier League,31,1991,5.7,2,0,0,15,3,0,6,12,7,0.0,0.0,0,34.0,6.0,9.0,40.0
+1789,Luis Milla,es ESP,CC,Getafe,es La Liga,27,1994,20.6,6,1,1,29,22,1,75,32,30,0.0,1.0,0,149.0,17.0,19.0,47.2
+1790,Pere Milla,es ESP,"DL,CC",Elche,es La Liga,29,1992,20.5,7,0,0,19,44,13,14,9,20,1.0,0.0,0,97.0,28.0,33.0,45.9
+1791,Enzo Millot,fr FRA,CC,Stuttgart,de Bundesliga,20,2002,9.9,3,0,0,16,19,1,23,12,16,0.0,1.0,0,46.0,8.0,15.0,34.8
+1792,James Milner,eng ENG,"CC,DF",Liverpool,eng Premier League,36,1986,10.1,2,0,0,16,15,0,52,12,16,0.0,0.0,0,64.0,13.0,14.0,48.1
+1793,Marko Milovanović,rs SRB,DL,Almería,es La Liga,18,2003,0.2,1,0,0,2,0,0,0,0,0,0.0,0.0,0,0.0,5.0,3.0,62.5
+1794,Kim Min-jae,kr KOR,DF,Napoli,it Serie A,25,1996,33.9,5,0,0,30,7,0,6,41,30,0.0,0.0,0,211.0,91.0,54.0,62.8
+1795,Yerry Mina,co COL,DF,Everton,eng Premier League,27,1994,6.6,2,0,0,6,10,0,1,6,8,0.0,0.0,0,31.0,19.0,15.0,55.9
+1796,Takumi Minamino,jp JPN,"CC,DL",Monaco,fr Ligue 1,27,1995,8.0,2,0,0,20,10,4,31,6,8,1.0,0.0,0,42.0,7.0,7.0,50.0
+1797,Tyrone Mings,eng ENG,DF,Aston Villa,eng Premier League,29,1993,35.0,7,0,0,18,22,3,3,54,7,1.0,0.0,1,174.0,61.0,24.0,71.8
+1798,Óscar Mingueza,es ESP,DF,Celta Vigo,es La Liga,23,1999,14.3,2,0,0,19,8,1,29,12,21,0.0,2.0,0,90.0,8.0,8.0,50.0
+1799,Rafa Mir,es ESP,DL,Sevilla,es La Liga,25,1997,14.4,1,0,0,23,11,18,6,4,2,0.0,0.0,0,42.0,37.0,42.0,46.8
+1800,Aleksei Miranchuk,ru RUS,CC,Torino,it Serie A,26,1995,23.2,0,0,0,9,22,1,30,2,5,1.0,0.0,0,92.0,10.0,21.0,32.3
+1801,Juan Miranda,es ESP,DF,Betis,es La Liga,22,2000,16.4,1,1,0,15,20,1,73,20,16,0.0,1.0,0,78.0,21.0,17.0,55.3
+1802,Antonio Mirante,it ITA,PO,Milan,it Serie A,39,1983,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1803,Fabio Miretti,it ITA,"CC,DL",Juventus,it Serie A,18,2003,13.7,2,0,0,24,27,4,28,4,11,1.0,0.0,0,74.0,10.0,20.0,33.3
+1804,Filippo Missori,it ITA,DF,Roma,it Serie A,18,2004,2.0,1,0,0,4,0,0,2,3,3,0.0,0.0,0,7.0,2.0,2.0,50.0
+1805,Tyrick Mitchell,eng ENG,DF,Crystal Palace,eng Premier League,22,1999,32.1,5,1,0,33,10,2,70,42,49,0.0,1.0,0,186.0,25.0,26.0,49.0
+1806,Kaoru Mitoma,jp JPN,"DL,CC",Brighton,eng Premier League,25,1997,25.8,0,0,0,29,27,6,41,17,27,1.0,0.0,0,120.0,18.0,19.0,48.6
+1807,Aleksandar Mitrović,rs SRB,DL,Fulham,eng Premier League,27,1994,22.3,7,0,0,34,40,14,4,3,7,2.0,0.0,0,55.0,100.0,105.0,48.8
+1808,Stefan Mitrović,rs SRB,DF,Getafe,es La Liga,32,1990,18.7,5,0,0,13,3,0,0,17,6,0.0,0.0,0,63.0,38.0,16.0,70.4
+1809,Maximilian Mittelstädt,de GER,"DF,CC",Hertha BSC,de Bundesliga,25,1997,9.4,5,0,0,13,9,0,39,26,20,0.0,1.0,0,84.0,10.0,16.0,38.5
+1810,Henrikh Mkhitaryan,am ARM,CC,Inter,it Serie A,33,1989,22.1,4,0,0,28,28,0,19,21,26,0.0,0.0,0,166.0,9.0,12.0,42.9
+1811,Anthony Modeste,fr FRA,DL,Dortmund,de Bundesliga,34,1988,9.0,4,0,0,14,7,6,2,2,4,0.0,0.0,0,15.0,33.0,37.0,47.1
+1812,Luka Modrić,hr CRO,CC,Real Madrid,es La Liga,36,1985,19.4,7,0,0,21,16,3,62,10,9,0.0,0.0,0,86.0,11.0,14.0,44.0
+1813,Terem Moffi,ng NGA,DL,Nice,fr Ligue 1,23,1999,14.8,2,0,0,13,10,5,1,2,6,0.0,0.0,0,28.0,19.0,27.0,41.3
+1814,Terem Moffi,ng NGA,DL,Lorient,fr Ligue 1,23,1999,15.4,1,0,0,17,17,4,3,3,5,0.0,0.0,0,35.0,13.0,47.0,21.7
+1815,Mostafa Mohamed,eg EGY,DL,Nantes,fr Ligue 1,24,1997,21.5,1,0,0,43,28,13,10,10,13,1.0,0.0,0,48.0,76.0,87.0,46.6
+1816,Tobias Mohr,de GER,"DF,CC",Schalke 04,de Bundesliga,26,1995,9.3,0,0,0,5,4,0,87,8,5,0.0,0.0,0,51.0,8.0,12.0,40.0
+1817,Johan Mojica,co COL,DF,Villarreal,es La Liga,29,1992,7.1,0,0,0,3,14,0,40,4,9,0.0,0.0,0,49.0,7.0,4.0,63.6
+1818,Johan Mojica,co COL,"DF,CC",Elche,es La Liga,29,1992,3.0,2,0,0,4,3,0,14,4,3,0.0,1.0,0,33.0,4.0,1.0,80.0
+1819,Clinton Mola,eng ENG,DF,Stuttgart,de Bundesliga,21,2001,0.2,1,0,0,0,0,0,1,1,1,0.0,0.0,0,1.0,1.0,1.0,50.0
+1820,Nahuel Molina,ar ARG,DF,Atlético Madrid,es La Liga,24,1998,31.9,7,1,0,22,16,3,120,18,43,0.0,0.0,0,158.0,22.0,32.0,40.7
+1821,Salvatore Molina,it ITA,DF,Monza,it Serie A,30,1992,2.5,1,0,0,4,3,0,14,1,5,0.0,0.0,0,10.0,0.0,1.0,0.0
+1822,Florent Mollet,fr FRA,CC,Nantes,fr Ligue 1,30,1991,12.1,3,0,0,18,20,3,76,10,6,0.0,0.0,0,57.0,8.0,16.0,33.3
+1823,Florent Mollet,fr FRA,CC,Schalke 04,de Bundesliga,30,1991,4.6,1,0,0,4,7,2,9,1,1,0.0,0.0,0,25.0,1.0,11.0,8.3
+1824,Jon Moncayola,es ESP,"CC,DF",Osasuna,es La Liga,24,1998,27.2,6,0,0,35,17,3,78,17,39,1.0,0.0,0,186.0,17.0,15.0,53.1
+1825,Monchu,es ESP,CC,Valladolid,es La Liga,22,1999,22.6,10,0,0,46,28,1,76,18,29,0.0,1.0,0,119.0,18.0,31.0,36.7
+1826,César Montes,mx MEX,DF,Espanyol,es La Liga,25,1997,17.7,6,0,0,18,6,1,1,14,9,0.0,1.0,0,91.0,68.0,38.0,64.2
+1827,Daniele Montevago,it ITA,DL,Sampdoria,it Serie A,19,2003,2.6,1,0,0,8,4,4,1,0,0,0.0,0.0,0,5.0,14.0,23.0,37.8
+1828,Gonzalo Montiel,ar ARG,DF,Sevilla,es La Liga,25,1997,16.9,8,1,0,19,10,11,39,19,15,0.0,0.0,0,100.0,13.0,16.0,44.8
+1829,Lorenzo Montipò,it ITA,PO,Hellas Verona,it Serie A,26,1996,37.0,1,0,0,0,5,0,0,0,0,0.0,0.0,0,55.0,4.0,2.0,66.7
+1830,Martín Montoya,es ESP,DF,Betis,es La Liga,31,1991,5.0,1,0,0,4,6,0,10,9,8,0.0,0.0,0,24.0,8.0,3.0,72.7
+1831,Kieffer Moore,wls WAL,DL,Bournemouth,eng Premier League,29,1992,14.2,1,0,0,26,30,1,7,1,11,0.0,0.0,0,26.0,68.0,60.0,53.1
+1832,Andrew Moran,ie IRL,DL,Brighton,eng Premier League,18,2003,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1833,Álvaro Morata,es ESP,DL,Atlético Madrid,es La Liga,29,1992,21.1,4,0,0,39,56,26,4,0,11,0.0,0.0,0,57.0,53.0,38.0,58.2
+1834,Jon Morcillo,es ESP,"DL,CC",Athletic Club,es La Liga,23,1998,0.8,0,0,0,1,1,0,6,1,0,0.0,0.0,0,7.0,1.0,1.0,50.0
+1835,Alberto Moreno,es ESP,DF,Villarreal,es La Liga,30,1992,14.4,7,0,0,26,9,3,36,23,12,0.0,0.0,0,62.0,12.0,10.0,54.5
+1836,Álex Moreno,es ESP,DF,Aston Villa,eng Premier League,29,1993,14.8,3,0,0,17,11,0,48,7,14,0.0,0.0,0,69.0,9.0,12.0,42.9
+1837,Álex Moreno,es ESP,DF,Betis,es La Liga,29,1993,15.0,1,0,0,17,19,1,28,17,22,0.0,1.0,0,78.0,9.0,18.0,33.3
+1838,Diego Moreno,es ESP,DF,Osasuna,es La Liga,21,2001,7.1,1,0,0,3,4,1,20,5,4,0.0,0.0,0,33.0,5.0,8.0,38.5
+1839,Gerard Moreno,es ESP,DL,Villarreal,es La Liga,30,1992,13.7,4,0,0,11,14,13,8,5,6,0.0,0.0,0,38.0,19.0,17.0,52.8
+1840,Marlos Moreno,co COL,"CC,DF",Troyes,fr Ligue 1,25,1996,0.1,0,0,0,1,1,0,0,0,2,0.0,0.0,0,1.0,1.0,1.0,50.0
+1841,Tete Morente,es ESP,"CC,DF",Elche,es La Liga,25,1996,23.0,5,0,0,32,21,12,99,25,21,1.0,1.0,0,98.0,35.0,21.0,62.5
+1842,Ilaix Moriba,gn GUI,CC,Valencia,es La Liga,19,2003,11.2,6,2,1,32,33,0,4,4,16,0.0,0.0,0,75.0,25.0,26.0,49.0
+1843,Manu Morlanes,es ESP,CC,Villarreal,es La Liga,23,1999,1.8,0,1,0,1,1,0,0,1,2,0.0,0.0,0,5.0,1.0,2.0,33.3
+1844,Manu Morlanes,es ESP,CC,Mallorca,es La Liga,23,1999,7.8,3,0,0,6,8,0,2,5,9,0.0,0.0,0,40.0,6.0,16.0,27.3
+1845,Nikola Moro,hr CRO,CC,Bologna,it Serie A,24,1998,13.6,1,0,0,15,11,1,18,8,21,0.0,0.0,0,97.0,20.0,11.0,64.5
+1846,Loren Morón,es ESP,DL,Betis,es La Liga,28,1993,0.2,1,0,0,2,0,0,0,0,2,0.0,0.0,0,1.0,0.0,2.0,0.0
+1847,Cristhian Mosquera,co COL,DF,Valencia,es La Liga,18,2004,1.6,0,0,0,0,1,0,1,1,2,0.0,0.0,0,8.0,3.0,2.0,60.0
+1848,Dany Mota,pt POR,"DL,CC",Monza,it Serie A,24,1998,21.2,2,0,0,20,33,13,45,6,7,2.0,0.0,0,60.0,33.0,60.0,35.5
+1849,Lebo Mothiba,za RSA,"DL,CC",Strasbourg,fr Ligue 1,26,1996,4.8,0,0,0,12,12,0,4,0,0,0.0,0.0,0,11.0,10.0,24.0,29.4
+1850,Youssoufa Moukoko,de GER,DL,Dortmund,de Bundesliga,17,2004,12.7,0,0,0,8,8,1,5,2,7,0.0,0.0,0,36.0,5.0,4.0,55.6
+1851,Steve Mounié,bj BEN,DL,Brest,fr Ligue 1,27,1994,18.4,2,0,0,37,25,10,9,3,5,0.0,0.0,0,49.0,151.0,105.0,59.0
+1852,Mason Mount,eng ENG,"CC,DL",Chelsea,eng Premier League,23,1999,18.3,4,0,0,28,27,1,64,8,19,0.0,0.0,0,85.0,9.0,14.0,39.1
+1853,Lucas Moura,br BRA,"CC,DF",Tottenham,eng Premier League,29,1992,1.7,0,1,0,3,3,0,9,2,5,0.0,0.0,0,9.0,5.0,4.0,55.6
+1854,Bevic Moussiti-Oko,cg CGO,DL,Ajaccio,fr Ligue 1,27,1995,7.8,1,0,0,18,22,2,4,2,1,0.0,0.0,0,27.0,53.0,47.0,53.0
+1855,João Moutinho,pt POR,CC,Wolves,eng Premier League,35,1986,19.8,3,0,0,31,15,1,59,18,30,0.0,0.0,0,106.0,8.0,23.0,25.8
+1856,João Moutinho,pt POR,"DF,DL",Spezia,it Serie A,24,1998,0.6,0,0,0,1,0,0,3,0,1,0.0,0.0,0,7.0,0.0,1.0,0.0
+1857,Samuel Moutoussamy,cd COD,CC,Nantes,fr Ligue 1,25,1996,26.7,8,0,0,33,15,0,9,24,34,0.0,0.0,0,167.0,21.0,45.0,31.8
+1858,Divin Mubama,eng ENG,DL,West Ham,eng Premier League,17,2004,0.4,0,0,0,3,1,0,0,0,1,0.0,0.0,0,1.0,2.0,2.0,50.0
+1859,Mykhailo Mudryk,ua UKR,"DL,CC",Chelsea,eng Premier League,21,2001,7.3,1,0,0,8,12,1,25,0,9,0.0,0.0,0,35.0,5.0,8.0,38.5
+1860,François Mughe,cm CMR,CC,Marseille,fr Ligue 1,18,2004,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+1861,Nordi Mukiele,fr FRA,DF,Paris S-G,fr Ligue 1,24,1997,12.6,0,0,0,16,14,2,16,14,23,0.0,0.0,0,61.0,21.0,10.0,67.7
+1862,Mert Müldür,tr TUR,"DL,DF",Sassuolo,it Serie A,23,1999,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1863,Florian Müller,de GER,PO,Stuttgart,de Bundesliga,24,1997,19.0,0,0,0,0,2,0,0,0,0,0.0,0.0,0,39.0,3.0,0.0,100.0
+1864,Thomas Müller,de GER,"DL,CC",Bayern Munich,de Bundesliga,32,1989,18.5,0,0,0,9,11,5,31,4,12,0.0,0.0,0,70.0,39.0,24.0,61.9
+1865,Abdul Mumin,gh GHA,DF,Rayo Vallecano,es La Liga,24,1998,10.2,2,0,0,7,8,0,3,9,9,0.0,0.0,0,54.0,13.0,18.0,41.9
+1866,Marshall Munetsi,zw ZIM,CC,Reims,fr Ligue 1,26,1996,30.0,6,0,0,64,38,2,23,26,27,1.0,0.0,0,157.0,58.0,49.0,54.2
+1867,Iker Muniain,es ESP,"CC,DL",Athletic Club,es La Liga,29,1992,18.8,2,0,0,13,62,1,113,4,16,0.0,0.0,0,81.0,3.0,13.0,18.8
+1868,Aihen Muñoz,es ESP,DF,Real Sociedad,es La Liga,24,1997,19.5,2,0,0,29,16,0,54,9,23,0.0,0.0,0,102.0,21.0,25.0,45.7
+1869,Álvaro Muñoz,uy URU,DL,Real Madrid,es La Liga,18,2004,0.9,0,0,0,3,0,3,0,0,1,0.0,0.0,0,4.0,2.0,4.0,33.3
+1870,Iker Muñoz,es ESP,CC,Osasuna,es La Liga,19,2002,2.8,0,0,0,5,4,0,0,3,0,0.0,0.0,0,15.0,6.0,3.0,66.7
+1871,Pablo Muñoz,es ESP,CC,Rayo Vallecano,es La Liga,18,2003,0.1,0,0,0,2,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1872,Luis Muriel,co COL,"DL,CC",Atalanta,it Serie A,31,1991,11.9,2,2,1,18,15,3,82,2,6,1.0,0.0,0,39.0,11.0,27.0,28.9
+1873,Jeison Murillo,co COL,DF,Sampdoria,it Serie A,30,1992,11.7,6,1,1,18,19,0,1,8,11,0.0,0.0,1,65.0,28.0,20.0,58.3
+1874,Vedat Muriqi,xk KVX,DL,Mallorca,es La Liga,28,1994,32.6,6,1,0,59,39,29,11,12,7,1.0,0.0,0,88.0,198.0,156.0,55.9
+1875,Jacob Murphy,eng ENG,DL,Newcastle Utd,eng Premier League,27,1995,13.9,0,0,0,8,14,2,53,7,7,0.0,0.0,0,69.0,3.0,11.0,21.4
+1876,Nicola Murru,it ITA,DF,Sampdoria,it Serie A,27,1994,8.7,3,0,0,15,6,1,9,10,14,0.0,3.0,0,36.0,8.0,8.0,50.0
+1877,Yunus Musah,us USA,CC,Valencia,es La Liga,19,2002,23.4,10,1,0,42,42,3,40,11,35,0.0,0.0,0,97.0,28.0,36.0,43.8
+1878,Jamal Musiala,de GER,"CC,DL",Bayern Munich,de Bundesliga,19,2003,24.4,1,0,0,23,43,1,11,19,23,1.0,0.0,0,144.0,12.0,12.0,50.0
+1879,Juan Musso,ar ARG,PO,Atalanta,it Serie A,28,1994,23.1,1,0,0,0,5,0,0,0,1,0.0,0.0,1,18.0,1.0,0.0,100.0
+1880,Marlon Mustapha,at AUT,"DL,CC",Mainz 05,de Bundesliga,21,2001,0.8,1,0,0,3,0,1,0,0,2,0.0,0.0,0,4.0,1.0,2.0,33.3
+1881,Yvon Mvogo,ch SUI,PO,Lorient,fr Ligue 1,28,1994,20.1,0,0,0,0,3,0,0,2,0,0.0,0.0,0,13.0,5.0,0.0,100.0
+1882,Enock Mwepu,zm ZAM,"DL,CC",Brighton,eng Premier League,24,1998,2.4,0,0,0,2,1,2,3,1,5,0.0,0.0,0,9.0,0.0,7.0,0.0
+1883,Francisco Mwepu,zm ZAM,DL,Cádiz,es La Liga,22,2000,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1884,Vitaliy Mykolenko,ua UKR,DF,Everton,eng Premier League,23,1999,29.5,4,0,0,29,21,0,57,46,34,0.0,0.0,0,150.0,25.0,34.0,42.4
+1885,Joakim Mæhle,dk DEN,"DF,CC",Atalanta,it Serie A,25,1997,24.5,5,1,0,16,19,6,38,24,18,0.0,0.0,0,138.0,4.0,12.0,25.0
+1886,Obite N'Dicka,ci CIV,DF,Eint Frankfurt,de Bundesliga,22,1999,29.9,4,0,0,31,14,0,4,31,18,0.0,1.0,1,193.0,77.0,48.0,61.6
+1887,Nathan N'Goumou,fr FRA,DL,Toulouse,fr Ligue 1,22,2000,1.0,0,0,0,0,0,0,1,2,2,0.0,0.0,0,6.0,1.0,0.0,100.0
+1888,Nathan N'Goumou,fr FRA,DL,M'Gladbach,de Bundesliga,22,2000,7.7,0,0,0,7,6,3,20,1,5,0.0,0.0,0,28.0,8.0,4.0,66.7
+1889,Stanley N'Soki,fr FRA,DF,Hoffenheim,de Bundesliga,23,1999,14.3,2,1,0,13,8,0,1,24,13,0.0,1.0,0,117.0,22.0,12.0,64.7
+1890,Herculano Nabian,pt POR,CC,Empoli,it Serie A,18,2004,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1891,Nacho,es ESP,DF,Real Madrid,es La Liga,32,1990,18.2,7,0,0,16,14,3,14,18,16,0.0,0.0,1,88.0,36.0,21.0,63.2
+1892,Nikolas Nartey,dk DEN,"DF,CC",Stuttgart,de Bundesliga,22,2000,5.3,1,0,0,5,7,1,9,4,6,0.0,0.0,0,34.0,9.0,6.0,60.0
+1893,Juanjo Narváez,co COL,"CC,DL",Valladolid,es La Liga,27,1995,1.6,0,0,0,1,9,1,1,0,1,0.0,0.0,0,5.0,3.0,6.0,33.3
+1894,Matija Nastasić,rs SRB,DF,Mallorca,es La Liga,29,1993,10.1,3,0,0,12,0,1,1,18,8,0.0,0.0,0,31.0,9.0,6.0,60.0
+1895,Roberto Navarro,es ESP,"CC,DL",Real Sociedad,es La Liga,20,2002,3.9,2,0,0,8,6,5,16,2,4,0.0,0.0,0,22.0,7.0,5.0,58.3
+1896,Jesús Navas,es ESP,"DF,DL",Sevilla,es La Liga,36,1985,22.0,5,0,0,7,33,7,135,22,12,0.0,0.0,1,130.0,15.0,28.0,34.9
+1897,Keylor Navas,cr CRC,PO,Nott'ham Forest,eng Premier League,35,1986,17.0,2,0,0,0,0,0,0,1,0,0.0,0.0,0,10.0,6.0,0.0,100.0
+1898,Michel Ndary Adopo,fr FRA,"CC,DF",Torino,it Serie A,22,2000,2.9,1,0,0,6,2,0,0,1,2,0.0,0.0,0,20.0,9.0,6.0,60.0
+1899,Youssouf Ndayishimiye,bi BDI,"CC,DF",Nice,fr Ligue 1,23,1998,6.3,2,0,0,5,4,0,2,12,9,0.0,0.0,0,36.0,5.0,6.0,45.5
+1900,Papa Ndiaga Yade,sn SEN,"DF,CC",Troyes,fr Ligue 1,22,2000,6.3,1,1,0,14,10,2,30,8,6,0.0,0.0,0,33.0,5.0,7.0,41.7
+1901,Wilfred Ndidi,ng NGA,CC,Leicester City,eng Premier League,25,1996,18.7,4,0,0,29,14,0,2,38,42,0.0,2.0,0,146.0,25.0,22.0,53.2
+1902,Tanguy Ndombele,fr FRA,CC,Napoli,it Serie A,25,1996,9.0,5,0,0,15,23,0,1,7,8,0.0,1.0,0,42.0,7.0,3.0,70.0
+1903,Álvaro Negredo,es ESP,DL,Cádiz,es La Liga,36,1985,8.4,0,0,0,5,8,7,2,0,4,0.0,0.0,0,9.0,31.0,26.0,54.4
+1904,Reiss Nelson,eng ENG,DL,Arsenal,eng Premier League,22,1999,2.4,0,0,0,8,4,0,12,0,1,0.0,0.0,0,16.0,2.0,5.0,28.6
+1905,Ilija Nestorovski,mk MKD,"DL,CC",Udinese,it Serie A,32,1990,7.1,3,0,0,18,21,5,0,2,3,1.0,0.0,0,13.0,12.0,35.0,25.5
+1906,Neto,br BRA,PO,Bournemouth,eng Premier League,33,1989,26.5,4,0,0,0,4,0,0,0,1,0.0,0.0,0,21.0,4.0,3.0,57.1
+1907,Pedro Neto,pt POR,"DL,CC",Wolves,eng Premier League,22,2000,10.7,1,0,0,8,15,2,66,4,6,1.0,0.0,0,51.0,0.0,7.0,0.0
+1908,Luca Netz,de GER,DF,M'Gladbach,de Bundesliga,19,2003,7.8,0,0,0,5,2,1,6,6,13,0.0,0.0,0,43.0,8.0,12.0,40.0
+1909,Manuel Neuer,de GER,PO,Bayern Munich,de Bundesliga,36,1986,12.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,21.0,3.0,0.0,100.0
+1910,Florian Neuhaus,de GER,CC,M'Gladbach,de Bundesliga,25,1997,15.6,2,0,0,10,21,2,7,12,9,0.0,1.0,0,76.0,3.0,10.0,23.1
+1911,Rúben Neves,pt POR,CC,Wolves,eng Premier League,25,1997,33.5,12,0,0,38,18,1,53,50,43,0.0,1.0,0,237.0,25.0,25.0,50.0
+1912,Neymar,br BRA,"CC,DL",Paris S-G,fr Ligue 1,30,1992,17.2,6,1,1,25,65,5,54,4,14,1.0,0.0,0,63.0,1.0,2.0,33.3
+1913,Jessic Ngankam,de GER,"DL,CC",Hertha BSC,de Bundesliga,22,2000,9.2,5,0,0,19,13,1,2,1,9,1.0,0.0,0,24.0,14.0,52.0,21.2
+1914,Cyril Ngonge,be BEL,"CC,DL",Hellas Verona,it Serie A,22,2000,8.3,2,0,0,13,11,5,18,6,3,0.0,1.0,0,29.0,17.0,35.0,32.7
+1915,Moussa Niakhate,sn SEN,DF,Nott'ham Forest,eng Premier League,26,1996,12.9,1,0,0,12,6,0,2,19,9,0.0,1.0,0,71.0,19.0,15.0,55.9
+1916,Ibrahima Niane,sn SEN,DL,Angers,fr Ligue 1,23,1999,12.6,4,0,0,12,27,2,7,1,2,0.0,0.0,0,35.0,23.0,50.0,31.5
+1917,M'Baye Niang,sn SEN,DL,Auxerre,fr Ligue 1,27,1994,16.5,2,2,0,43,42,8,8,1,7,0.0,1.0,0,37.0,68.0,65.0,51.1
+1918,Tanguy Nianzou,fr FRA,DF,Sevilla,es La Liga,20,2002,15.2,1,1,0,13,14,0,1,16,15,0.0,0.0,0,73.0,32.0,11.0,74.4
+1919,Rasmus Nicolaisen,dk DEN,DF,Toulouse,fr Ligue 1,25,1997,33.3,7,1,1,30,28,1,0,50,21,0.0,1.0,1,188.0,116.0,41.0,73.9
+1920,Hans Nicolussi Caviglia,it ITA,CC,Salernitana,it Serie A,22,2000,6.5,2,0,0,13,6,0,4,7,6,0.0,1.0,0,46.0,9.0,11.0,45.0
+1921,Florian Niederlechner,de GER,"DL,CC",Augsburg,de Bundesliga,31,1990,10.1,1,0,0,13,12,8,4,1,5,0.0,0.0,0,28.0,29.0,39.0,42.6
+1922,Florian Niederlechner,de GER,DL,Hertha BSC,de Bundesliga,31,1990,8.7,2,0,0,8,16,10,4,3,7,0.0,0.0,0,25.0,18.0,39.0,31.6
+1923,Saúl Ñíguez,es ESP,"CC,DF",Atlético Madrid,es La Liga,27,1994,12.2,8,0,0,34,5,2,15,15,27,0.0,1.0,0,51.0,41.0,27.0,60.3
+1924,Dimitris Nikolaou,gr GRE,DF,Spezia,it Serie A,23,1998,32.9,9,1,0,27,20,0,18,27,32,0.0,0.0,0,202.0,30.0,29.0,50.8
+1925,Fernando Niño,es ESP,"CC,DL",Villarreal,es La Liga,21,2000,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,1.0,0.0
+1926,Rasmus Nissen,dk DEN,DF,Leeds United,eng Premier League,25,1997,21.8,4,0,0,19,6,1,35,35,35,0.0,0.0,0,119.0,34.0,27.0,55.7
+1927,Justin Njinmah,de GER,DL,Dortmund,de Bundesliga,21,2000,0.2,0,0,0,0,3,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+1928,Eddie Nketiah,eng ENG,DL,Arsenal,eng Premier League,23,1999,12.1,3,0,0,30,25,8,5,1,9,1.0,0.0,0,30.0,10.0,31.0,24.4
+1929,Christopher Nkunku,fr FRA,"DL,CC",RB Leipzig,de Bundesliga,24,1997,21.1,4,0,0,18,37,12,17,8,4,3.0,0.0,0,59.0,17.0,26.0,39.5
+1930,Felix Nmecha,de GER,CC,Wolfsburg,de Bundesliga,21,2000,20.4,3,0,0,29,38,1,7,25,24,1.0,0.0,0,117.0,44.0,30.0,59.5
+1931,Lukas Nmecha,de GER,DL,Wolfsburg,de Bundesliga,23,1998,10.0,3,0,0,6,27,8,2,3,3,0.0,0.0,0,19.0,17.0,19.0,47.2
+1932,Arnaud Nordin,fr FRA,DL,Montpellier,fr Ligue 1,24,1998,26.7,4,0,0,21,82,4,49,14,14,2.0,0.0,0,120.0,21.0,59.0,26.3
+1933,Riad Nouri,fr FRA,"CC,DL",Ajaccio,fr Ligue 1,37,1985,18.8,3,0,0,16,15,7,86,15,12,0.0,0.0,0,84.0,13.0,17.0,43.3
+1934,Hugo Novoa,es ESP,"DF,DL",RB Leipzig,de Bundesliga,19,2003,2.0,0,0,0,6,2,4,10,1,2,0.0,0.0,0,4.0,3.0,4.0,42.9
+1935,Samuel Ntanda,be BEL,CC,Sampdoria,it Serie A,17,2005,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1936,Randy Ntekja,fr FRA,"DL,CC",Elche,es La Liga,24,1997,8.1,1,0,0,21,17,3,0,4,10,0.0,0.0,0,38.0,15.0,31.0,32.6
+1937,Randy Ntekja,fr FRA,"DL,CC",Rayo Vallecano,es La Liga,24,1997,1.3,0,1,0,4,5,0,0,2,2,0.0,0.0,0,11.0,5.0,4.0,55.6
+1938,Alexander Nübel,de GER,PO,Monaco,fr Ligue 1,25,1996,38.0,2,0,0,0,2,0,0,1,0,0.0,0.0,0,43.0,7.0,1.0,87.5
+1939,Matheus Nunes,pt POR,CC,Wolves,eng Premier League,23,1998,27.4,2,1,0,37,49,2,43,16,43,0.0,1.0,0,154.0,22.0,30.0,42.3
+1940,Darwin Núñez,uy URU,DL,Liverpool,eng Premier League,23,1999,18.8,1,1,0,25,17,17,18,3,5,1.0,0.0,0,44.0,36.0,51.0,41.4
+1941,Unai Núñez,es ESP,DF,Celta Vigo,es La Liga,25,1997,35.0,8,0,0,25,31,1,3,72,35,0.0,0.0,1,205.0,70.0,53.0,56.9
+1942,Bram Nuytinck,nl NED,DF,Udinese,it Serie A,32,1990,4.3,1,0,0,4,2,0,0,5,4,0.0,0.0,0,19.0,7.0,5.0,58.3
+1943,Bram Nuytinck,nl NED,DF,Sampdoria,it Serie A,32,1990,16.6,4,0,0,23,8,0,0,23,38,0.0,1.0,0,74.0,29.0,34.0,46.0
+1944,Ethan Nwaneri,eng ENG,DL,Arsenal,eng Premier League,15,2007,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+1945,Gerzino Nyamsi,fr FRA,DF,Strasbourg,fr Ligue 1,25,1997,17.5,4,1,0,37,3,0,1,10,20,0.0,2.0,0,108.0,37.0,20.0,64.9
+1946,Ørjan Nyland,no NOR,PO,RB Leipzig,de Bundesliga,31,1990,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,5.0,0.0,1.0,0.0
+1947,M'Bala Nzola,ao ANG,DL,Spezia,it Serie A,25,1996,29.5,8,0,0,57,41,10,10,7,5,0.0,0.0,0,74.0,42.0,80.0,34.4
+1948,Christian Nørgaard,dk DEN,CC,Brentford,eng Premier League,28,1994,19.6,6,0,0,35,20,0,11,34,30,1.0,0.0,0,165.0,18.0,20.0,47.4
+1949,Lewis O'Brien,eng ENG,CC,Nott'ham Forest,eng Premier League,23,1998,6.5,2,0,0,5,15,0,4,5,9,0.0,0.0,0,51.0,2.0,6.0,25.0
+1950,Pedro Obiang,gq EQG,CC,Sassuolo,it Serie A,30,1992,9.7,2,0,0,16,8,0,1,8,17,0.0,0.0,0,53.0,17.0,20.0,45.9
+1951,Jan Oblak,si SVN,PO,Atlético Madrid,es La Liga,29,1993,27.7,1,0,0,0,3,0,0,1,0,0.0,0.0,0,24.0,2.0,0.0,100.0
+1952,Brian Ocampo,uy URU,"CC,DL",Cádiz,es La Liga,23,1999,12.4,2,0,0,32,27,2,34,3,15,0.0,0.0,0,92.0,7.0,13.0,35.0
+1953,Lucas Ocampos,ar ARG,"DL,CC",Sevilla,es La Liga,28,1994,12.9,7,0,0,15,24,6,26,8,14,1.0,0.0,0,74.0,30.0,16.0,65.2
+1954,Guillermo Ochoa,mx MEX,PO,Salernitana,it Serie A,37,1985,20.0,1,0,0,0,1,0,0,0,0,0.0,0.0,0,22.0,2.0,0.0,100.0
+1955,Wilson Odobert,fr FRA,"CC,DL",Troyes,fr Ligue 1,17,2004,19.6,0,0,0,9,16,2,34,15,14,0.0,0.0,0,74.0,7.0,21.0,25.0
+1956,Álvaro Odriozola,es ESP,DF,Real Madrid,es La Liga,26,1995,0.4,0,0,0,0,2,0,3,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
+1957,Tim Oermann,de GER,DF,Bochum,de Bundesliga,18,2003,2.2,0,0,0,3,0,0,0,1,1,0.0,0.0,0,5.0,4.0,5.0,44.4
+1958,Odeluga Offiah,eng ENG,DF,Brighton,eng Premier League,19,2002,0.3,0,0,0,0,0,0,0,0,1,0.0,0.0,0,3.0,0.0,1.0,0.0
+1959,Angelo Ogbonna,it ITA,DF,West Ham,eng Premier League,34,1988,13.7,0,0,0,2,4,0,0,17,4,0.0,0.0,0,61.0,35.0,20.0,63.6
+1960,Florent Ogier,fr FRA,DF,Clermont Foot,fr Ligue 1,33,1989,18.9,4,0,0,15,9,0,3,18,16,0.0,1.0,0,87.0,28.0,27.0,50.9
+1961,Marios Oikonomou,gr GRE,DF,Sampdoria,it Serie A,29,1992,2.4,3,0,0,3,2,0,0,4,2,0.0,0.0,0,16.0,4.0,2.0,66.7
+1962,David Okereke,ng NGA,"DL,CC",Cremonese,it Serie A,24,1997,25.2,4,0,0,21,33,9,22,10,8,3.0,1.0,0,60.0,49.0,85.0,36.6
+1963,Caleb Okoli,it ITA,DF,Atalanta,it Serie A,21,2001,10.7,3,0,0,15,8,0,2,30,17,0.0,0.0,0,66.0,43.0,25.0,63.2
+1964,Olasagasti,es ESP,"CC,DF",Real Sociedad,es La Liga,21,2000,0.7,0,0,0,1,4,0,0,0,4,0.0,0.0,0,6.0,2.0,0.0,100.0
+1965,Lucas Olaza,uy URU,DF,Valladolid,es La Liga,28,1994,16.6,3,0,0,12,20,2,71,14,14,0.0,0.0,0,72.0,27.0,30.0,47.4
+1966,Finn Ole Becker,de GER,CC,Hoffenheim,de Bundesliga,22,2000,5.7,0,0,0,4,5,1,3,5,2,0.0,0.0,0,43.0,3.0,11.0,21.4
+1967,Mathias Olesen,lu LUX,CC,Köln,de Bundesliga,21,2001,5.3,1,0,0,6,5,1,2,2,5,0.0,0.0,0,29.0,3.0,6.0,33.3
+1968,Michael Olise,fr FRA,"DL,CC",Crystal Palace,eng Premier League,20,2001,30.5,2,0,0,28,69,7,242,26,34,0.0,1.0,0,165.0,17.0,38.0,30.9
+1969,Brian Oliván,es ESP,DF,Espanyol,es La Liga,28,1994,26.7,7,0,0,32,15,3,140,22,27,0.0,0.0,0,147.0,17.0,37.0,31.5
+1970,Lucas Oliveira Rosa,br BRA,DF,Valladolid,es La Liga,22,2000,10.3,3,0,0,19,11,1,37,15,18,0.0,0.0,0,55.0,15.0,12.0,55.6
+1971,Mathías Olivera,uy URU,DF,Napoli,it Serie A,24,1997,18.3,2,0,0,21,25,2,19,22,23,0.0,0.0,0,99.0,33.0,42.0,44.0
+1972,Dani Olmo,es ESP,"CC,DL",RB Leipzig,de Bundesliga,24,1998,14.2,2,0,0,17,40,1,11,6,9,0.0,0.0,0,84.0,8.0,17.0,32.0
+1973,Jan Olschowsky,de GER,PO,M'Gladbach,de Bundesliga,20,2001,4.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,8.0,0.0,0.0,
+1974,Robin Olsen,se SWE,PO,Aston Villa,eng Premier League,32,1990,3.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,
+1975,Warmed Omari,fr FRA,DF,Rennes,fr Ligue 1,22,2000,15.1,2,1,0,8,6,3,0,17,11,0.0,0.0,0,69.0,37.0,19.0,66.1
+1976,Jonas Omlin,ch SUI,PO,Montpellier,fr Ligue 1,28,1994,13.0,1,1,0,1,3,0,0,0,0,0.0,0.0,0,16.0,3.0,0.0,100.0
+1977,Jonas Omlin,ch SUI,PO,M'Gladbach,de Bundesliga,28,1994,14.3,0,0,0,0,2,0,0,0,1,0.0,0.0,0,31.0,3.0,0.0,100.0
+1978,Ado Onaiwu,jp JPN,DL,Toulouse,fr Ligue 1,26,1995,12.0,0,0,0,15,15,3,5,2,6,0.0,0.0,0,35.0,37.0,38.0,49.3
+1979,Amadou Onana,be BEL,CC,Everton,eng Premier League,20,2001,27.6,9,0,0,44,49,2,5,37,43,0.0,0.0,0,150.0,60.0,55.0,52.2
+1980,André Onana,cm CMR,PO,Inter,it Serie A,26,1996,24.0,1,0,0,0,3,0,0,0,0,0.0,0.0,1,24.0,3.0,0.0,100.0
+1981,Jean Onana,cm CMR,"CC,DF",Lens,fr Ligue 1,22,2000,9.0,3,0,0,7,10,2,3,18,17,0.0,0.0,0,63.0,9.0,7.0,56.3
+1982,Karim Onisiwo,at AUT,"DL,CC",Mainz 05,de Bundesliga,30,1992,28.2,4,0,0,49,33,22,57,2,12,1.0,0.0,0,67.0,56.0,67.0,45.5
+1983,Josh Onomah,eng ENG,CC,Fulham,eng Premier League,25,1997,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,1.0,0.0,100.0
+1984,Paul Onuachu,ng NGA,DL,Southampton,eng Premier League,28,1994,4.5,0,0,0,14,6,6,0,0,2,0.0,0.0,0,14.0,37.0,30.0,55.2
+1985,Frank Onyeka,ng NGA,CC,Brentford,eng Premier League,24,1998,9.4,0,0,0,15,26,2,2,10,14,0.0,0.0,0,50.0,7.0,15.0,31.8
+1986,Loïs Openda,be BEL,DL,Lens,fr Ligue 1,22,2000,28.0,2,0,0,42,47,22,30,2,9,0.0,0.0,0,60.0,13.0,20.0,39.4
+1987,Willi Orban,hu HUN,DF,RB Leipzig,de Bundesliga,29,1992,32.8,3,0,0,17,34,3,3,39,30,0.0,0.0,1,194.0,111.0,75.0,59.7
+1988,Ivan Ordets,ua UKR,DF,Bochum,de Bundesliga,30,1992,27.2,4,0,0,32,23,3,1,57,19,1.0,1.0,0,150.0,138.0,70.0,66.3
+1989,Divock Origi,be BEL,DL,Milan,it Serie A,27,1995,11.4,1,0,0,13,17,6,11,0,5,0.0,0.0,0,33.0,15.0,34.0,30.6
+1990,Aimar Oroz,es ESP,"CC,DL",Osasuna,es La Liga,20,2001,22.4,6,0,0,36,61,2,7,24,14,0.0,0.0,0,106.0,17.0,39.0,30.4
+1991,Mislav Oršić,hr CRO,CC,Southampton,eng Premier League,29,1992,0.1,0,0,0,0,0,1,0,0,1,0.0,0.0,0,1.0,0.0,0.0,
+1992,Riccardo Orsolini,it ITA,DL,Bologna,it Serie A,25,1997,23.6,8,2,1,39,43,18,99,8,19,1.0,0.0,0,113.0,16.0,25.0,39.0
+1993,Stefan Ortega,de GER,PO,Manchester City,eng Premier League,29,1992,3.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,7.0,1.0,0.0,100.0
+1994,Pedro Ortiz,es ESP,CC,Sevilla,es La Liga,21,2000,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+1995,Jordi Osei-Tutu,eng ENG,"DF,DL",Bochum,de Bundesliga,23,1998,8.3,3,0,0,8,23,3,15,10,18,0.0,0.0,0,48.0,6.0,12.0,33.3
+1996,Victor Osimhen,ng NGA,DL,Napoli,it Serie A,23,1998,28.5,4,0,0,40,38,32,19,6,6,2.0,1.0,0,58.0,65.0,54.0,54.6
+1997,Patrick Osterhage,de GER,CC,Bochum,de Bundesliga,22,2000,11.4,3,0,0,19,9,0,12,12,17,0.0,0.0,0,55.0,11.0,23.0,32.4
+1998,Paulo Otávio,br BRA,DF,Wolfsburg,de Bundesliga,27,1994,22.7,7,0,0,25,40,0,68,30,46,0.0,0.0,1,110.0,27.0,36.0,42.9
+1999,Dango Ouattara,bf BFA,"CC,DL",Bournemouth,eng Premier League,20,2002,13.8,1,0,0,6,15,8,30,13,15,0.0,0.0,0,64.0,30.0,37.0,44.8
+2000,Dango Ouattara,bf BFA,"DL,CC",Lorient,fr Ligue 1,20,2002,17.2,3,1,1,15,43,2,33,19,26,2.0,0.0,0,90.0,37.0,38.0,49.3
+2001,Remi Oudin,fr FRA,"DL,CC",Lecce,it Serie A,25,1996,14.7,3,0,0,10,14,2,113,29,13,0.0,0.0,0,90.0,11.0,12.0,47.8
+2002,Zinédine Ould Khaled,fr FRA,"CC,DL",Angers,fr Ligue 1,22,2000,0.6,0,0,0,1,0,0,0,2,1,0.0,0.0,0,6.0,1.0,2.0,33.3
+2003,Azzedine Ounahi,ma MAR,"CC,DL",Marseille,fr Ligue 1,22,2000,1.3,0,0,0,1,3,0,0,0,1,0.0,0.0,0,8.0,0.0,5.0,0.0
+2004,Azzedine Ounahi,ma MAR,"CC,DL",Angers,fr Ligue 1,22,2000,12.5,1,0,0,11,24,1,17,15,8,0.0,0.0,0,70.0,5.0,12.0,29.4
+2005,Adam Ounas,dz ALG,DL,Napoli,it Serie A,25,1996,0.2,0,0,0,0,0,0,0,1,0,0.0,0.0,0,0.0,1.0,0.0,100.0
+2006,Adam Ounas,dz ALG,"DL,CC",Lille,fr Ligue 1,25,1996,11.8,2,0,0,15,29,2,75,7,11,1.0,0.0,0,60.0,5.0,10.0,33.3
+2007,Thomas Ouwejan,nl NED,DF,Schalke 04,de Bundesliga,25,1996,10.0,1,0,0,6,6,1,96,13,8,0.0,1.0,0,61.0,4.0,13.0,23.5
+2008,Reece Oxford,eng ENG,DF,Augsburg,de Bundesliga,23,1998,1.0,0,0,0,0,2,0,0,1,1,0.0,0.0,0,6.0,7.0,7.0,50.0
+2009,Alex Oxlade-Chamberlain,eng ENG,"DL,CC",Liverpool,eng Premier League,28,1993,3.7,0,0,0,3,4,1,2,1,4,0.0,0.0,0,20.0,1.0,4.0,20.0
+2010,Mikel Oyarzabal,es ESP,"DL,CC",Real Sociedad,es La Liga,25,1997,13.5,1,0,0,15,16,12,28,3,7,1.0,0.0,0,56.0,15.0,29.0,34.1
+2011,Salih Özcan,tr TUR,CC,Dortmund,de Bundesliga,24,1998,17.5,6,0,0,26,24,0,3,28,18,0.0,0.0,0,126.0,20.0,19.0,51.3
+2012,Cenk Özkacar,tr TUR,DF,Valencia,es La Liga,21,2000,15.2,1,0,0,7,10,0,3,12,20,0.0,0.0,0,106.0,49.0,34.0,59.0
+2013,David Ozoh,eng ENG,DL,Crystal Palace,eng Premier League,17,2005,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2014,Levin Öztunalı,de GER,CC,Union Berlin,de Bundesliga,26,1996,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
+2015,Fernando Pacheco,es ESP,PO,Almería,es La Liga,30,1992,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2016,Fernando Pacheco,es ESP,PO,Espanyol,es La Liga,30,1992,16.0,0,0,0,0,4,0,0,1,0,0.0,0.0,0,13.0,4.0,1.0,80.0
+2017,Jon Pacheco,es ESP,DF,Real Sociedad,es La Liga,21,2001,13.3,2,0,0,18,11,1,0,12,10,0.0,1.0,0,55.0,30.0,23.0,56.6
+2018,Gonçalo Paciência,pt POR,"DL,CC",Celta Vigo,es La Liga,27,1994,7.4,2,1,0,19,17,0,6,0,5,0.0,0.0,0,20.0,29.0,23.0,55.8
+2019,Simone Pafundi,it ITA,"CC,DL",Udinese,it Serie A,16,2006,0.9,0,0,0,0,3,0,1,1,5,0.0,0.0,0,6.0,1.0,0.0,100.0
+2020,Exequiel Palacios,ar ARG,CC,Leverkusen,de Bundesliga,23,1998,18.4,4,0,0,23,40,1,5,33,36,0.0,1.0,0,172.0,13.0,14.0,48.1
+2021,Helibelton Palacios,co COL,DF,Elche,es La Liga,29,1993,21.3,6,0,0,30,19,0,18,20,20,0.0,0.0,0,118.0,21.0,25.0,45.7
+2022,Ante Palaversa,hr CRO,CC,Troyes,fr Ligue 1,22,2000,0.3,0,0,0,0,0,0,2,1,1,0.0,0.0,0,7.0,0.0,0.0,
+2023,Isaac Palazón Camacho,es ESP,"DL,CC",Rayo Vallecano,es La Liga,27,1994,32.9,4,0,0,37,104,9,192,17,30,0.0,0.0,0,210.0,30.0,83.0,26.5
+2024,João Palhinha,pt POR,CC,Fulham,eng Premier League,27,1995,34.5,14,0,0,48,50,1,3,46,83,0.0,1.0,1,212.0,71.0,39.0,64.5
+2025,Nicolas Pallois,fr FRA,DF,Nantes,fr Ligue 1,34,1987,24.6,4,1,1,20,6,1,7,30,44,0.0,1.0,1,174.0,35.0,25.0,58.3
+2026,Cole Palmer,eng ENG,"CC,DL",Manchester City,eng Premier League,20,2002,4.1,1,0,0,1,6,1,7,1,1,0.0,0.0,0,20.0,1.0,3.0,25.0
+2027,Erik Palmer-Brown,us USA,DF,Troyes,fr Ligue 1,25,1997,35.5,5,0,0,29,12,1,2,26,27,0.0,1.0,1,178.0,56.0,32.0,63.6
+2028,Emerson Palmieri,it ITA,DF,West Ham,eng Premier League,27,1994,14.7,2,0,0,13,15,0,47,15,14,0.0,0.0,0,66.0,18.0,9.0,66.7
+2029,Miloš Pantović,rs SRB,CC,Union Berlin,de Bundesliga,26,1996,2.3,1,0,0,4,5,2,3,0,2,0.0,0.0,0,15.0,6.0,9.0,40.0
+2030,Flavio Paoletti,it ITA,CC,Sampdoria,it Serie A,19,2003,3.2,1,0,0,5,3,0,1,5,2,0.0,0.0,0,18.0,1.0,6.0,14.3
+2031,Antonios Papadopoulos,de GER,DF,Dortmund,de Bundesliga,22,1999,0.1,0,0,0,2,0,0,0,1,0,0.0,0.0,0,2.0,1.0,0.0,100.0
+2032,Lucas Paquetá,br BRA,CC,West Ham,eng Premier League,24,1997,23.9,5,0,0,50,30,1,22,16,53,2.0,0.0,0,144.0,36.0,32.0,52.9
+2033,Lucas Paquetá,br BRA,CC,Lyon,fr Ligue 1,24,1997,1.8,0,0,0,2,3,0,1,1,4,0.0,0.0,0,10.0,4.0,1.0,80.0
+2034,Aitor Paredes,es ESP,DF,Athletic Club,es La Liga,22,2000,9.5,3,0,0,12,2,0,2,14,6,0.0,0.0,1,59.0,21.0,7.0,75.0
+2035,Kevin Paredes,us USA,"DL,CC",Wolfsburg,de Bundesliga,19,2003,5.9,2,0,0,4,18,2,22,6,9,0.0,0.0,0,38.0,3.0,5.0,37.5
+2036,Leandro Paredes,ar ARG,CC,Juventus,it Serie A,28,1994,10.9,7,1,0,20,10,0,51,17,13,0.0,1.0,0,75.0,4.0,3.0,57.1
+2037,Leandro Paredes,ar ARG,CC,Paris S-G,fr Ligue 1,28,1994,0.6,0,0,0,0,1,0,0,1,1,0.0,0.0,0,2.0,0.0,0.0,
+2038,Daniel Parejo,es ESP,CC,Villarreal,es La Liga,33,1989,36.5,6,0,0,30,75,0,144,29,40,0.0,1.0,0,257.0,17.0,21.0,44.7
+2039,Fabiano Parisi,it ITA,DF,Empoli,it Serie A,21,2000,31.4,10,1,0,34,74,0,59,41,35,1.0,1.0,0,233.0,30.0,13.0,69.8
+2040,Moises Parra Gutierrez,es ESP,DL,Getafe,es La Liga,20,2002,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+2041,Raúl Parra,es ESP,DF,Cádiz,es La Liga,22,1999,3.4,1,0,0,6,3,0,6,1,2,0.0,0.0,0,17.0,3.0,1.0,75.0
+2042,Thomas Partey,gh GHA,CC,Arsenal,eng Premier League,29,1993,27.6,5,0,0,37,23,0,9,28,40,0.0,0.0,0,225.0,37.0,25.0,59.7
+2043,Marco Pašalić,hr CRO,CC,Dortmund,de Bundesliga,21,2000,0.1,0,0,0,1,0,0,1,0,0,0.0,0.0,0,2.0,0.0,0.0,
+2044,Mario Pašalić,hr CRO,"CC,DL",Atalanta,it Serie A,27,1995,19.7,3,0,0,24,16,2,5,21,10,0.0,0.0,0,102.0,37.0,34.0,52.1
+2045,Pascu,es ESP,"DF,DL",Villarreal,es La Liga,19,2003,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,
+2046,Felix Passlack,de GER,DF,Dortmund,de Bundesliga,24,1998,0.7,0,0,0,0,1,0,2,0,3,0.0,0.0,0,5.0,1.0,1.0,50.0
+2047,Javier Pastore,ar ARG,CC,Elche,es La Liga,33,1989,0.1,0,0,0,1,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+2048,Patric,es ESP,DF,Lazio,it Serie A,29,1993,15.7,1,0,0,3,4,0,0,11,11,0.0,0.0,0,96.0,8.0,22.0,26.7
+2049,Rui Patrício,pt POR,PO,Roma,it Serie A,34,1988,35.0,1,0,0,1,0,0,0,2,1,0.0,1.0,0,37.0,2.0,0.0,100.0
+2050,Nathan Patterson,sct SCO,"DF,CC",Everton,eng Premier League,20,2001,14.2,3,0,0,14,13,1,39,15,24,0.0,0.0,0,80.0,10.0,12.0,45.5
+2051,Paulinho,br BRA,DL,Leverkusen,de Bundesliga,22,2000,0.9,0,0,0,0,1,0,0,0,0,0.0,0.0,0,5.0,1.0,4.0,20.0
+2052,Gabriel Paulista,br BRA,DF,Valencia,es La Liga,31,1990,16.7,4,2,1,12,11,0,0,32,9,0.0,1.0,0,83.0,42.0,30.0,58.3
+2053,Benjamin Pavard,fr FRA,DF,Bayern Munich,de Bundesliga,26,1996,27.0,6,0,0,28,17,5,45,44,41,0.0,3.0,0,153.0,64.0,33.0,66.0
+2054,Jiří Pavlenka,cz CZE,PO,Werder Bremen,de Bundesliga,30,1992,32.3,1,0,0,0,7,0,0,3,0,0.0,0.0,0,50.0,8.0,1.0,88.9
+2055,Dimitri Payet,fr FRA,"CC,DL",Marseille,fr Ligue 1,35,1987,9.3,0,0,0,5,19,2,58,0,4,0.0,0.0,0,46.0,5.0,5.0,50.0
+2056,Ben Pearson,eng ENG,CC,Bournemouth,eng Premier League,27,1995,3.2,1,0,0,9,2,0,0,2,3,0.0,0.0,0,19.0,2.0,3.0,40.0
+2057,Kristian Pedersen,dk DEN,DF,Köln,de Bundesliga,27,1994,3.1,1,0,0,5,1,0,4,6,4,0.0,0.0,0,19.0,10.0,4.0,71.4
+2058,Mads Pedersen,dk DEN,"DF,CC",Augsburg,de Bundesliga,25,1996,20.4,6,0,0,23,23,0,46,20,23,0.0,0.0,0,122.0,7.0,23.0,23.3
+2059,Alfonso Pedraza,es ESP,DF,Villarreal,es La Liga,26,1996,18.1,5,0,0,20,15,2,76,18,26,0.0,0.0,0,88.0,12.0,12.0,50.0
+2060,Pedri,es ESP,CC,Barcelona,es La Liga,19,2002,22.0,2,0,0,8,43,4,25,13,22,0.0,0.0,0,134.0,3.0,5.0,37.5
+2061,Pedro,es ESP,DL,Lazio,it Serie A,35,1987,21.1,1,0,0,26,30,5,34,6,24,1.0,0.0,0,89.0,1.0,5.0,16.7
+2062,Adrià Pedrosa,es ESP,"DF,CC",Espanyol,es La Liga,24,1998,2.5,0,0,0,3,4,1,9,5,1,0.0,0.0,0,18.0,1.0,1.0,50.0
+2063,Jordan Pefok,us USA,DL,Union Berlin,de Bundesliga,26,1996,15.1,3,0,0,37,13,9,2,4,7,0.0,0.0,0,41.0,106.0,92.0,53.5
+2064,Gianluca Pegolo,it ITA,PO,Sassuolo,it Serie A,41,1981,2.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+2065,Dženan Pejčinović,de GER,DL,Wolfsburg,de Bundesliga,17,2005,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,4.0,20.0
+2066,Peter Pekarík,sk SVK,DF,Hertha BSC,de Bundesliga,35,1986,2.3,0,0,0,0,0,0,4,4,3,0.0,0.0,0,14.0,4.0,5.0,44.4
+2067,Pietro Pellegri,it ITA,DL,Torino,it Serie A,21,2001,5.2,3,0,0,15,14,7,3,0,2,0.0,0.0,0,12.0,11.0,33.0,25.0
+2068,Lorenzo Pellegrini,it ITA,CC,Roma,it Serie A,26,1996,28.3,5,0,0,25,57,5,162,26,29,0.0,0.0,0,130.0,12.0,24.0,33.3
+2069,Luca Pellegrini,it ITA,DF,Lazio,it Serie A,23,1999,2.0,3,0,0,5,1,0,15,7,0,0.0,0.0,0,12.0,3.0,7.0,30.0
+2070,Luca Pellegrini,it ITA,DF,Eint Frankfurt,de Bundesliga,23,1999,6.2,1,0,0,8,8,0,54,7,8,0.0,0.0,0,53.0,5.0,3.0,62.5
+2071,Théo Pellenard,fr FRA,DF,Auxerre,fr Ligue 1,28,1994,1.1,0,0,0,1,0,0,1,2,0,0.0,0.0,0,2.0,1.0,0.0,100.0
+2072,Facundo Pellistri,uy URU,"DL,CC",Manchester Utd,eng Premier League,20,2001,0.7,0,0,0,1,2,0,0,0,1,0.0,0.0,0,1.0,0.0,0.0,
+2073,Timothee Pembele,fr FRA,DF,Paris S-G,fr Ligue 1,19,2002,2.9,0,0,0,0,1,0,4,4,5,0.0,0.0,0,5.0,3.0,3.0,50.0
+2074,Iñaki Peña,es ESP,PO,Barcelona,es La Liga,23,1999,0.8,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,
+2075,Rubén Peña,es ESP,"DF,CC",Osasuna,es La Liga,31,1991,14.2,2,1,0,26,14,0,54,17,18,0.0,0.0,0,94.0,14.0,19.0,42.4
+2076,Patrick Pentz,at AUT,PO,Reims,fr Ligue 1,25,1997,7.0,1,0,0,0,2,0,0,0,0,0.0,0.0,0,8.0,0.0,0.0,
+2077,Nicolas Pépé,ci CIV,"DL,CC",Nice,fr Ligue 1,27,1995,16.6,2,0,0,13,33,6,42,3,13,2.0,0.0,0,76.0,8.0,13.0,38.1
+2078,Ricardo Pepi,us USA,DL,Augsburg,de Bundesliga,19,2003,1.1,0,0,0,0,0,0,0,0,1,0.0,0.0,0,5.0,3.0,8.0,27.3
+2079,Pepín,gq EQG,CC,Monza,it Serie A,25,1996,12.5,4,0,0,19,12,0,11,13,19,0.0,0.0,0,66.0,6.0,7.0,46.2
+2080,Alberto Perea,es ESP,CC,Cádiz,es La Liga,31,1990,0.5,0,0,0,0,2,0,1,0,0,0.0,0.0,0,2.0,0.0,2.0,0.0
+2081,Juan Perea,co COL,DL,Stuttgart,de Bundesliga,22,2000,4.6,0,0,0,12,12,6,6,1,4,0.0,0.0,0,16.0,6.0,18.0,25.0
+2082,Andreas Pereira,br BRA,CC,Fulham,eng Premier League,26,1996,29.9,8,0,0,41,31,2,196,6,9,0.0,1.0,0,117.0,9.0,28.0,24.3
+2083,Brayann Pereira,fr FRA,DF,Auxerre,fr Ligue 1,19,2003,2.0,0,0,0,1,4,0,9,2,5,0.0,0.0,0,9.0,3.0,0.0,100.0
+2084,Danilo Pereira,pt POR,"DF,CC",Paris S-G,fr Ligue 1,30,1991,26.8,3,0,0,17,14,1,3,36,17,0.0,0.0,0,184.0,34.0,22.0,60.7
+2085,Mathias Pereira Lage,pt POR,"CC,DL",Brest,fr Ligue 1,25,1996,14.0,2,0,0,23,27,1,34,14,7,1.0,0.0,0,69.0,21.0,28.0,42.9
+2086,Ricardo Pereira,pt POR,"DF,CC",Leicester City,eng Premier League,28,1993,5.0,2,0,0,4,4,0,16,4,7,0.0,0.0,0,30.0,5.0,11.0,31.3
+2087,Roberto Pereyra,ar ARG,"DF,CC",Udinese,it Serie A,31,1991,31.3,7,0,0,31,47,2,71,16,20,0.0,1.0,0,160.0,3.0,9.0,25.0
+2088,Ayoze Pérez,es ESP,"CC,DL",Leicester City,eng Premier League,29,1993,4.2,0,0,0,7,12,0,17,2,8,0.0,0.0,0,35.0,2.0,4.0,33.3
+2089,Ayoze Pérez,es ESP,"DL,CC",Betis,es La Liga,29,1993,15.4,3,0,0,32,29,2,7,13,15,2.0,0.0,0,67.0,8.0,24.0,25.0
+2090,Carles Pérez,es ESP,"CC,DL",Celta Vigo,es La Liga,24,1998,23.8,5,0,0,35,37,9,36,6,23,1.0,0.0,0,110.0,6.0,40.0,13.0
+2091,Francisco Perez,es ESP,"DL,CC",Valencia,es La Liga,19,2002,1.6,2,0,0,4,3,3,8,0,1,0.0,0.0,0,12.0,0.0,2.0,0.0
+2092,Kike Pérez,es ESP,CC,Valladolid,es La Liga,25,1997,25.6,9,0,0,57,57,4,58,20,33,0.0,0.0,0,186.0,31.0,31.0,50.0
+2093,Lucas Pérez,es ESP,DL,Cádiz,es La Liga,33,1988,7.0,3,0,0,5,4,6,40,1,2,0.0,0.0,0,21.0,2.0,8.0,20.0
+2094,Luis Pérez,es ESP,DF,Valladolid,es La Liga,27,1995,13.5,2,0,0,12,16,4,54,16,24,0.0,0.0,0,55.0,7.0,16.0,30.4
+2095,Nehuén Pérez,ar ARG,DF,Udinese,it Serie A,22,2000,31.3,7,1,0,29,11,0,18,35,40,0.0,0.0,1,146.0,35.0,22.0,61.4
+2096,Simone Perilli,it ITA,PO,Hellas Verona,it Serie A,27,1995,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+2097,Mattia Perin,it ITA,PO,Juventus,it Serie A,29,1992,10.5,0,0,0,0,1,0,0,0,0,0.0,0.0,0,18.0,2.0,0.0,100.0
+2098,Samuele Perisan,it ITA,PO,Empoli,it Serie A,24,1997,7.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,3.0,1.0,1.0,50.0
+2099,Ivan Perišić,hr CRO,"DF,CC",Tottenham,eng Premier League,33,1989,23.4,6,0,0,30,8,6,196,22,24,0.0,0.0,0,117.0,33.0,32.0,50.8
+2100,Romain Perraud,fr FRA,DF,Southampton,eng Premier League,24,1997,20.4,4,0,0,31,15,3,77,20,33,0.0,0.0,1,97.0,14.0,23.0,37.8
+2101,Gaëtan Perrin,fr FRA,"CC,DL",Auxerre,fr Ligue 1,26,1996,15.5,1,0,0,18,22,4,30,10,8,0.0,0.0,0,84.0,14.0,22.0,38.9
+2102,Lucas Perrin,fr FRA,DF,Strasbourg,fr Ligue 1,23,1998,19.6,4,0,0,23,19,0,8,36,27,0.0,1.0,0,112.0,36.0,19.0,65.5
+2103,Máximo Perrone,ar ARG,CC,Manchester City,eng Premier League,19,2003,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,
+2104,Matteo Pessina,it ITA,CC,Monza,it Serie A,25,1997,32.6,6,0,0,41,53,1,36,37,36,0.0,0.0,0,225.0,38.0,35.0,52.1
+2105,Andrea Petagna,it ITA,DL,Monza,it Serie A,27,1995,18.5,2,0,0,29,30,10,3,3,5,1.0,1.0,0,46.0,39.0,36.0,52.0
+2106,Nils Petersen,de GER,DL,Freiburg,de Bundesliga,33,1988,3.1,1,0,0,5,2,3,0,1,4,0.0,0.0,0,8.0,14.0,23.0,37.8
+2107,Lukas Petkov,bg BUL,"CC,DL",Augsburg,de Bundesliga,21,2000,1.6,1,0,0,4,1,0,0,1,1,0.0,0.0,0,6.0,5.0,15.0,25.0
+2108,Cameron Peupion,au AUS,CC,Brighton,eng Premier League,19,2002,0.1,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0
+2109,Germán Pezzella,ar ARG,DF,Betis,es La Liga,31,1991,27.9,4,3,0,27,17,1,2,50,28,0.0,0.0,0,108.0,73.0,31.0,70.2
+2110,Giuseppe Pezzella,it ITA,DF,Lecce,it Serie A,24,1997,10.2,2,0,0,16,11,1,34,8,9,0.0,0.0,0,49.0,11.0,8.0,57.9
+2111,Luca Pfeiffer,de GER,DL,Stuttgart,de Bundesliga,25,1996,7.8,1,1,0,14,9,1,1,1,1,0.0,0.0,0,16.0,30.0,28.0,51.7
+2112,Maximilian Philipp,de GER,DL,Wolfsburg,de Bundesliga,28,1994,1.3,0,0,0,0,7,1,7,0,1,0.0,0.0,0,3.0,1.0,2.0,33.3
+2113,Maximilian Philipp,de GER,"DL,CC",Werder Bremen,de Bundesliga,28,1994,4.9,1,0,0,7,12,3,0,3,5,0.0,0.0,0,16.0,7.0,23.0,23.3
+2114,Kalvin Phillips,eng ENG,CC,Manchester City,eng Premier League,26,1995,3.3,1,0,0,10,2,0,0,5,4,0.0,0.0,0,19.0,5.0,2.0,71.4
+2115,Nathaniel Phillips,eng ENG,DF,Liverpool,eng Premier League,25,1997,0.7,0,0,0,1,0,0,0,2,1,0.0,0.0,0,14.0,4.0,0.0,100.0
+2116,Krzysztof Piątek,pl POL,DL,Salernitana,it Serie A,27,1995,23.8,5,0,0,39,44,22,14,2,11,0.0,0.0,0,58.0,90.0,115.0,43.9
+2117,Roberto Piccoli,it ITA,DL,Hellas Verona,it Serie A,21,2001,2.1,0,0,0,2,3,4,3,0,0,0.0,0.0,0,4.0,3.0,13.0,18.8
+2118,Roberto Piccoli,it ITA,DL,Empoli,it Serie A,21,2001,5.7,0,0,0,7,3,4,1,1,1,0.0,0.0,0,15.0,18.0,26.0,40.9
+2119,Charles Pickel,cd COD,CC,Cremonese,it Serie A,25,1997,27.6,8,1,0,34,18,4,11,24,23,0.0,0.0,0,163.0,47.0,76.0,38.2
+2120,Jordan Pickford,eng ENG,PO,Everton,eng Premier League,28,1994,37.0,6,0,0,1,5,0,0,4,0,0.0,1.0,0,36.0,8.0,3.0,72.7
+2121,Amos Pieper,de GER,DF,Werder Bremen,de Bundesliga,24,1998,21.7,9,0,0,24,15,2,17,30,28,0.0,1.0,0,131.0,68.0,31.0,68.7
+2122,Ronaël Pierre-Gabriel,fr FRA,DF,Espanyol,es La Liga,24,1998,2.6,2,1,1,4,4,0,10,9,9,0.0,0.0,0,18.0,4.0,2.0,66.7
+2123,Ronaël Pierre-Gabriel,fr FRA,DF,Strasbourg,fr Ligue 1,24,1998,7.3,3,0,0,12,8,2,19,9,18,0.0,0.0,0,41.0,8.0,7.0,53.3
+2124,Andrea Pinamonti,it ITA,DL,Sassuolo,it Serie A,23,1999,24.0,3,1,0,21,31,8,14,2,7,1.0,0.0,0,32.0,36.0,79.0,31.3
+2125,Ethan Pinnock,jm JAM,DF,Brentford,eng Premier League,29,1993,30.0,0,0,0,6,10,0,10,35,28,0.0,0.0,1,123.0,105.0,52.0,66.9
+2126,Yeremi Pino,es ESP,"DL,CC",Villarreal,es La Liga,19,2002,27.2,8,0,0,65,53,18,20,15,38,1.0,0.0,0,107.0,24.0,37.0,39.3
+2127,Gerard Piqué,es ESP,DF,Barcelona,es La Liga,35,1987,4.3,2,1,0,7,2,0,0,2,4,0.0,0.0,0,26.0,20.0,6.0,76.9
+2128,Lorenzo Pirola,it ITA,DF,Salernitana,it Serie A,20,2002,21.6,4,0,0,28,9,0,1,30,29,0.0,0.0,0,83.0,48.0,39.0,55.2
+2129,Niccolò Pisilli,it ITA,CC,Roma,it Serie A,17,2004,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2130,Marko Pjaca,hr CRO,"CC,DL",Empoli,it Serie A,27,1995,5.8,1,0,0,2,7,1,25,3,3,0.0,0.0,0,30.0,7.0,7.0,50.0
+2131,Óscar Plano,es ESP,"DL,CC",Valladolid,es La Liga,31,1991,22.6,3,0,0,23,49,7,23,29,25,1.0,0.0,0,108.0,34.0,50.0,40.5
+2132,Gonzalo Plata,ec ECU,DL,Valladolid,es La Liga,21,2000,25.6,1,0,0,22,41,4,54,12,35,3.0,0.0,0,123.0,17.0,44.0,27.9
+2133,Marvin Plattenhardt,de GER,DF,Hertha BSC,de Bundesliga,30,1992,26.7,3,0,0,21,31,1,156,15,33,1.0,0.0,0,117.0,19.0,17.0,52.8
+2134,Alassane Pléa,fr FRA,DL,M'Gladbach,de Bundesliga,29,1993,19.7,5,0,0,24,32,4,48,12,8,0.0,1.0,0,88.0,14.0,29.0,32.6
+2135,Tommaso Pobega,it ITA,CC,Milan,it Serie A,23,1999,9.8,4,0,0,30,5,0,5,9,16,0.0,0.0,0,51.0,13.0,18.0,41.9
+2136,Daniel Podence,pt POR,"DL,CC",Wolves,eng Premier League,26,1995,19.7,5,0,0,26,23,4,56,7,17,0.0,0.0,0,87.0,6.0,12.0,33.3
+2137,Paul Pogba,fr FRA,"CC,DL",Juventus,it Serie A,29,1993,1.2,0,0,0,2,7,0,2,0,0,0.0,0.0,0,6.0,7.0,3.0,70.0
+2138,Joel Pohjanpalo,fi FIN,"DL,CC",Leverkusen,de Bundesliga,27,1994,0.0,0,0,0,0,0,1,0,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
+2139,Matteo Politano,it ITA,DL,Napoli,it Serie A,28,1993,13.0,1,0,0,11,22,1,82,7,9,0.0,0.0,0,66.0,3.0,6.0,33.3
+2140,Sebastian Polter,de GER,DL,Schalke 04,de Bundesliga,31,1991,7.0,3,0,0,23,11,3,2,1,3,0.0,0.0,0,24.0,39.0,35.0,52.7
+2141,Ezequiel Ponce,ar ARG,"DL,CC",Elche,es La Liga,25,1997,12.5,2,1,0,32,9,8,1,1,7,1.0,0.0,0,36.0,35.0,44.0,44.3
+2142,Julien Ponceau,fr FRA,CC,Lorient,fr Ligue 1,21,2000,18.4,1,0,0,21,25,4,12,14,19,0.0,0.0,0,105.0,8.0,27.0,22.9
+2143,Marin Pongračić,hr CRO,DF,Lecce,it Serie A,24,1997,8.8,2,0,0,15,0,0,0,16,14,0.0,0.0,0,59.0,9.0,10.0,47.4
+2144,Nick Pope,eng ENG,PO,Newcastle Utd,eng Premier League,30,1992,36.2,3,1,0,1,2,0,0,0,0,0.0,0.0,0,30.0,4.0,1.0,80.0
+2145,Łukasz Poręba,pl POL,CC,Lens,fr Ligue 1,22,2000,2.9,1,0,0,9,2,0,6,4,4,0.0,0.0,0,12.0,3.0,1.0,75.0
+2146,Jackson Porozo,ec ECU,DF,Troyes,fr Ligue 1,21,2000,18.0,3,0,0,29,18,1,3,33,20,0.0,0.0,0,75.0,47.0,25.0,65.3
+2147,Pedro Porro,es ESP,"DF,CC",Tottenham,eng Premier League,22,1999,12.6,0,0,0,12,16,1,77,15,16,0.0,0.0,0,85.0,1.0,11.0,8.3
+2148,Francisco Portillo,es ESP,"CC,DL",Almería,es La Liga,32,1990,8.0,1,0,0,2,3,2,12,7,6,0.0,0.0,0,54.0,5.0,5.0,50.0
+2149,Portu,es ESP,"CC,DF",Getafe,es La Liga,30,1992,19.7,7,1,1,25,25,10,91,17,21,0.0,0.0,0,91.0,20.0,34.0,37.0
+2150,Stefan Posch,at AUT,DF,Bologna,it Serie A,25,1997,28.1,6,0,0,47,28,1,49,35,43,0.0,0.0,0,157.0,27.0,28.0,49.1
+2151,Stefan Posch,at AUT,DF,Hoffenheim,de Bundesliga,25,1997,0.2,2,1,1,2,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2152,Yussuf Poulsen,dk DEN,DL,RB Leipzig,de Bundesliga,28,1994,4.6,1,0,0,10,9,2,4,0,4,0.0,0.0,0,21.0,27.0,12.0,69.2
+2153,José Pozo,es ESP,"CC,DL",Rayo Vallecano,es La Liga,26,1996,1.0,0,0,0,2,4,0,4,1,2,0.0,0.0,0,5.0,2.0,3.0,40.0
+2154,Manuel Pozo,es ESP,DL,Valladolid,es La Liga,20,2001,0.2,0,0,0,0,0,0,1,2,0,0.0,0.0,0,4.0,0.0,0.0,
+2155,Alejandro Pozo Pozo,es ESP,DF,Almería,es La Liga,23,1999,20.9,2,0,0,15,14,1,70,26,19,0.0,1.0,0,138.0,12.0,23.0,34.3
+2156,Dennis Praet,be BEL,"CC,DL",Leicester City,eng Premier League,28,1994,7.2,1,0,0,9,8,1,15,5,9,0.0,0.0,0,48.0,1.0,11.0,8.3
+2157,Abdón Prats,es ESP,"DL,CC",Mallorca,es La Liga,29,1992,4.6,1,0,0,5,6,2,0,0,0,0.0,0.0,0,12.0,14.0,38.0,26.9
+2158,Sanjin Prcić,ba BIH,CC,Strasbourg,fr Ligue 1,28,1993,18.1,3,1,0,16,19,1,29,25,12,0.0,0.0,0,152.0,16.0,7.0,69.6
+2159,Isaac Price,nir NIR,CC,Everton,eng Premier League,18,2003,0.4,1,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2160,Grischa Prömel,de GER,CC,Hoffenheim,de Bundesliga,27,1995,16.2,4,0,0,32,36,2,6,8,19,0.0,0.0,0,83.0,21.0,29.0,42.0
+2161,Ivan Provedel,it ITA,PO,Lazio,it Serie A,28,1994,37.9,1,0,0,0,5,0,0,0,0,0.0,0.0,0,78.0,3.0,1.0,75.0
+2162,Javi Puado,es ESP,"DL,CC",Espanyol,es La Liga,24,1998,26.0,4,0,0,16,25,4,36,10,11,1.0,0.0,0,135.0,21.0,41.0,33.9
+2163,Mehdi Puch Herrantz,fr FRA,CC,Ajaccio,fr Ligue 1,18,2004,0.5,0,0,0,1,1,0,0,3,2,0.0,0.0,0,6.0,0.0,1.0,0.0
+2164,Tymoteusz Puchacz,pl POL,DF,Union Berlin,de Bundesliga,23,1999,0.6,0,0,0,0,0,0,5,0,0,0.0,0.0,0,1.0,0.0,1.0,0.0
+2165,Arnau Puigmal,es ESP,"CC,DL",Almería,es La Liga,21,2001,8.5,4,0,0,10,15,2,18,11,14,0.0,1.0,0,36.0,3.0,8.0,27.3
+2166,Christian Pulisic,us USA,"DL,DF",Chelsea,eng Premier League,23,1998,9.1,1,0,0,10,15,0,18,4,6,0.0,0.0,0,31.0,5.0,18.0,21.7
+2167,Ignacio Pussetto,ar ARG,"CC,DF",Sampdoria,it Serie A,26,1995,1.7,1,0,0,7,1,0,5,0,3,0.0,0.0,0,4.0,4.0,5.0,44.4
+2168,Niklas Pyyhtiä,fi FIN,CC,Bologna,it Serie A,18,2003,1.2,0,0,0,0,0,0,0,1,0,0.0,0.0,0,7.0,1.0,6.0,14.3
+2169,Fabio Quagliarella,it ITA,DL,Sampdoria,it Serie A,39,1983,8.9,2,0,0,4,19,6,14,0,1,0.0,0.0,0,29.0,9.0,28.0,24.3
+2170,Giacomo Quagliata,it ITA,DF,Cremonese,it Serie A,22,2000,7.8,0,1,0,13,12,0,54,11,8,0.0,0.0,0,57.0,2.0,14.0,12.5
+2171,Eduardo Quaresma,pt POR,DF,Hoffenheim,de Bundesliga,20,2002,1.0,0,0,0,1,1,0,0,0,3,0.0,0.0,0,10.0,1.0,1.0,50.0
+2172,Joshua Quarshie,de GER,CC,Hoffenheim,de Bundesliga,18,2004,0.0,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2173,Ghjuvanni Quilichini,fr FRA,PO,Ajaccio,fr Ligue 1,19,2002,0.9,0,0,0,0,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+2174,Domingos Quina,pt POR,CC,Elche,es La Liga,22,1999,3.1,3,1,1,5,11,0,6,3,2,0.0,0.0,0,27.0,0.0,1.0,0.0
+2175,Rubén Quintanilla,es ESP,DF,Mallorca,es La Liga,20,2002,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2176,Adrien Rabiot,fr FRA,CC,Juventus,it Serie A,27,1995,30.5,9,0,0,45,42,2,34,26,35,0.0,0.0,0,179.0,50.0,39.0,56.2
+2177,Nemanja Radonjić,rs SRB,"CC,DL",Torino,it Serie A,26,1996,16.2,1,0,0,17,17,12,76,2,1,0.0,0.0,0,63.0,7.0,14.0,33.3
+2178,Ivan Radovanović,rs SRB,"CC,DF",Salernitana,it Serie A,33,1988,7.5,1,1,0,4,7,0,0,7,4,0.0,0.0,0,47.0,8.0,12.0,40.0
+2179,Ionuț Radu,ro ROU,PO,Cremonese,it Serie A,25,1997,9.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,11.0,3.0,1.0,75.0
+2180,Ionuț Radu,ro ROU,PO,Auxerre,fr Ligue 1,25,1997,17.0,0,0,0,1,0,0,0,0,0,0.0,0.0,0,19.0,3.0,0.0,100.0
+2181,Ștefan Radu,ro ROU,DL,Lazio,it Serie A,35,1986,0.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2182,Antonio Raillo,es ESP,DF,Mallorca,es La Liga,30,1991,30.7,11,1,0,42,21,5,0,31,21,1.0,0.0,0,140.0,92.0,51.0,64.3
+2183,Antonio Raimondo,it ITA,DL,Bologna,it Serie A,18,2004,0.2,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,3.0,0.0
+2184,Predrag Rajković,rs SRB,PO,Mallorca,es La Liga,26,1995,36.0,3,0,0,1,3,0,0,0,0,0.0,1.0,0,23.0,5.0,1.0,83.3
+2185,Ivan Rakitić,hr CRO,CC,Sevilla,es La Liga,34,1988,19.9,3,1,0,16,27,3,74,27,26,0.0,0.0,0,111.0,20.0,20.0,50.0
+2186,Diant Ramaj,de GER,PO,Eint Frankfurt,de Bundesliga,20,2001,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,1.0,0.0,100.0
+2187,Largie Ramazani,be BEL,"DL,CC",Almería,es La Liga,21,2001,15.6,6,0,0,31,15,12,20,15,9,1.0,1.0,0,57.0,5.0,18.0,21.7
+2188,Simon Ramet,fr FRA,DF,Lille,fr Ligue 1,19,2003,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2189,Adil Rami,fr FRA,DF,Troyes,fr Ligue 1,36,1985,17.7,2,0,0,10,14,1,5,25,14,0.0,1.0,0,93.0,29.0,16.0,64.4
+2190,Chris Ramos,es ESP,DL,Cádiz,es La Liga,25,1997,7.9,2,0,0,21,12,0,6,1,9,1.0,0.0,0,23.0,65.0,48.0,57.5
+2191,Sergio Ramos,es ESP,DF,Paris S-G,fr Ligue 1,36,1986,30.0,3,1,0,36,24,4,13,34,26,1.0,0.0,0,173.0,55.0,34.0,61.8
+2192,Aaron Ramsdale,eng ENG,PO,Arsenal,eng Premier League,24,1998,38.0,1,0,0,0,4,0,0,0,1,0.0,0.0,0,33.0,6.0,0.0,100.0
+2193,Aaron Ramsey,wls WAL,CC,Nice,fr Ligue 1,31,1990,17.6,3,0,0,23,18,3,62,17,25,1.0,0.0,0,115.0,6.0,12.0,33.3
+2194,Jacob Ramsey,eng ENG,"CC,DL",Aston Villa,eng Premier League,21,2001,29.3,5,0,0,35,45,2,18,23,39,0.0,1.0,1,141.0,16.0,33.0,32.7
+2195,Luca Ranieri,it ITA,DF,Fiorentina,it Serie A,23,1999,5.6,1,0,0,6,2,2,0,11,4,0.0,0.0,0,30.0,11.0,13.0,45.8
+2196,Andrea Ranocchia,it ITA,DF,Monza,it Serie A,34,1988,0.5,0,0,0,2,0,0,0,0,1,0.0,0.0,0,1.0,1.0,2.0,33.3
+2197,Filippo Ranocchia,it ITA,CC,Monza,it Serie A,21,2001,5.9,1,0,0,7,12,0,13,4,6,0.0,0.0,0,32.0,2.0,6.0,25.0
+2198,Lilian Raolisoa,fr FRA,"DF,CC",Angers,fr Ligue 1,22,2000,1.9,0,0,0,1,3,0,10,3,9,0.0,0.0,0,17.0,1.0,0.0,100.0
+2199,Raphinha,br BRA,DL,Barcelona,es La Liga,25,1996,23.0,9,0,0,22,37,15,172,14,19,0.0,0.0,0,98.0,14.0,9.0,60.9
+2200,Nicolai Rapp,de GER,"CC,DF",Werder Bremen,de Bundesliga,25,1996,0.8,0,0,0,2,0,0,1,0,1,0.0,0.0,0,6.0,1.0,2.0,33.3
+2201,Elba Rashani,xk KVX,"CC,DL",Clermont Foot,fr Ligue 1,29,1993,24.0,3,0,0,36,29,4,58,21,26,1.0,0.0,0,101.0,16.0,42.0,27.6
+2202,Marcus Rashford,eng ENG,DL,Manchester Utd,eng Premier League,24,1997,32.0,2,0,0,15,23,15,24,7,10,0.0,0.0,0,100.0,20.0,40.0,33.3
+2203,Giacomo Raspadori,it ITA,DL,Sassuolo,it Serie A,22,2000,0.5,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2204,Giacomo Raspadori,it ITA,"DL,CC",Napoli,it Serie A,22,2000,10.1,1,0,0,7,12,1,32,4,8,0.0,0.0,0,31.0,3.0,8.0,27.3
+2205,Rafael Ratão,br BRA,"DL,CC",Toulouse,fr Ligue 1,26,1995,20.6,2,0,0,28,33,2,52,21,36,0.0,0.0,0,116.0,10.0,13.0,43.5
+2206,David Raum,de GER,"DF,CC",RB Leipzig,de Bundesliga,24,1998,18.7,5,0,0,21,14,2,141,16,25,0.0,2.0,0,113.0,16.0,12.0,57.1
+2207,Nicola Ravaglia,it ITA,PO,Sampdoria,it Serie A,33,1988,9.0,0,0,0,1,2,0,0,0,0,0.0,1.0,0,4.0,3.0,0.0,100.0
+2208,Rayan Raveloson,mg MAD,"DF,CC",Auxerre,fr Ligue 1,25,1997,27.0,0,0,0,22,35,1,33,39,23,0.0,0.0,1,181.0,29.0,22.0,56.9
+2209,David Raya,es ESP,PO,Brentford,eng Premier League,26,1995,38.0,1,0,0,0,6,0,0,1,0,0.0,0.0,1,47.0,12.0,2.0,85.7
+2210,Tim Ream,us USA,DF,Fulham,eng Premier League,34,1987,32.2,2,0,0,18,7,1,4,41,16,0.0,1.0,0,199.0,48.0,31.0,60.8
+2211,Ante Rebić,hr CRO,"DL,CC",Milan,it Serie A,28,1993,10.9,4,0,0,18,15,8,39,1,8,0.0,0.0,0,36.0,12.0,15.0,44.4
+2212,Arkadiusz Reca,pl POL,DF,Spezia,it Serie A,27,1995,24.1,5,0,0,32,15,2,99,24,28,0.0,1.0,0,125.0,19.0,22.0,46.3
+2213,Nathan Redmond,eng ENG,DF,Southampton,eng Premier League,28,1994,0.0,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2214,Harrison Reed,eng ENG,CC,Fulham,eng Premier League,27,1995,31.8,5,0,0,38,21,4,54,19,27,0.0,0.0,1,160.0,29.0,36.0,44.6
+2215,Sergio Reguilón,es ESP,DF,Atlético Madrid,es La Liga,25,1996,3.4,3,1,1,4,6,1,9,2,5,0.0,0.0,0,15.0,8.0,5.0,61.5
+2216,Bobby Reid,jm JAM,"DL,DF",Fulham,eng Premier League,29,1993,27.5,8,0,0,34,22,11,53,20,24,2.0,1.0,0,135.0,12.0,41.0,22.6
+2217,Pepe Reina,es ESP,PO,Villarreal,es La Liga,39,1982,22.0,2,0,0,0,1,0,0,1,0,0.0,0.0,0,23.0,3.0,0.0,100.0
+2218,Jeff Reine-Adélaïde,fr FRA,CC,Troyes,fr Ligue 1,24,1998,2.6,0,0,0,2,5,0,0,2,2,0.0,0.0,0,14.0,3.0,4.0,42.9
+2219,Jeff Reine-Adélaïde,fr FRA,CC,Lyon,fr Ligue 1,24,1998,3.7,1,0,0,7,4,0,13,6,5,0.0,0.0,0,30.0,3.0,3.0,50.0
+2220,Reinier,br BRA,"CC,DL",Girona,es La Liga,20,2002,7.2,1,1,0,4,15,2,2,5,10,0.0,0.0,0,29.0,6.0,12.0,33.3
+2221,Rocco Reitz,de GER,CC,M'Gladbach,de Bundesliga,20,2002,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2222,Karim Rekik,nl NED,DF,Sevilla,es La Liga,27,1994,13.1,2,0,0,20,5,0,1,10,5,0.0,0.0,1,71.0,22.0,10.0,68.8
+2223,Álex Remiro,es ESP,PO,Real Sociedad,es La Liga,27,1995,38.0,1,0,0,0,4,0,0,0,1,0.0,0.0,0,58.0,7.0,1.0,87.5
+2224,Panagiotis Retsos,gr GRE,DF,Hellas Verona,it Serie A,23,1998,1.4,0,0,0,4,2,0,0,2,4,0.0,0.0,0,7.0,3.0,3.0,50.0
+2225,Marco Reus,de GER,"CC,DL",Dortmund,de Bundesliga,33,1989,15.0,4,0,0,18,18,3,19,8,17,1.0,0.0,0,52.0,12.0,21.0,36.4
+2226,Alejandro Revuelta Montero,es ESP,DF,Getafe,es La Liga,22,2000,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2227,Elvis Rexhbeçaj,de GER,CC,Augsburg,de Bundesliga,24,1997,28.0,6,0,0,27,49,0,17,17,30,0.0,0.0,1,152.0,35.0,33.0,51.5
+2228,Gio Reyna,us USA,"DL,CC",Dortmund,de Bundesliga,19,2002,6.9,2,0,0,8,17,1,17,3,7,0.0,1.0,0,23.0,7.0,14.0,33.3
+2229,Chadi Riad,ma MAR,CC,Barcelona,es La Liga,19,2003,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2230,Nico Ribaudo,es ESP,"CC,DL",Espanyol,es La Liga,21,2001,13.9,4,0,0,24,33,3,44,5,13,0.0,0.0,0,65.0,12.0,28.0,30.0
+2231,Alexsandro Ribeiro,br BRA,DF,Lille,fr Ligue 1,22,1999,17.9,4,0,0,18,20,2,4,25,18,0.0,0.0,0,113.0,32.0,28.0,53.3
+2232,Franck Ribéry,fr FRA,CC,Salernitana,it Serie A,39,1983,0.4,0,0,0,0,1,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,
+2233,Samuele Ricci,it ITA,CC,Torino,it Serie A,20,2001,23.0,6,0,0,22,58,0,31,17,21,0.0,0.0,0,136.0,11.0,15.0,42.3
+2234,Declan Rice,eng ENG,CC,West Ham,eng Premier League,23,1999,36.4,5,0,0,23,11,1,44,63,38,0.0,0.0,0,334.0,37.0,26.0,58.7
+2235,Chris Richards,us USA,DF,Crystal Palace,eng Premier League,22,2000,5.0,0,0,0,2,1,1,0,8,6,0.0,0.0,0,15.0,14.0,4.0,77.8
+2236,Richarlison,br BRA,"CC,DL",Tottenham,eng Premier League,25,1997,11.2,3,0,0,14,22,9,16,5,16,2.0,0.0,0,52.0,18.0,29.0,38.3
+2237,Marco Richter,de GER,"CC,DL",Hertha BSC,de Bundesliga,24,1997,20.4,8,0,0,36,33,6,82,24,23,0.0,0.0,0,161.0,12.0,31.0,27.9
+2238,Diego Rico,es ESP,DF,Real Sociedad,es La Liga,29,1993,18.3,3,0,0,27,26,2,55,20,21,0.0,0.0,0,96.0,18.0,17.0,51.4
+2239,Jaïro Riedewald,nl NED,"DF,CC",Crystal Palace,eng Premier League,25,1996,0.7,0,0,0,2,1,0,0,0,1,0.0,0.0,0,8.0,2.0,1.0,66.7
+2240,Manuel Riemann,de GER,PO,Bochum,de Bundesliga,33,1988,34.0,3,0,0,1,4,0,1,5,2,0.0,1.0,1,105.0,11.0,3.0,78.6
+2241,Tomás Rincón,ve VEN,CC,Sampdoria,it Serie A,34,1988,28.4,7,1,0,58,28,0,21,30,27,0.0,0.0,0,164.0,35.0,16.0,68.6
+2242,Rémy Riou,fr FRA,PO,Lyon,fr Ligue 1,34,1987,6.7,0,0,0,0,0,0,0,0,0,0.0,0.0,0,14.0,0.0,0.0,
+2243,Renaud Ripart,fr FRA,"DL,CC",Troyes,fr Ligue 1,29,1993,14.7,4,0,0,25,25,6,21,7,23,0.0,0.0,0,54.0,56.0,78.0,41.8
+2244,Rodrigo Riquelme,es ESP,"CC,DL",Girona,es La Liga,22,2000,24.2,1,0,0,27,36,5,78,11,8,0.0,1.0,0,111.0,9.0,13.0,40.9
+2245,Matt Ritchie,sct SCO,"DL,CC",Newcastle Utd,eng Premier League,32,1989,0.4,0,0,0,0,0,0,2,1,1,0.0,0.0,0,3.0,1.0,0.0,100.0
+2246,Sergi Roberto,es ESP,"DF,CC",Barcelona,es La Liga,30,1992,14.5,3,0,0,19,12,2,25,11,15,0.0,0.0,0,62.0,7.0,12.0,36.8
+2247,Lucas Robertone,ar ARG,CC,Almería,es La Liga,25,1997,31.6,7,0,0,33,89,3,137,46,28,0.0,0.0,0,207.0,20.0,36.0,35.7
+2248,Andrew Robertson,sct SCO,DF,Liverpool,eng Premier League,28,1994,28.7,3,0,0,22,10,7,195,18,21,0.0,0.0,0,174.0,22.0,24.0,47.8
+2249,Antonee Robinson,us USA,DF,Fulham,eng Premier League,24,1997,34.3,8,0,0,33,23,3,134,53,38,0.0,1.0,0,235.0,40.0,30.0,57.1
+2250,Joel Robles,es ESP,PO,Leeds United,eng Premier League,32,1990,4.0,1,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,3.0,0.0,100.0
+2251,Joel Roca,es ESP,"CC,DL",Girona,es La Liga,17,2005,0.9,1,0,0,2,5,0,0,0,2,0.0,0.0,0,5.0,0.0,0.0,
+2252,Marc Roca,es ESP,CC,Leeds United,eng Premier League,25,1996,25.7,7,0,0,40,29,0,76,23,40,0.0,0.0,0,169.0,18.0,13.0,58.1
+2253,Enzo Roco,cl CHI,DF,Elche,es La Liga,29,1992,18.4,7,1,1,34,10,0,1,17,13,0.0,4.0,0,83.0,46.0,20.0,69.7
+2254,Marek Rodák,sk SVK,PO,Fulham,eng Premier League,25,1996,2.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,1.0,0.0,100.0
+2255,Sebastian Rode,de GER,CC,Eint Frankfurt,de Bundesliga,31,1990,15.7,6,0,0,22,18,0,8,16,24,0.0,0.0,0,108.0,12.0,10.0,54.5
+2256,Joe Rodon,wls WAL,DF,Rennes,fr Ligue 1,24,1997,15.7,2,1,0,11,18,0,1,9,7,0.0,0.0,0,76.0,44.0,30.0,59.5
+2257,Rodri,es ESP,CC,Manchester City,eng Premier League,26,1996,32.3,5,0,0,47,20,3,6,33,41,0.0,0.0,0,301.0,72.0,32.0,69.2
+2258,Rodri,es ESP,"DL,CC",Betis,es La Liga,22,2000,17.8,0,0,0,6,39,2,47,13,11,1.0,0.0,0,102.0,2.0,12.0,14.3
+2259,Rodrigo,es ESP,"DL,CC",Leeds United,eng Premier League,31,1991,21.5,6,0,0,29,11,10,21,6,10,0.0,0.0,0,66.0,34.0,66.0,34.0
+2260,Ángel Rodríguez,es ESP,"DL,CC",Mallorca,es La Liga,35,1987,4.4,1,0,0,9,6,2,2,1,1,0.0,0.0,0,12.0,10.0,9.0,52.6
+2261,Óscar Rodríguez Arnaiz,es ESP,CC,Celta Vigo,es La Liga,24,1998,19.7,6,0,0,22,26,2,83,24,25,0.0,1.0,0,115.0,11.0,20.0,35.5
+2262,Dani Rodríguez,es ESP,CC,Mallorca,es La Liga,34,1988,23.3,8,0,0,49,33,4,32,21,23,0.0,0.0,0,133.0,11.0,37.0,22.9
+2263,Guido Rodríguez,ar ARG,CC,Betis,es La Liga,28,1994,31.9,8,0,0,45,64,1,9,42,75,0.0,0.0,1,213.0,44.0,46.0,48.9
+2264,Miguel Rodríguez,es ESP,"CC,DL",Celta Vigo,es La Liga,19,2003,2.8,0,0,0,6,8,1,13,1,5,0.0,0.0,0,16.0,1.0,8.0,11.1
+2265,Pablo Rodríguez,es ESP,"DL,CC",Lecce,it Serie A,20,2001,0.6,0,0,0,1,2,0,4,0,1,0.0,0.0,0,2.0,0.0,2.0,0.0
+2266,Ricardo Rodríguez,ch SUI,DF,Torino,it Serie A,29,1992,29.7,3,0,0,25,8,0,71,38,33,0.0,0.0,0,164.0,30.0,29.0,50.8
+2267,Rodrygo,br BRA,"DL,CC",Real Madrid,es La Liga,21,2001,26.4,4,0,0,18,49,10,22,8,10,2.0,0.0,0,63.0,14.0,23.0,37.8
+2268,Mads Roerslev,dk DEN,DF,Brentford,eng Premier League,23,1999,12.3,0,0,0,4,3,0,20,9,12,0.0,0.0,0,48.0,8.0,12.0,40.0
+2269,Agustín Rogel,uy URU,DF,Hertha BSC,de Bundesliga,24,1997,15.8,7,0,0,21,6,1,0,11,9,0.0,0.0,0,62.0,49.0,35.0,58.3
+2270,Rogério,br BRA,DF,Sassuolo,it Serie A,24,1998,33.3,5,1,0,30,38,0,113,37,21,0.0,0.0,0,162.0,21.0,32.0,39.6
+2271,Merlin Röhl,de GER,"CC,DL",Freiburg,de Bundesliga,20,2002,0.6,0,0,0,1,4,0,0,0,0,0.0,0.0,0,6.0,1.0,0.0,100.0
+2272,Tony Rölke,de GER,DL,Hertha BSC,de Bundesliga,19,2003,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,0.0,0.0,2.0,0.0
+2273,Filippo Romagna,it ITA,DF,Sassuolo,it Serie A,25,1997,0.5,0,0,0,0,0,0,0,0,0,0.0,0.0,0,3.0,2.0,0.0,100.0
+2274,Alessio Romagnoli,it ITA,DF,Lazio,it Serie A,27,1995,32.5,6,0,0,35,19,1,0,38,15,0.0,0.0,0,139.0,78.0,45.0,63.4
+2275,Simone Romagnoli,it ITA,DF,Lecce,it Serie A,32,1990,1.9,0,0,0,3,0,0,0,1,5,0.0,0.0,0,9.0,10.0,8.0,55.6
+2276,Leonardo Román,es ESP,PO,Mallorca,es La Liga,22,2000,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,4.0,0.0,0.0,
+2277,Cristian Romero,ar ARG,DF,Tottenham,eng Premier League,24,1998,26.3,11,1,1,42,12,0,0,44,36,1.0,1.0,0,173.0,57.0,26.0,68.7
+2278,Iván Romero,es ESP,CC,Sevilla,es La Liga,21,2001,0.1,1,0,0,1,1,0,0,0,0,0.0,0.0,0,0.0,1.0,0.0,100.0
+2279,Luka Romero,ar ARG,DL,Lazio,it Serie A,17,2004,1.7,0,0,0,3,6,0,0,3,0,0.0,0.0,0,10.0,2.0,1.0,66.7
+2280,Oriol Romeu,es ESP,CC,Southampton,eng Premier League,30,1991,0.8,0,0,0,1,2,0,1,1,0,0.0,0.0,0,8.0,2.0,0.0,100.0
+2281,Oriol Romeu,es ESP,CC,Girona,es La Liga,30,1991,32.8,10,1,1,59,33,0,13,37,38,0.0,1.0,0,195.0,39.0,46.0,45.9
+2282,Cristiano Ronaldo,pt POR,DL,Manchester Utd,eng Premier League,37,1985,5.8,2,0,0,7,5,8,3,1,2,0.0,0.0,0,12.0,15.0,8.0,65.2
+2283,Connor Ronan,ie IRL,CC,Wolves,eng Premier League,24,1998,0.0,0,0,0,0,0,0,1,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2284,Salomón Rondón,ve VEN,DL,Everton,eng Premier League,32,1989,1.2,0,0,0,4,0,2,0,0,0,0.0,0.0,0,1.0,7.0,6.0,53.8
+2285,Valentin Rongier,fr FRA,CC,Marseille,fr Ligue 1,27,1994,33.7,8,0,0,52,29,0,8,54,59,0.0,0.0,0,267.0,43.0,30.0,58.9
+2286,Marten de Roon,nl NED,CC,Atalanta,it Serie A,31,1991,32.9,7,0,0,46,24,1,13,36,39,0.0,0.0,0,218.0,51.0,31.0,62.2
+2287,Pablo Rosario,nl NED,"CC,DF",Nice,fr Ligue 1,25,1997,19.6,6,0,0,18,13,0,11,23,26,0.0,0.0,0,97.0,16.0,22.0,42.1
+2288,Francesco Rossi,it ITA,PO,Atalanta,it Serie A,31,1991,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2289,Tom Rothe,de GER,DF,Dortmund,de Bundesliga,17,2004,0.3,0,0,0,2,0,0,2,1,1,0.0,0.0,0,4.0,0.0,0.0,
+2290,Joe Rothwell,eng ENG,CC,Bournemouth,eng Premier League,27,1995,11.3,1,0,0,17,3,0,26,9,13,0.0,0.0,0,56.0,1.0,3.0,25.0
+2291,Anthony Rouault,fr FRA,DF,Toulouse,fr Ligue 1,21,2001,36.8,4,1,1,21,17,1,0,56,37,0.0,0.0,1,213.0,86.0,64.0,57.3
+2292,Jérôme Roussillon,fr FRA,"CC,DF",Wolfsburg,de Bundesliga,29,1993,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,2.0,1.0,1.0,50.0
+2293,Jérôme Roussillon,fr FRA,DF,Union Berlin,de Bundesliga,29,1993,10.6,2,0,0,12,13,0,36,4,9,0.0,0.0,0,54.0,6.0,11.0,35.3
+2294,Nicolò Rovella,it ITA,CC,Monza,it Serie A,20,2001,19.3,5,1,0,26,21,2,28,40,29,0.0,0.0,0,141.0,9.0,10.0,47.4
+2295,Nicolò Rovella,it ITA,CC,Juventus,it Serie A,20,2001,0.3,1,0,0,1,1,0,3,0,1,0.0,0.0,0,1.0,0.0,0.0,
+2296,Amir Rrahmani,xk KVX,DF,Napoli,it Serie A,28,1994,27.2,2,0,0,22,12,1,1,14,18,0.0,0.0,0,162.0,67.0,40.0,62.6
+2297,Ruan,br BRA,DF,Sassuolo,it Serie A,23,1999,19.0,13,3,2,27,14,0,0,24,26,0.0,1.0,1,112.0,51.0,36.0,58.6
+2298,Rubén,es ESP,"DF,CC",Espanyol,es La Liga,21,2001,9.9,1,0,0,18,7,0,48,18,15,0.0,0.0,0,64.0,15.0,4.0,78.9
+2299,Antonio Rüdiger,de GER,DF,Real Madrid,es La Liga,29,1993,26.8,1,0,0,13,7,2,5,19,16,0.0,0.0,0,158.0,37.0,22.0,62.7
+2300,Sebastian Rudy,de GER,CC,Hoffenheim,de Bundesliga,32,1990,8.8,3,0,0,22,9,0,41,11,12,0.0,0.0,0,54.0,7.0,10.0,41.2
+2301,Daniele Rugani,it ITA,DF,Juventus,it Serie A,28,1994,6.3,0,0,0,5,0,1,0,7,0,0.0,0.0,0,16.0,11.0,9.0,55.0
+2302,Matteo Ruggeri,it ITA,"DF,CC",Atalanta,it Serie A,20,2002,9.2,3,0,0,10,5,0,38,12,12,0.0,0.0,0,57.0,13.0,6.0,68.4
+2303,Mário Rui,pt POR,DF,Napoli,it Serie A,31,1991,19.4,2,1,0,19,31,0,110,15,22,0.0,0.0,0,155.0,13.0,25.0,34.2
+2304,Aitor Ruibal,es ESP,"DF,DL",Betis,es La Liga,26,1996,16.2,4,1,0,22,18,3,31,24,29,0.0,0.0,0,102.0,14.0,18.0,43.8
+2305,Kays Ruiz,ma MAR,CC,Auxerre,fr Ligue 1,19,2002,0.7,1,0,0,2,3,0,0,3,1,0.0,0.0,0,10.0,0.0,0.0,
+2306,Fabián Ruiz Peña,es ESP,CC,Paris S-G,fr Ligue 1,26,1996,21.0,0,0,0,19,13,4,13,18,28,0.0,1.0,0,157.0,5.0,7.0,41.7
+2307,Víctor Ruiz,es ESP,DF,Betis,es La Liga,33,1989,6.2,0,0,0,4,2,1,0,6,3,0.0,0.0,0,29.0,17.0,7.0,70.8
+2308,Gerónimo Rulli,ar ARG,PO,Villarreal,es La Liga,30,1992,14.0,1,0,0,0,1,0,0,1,0,0.0,0.0,0,20.0,3.0,0.0,100.0
+2309,Alessandro Russo,it ITA,PO,Sassuolo,it Serie A,21,2001,1.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2310,Franco Russo,ar ARG,DF,Mallorca,es La Liga,27,1994,1.6,0,0,0,0,2,0,0,3,1,0.0,0.0,0,12.0,3.0,2.0,60.0
+2311,Georginio Rutter,fr FRA,"DL,CC",Leeds United,eng Premier League,20,2002,3.0,0,0,0,5,6,1,0,3,9,0.0,0.0,0,7.0,11.0,9.0,55.0
+2312,Georginio Rutter,fr FRA,DL,Hoffenheim,de Bundesliga,20,2002,11.2,2,0,0,17,19,17,11,5,4,1.0,0.0,0,25.0,9.0,23.0,28.1
+2313,Julian Ryerson,no NOR,DF,Union Berlin,de Bundesliga,24,1997,11.5,2,0,0,16,12,1,41,12,17,0.0,0.0,0,77.0,5.0,11.0,31.3
+2314,Julian Ryerson,no NOR,DF,Dortmund,de Bundesliga,24,1997,15.7,2,0,0,15,19,1,50,8,15,0.0,0.0,0,96.0,13.0,9.0,59.1
+2315,Frederik Rønnow,dk DEN,PO,Union Berlin,de Bundesliga,29,1992,29.0,2,0,0,0,4,0,0,0,0,0.0,0.0,0,42.0,10.0,2.0,83.3
+2316,José Sá,pt POR,PO,Wolves,eng Premier League,29,1993,36.0,2,0,0,1,8,0,0,0,0,0.0,1.0,0,45.0,6.0,1.0,85.7
+2317,Youssouf Sabaly,sn SEN,DF,Betis,es La Liga,29,1993,18.7,2,0,0,20,33,2,17,19,23,0.0,0.0,0,109.0,5.0,11.0,31.3
+2318,Halid Šabanović,ba BIH,DF,Angers,fr Ligue 1,22,1999,7.1,1,1,0,10,2,1,8,8,6,0.0,0.0,0,28.0,4.0,4.0,50.0
+2319,Abdelhamid Sabiri,ma MAR,"CC,DL",Sampdoria,it Serie A,25,1996,11.9,5,0,0,28,39,0,54,2,7,0.0,0.0,0,50.0,30.0,29.0,50.8
+2320,Marcel Sabitzer,at AUT,CC,Manchester Utd,eng Premier League,28,1994,7.0,1,0,0,8,10,1,4,8,8,0.0,0.0,0,52.0,13.0,11.0,54.2
+2321,Marcel Sabitzer,at AUT,CC,Bayern Munich,de Bundesliga,28,1994,7.0,2,0,0,7,1,1,5,10,14,0.0,0.0,0,47.0,8.0,11.0,42.1
+2322,Falaye Sacko,ml MLI,DF,Montpellier,fr Ligue 1,27,1995,28.7,3,0,0,26,19,5,36,33,25,0.0,3.0,1,179.0,17.0,18.0,48.6
+2323,Umar Sadiq,ng NGA,DL,Almería,es La Liga,25,1997,2.7,1,0,0,9,2,7,0,0,0,0.0,0.0,0,8.0,4.0,10.0,28.6
+2324,Umar Sadiq,ng NGA,DL,Real Sociedad,es La Liga,25,1997,0.9,0,0,0,3,1,4,0,0,1,0.0,0.0,0,1.0,2.0,2.0,50.0
+2325,Alexis Saelemaekers,be BEL,"DL,DF",Milan,it Serie A,23,1999,15.6,1,0,0,23,22,2,48,19,20,0.0,1.0,0,63.0,9.0,5.0,64.3
+2326,Wesley Saïd,fr FRA,"DL,CC",Lens,fr Ligue 1,27,1995,7.2,2,0,0,20,1,1,5,1,1,0.0,0.0,0,20.0,5.0,7.0,41.7
+2327,Allan Saint-Maximin,fr FRA,DL,Newcastle Utd,eng Premier League,25,1997,12.4,1,0,0,6,16,2,32,5,3,0.0,0.0,0,69.0,2.0,2.0,50.0
+2328,Théo Sainte-Luce,fr FRA,DF,Montpellier,fr Ligue 1,23,1998,5.9,0,0,0,13,1,0,10,10,11,0.0,0.0,0,21.0,6.0,9.0,40.0
+2329,Samuel Sáiz,es ESP,CC,Girona,es La Liga,31,1991,2.7,1,0,0,3,4,2,6,0,2,0.0,0.0,0,15.0,2.0,3.0,40.0
+2330,Bukayo Saka,eng ENG,DL,Arsenal,eng Premier League,20,2001,35.3,6,0,0,43,65,9,172,14,34,0.0,0.0,0,127.0,16.0,38.0,29.6
+2331,Hamza Sakhi,fr FRA,CC,Auxerre,fr Ligue 1,26,1996,18.4,1,0,0,13,21,5,88,25,22,0.0,0.0,0,106.0,6.0,3.0,66.7
+2332,Mamadou Sakho,fr FRA,DF,Montpellier,fr Ligue 1,32,1990,8.5,2,0,0,6,5,0,0,8,5,0.0,2.0,0,45.0,22.0,18.0,55.0
+2333,Jacopo Sala,it ITA,CC,Spezia,it Serie A,30,1991,1.2,1,0,0,3,3,0,4,1,0,0.0,0.0,0,5.0,1.0,0.0,100.0
+2334,Ibrahim Salah,ma MAR,"DL,CC",Rennes,fr Ligue 1,20,2001,2.5,0,0,0,2,1,2,8,2,1,0.0,0.0,0,18.0,2.0,4.0,33.3
+2335,Mohamed Salah,eg EGY,DL,Liverpool,eng Premier League,30,1992,36.6,2,0,0,20,33,22,38,6,12,0.0,0.0,0,100.0,8.0,30.0,21.1
+2336,Amine Salama,fr FRA,"DL,CC",Angers,fr Ligue 1,22,2000,13.9,1,0,0,7,9,6,12,10,9,0.0,0.0,0,51.0,8.0,19.0,29.6
+2337,Kike Salas,es ESP,DF,Sevilla,es La Liga,20,2002,4.1,1,1,0,4,1,0,0,5,1,0.0,1.0,0,14.0,9.0,6.0,60.0
+2338,William Saliba,fr FRA,DF,Arsenal,eng Premier League,21,2001,26.8,4,0,0,19,13,0,1,19,20,0.0,2.0,1,206.0,53.0,43.0,55.2
+2339,Dikeni Salifou,tg TOG,CC,Werder Bremen,de Bundesliga,19,2003,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,0.0,0.0,0.0,
+2340,Mohammed Salisu,gh GHA,DF,Southampton,eng Premier League,23,1999,21.9,5,0,0,26,3,1,13,31,29,0.0,0.0,1,158.0,55.0,26.0,67.9
+2341,Roland Sallai,hu HUN,"CC,DL",Freiburg,de Bundesliga,25,1997,11.1,6,0,0,29,30,3,35,2,8,2.0,0.0,0,58.0,21.0,18.0,53.8
+2342,Yoann Salmier,gf GUF,DF,Troyes,fr Ligue 1,29,1992,29.4,5,1,0,30,28,0,7,39,29,1.0,2.0,0,181.0,54.0,32.0,62.8
+2343,Salvi,es ESP,"DL,CC",Rayo Vallecano,es La Liga,31,1991,5.4,2,0,0,8,10,2,37,2,8,0.0,0.0,0,30.0,4.0,11.0,26.7
+2344,Lazar Samardzic,rs SRB,CC,Udinese,it Serie A,20,2002,20.5,1,0,0,26,13,0,92,11,16,0.0,0.0,0,107.0,9.0,22.0,29.0
+2345,Diadie Samassékou,ml MLI,"CC,DL",Hoffenheim,de Bundesliga,26,1996,0.4,1,0,0,3,0,0,0,0,0,0.0,0.0,0,3.0,0.0,0.0,
+2346,Mama Samba Baldé,gw GNB,DL,Troyes,fr Ligue 1,26,1995,29.6,6,2,1,38,46,22,13,10,21,2.0,0.0,0,100.0,43.0,76.0,36.1
+2347,Brice Samba,fr FRA,PO,Lens,fr Ligue 1,28,1994,37.0,3,0,0,0,6,0,0,0,0,0.0,0.0,0,42.0,8.0,2.0,80.0
+2348,Albert Sambi Lokonga,be BEL,CC,Arsenal,eng Premier League,22,1999,2.2,0,0,0,1,5,0,0,5,1,0.0,0.0,0,14.0,3.0,2.0,60.0
+2349,Albert Sambi Lokonga,be BEL,CC,Crystal Palace,eng Premier League,22,1999,6.0,2,0,0,7,12,0,0,7,10,0.0,0.0,0,34.0,5.0,11.0,31.3
+2350,Junior Sambia,fr FRA,DF,Salernitana,it Serie A,25,1996,7.7,3,0,0,11,17,0,33,8,5,0.0,0.0,0,34.0,15.0,10.0,60.0
 2351,Fede San Emeterio,es ESP,CC,Cádiz,es La Liga,25,1997,20.5,14,0,0,58,22,0,4,17,22,0.0,0.0,0,87.0,23.0,30.0,43.4
 2352,Antonio Sanabria,py PAR,DL,Torino,it Serie A,26,1996,27.0,4,0,0,33,27,14,2,4,5,0.0,0.0,0,64.0,86.0,124.0,41.0
 2353,Leandro Sanca,gw GNB,"DL,CC",Spezia,it Serie A,22,2000,0.4,0,0,0,0,0,0,2,0,1,0.0,0.0,0,5.0,0.0,2.0,0.0
@@ -2430,7 +2430,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2429,Leonardo Sernicola,it ITA,DF,Cremonese,it Serie A,25,1997,25.7,11,0,0,40,43,3,118,38,33,0.0,1.0,0,136.0,29.0,21.0,58.0
 2430,Ryan Sessegnon,eng ENG,DF,Tottenham,eng Premier League,22,2000,9.0,4,0,0,15,6,7,30,6,11,0.0,0.0,0,49.0,10.0,10.0,50.0
 2431,Stephan El Shaarawy,it ITA,"DF,CC",Roma,it Serie A,29,1992,16.9,3,0,0,16,18,9,23,15,9,1.0,0.0,0,96.0,16.0,18.0,47.1
-2432,Eniss Shabani,de GER,CC,Mainz 05,de Bundesliga,19,2003,0.1,1,0,0,1,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
+2432,Eniss Shabani,al ALB,CC,Mainz 05,de Bundesliga,19,2003,0.1,1,0,0,1,0,0,0,0,0,0.0,0.0,0,1.0,0.0,0.0,
 2433,Luke Shaw,eng ENG,DF,Manchester Utd,eng Premier League,27,1995,28.4,8,0,0,46,27,1,89,36,36,0.0,1.0,0,189.0,46.0,29.0,61.3
 2434,Jonjo Shelvey,eng ENG,CC,Newcastle Utd,eng Premier League,30,1992,0.4,0,0,0,1,0,0,0,0,0,0.0,0.0,0,4.0,0.0,0.0,
 2435,Jonjo Shelvey,eng ENG,CC,Nott'ham Forest,eng Premier League,30,1992,6.0,2,0,0,9,1,0,13,5,1,0.0,1.0,0,32.0,4.0,1.0,80.0
@@ -2460,7 +2460,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2459,Tobias Sippel,de GER,PO,M'Gladbach,de Bundesliga,34,1988,5.7,1,0,0,0,0,0,0,0,0,0.0,0.0,0,7.0,2.0,1.0,66.7
 2460,Hugo Siquet,be BEL,DF,Freiburg,de Bundesliga,20,2002,0.2,0,0,0,0,1,0,0,0,2,0.0,0.0,0,0.0,0.0,0.0,
 2461,Salvatore Sirigu,it ITA,PO,Fiorentina,it Serie A,35,1987,1.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0,2.0,0.0,0.0,
-2462,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,24,1997,14.6,1,0,0,41,15,2,10,10,22,0.0,1.0,0,121.0,30.0,23.0,56.6
+2462,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,24,1997,14.6,1,0,0,41,15,2,10,10,22,0.0,1.0,0,121.0,30.0,23.0,56.6
 2463,Moussa Sissoko,fr FRA,CC,Nantes,fr Ligue 1,32,1989,21.3,3,0,0,27,14,3,23,16,16,0.0,1.0,0,153.0,24.0,23.0,51.1
 2464,Tim Skarke,de GER,"DF,CC",Union Berlin,de Bundesliga,25,1996,0.6,1,0,0,3,0,0,8,0,1,0.0,0.0,0,1.0,0.0,1.0,0.0
 2465,Tim Skarke,de GER,"DL,CC",Schalke 04,de Bundesliga,25,1996,4.9,0,0,0,4,7,3,22,0,7,0.0,0.0,0,29.0,4.0,12.0,25.0
@@ -2540,7 +2540,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2539,John Stones,eng ENG,"DF,CC",Manchester City,eng Premier League,28,1994,20.5,2,0,0,10,8,1,6,9,13,0.0,0.0,1,90.0,33.0,16.0,67.3
 2540,Jørgen Strand Larsen,no NOR,DL,Celta Vigo,es La Liga,22,2000,18.9,4,0,0,34,43,13,4,3,7,1.0,0.0,0,42.0,42.0,47.0,47.2
 2541,Tony Strata,fr FRA,"CC,DF",Ajaccio,fr Ligue 1,17,2004,1.5,1,0,0,3,1,0,0,1,3,0.0,0.0,0,9.0,0.0,0.0,
-2542,Gabriel Strefezza,,"DF,DL",Lecce,it Serie A,25,1997,27.1,5,0,0,51,71,0,121,16,27,,,0,,,,
+2542,Gabriel Strefezza,br BRA,"DL,CC",Lecce,it Serie A,25,1997,27.1,5,0,0,51,71,0,121,16,24,0.0,1.0,0,134.0,16.0,45.0,26.2
 2543,Dávid Strelec,sk SVK,DL,Spezia,it Serie A,21,2001,1.9,0,0,0,4,1,2,0,0,2,0.0,0.0,0,1.0,5.0,6.0,45.5
 2544,Pascal Struijk,nl NED,DF,Leeds United,eng Premier League,22,1999,24.4,5,0,0,29,12,0,21,32,57,0.0,2.0,0,139.0,60.0,43.0,58.3
 2545,Cristhian Stuani,uy URU,DL,Girona,es La Liga,35,1986,12.1,8,0,0,39,23,7,3,2,6,0.0,0.0,0,26.0,21.0,24.0,46.7

@@ -641,7 +641,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 640,Abdoulaye Diallo,sn SEN,PO,Rennes,fr Ligue 1,26,1992,5.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0
 641,Mustapha Diallo,sn SEN,CC,Nîmes,fr Ligue 1,32,1986,5.1,0,6,0,0.0,1.19,0.0,0.0,,18.9,0,0,0,0.4,0.4,0.06,-0.4,-0.4
 642,Mohamed Diamé,sn SEN,CC,Newcastle Utd,eng Premier League,31,1987,24.1,0,20,3,15.0,0.83,0.12,0.0,0.0,23.5,0,0,0,1.0,1.0,0.05,-1.0,-1.0
-643,Grady Diangana,,"CC,DL",West Ham,eng Premier League,20,1998,6.8,0,10,3,30.0,1.48,0.44,0.0,0.0,16.8,0,0,0,0.5,0.5,0.05,-0.5,-0.5
+643,Grady Diangana,cd COD,"CC,DL",West Ham,eng Premier League,20,1998,6.8,0,10,3,30.0,1.48,0.44,0.0,0.0,16.8,0,0,0,0.5,0.5,0.05,-0.5,-0.5
 644,Lassana Diarra,fr FRA,CC,Paris S-G,fr Ligue 1,33,1985,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0
 645,Amadou Diawara,gn GUI,CC,Napoli,it Serie A,21,1997,7.3,0,10,1,10.0,1.36,0.14,0.0,0.0,24.8,0,0,0,0.4,0.4,0.04,-0.4,-0.4
 646,Brahim Díaz,es ESP,DL,Real Madrid,es La Liga,18,1999,4.2,1,7,5,71.4,1.68,1.2,0.14,0.2,12.5,0,0,0,1.2,1.2,0.17,-0.2,-0.2
@@ -1508,7 +1508,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 1507,Juan Manuel Valencia,co COL,DL,Bologna,it Serie A,20,1998,0.3,0,1,0,0.0,3.21,0.0,0.0,,21.8,0,0,0,0.0,0.0,0.02,0.0,0.0
 1508,Harrison Manzala,cd COD,"CC,DL",Angers,fr Ligue 1,24,1994,0.8,0,2,0,0.0,2.43,0.0,0.0,,12.9,0,0,0,0.6,0.6,0.32,-0.6,-0.6
 1509,Fran Manzanara,es ESP,"DF,CC",Levante,es La Liga,21,1996,1.7,0,1,0,0.0,0.57,0.0,0.0,,3.0,0,0,0,0.6,0.6,0.63,-0.6,-0.6
-1510,Myziane Maolida,fr FRA,DL,Nice,fr Ligue 1,19,1999,10.6,0,18,7,38.9,1.7,0.66,0.0,0.0,15.1,0,0,0,2.5,2.5,0.14,-2.5,-2.5
+1510,Myziane Maolida,km COM,DL,Nice,fr Ligue 1,19,1999,10.6,0,18,7,38.9,1.7,0.66,0.0,0.0,15.1,0,0,0,2.5,2.5,0.14,-2.5,-2.5
 1511,Faitout Maouassa,fr FRA,DF,Nîmes,fr Ligue 1,20,1998,23.7,0,8,3,37.5,0.34,0.13,0.0,0.0,21.7,0,0,0,0.7,0.7,0.09,-0.7,-0.7
 1512,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,29,1989,9.8,0,5,1,20.0,0.51,0.1,0.0,0.0,26.0,1,0,0,0.2,0.2,0.03,-0.2,-0.2
 1513,Iván Marcano,es ESP,DF,Roma,it Serie A,31,1987,9.0,0,3,1,33.3,0.33,0.11,0.0,0.0,11.7,0,0,0,0.2,0.2,0.06,-0.2,-0.2
@@ -2287,7 +2287,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 2286,Giovanni Sio,ci CIV,DL,Montpellier,fr Ligue 1,29,1989,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0
 2287,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,29,1988,32.9,1,21,3,14.3,0.64,0.09,0.05,0.33,14.5,0,0,0,1.9,1.9,0.09,-0.9,-0.9
 2288,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,31,1987,35.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0
-2289,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,20,1997,29.6,3,28,8,28.6,0.95,0.27,0.11,0.38,22.5,0,0,0,1.5,1.5,0.05,1.5,1.5
+2289,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,20,1997,29.6,3,28,8,28.6,0.95,0.27,0.11,0.38,22.5,0,0,0,1.5,1.5,0.05,1.5,1.5
 2290,Moussa Sissoko,fr FRA,"CC,DL",Tottenham,eng Premier League,28,1989,25.9,0,15,3,20.0,0.58,0.12,0.0,0.0,24.7,0,0,0,0.9,0.9,0.06,-0.9,-0.9
 2291,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,23,1995,9.4,2,18,8,44.4,1.92,0.85,0.11,0.25,22.7,2,0,0,0.9,0.9,0.05,1.1,1.1
 2292,Antonio Sivera,es ESP,PO,Alavés,es La Liga,21,1996,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0
@@ -2449,7 +2449,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,Gls.,Dis,DaP,% de TT,T/90
 2448,Lucas Torró,es ESP,CC,Eint Frankfurt,de Bundesliga,24,1994,6.2,0,5,1,20.0,0.8,0.16,0.0,0.0,16.3,0,0,0,0.3,0.3,0.06,-0.3,-0.3
 2449,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,20,1997,12.9,2,7,2,28.6,0.54,0.16,0.29,1.0,10.9,0,0,0,1.1,1.1,0.16,0.9,0.9
 2450,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,27,1991,11.8,3,37,17,45.9,3.14,1.44,0.08,0.18,14.0,0,0,0,5.0,5.0,0.14,-2.0,-2.0
-2451,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,24,1994,30.5,3,55,14,25.5,1.8,0.46,0.05,0.21,26.8,0,0,0,2.2,2.2,0.04,0.8,0.8
+2451,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,24,1994,30.5,3,55,14,25.5,1.8,0.46,0.05,0.21,26.8,0,0,0,2.2,2.2,0.04,0.8,0.8
 2452,Almamy Touré,ml MLI,DF,Monaco,fr Ligue 1,22,1996,3.8,0,2,0,0.0,0.52,0.0,0.0,,10.8,0,0,0,0.1,0.1,0.06,-0.1,-0.1
 2453,Almamy Touré,ml MLI,"DF,CC",Eint Frankfurt,de Bundesliga,22,1996,5.8,0,2,0,0.0,0.35,0.0,0.0,,13.9,0,0,0,0.1,0.1,0.06,-0.1,-0.1
 2454,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,21,1997,19.2,0,24,5,20.8,1.25,0.26,0.0,0.0,23.9,0,0,0,0.9,0.9,0.04,-0.9,-0.9

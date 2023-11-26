@@ -1530,7 +1530,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 1529,Kostas Manolas,gr GRE,DF,Napoli,it Serie A,28,1991,24.2,2,0,0,24,16,0,0,25,15,0.0,1.0,0,123.0,58.0,32.0,64.4
 1530,Javier Manquillo,es ESP,DF,Newcastle Utd,eng Premier League,25,1994,17.8,5,0,0,18,11,1,45,18,26,0.0,1.0,0,83.0,16.0,15.0,51.6
 1531,Giacomo Manzari,it ITA,"DL,CC",Sassuolo,it Serie A,18,2000,0.2,0,0,0,1,0,0,0,0,0,0.0,0.0,0,1.0,1.0,1.0,50.0
-1532,Myziane Maolida,fr FRA,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,0,0,0,10,6,1,9,3,10,0.0,1.0,0,45.0,5.0,6.0,45.5
+1532,Myziane Maolida,km COM,"DL,CC",Nice,fr Ligue 1,20,1999,7.5,0,0,0,10,6,1,9,3,10,0.0,1.0,0,45.0,5.0,6.0,45.5
 1533,Faitout Maouassa,fr FRA,DF,Rennes,fr Ligue 1,21,1998,20.0,3,0,0,14,32,2,61,23,33,0.0,1.0,0,89.0,16.0,17.0,48.5
 1534,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,30,1989,9.2,1,2,0,16,10,0,30,26,18,0.0,0.0,2,65.0,20.0,7.0,74.1
 1535,Marcelo,br BRA,DF,Real Madrid,es La Liga,31,1988,14.4,2,0,0,7,18,0,58,18,11,2.0,0.0,0,91.0,10.0,7.0,58.8
@@ -1550,7 +1550,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 1549,Guillermo Maripán,cl CHI,DF,Alavés,es La Liga,25,1994,1.0,0,0,0,0,0,0,0,2,1,0.0,0.0,0,2.0,5.0,2.0,71.4
 1550,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,25,1994,19.5,2,0,0,14,5,1,4,25,26,0.0,1.0,0,114.0,39.0,30.0,56.5
 1551,Marlon,br BRA,DF,Sassuolo,it Serie A,23,1995,20.2,8,0,0,24,11,0,0,35,23,0.0,2.0,0,91.0,22.0,23.0,48.9
-1552,Omar Marmoush,eg EGY,DL,Wolfsburg,de Bundesliga,20,1999,0.9,0,0,0,2,0,0,1,1,1,,,0,,,,
+1552,Omar Marmoush,eg EGY,"CC,DL",Wolfsburg,de Bundesliga,20,1999,0.9,0,0,0,2,0,0,1,1,1,0.0,0.0,0,9.0,0.0,1.0,0.0
 1553,Gonzalo Maroni,ar ARG,"CC,DL",Sampdoria,it Serie A,20,1999,2.0,0,0,0,3,1,0,12,3,1,0.0,0.0,0,13.0,1.0,2.0,33.3
 1554,Marquinhos,br BRA,"CC,DF",Paris S-G,fr Ligue 1,25,1994,16.4,1,0,0,19,6,0,3,25,20,0.0,0.0,0,128.0,37.0,34.0,52.1
 1555,Bruno Martella,it ITA,DF,Brescia,it Serie A,26,1992,14.1,3,0,0,7,4,1,66,17,9,0.0,0.0,0,69.0,11.0,16.0,40.7
@@ -2330,7 +2330,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2329,Daley Sinkgraven,nl NED,"DF,CC",Leverkusen,de Bundesliga,24,1995,10.1,1,0,0,12,5,0,19,10,16,0.0,0.0,0,60.0,10.0,9.0,52.6
 2330,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,30,1988,21.3,7,0,0,24,9,3,9,46,31,0.0,1.0,0,108.0,79.0,44.0,64.2
 2331,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,32,1987,36.0,4,0,0,0,2,0,0,2,0,0.0,0.0,0,38.0,2.0,0.0,100.0
-2332,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,21,1997,17.8,5,0,0,41,15,1,19,20,27,0.0,0.0,0,112.0,31.0,22.0,58.5
+2332,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,21,1997,17.8,5,0,0,41,15,1,19,20,27,0.0,0.0,0,112.0,31.0,22.0,58.5
 2333,Moussa Sissoko,fr FRA,CC,Tottenham,eng Premier League,29,1989,27.2,8,0,0,44,16,2,23,27,25,0.0,1.0,0,204.0,26.0,24.0,52.0
 2334,Sambou Sissoko,fr FRA,"CC,DL",Reims,fr Ligue 1,20,1999,0.4,0,0,0,0,0,0,0,1,0,0.0,0.0,0,4.0,0.0,2.0,0.0
 2335,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,24,1995,9.9,2,0,0,9,26,5,38,6,8,0.0,0.0,0,50.0,3.0,5.0,37.5
@@ -2404,7 +2404,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2403,Vlatko Stojanovski,mk MKD,DL,Nîmes,fr Ligue 1,22,1997,1.4,0,0,0,0,1,0,2,0,3,0.0,0.0,0,2.0,1.0,4.0,20.0
 2404,John Stones,eng ENG,DF,Manchester City,eng Premier League,25,1994,12.5,0,0,0,5,1,1,0,9,10,0.0,0.0,0,69.0,44.0,24.0,64.7
 2405,Thomas Strakosha,al ALB,PO,Lazio,it Serie A,24,1995,38.0,2,0,0,0,4,0,0,0,0,0.0,0.0,0,48.0,3.0,1.0,75.0
-2406,Gabriel Strefezza,,"DF,DL",SPAL,it Serie A,22,1997,23.4,9,1,1,51,61,2,71,22,39,,,0,,,,
+2406,Gabriel Strefezza,br BRA,"DF,CC",SPAL,it Serie A,22,1997,23.4,9,1,1,52,60,2,73,21,40,0.0,0.0,0,101.0,10.0,34.0,22.7
 2407,Tobias Strobl,de GER,"CC,DF",M'Gladbach,de Bundesliga,29,1990,6.8,1,0,0,12,10,0,0,11,6,0.0,0.0,0,47.0,11.0,9.0,55.0
 2408,Christian Strohdiek,de GER,DF,Paderborn 07,de Bundesliga,31,1988,15.1,3,0,0,10,15,0,5,25,22,0.0,1.0,0,57.0,40.0,41.0,49.4
 2409,Kevin Strootman,nl NED,CC,Marseille,fr Ligue 1,29,1990,15.7,7,0,0,32,13,1,6,17,27,0.0,0.0,0,82.0,28.0,30.0,48.3
@@ -2456,7 +2456,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2455,Georg Teigl,at AUT,"DF,CC",Augsburg,de Bundesliga,28,1991,1.2,0,0,0,2,1,1,0,3,1,0.0,0.0,0,3.0,0.0,0.0,
 2456,Álvaro Tejero,es ESP,DF,Eibar,es La Liga,23,1996,16.1,4,0,0,23,18,1,75,28,18,0.0,0.0,0,91.0,19.0,27.0,41.3
 2457,Bernard Tekpetey,gh GHA,"DL,CC",Düsseldorf,de Bundesliga,21,1997,5.0,4,0,0,14,13,3,14,2,4,0.0,0.0,0,17.0,5.0,7.0,41.7
-2458,Nathan Tella,eng ENG,DL,Southampton,eng Premier League,20,1999,0.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,1.0,1.0,50.0
+2458,Nathan Tella,ng NGA,DL,Southampton,eng Premier League,20,1999,0.0,0,0,0,0,1,0,0,0,0,0.0,0.0,0,0.0,1.0,1.0,50.0
 2459,Cristian Tello,es ESP,"CC,DL",Betis,es La Liga,27,1991,8.7,1,0,0,8,4,0,33,4,5,0.0,0.0,0,42.0,3.0,5.0,37.5
 2460,Lino Tempelmann,de GER,CC,Freiburg,de Bundesliga,20,1999,0.4,0,0,0,1,0,0,0,0,0,0.0,0.0,0,1.0,0.0,2.0,0.0
 2461,Łukasz Teodorczyk,pl POL,DL,Udinese,it Serie A,28,1991,2.5,1,0,0,11,2,3,0,0,5,0.0,0.0,0,13.0,10.0,8.0,55.6
@@ -2514,7 +2514,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2513,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,21,1997,16.2,3,0,0,17,5,0,2,31,19,0.0,0.0,0,75.0,39.0,13.0,75.0
 2514,Cenk Tosun,tr TUR,DL,Crystal Palace,eng Premier League,28,1991,2.0,0,0,0,4,4,1,2,0,2,0.0,0.0,0,6.0,6.0,17.0,26.1
 2515,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,28,1991,3.2,0,0,0,4,4,1,2,0,0,0.0,0.0,0,6.0,6.0,20.0,23.1
-2516,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,25,1994,24.7,3,0,0,31,53,0,10,29,21,0.0,1.0,0,181.0,37.0,39.0,48.7
+2516,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,25,1994,24.7,3,0,0,31,53,0,10,29,21,0.0,1.0,0,181.0,37.0,39.0,48.7
 2517,Almamy Touré,ml MLI,DF,Eint Frankfurt,de Bundesliga,23,1996,16.6,2,0,0,18,6,0,75,23,19,0.0,0.0,0,100.0,42.0,29.0,59.2
 2518,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,22,1997,19.6,5,0,0,37,18,1,13,31,32,0.0,0.0,0,115.0,46.0,40.0,53.5
 2519,Andros Townsend,eng ENG,"DL,CC",Crystal Palace,eng Premier League,28,1991,14.4,0,0,0,9,26,1,67,15,21,0.0,0.0,0,97.0,4.0,11.0,26.7

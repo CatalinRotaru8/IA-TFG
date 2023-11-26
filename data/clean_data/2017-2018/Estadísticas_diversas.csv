@@ -1260,7 +1260,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 1259,Ole Käuper,de GER,CC,Werder Bremen,de Bundesliga,20.0,1997.0,0.8,1,0,0.0,6,0.0,0.0,0.0,2.0,5.0,0.0,0.0,0.0,4.0,1.0,1.0,50.0
 1260,Eiji Kawashima,jp JPN,PO,Metz,fr Ligue 1,34.0,1983.0,28.5,0,1,0.0,1,3.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,40.0,1.0,3.0,25.0
 1261,Beram Kayal,il ISR,CC,Brighton,eng Premier League,29.0,1988.0,8.3,2,0,0.0,15,15.0,1.0,5.0,12.0,11.0,0.0,0.0,0.0,54.0,8.0,8.0,50.0
-1262,Joris Kayembe,be BEL,"DL,CC",Nantes,fr Ligue 1,22.0,1994.0,1.0,0,0,0.0,1,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0
+1262,Joris Kayembe,cd COD,"DL,CC",Nantes,fr Ligue 1,22.0,1994.0,1.0,0,0,0.0,1,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0
 1263,Olarenwaju Kayode,ng NGA,"DL,CC",Girona,es La Liga,24.0,1993.0,4.3,2,0,0.0,11,11.0,5.0,4.0,1.0,3.0,2.0,0.0,0.0,14.0,5.0,7.0,41.7
 1264,Moise Kean,it ITA,DL,Hellas Verona,it Serie A,17.0,2000.0,12.6,5,0,0.0,14,8.0,10.0,13.0,7.0,5.0,0.0,0.0,0.0,49.0,10.0,34.0,22.7
 1265,Michael Keane,eng ENG,DF,Everton,eng Premier League,24.0,1993.0,28.4,3,0,0.0,21,10.0,4.0,4.0,53.0,25.0,0.0,0.0,0.0,138.0,128.0,85.0,60.1
@@ -1534,7 +1534,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 1533,Martín Mantovani,ar ARG,DF,Leganés,es La Liga,33.0,1984.0,11.4,3,0,0.0,17,15.0,0.0,0.0,22.0,5.0,0.0,1.0,0.0,45.0,35.0,22.0,61.4
 1534,José Manuel Jurado,es ESP,"CC,DL",Espanyol,es La Liga,31.0,1986.0,16.7,1,0,0.0,6,34.0,0.0,23.0,16.0,14.0,0.0,1.0,0.0,116.0,2.0,3.0,40.0
 1535,Harrison Manzala,cd COD,"DL,CC",Amiens,fr Ligue 1,23.0,1994.0,20.7,3,0,0.0,15,22.0,4.0,53.0,18.0,23.0,0.0,0.0,0.0,134.0,11.0,23.0,32.4
-1536,Myziane Maolida,fr FRA,"DL,CC",Lyon,fr Ligue 1,18.0,1999.0,3.7,0,0,0.0,3,1.0,2.0,5.0,0.0,5.0,0.0,0.0,0.0,11.0,2.0,6.0,25.0
+1536,Myziane Maolida,km COM,"DL,CC",Lyon,fr Ligue 1,18.0,1999.0,3.7,0,0,0.0,3,1.0,2.0,5.0,0.0,5.0,0.0,0.0,0.0,11.0,2.0,6.0,25.0
 1537,Faitout Maouassa,fr FRA,"CC,DL",Rennes,fr Ligue 1,19.0,1998.0,9.9,1,0,0.0,12,14.0,1.0,33.0,6.0,3.0,0.0,0.0,0.0,34.0,6.0,13.0,31.6
 1538,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,28.0,1989.0,14.4,1,0,0.0,16,25.0,1.0,27.0,26.0,20.0,0.0,1.0,0.0,81.0,28.0,19.0,59.6
 1539,Vincent Marcel,fr FRA,"CC,DL",Nice,fr Ligue 1,20.0,1997.0,0.5,0,0,0.0,1,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,100.0
@@ -2483,7 +2483,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2482,Alin Toșca,ro ROU,DF,Betis,es La Liga,25.0,1992.0,4.7,0,0,0.0,5,3.0,0.0,9.0,5.0,9.0,0.0,0.0,1.0,20.0,6.0,2.0,75.0
 2483,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,26.0,1991.0,11.0,0,0,0.0,25,11.0,9.0,7.0,1.0,3.0,0.0,0.0,0.0,30.0,31.0,66.0,32.0
 2484,Jérémy Toulalan,fr FRA,DF,Bordeaux,fr Ligue 1,33.0,1983.0,21.0,4,0,0.0,21,15.0,0.0,3.0,28.0,25.0,0.0,1.0,1.0,147.0,24.0,25.0,49.0
-2485,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,23.0,1994.0,31.2,3,0,0.0,53,54.0,0.0,19.0,62.0,52.0,1.0,0.0,0.0,254.0,61.0,34.0,64.2
+2485,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,23.0,1994.0,31.2,3,0,0.0,53,54.0,0.0,19.0,62.0,52.0,1.0,0.0,0.0,254.0,61.0,34.0,64.2
 2486,Almamy Touré,ml MLI,DF,Monaco,fr Ligue 1,21.0,1996.0,13.9,3,0,0.0,28,4.0,2.0,46.0,22.0,29.0,0.0,1.0,0.0,82.0,32.0,22.0,59.3
 2487,Thomas Touré,ci CIV,DL,Bordeaux,fr Ligue 1,23.0,1993.0,0.1,0,0,0.0,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,
 2488,Thomas Touré,ci CIV,CC,Angers,fr Ligue 1,23.0,1993.0,1.4,1,0,0.0,3,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,8.0,0.0,1.0,0.0

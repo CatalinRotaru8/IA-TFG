@@ -641,7 +641,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 640,Abdoulaye Diallo,sn SEN,PO,Rennes,fr Ligue 1,26,1992,5.5,0,0,0,0,0,0,0,0,1,0,0,0,4,2,0,100.0
 641,Mustapha Diallo,sn SEN,CC,Nîmes,fr Ligue 1,32,1986,5.1,5,0,0,19,9,0,2,10,11,0,0,0,29,28,13,68.3
 642,Mohamed Diamé,sn SEN,CC,Newcastle Utd,eng Premier League,31,1987,24.1,3,0,0,36,20,0,12,30,46,0,0,0,144,34,46,42.5
-643,Grady Diangana,,"CC,DL",West Ham,eng Premier League,20,1998,6.8,0,0,0,4,10,1,14,1,9,0,0,0,38,7,20,25.9
+643,Grady Diangana,cd COD,"CC,DL",West Ham,eng Premier League,20,1998,6.8,0,0,0,4,10,1,14,1,9,0,0,0,38,7,20,25.9
 644,Lassana Diarra,fr FRA,CC,Paris S-G,fr Ligue 1,33,1985,1.8,0,0,0,6,3,0,0,2,1,0,0,0,13,1,2,33.3
 645,Amadou Diawara,gn GUI,CC,Napoli,it Serie A,21,1997,7.3,4,0,0,15,2,0,0,11,4,0,0,0,56,6,4,60.0
 646,Brahim Díaz,es ESP,DL,Real Madrid,es La Liga,18,1999,4.2,0,0,0,4,14,0,4,0,7,0,0,0,13,0,5,0.0
@@ -1508,7 +1508,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 1507,Juan Manuel Valencia,co COL,DL,Bologna,it Serie A,20,1998,0.3,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0.0
 1508,Harrison Manzala,cd COD,"CC,DL",Angers,fr Ligue 1,24,1994,0.8,0,0,0,1,3,1,4,0,2,0,0,0,5,2,3,40.0
 1509,Fran Manzanara,es ESP,"DF,CC",Levante,es La Liga,21,1996,1.7,0,0,0,1,1,0,0,1,5,0,0,0,5,5,4,55.6
-1510,Myziane Maolida,fr FRA,DL,Nice,fr Ligue 1,19,1999,10.6,2,0,0,5,7,3,7,1,8,0,0,0,41,9,19,32.1
+1510,Myziane Maolida,km COM,DL,Nice,fr Ligue 1,19,1999,10.6,2,0,0,5,7,3,7,1,8,0,0,0,41,9,19,32.1
 1511,Faitout Maouassa,fr FRA,DF,Nîmes,fr Ligue 1,20,1998,23.7,2,1,1,12,25,0,79,23,30,0,0,0,109,20,12,62.5
 1512,Fernando Marçal,br BRA,DF,Lyon,fr Ligue 1,29,1989,9.8,2,0,0,9,9,0,9,30,16,0,0,0,72,34,26,56.7
 1513,Iván Marcano,es ESP,DF,Roma,it Serie A,31,1987,9.0,0,0,0,10,4,0,14,24,4,0,0,0,51,28,13,68.3
@@ -2287,7 +2287,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2286,Giovanni Sio,ci CIV,DL,Montpellier,fr Ligue 1,29,1989,0.7,0,0,0,2,2,1,2,0,0,0,0,0,2,3,4,42.9
 2287,Dimitris Siovas,gr GRE,DF,Leganés,es La Liga,29,1988,32.9,5,0,0,30,10,2,11,65,32,0,0,0,221,102,37,73.4
 2288,Salvatore Sirigu,it ITA,PO,Torino,it Serie A,31,1987,35.2,1,0,0,1,3,0,0,2,0,0,1,0,43,14,0,100.0
-2289,Ibrahima Sissoko,fr FRA,CC,Strasbourg,fr Ligue 1,20,1997,29.6,9,0,0,73,27,0,17,34,41,0,0,0,187,59,48,55.1
+2289,Ibrahima Sissoko,ml MLI,CC,Strasbourg,fr Ligue 1,20,1997,29.6,9,0,0,73,27,0,17,34,41,0,0,0,187,59,48,55.1
 2290,Moussa Sissoko,fr FRA,"CC,DL",Tottenham,eng Premier League,28,1989,25.9,2,0,0,24,19,3,27,16,25,0,0,0,208,23,21,52.3
 2291,Pione Sisto,dk DEN,"DL,CC",Celta Vigo,es La Liga,23,1995,9.4,0,0,0,8,21,3,27,3,3,0,0,0,54,0,4,0.0
 2292,Antonio Sivera,es ESP,PO,Alavés,es La Liga,21,1996,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,100.0
@@ -2449,7 +2449,7 @@ RL,Jugador,País,Posc,Equipo,Comp,Edad,Nacimiento,90 s,TA,TR,2a amarilla,Fls,FR,
 2448,Lucas Torró,es ESP,CC,Eint Frankfurt,de Bundesliga,24,1994,6.2,1,0,0,11,7,0,1,14,7,0,0,0,41,40,17,70.2
 2449,Jordan Torunarigha,de GER,DF,Hertha BSC,de Bundesliga,20,1997,12.9,3,1,1,26,6,0,3,29,30,0,0,0,60,38,16,70.4
 2450,Cenk Tosun,tr TUR,DL,Everton,eng Premier League,27,1991,11.8,3,0,0,17,16,8,4,5,9,0,0,0,40,35,56,38.5
-2451,Abdoulaye Touré,fr FRA,CC,Nantes,fr Ligue 1,24,1994,30.5,4,1,0,26,47,1,24,47,31,1,0,0,198,47,52,47.5
+2451,Abdoulaye Touré,gn GUI,CC,Nantes,fr Ligue 1,24,1994,30.5,4,1,0,26,47,1,24,47,31,1,0,0,198,47,52,47.5
 2452,Almamy Touré,ml MLI,DF,Monaco,fr Ligue 1,22,1996,3.8,0,0,0,5,2,0,4,11,6,0,0,0,15,11,3,78.6
 2453,Almamy Touré,ml MLI,"DF,CC",Eint Frankfurt,de Bundesliga,22,1996,5.8,0,0,0,5,1,0,6,9,11,0,0,0,42,15,14,51.7
 2454,Lucas Tousart,fr FRA,CC,Lyon,fr Ligue 1,21,1997,19.2,3,2,2,26,17,1,2,26,38,0,0,1,127,31,39,44.3
