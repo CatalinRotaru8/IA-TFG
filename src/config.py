@@ -43,6 +43,54 @@ class CleanData:
     files_22_23 = "/data/clean_data/2022-2023/"
 
 
+class ProcessedData:
+    """Class to store the paths of the processed data folders."""
+
+    files_17_18 = "/data/processed_data/2017-2018/"
+    files_18_19 = "/data/processed_data/2018-2019/"
+    files_19_20 = "/data/processed_data/2019-2020/"
+    files_20_21 = "/data/processed_data/2020-2021/"
+    files_21_22 = "/data/processed_data/2021-2022/"
+    files_22_23 = "/data/processed_data/2022-2023/"
+
+
+class TransfermarktData:
+    """Class to store the paths of the processed data folders."""
+
+    files_2016 = "/data/TransferMarket/player_transfers/2016/"
+    files_2017 = "/data/TransferMarket/player_transfers/2017/"
+    files_2018 = "/data/TransferMarket/player_transfers/2018/"
+    files_2019 = "/data/TransferMarket/player_transfers/2019/"
+    files_2020 = "/data/TransferMarket/player_transfers/2020/"
+    files_2021 = "/data/TransferMarket/player_transfers/2021/"
+
+
+class TransfermarketFiles:
+    """Class to store the names of the files."""
+
+    files_2016 = "2016.csv"
+    files_2017 = "2017.csv"
+    files_2018 = "2018.csv"
+    files_2019 = "2019.csv"
+    files_2020 = "2020.csv"
+    files_2021 = "2021.csv"
+
+
+class TransferMarketFilesOriginalData:
+    """Class to store the names of the files."""
+
+    bundesliga = "1-bundesliga.csv"
+    eredivisie = "eredivisie.csv"
+    juliper_pro_league = "jupiler_pro_league.csv"
+    la_liga = "la_liga.csv"
+    ligue_1 = "ligue_1.csv"
+    premier_league = "premier_league.csv"
+    premier_liga = "premier_liga.csv"
+    primeira_liga = "primeira_liga.csv"
+    scottish_premiership = "scottish_premiership.csv"
+    serie_a = "serie_a.csv"
+
+
 class DeleteLines:
     """Class to store the lines to delete from the data."""
 

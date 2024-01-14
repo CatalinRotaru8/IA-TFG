@@ -1,13 +1,14 @@
 """Main module for the TFG project."""
-from src.core.controller import clean_all_data
+from src.utils import utils
+from src.config import TransfermarktData, TransfermarketFiles
+from src.core import controller
 
 
 def main():
     """
     Main function for the project
     """
-    # get_big5_data(Fbref.stats_dict)
-    clean_all_data()
+    controller.process_transfermarket_data()
 
 
 if __name__ == "__main__":

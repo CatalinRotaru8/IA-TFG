@@ -1,7 +1,14 @@
 """ This module contains the constants used in the project. """
 import os
 import pandas as pd
-from src.config import Directories, DeleteLines, FileName, CleanData
+from src.config import (
+    Directories,
+    DeleteLines,
+    FileName,
+    CleanData,
+    TransfermarktData,
+    TransfermarketFiles,
+)
 
 
 def get_file_path(folder_path: str, file_name: str | None) -> str:
@@ -196,3 +203,22 @@ def clean_all_data():
     transform_file(CleanData.files_20_21)
     transform_file(CleanData.files_21_22)
     transform_file(CleanData.files_22_23)
+
+
+def union_transfermarket_file(file_path: str, output_name: str) -> None:
+    """
+    Union of all the files of all the years.
+    """
+    files = get_list_of_files(file_path)
+    dataframe_concat = pd.read_csv(get_file_path(file_path, files[0]))
+    print(dataframe_concat.shape)
+    for file in files[1:]:
+        dataframe = pd.read_csv(get_file_path(file_path, file))
+        dataframe_concat = pd.concat(
+            [dataframe_concat, dataframe], ignore_index=True, sort=False
+        )
+
+    dataframe_concat.to_csv(
+        get_file_path(file_path, output_name),
+        index=False,
+    )
