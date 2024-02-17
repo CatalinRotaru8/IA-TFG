@@ -1,4 +1,5 @@
 """ This module contains the constants used in the project. """
+
 import os
 import pandas as pd
 from src.config import (
@@ -8,6 +9,7 @@ from src.config import (
     CleanData,
     TransfermarktData,
     TransfermarketFiles,
+    InputData,
 )
 
 
@@ -210,15 +212,41 @@ def union_transfermarket_file(file_path: str, output_name: str) -> None:
     Union of all the files of all the years.
     """
     files = get_list_of_files(file_path)
-    dataframe_concat = pd.read_csv(get_file_path(file_path, files[0]))
-    print(dataframe_concat.shape)
-    for file in files[1:]:
+    print(files)
+    dataframes = []
+    for file in files:
         dataframe = pd.read_csv(get_file_path(file_path, file))
-        dataframe_concat = pd.concat(
-            [dataframe_concat, dataframe], ignore_index=True, sort=False
-        )
-
+        print(dataframe.shape, file)
+        dataframes.append(dataframe)
+    dataframe_concat = pd.concat(dataframes, ignore_index=True, sort=False)
+    print(dataframe_concat.shape)
     dataframe_concat.to_csv(
-        get_file_path(file_path, output_name),
+        os.path.join(
+            Directories.get_project_root(Directories) + file_path, output_name
+        ),
+        index=False,
+    )
+
+
+def merge_csv(fbref_file_path: str, tm_file_path, output_name: str) -> None:
+    """
+    Merge the csv files.
+
+    Args:
+        file_path (str): Path to the file with players stats from fbref.
+        tm_file_path (str): Path to the file with players stats from transfermarkt.
+        output_name (str): Name of the output file.
+    """
+
+    df_union = pd.merge(
+        pd.read_csv(fbref_file_path),
+        pd.read_csv(tm_file_path),
+        left_on="Jugador",
+        right_on="name",
+        how="inner",
+        validate="one_to_one",
+    )
+    df_union.to_csv(
+        Directories.get_project_root(Directories) + output_name,
         index=False,
     )

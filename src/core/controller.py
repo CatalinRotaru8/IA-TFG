@@ -1,4 +1,5 @@
 """Controller module"""
+
 from src.utils.fbref import Fbref
 from src.utils.downloader import get_big5_data
 from src.utils.utils import clean_all_data, union_transfermarket_file
@@ -17,6 +18,7 @@ def process_transfermarket_data():
         file_path=TransfermarktData.files_2016,
         output_name=TransfermarketFiles.files_2016,
     )
+    print("2016")
     union_transfermarket_file(
         file_path=TransfermarktData.files_2017,
         output_name=TransfermarketFiles.files_2017,

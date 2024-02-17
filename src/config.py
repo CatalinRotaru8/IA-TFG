@@ -1,4 +1,5 @@
 """File to store the configuration of the project."""
+
 import os
 from pathlib import Path
 
@@ -89,6 +90,18 @@ class TransferMarketFilesOriginalData:
     primeira_liga = "primeira_liga.csv"
     scottish_premiership = "scottish_premiership.csv"
     serie_a = "serie_a.csv"
+
+
+class InputData:
+    """Class to store the paths of the input data models Artifical Intelligence."""
+
+    files_2016 = "/data/input_data/2017-2018/"
+    files_2017 = "/data/input_data/2018-2019/"
+    files_2018 = "/data/input_data/2019-2020/"
+    files_2019 = "/data/input_data/2019-2020/"
+    files_2020 = "/data/input_data/2020-2021/"
+    files_2021 = "/data/input_data/2021-2022/"
+    files_2022 = "/data/input_data/2022-2023/"
 
 
 class DeleteLines:
