@@ -79,11 +79,7 @@ def merge_and_process_yearly_data(years, file_name: str) -> None:
             result = pd.merge(
                 result, data_df, on="Jugador", how="outer", validate="one_to_one"
             )
-            result.drop(
-                columns=[f"País{year}", f"Nacimiento{year}", f"RL{year}"],
-                axis=1,
-                inplace=True,
-            )
+            result.drop(columns=[f"RL{year}"], axis=1, inplace=True)
 
     result.fillna(0, inplace=True)
     result.to_csv(get_file_path(ProcessedData.all_years, file_name))

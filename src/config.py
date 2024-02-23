@@ -54,6 +54,7 @@ class ProcessedData:
     files_21_22 = "/data/processed_data/2021-2022/"
     files_22_23 = "/data/processed_data/2022-2023/"
     all_years = "/data/processed_data/all_years/"
+    replace_strings = "/data/processed_data/replace_strings/"
 
 
 class InputData:
