@@ -9,7 +9,10 @@ from src.config import (
     ProcessedData,
     FileName,
 )
-from src.utils.data_procesing import sum_values_from_duplicate_player
+from src.utils.data_procesing import (
+    sum_values_from_duplicate_player,
+    merge_and_process_yearly_data,
+)
 
 
 def download_clean_data():
@@ -76,3 +79,26 @@ def process_duplicate_players():
         file_path=ProcessedData.files_22_23,
         excluded_columns=excluded_columns,
     )
+
+
+def process_merge_yearly_data():
+    """Process the merge yearly data"""
+    years = [
+        "2017-2018",
+        "2018-2019",
+        "2019-2020",
+        "2020-2021",
+        "2021-2022",
+        "2022-2023",
+    ]
+    merge_and_process_yearly_data(years, FileName.acciones_defensivas)
+    merge_and_process_yearly_data(years, FileName.creacion_de_goles_y_tiros)
+    merge_and_process_yearly_data(years, FileName.estadisticas_diversas)
+    merge_and_process_yearly_data(years, FileName.estadisticas_estandar)
+    merge_and_process_yearly_data(years, FileName.pases)
+    merge_and_process_yearly_data(years, FileName.porteria_avanzada)
+    merge_and_process_yearly_data(years, FileName.porteros)
+    merge_and_process_yearly_data(years, FileName.posesion_del_balon)
+    merge_and_process_yearly_data(years, FileName.tiempo_jugado)
+    merge_and_process_yearly_data(years, FileName.tipos_de_pases)
+    merge_and_process_yearly_data(years, FileName.tiros)

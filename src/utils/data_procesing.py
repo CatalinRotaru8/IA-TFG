@@ -4,6 +4,7 @@ from typing import List
 import pandas as pd
 
 from src.utils.utils import get_list_of_files, get_file_path
+from src.config import ProcessedData
 
 
 def sum_values_from_duplicate_player(
@@ -51,3 +52,38 @@ def sum_values_from_duplicate_player(
             columns=lambda x: x + year
         )
         processed_df.to_csv(get_file_path(file_path, file), index=False)
+
+
+def merge_and_process_yearly_data(years, file_name: str) -> None:
+    """Merge and process the yearly data.
+
+    Args:
+        path_year (str): Path to the year folder
+        file_name (str): Name of the file to process
+        output_file_name (str): Name of the output file
+    """
+    result = None
+    for year in years:
+        short_year = "_".join(
+            [y[-2:] for y in year.split("-")]
+        )  # Convert '2017-2018' to '17_18'
+        data_df = pd.read_csv(
+            get_file_path(getattr(ProcessedData, f"files_{short_year}"), file_name)
+        )
+        data_df.rename(columns={f"Jugador{year}": "Jugador"}, inplace=True)
+
+        if result is None:
+            result = data_df
+            result.drop(columns=[f"RL{year}"], axis=1, inplace=True)
+        else:
+            result = pd.merge(
+                result, data_df, on="Jugador", how="outer", validate="one_to_one"
+            )
+            result.drop(
+                columns=[f"País{year}", f"Nacimiento{year}", f"RL{year}"],
+                axis=1,
+                inplace=True,
+            )
+
+    result.fillna(0, inplace=True)
+    result.to_csv(get_file_path(ProcessedData.all_years, file_name))
