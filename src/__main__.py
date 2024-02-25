@@ -2,91 +2,131 @@
 
 from src.utils.utils import get_file_path
 from src.config import ProcessedData, FileName
-from src.core.controller import process_merge_yearly_data
+from src.core.controller import process_merge_yearly_data, process_encode_columns
 import pandas as pd
+from sklearn.preprocessing import LabelEncoder
+from src.utils.data_procesing import encode_columns_in_dataframes
 
 
 def main():
     """
     Main function for the project
     """
-    process_merge_yearly_data()
-    # acc_def_17_18 = pd.read_csv(
-    #     get_file_path(ProcessedData.files_17_18, FileName.acciones_defensivas)
-    # )
-    # acc_def_18_19 = pd.read_csv(
-    #     get_file_path(ProcessedData.files_18_19, FileName.acciones_defensivas)
-    # )
-    # acc_def_19_20 = pd.read_csv(
-    #     get_file_path(ProcessedData.files_19_20, FileName.acciones_defensivas)
-    # )
-    # acc_def_20_21 = pd.read_csv(
-    #     get_file_path(ProcessedData.files_20_21, FileName.acciones_defensivas)
-    # )
-    # acc_def_21_22 = pd.read_csv(
-    #     get_file_path(ProcessedData.files_21_22, FileName.acciones_defensivas)
-    # )
-    # acc_def_22_23 = pd.read_csv(
-    #     get_file_path(ProcessedData.files_22_23, FileName.acciones_defensivas)
-    # )
+    process_encode_columns()
+    # file_names = [
+    #     FileName.acciones_defensivas,
+    #     FileName.creacion_de_goles_y_tiros,
+    #     FileName.estadisticas_diversas,
+    #     FileName.estadisticas_estandar,
+    #     FileName.pases,
+    #     FileName.porteria_avanzada,
+    #     FileName.porteros,
+    #     FileName.posesion_del_balon,
+    #     FileName.tiempo_jugado,
+    #     FileName.tipos_de_pases,
+    #     FileName.tiros,
+    # ]
 
-    # acc_def_17_18.rename(columns={"Jugador2017-2018": "Jugador"}, inplace=True)
-    # acc_def_18_19.rename(columns={"Jugador2018-2019": "Jugador"}, inplace=True)
-    # acc_def_19_20.rename(columns={"Jugador2019-2020": "Jugador"}, inplace=True)
-    # acc_def_20_21.rename(columns={"Jugador2020-2021": "Jugador"}, inplace=True)
-    # acc_def_21_22.rename(columns={"Jugador2021-2022": "Jugador"}, inplace=True)
-    # acc_def_22_23.rename(columns={"Jugador2022-2023": "Jugador"}, inplace=True)
+    # columns_to_encode = [
+    #     "País2017-2018",
+    #     "País2018-2019",
+    #     "País2019-2020",
+    #     "País2020-2021",
+    #     "País2021-2022",
+    #     "País2022-2023",
+    # ]
 
-    # result = pd.merge(
-    #     acc_def_17_18, acc_def_18_19, on="Jugador", how="outer", validate="one_to_one"
-    # )
-    # result.drop(
-    #     columns=["País2018-2019", "Nacimiento2018-2019", "RL2017-2018"],
-    #     axis=1,
-    #     inplace=True,
-    # )
+    # encode_columns_in_dataframes(file_names, columns_to_encode)
 
-    # result = pd.merge(
-    #     result, acc_def_19_20, on="Jugador", how="outer", validate="one_to_one"
-    # )
-    # result.drop(
-    #     columns=["País2019-2020", "Nacimiento2019-2020", "RL2019-2020"],
-    #     axis=1,
-    #     inplace=True,
-    # )
 
-    # result = pd.merge(
-    #     result, acc_def_20_21, on="Jugador", how="outer", validate="one_to_one"
-    # )
-    # result.drop(
-    #     columns=["País2020-2021", "Nacimiento2020-2021", "RL2020-2021"],
-    #     axis=1,
-    #     inplace=True,
-    # )
+# df_acciones_defensivas = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.acciones_defensivas), dtype=str
+# )
+# df_creacion_goles_tiros = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.creacion_de_goles_y_tiros),
+#     dtype=str,
+# )
+# df_est_diversas = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.estadisticas_diversas),
+#     dtype=str,
+# )
+# df_est_estandard = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.estadisticas_estandar),
+#     dtype=str,
+# )
+# df_pases = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.pases), dtype=str
+# )
+# df_porteria_avanzada = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.porteria_avanzada), dtype=str
+# )
+# df_porteros = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.porteros), dtype=str
+# )
+# df_posesion_del_balon = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.posesion_del_balon), dtype=str
+# )
+# df_tiempo_jugado = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.tiempo_jugado), dtype=str
+# )
+# df_tipos_de_pases = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.tipos_de_pases), dtype=str
+# )
+# df_tiros = pd.read_csv(
+#     get_file_path(ProcessedData.all_years, FileName.tiros), dtype=str
+# )
 
-    # result = pd.merge(
-    #     result, acc_def_21_22, on="Jugador", how="outer", validate="one_to_one"
-    # )
-    # result.drop(
-    #     columns=["País2021-2022", "Nacimiento2021-2022", "RL2021-2022"],
-    #     axis=1,
-    #     inplace=True,
-    # )
+# columnas = [
+#     "País2017-2018",
+#     "País2018-2019",
+#     "País2019-2020",
+#     "País2020-2021",
+#     "País2021-2022",
+#     "País2022-2023",
+# ]
 
-    # result = pd.merge(
-    #     result, acc_def_22_23, on="Jugador", how="outer", validate="one_to_one"
-    # )
-    # result.drop(
-    #     columns=["País2022-2023", "Nacimiento2022-2023", "RL2022-2023"],
-    #     axis=1,
-    #     inplace=True,
-    # )
+# le = LabelEncoder()
+# dataframes = [
+#     df_acciones_defensivas,
+#     df_creacion_goles_tiros,
+#     df_est_diversas,
+#     df_est_estandard,
+#     df_pases,
+#     df_porteria_avanzada,
+#     df_porteros,
+#     df_posesion_del_balon,
+#     df_tiempo_jugado,
+#     df_tipos_de_pases,
+#     df_tiros,
+# ]
+# # Entrenamos el label encoder con todos los datos unicos de las columnas de las columnas que nos interesan
+# todos_los_datos = pd.concat(
+#     [df[col] for df in dataframes for col in columnas if col in df]
+# ).unique()
+# le.fit(todos_los_datos)
 
-    # result.fillna(0, inplace=True)
-    # result.to_csv(
-    #     get_file_path(ProcessedData.all_years, FileName.acciones_defensivas),
-    #     index=False,
-    # )
+# # Transformamos los datos de las columnas que nos interesan usando el mismo label encoder
+# for df in dataframes:
+#     for col in columnas:
+#         if col in df:
+#             df[col] = le.transform(df[col])
+
+# nombres_archivos = [
+#     "acciones_defensivas.csv",
+#     "creacion_de_goles_y_tiros.csv",
+#     "estadisticas_diversas.csv",
+#     "estadisticas_estandar.csv",
+#     "pases.csv",
+#     "porteria_avanzada.csv",
+#     "porteros.csv",
+#     "posesion_del_balon.csv",
+#     "tiempo_jugado.csv",
+#     "tipos_de_pases.csv",
+#     "tiros.csv",
+# ]
+
+# for df, nombre in zip(dataframes, nombres_archivos):
+#     df.to_csv(nombre, index=False)
 
 
 if __name__ == "__main__":

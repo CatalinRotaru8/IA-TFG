@@ -2,6 +2,7 @@
 
 from typing import List
 import pandas as pd
+from sklearn.preprocessing import LabelEncoder
 
 from src.utils.utils import get_list_of_files, get_file_path
 from src.config import ProcessedData
@@ -83,3 +84,39 @@ def merge_and_process_yearly_data(years, file_name: str) -> None:
 
     result.fillna(0, inplace=True)
     result.to_csv(get_file_path(ProcessedData.all_years, file_name))
+
+
+def encode_columns_in_dataframes(file_names, columns_dict):
+    """Encode the columns in the dataframes.
+
+    Args:
+        files_names (_type_):
+        columns_dict (dict): A dictionary where keys are the attribute names and values are lists of column names
+    """
+    dataframes = []
+
+    # Create a LabelEncoder for each attribute
+    encoders = {attr: LabelEncoder() for attr in columns_dict.keys()}
+
+    # Load dataframes from csv files
+    for file_name in file_names:
+        df = pd.read_csv(get_file_path(ProcessedData.all_years, file_name), dtype=str)
+        dataframes.append(df)
+
+    # Train the label encoder with all unique data from the columns of interest
+    for attr, columns in columns_dict.items():
+        all_data = pd.concat(
+            [df[col] for df in dataframes for col in columns if col in df]
+        ).unique()
+        encoders[attr].fit(all_data)
+
+    # Transform the data of the columns of interest using the same label encoder
+    for df in dataframes:
+        for attr, columns in columns_dict.items():
+            for col in columns:
+                if col in df:
+                    df[col] = encoders[attr].transform(df[col])
+
+    # Save the transformed dataframes back to csv files
+    for df, file_name in zip(dataframes, file_names):
+        df.to_csv(get_file_path(ProcessedData.replace_strings, file_name), index=False)

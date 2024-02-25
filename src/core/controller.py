@@ -12,6 +12,7 @@ from src.config import (
 from src.utils.data_procesing import (
     sum_values_from_duplicate_player,
     merge_and_process_yearly_data,
+    encode_columns_in_dataframes,
 )
 
 
@@ -102,3 +103,57 @@ def process_merge_yearly_data():
     merge_and_process_yearly_data(years, FileName.tiempo_jugado)
     merge_and_process_yearly_data(years, FileName.tipos_de_pases)
     merge_and_process_yearly_data(years, FileName.tiros)
+
+
+def process_encode_columns():
+    """Process the encode columns"""
+    file_names = [
+        FileName.acciones_defensivas,
+        FileName.creacion_de_goles_y_tiros,
+        FileName.estadisticas_diversas,
+        FileName.estadisticas_estandar,
+        FileName.pases,
+        FileName.porteria_avanzada,
+        FileName.porteros,
+        FileName.posesion_del_balon,
+        FileName.tiempo_jugado,
+        FileName.tipos_de_pases,
+        FileName.tiros,
+    ]
+
+    columns_dict = {
+        "pais": [
+            "País2017-2018",
+            "País2018-2019",
+            "País2019-2020",
+            "País2020-2021",
+            "País2021-2022",
+            "País2022-2023",
+        ],
+        "posicion": [
+            "Posc2017-2018",
+            "Posc2018-2019",
+            "Posc2019-2020",
+            "Posc2020-2021",
+            "Posc2021-2022",
+            "Posc2022-2023",
+        ],
+        "equipo": [
+            "Equipo2017-2018",
+            "Equipo2018-2019",
+            "Equipo2019-2020",
+            "Equipo2020-2021",
+            "Equipo2021-2022",
+            "Equipo2022-2023",
+        ],
+        "competicion": [
+            "Comp2017-2018",
+            "Comp2018-2019",
+            "Comp2019-2020",
+            "Comp2020-2021",
+            "Comp2021-2022",
+            "Comp2022-2023",
+        ],
+    }
+
+    encode_columns_in_dataframes(file_names, columns_dict)
