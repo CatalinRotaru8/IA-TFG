@@ -70,6 +70,7 @@ class TransfermarktData:
     files_2019 = "/data/TransferMarket/player_transfers/2019/"
     files_2020 = "/data/TransferMarket/player_transfers/2020/"
     files_2021 = "/data/TransferMarket/player_transfers/2021/"
+    transfermarket = "/data/TransferMarket/2022/"
 
 
 class TransfermarketFiles:
@@ -81,6 +82,7 @@ class TransfermarketFiles:
     files_2019 = "2019.csv"
     files_2020 = "2020.csv"
     files_2021 = "2021.csv"
+    transfermarket = "transfermarter_2022.csv"
 
 
 class TransferMarketFilesOriginalData:

@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
 from src.utils.utils import get_list_of_files, get_file_path
-from src.config import ProcessedData
+from src.config import ProcessedData, TransfermarktData, TransfermarketFiles
 
 
 def sum_values_from_duplicate_player(
@@ -120,3 +120,29 @@ def encode_columns_in_dataframes(file_names, columns_dict):
     # Save the transformed dataframes back to csv files
     for df, file_name in zip(dataframes, file_names):
         df.to_csv(get_file_path(ProcessedData.replace_strings, file_name), index=False)
+
+
+def encode_columns_transfermarket(columns: List[str]) -> None:
+    """Encode the columns in the transfermarket data.
+
+    Args:
+        columns (List[str]): List of columns to encode
+    """
+    transfermarkt_data = pd.read_csv(
+        get_file_path(
+            TransfermarktData.transfermarket, TransfermarketFiles.transfermarket
+        )
+    )
+
+    label = LabelEncoder()
+    for column in columns:
+        transfermarkt_data[column] = label.fit_transform(
+            transfermarkt_data[column].astype(str)
+        )
+
+    transfermarkt_data.to_csv(
+        get_file_path(
+            ProcessedData.replace_strings, TransfermarketFiles.transfermarket
+        ),
+        index=False,
+    )

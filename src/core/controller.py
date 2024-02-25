@@ -13,6 +13,7 @@ from src.utils.data_procesing import (
     sum_values_from_duplicate_player,
     merge_and_process_yearly_data,
     encode_columns_in_dataframes,
+    encode_columns_transfermarket,
 )
 
 
@@ -157,3 +158,9 @@ def process_encode_columns():
     }
 
     encode_columns_in_dataframes(file_names, columns_dict)
+
+
+def process_transfermarket():
+    """Process the transfermarket"""
+    columns = ["Position", "Transfer Type"]
+    encode_columns_transfermarket(columns=columns)
