@@ -2,35 +2,29 @@
 
 from src.utils.utils import get_file_path
 from src.config import TransfermarketFiles, TransfermarktData, ProcessedData
-from src.core.controller import process_transfermarket
 import pandas as pd
-from sklearn.preprocessing import LabelEncoder
+from src.core.controller import process_transfermaket_fbref
 
 
 def main():
     """
     Main function for the project
     """
-    process_transfermarket()
-    # transfermarkt_data = pd.read_csv(
-    #     get_file_path(
-    #         TransfermarktData.transfermarket, TransfermarketFiles.transfermarket
-    #     )
+    process_transfermaket_fbref()
+
+    # transfermarket_df = pd.read_csv(
+    #     get_file_path(ProcessedData.replace_strings, "transfermarter_2022.csv")
     # )
 
-    # columns = ["Position", "Transfer Type"]
-    # label = LabelEncoder()
-    # for column in columns:
-    #     transfermarkt_data[column] = label.fit_transform(
-    #         transfermarkt_data[column].astype(str)
-    #     )
+    # # Create a boolean mask for duplicated rows
+    # duplicated_mask = transfermarket_df.duplicated(subset=["Name"], keep=False)
 
-    # transfermarkt_data.to_csv(
-    #     get_file_path(
-    #         ProcessedData.replace_strings, TransfermarketFiles.transfermarket
-    #     ),
-    #     index=False,
-    # )
+    # # Use the mask to filter the DataFrame
+    # duplicated_data = transfermarket_df[duplicated_mask]
+    # duplicated_data["Name"].to_csv("nombres.csv", index=False)
+
+    # # Print the duplicated data
+    # print(duplicated_data)
 
 
 if __name__ == "__main__":

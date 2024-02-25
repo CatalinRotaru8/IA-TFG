@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
 from src.utils.utils import get_list_of_files, get_file_path
-from src.config import ProcessedData, TransfermarktData, TransfermarketFiles
+from src.config import ProcessedData, TransfermarktData, TransfermarketFiles, InputData
 
 
 def sum_values_from_duplicate_player(
@@ -146,3 +146,36 @@ def encode_columns_transfermarket(columns: List[str]) -> None:
         ),
         index=False,
     )
+
+
+def merge_transfermaket_fbref(fbref_file: str, transfermarket_file: str) -> None:
+    """Merge the transfermarket file and each fbref file stats and save in one file
+    that contains all stats and transfermarket value, fee and position,
+    the result is saved in the path data/input_data"""
+
+    fbref_df = pd.read_csv(
+        get_file_path(ProcessedData.replace_strings, fbref_file), dtype=str
+    )
+
+    transfermarket_df = pd.read_csv(
+        get_file_path(ProcessedData.replace_strings, transfermarket_file)
+    )
+    # Drop duplicate players
+    transfermarket_df = transfermarket_df.drop_duplicates(subset=["Name"])
+    # nos quedamos con las columnas que nos interesan
+    transfermarket_df = transfermarket_df[
+        ["Name", "Position", "Market Value", "Transfer Type", "Fee"]
+    ]
+
+    merge_df = pd.merge(
+        fbref_df,
+        transfermarket_df,
+        left_on=["Jugador"],
+        right_on=["Name"],
+        how="left",
+        validate="one_to_one",
+    )
+    # eliminamos la columna Name
+    merge_df.drop(columns=["Name"], inplace=True)
+
+    merge_df.to_csv(get_file_path(InputData.input_data, fbref_file), index=False)

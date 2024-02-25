@@ -1,4 +1,5 @@
 """ This module contains the constants used in the project. """
+
 import os
 import pandas as pd
 from src.config import (

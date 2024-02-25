@@ -14,6 +14,7 @@ from src.utils.data_procesing import (
     merge_and_process_yearly_data,
     encode_columns_in_dataframes,
     encode_columns_transfermarket,
+    merge_transfermaket_fbref,
 )
 
 
@@ -164,3 +165,25 @@ def process_transfermarket():
     """Process the transfermarket"""
     columns = ["Position", "Transfer Type"]
     encode_columns_transfermarket(columns=columns)
+
+
+def process_transfermaket_fbref():
+    """Process the transfermaket and each fbref file stats and save in one file"""
+    file_names = [
+        FileName.acciones_defensivas,
+        FileName.creacion_de_goles_y_tiros,
+        FileName.estadisticas_diversas,
+        FileName.estadisticas_estandar,
+        FileName.pases,
+        FileName.porteria_avanzada,
+        FileName.porteros,
+        FileName.posesion_del_balon,
+        FileName.tiempo_jugado,
+        FileName.tipos_de_pases,
+        FileName.tiros,
+    ]
+
+    trasnfermarket = TransfermarketFiles.transfermarket
+
+    for file_name in file_names:
+        merge_transfermaket_fbref(file_name, trasnfermarket)

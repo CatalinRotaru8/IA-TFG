@@ -60,6 +60,8 @@ class ProcessedData:
 class InputData:
     """Class to store the paths of the input data folders."""
 
+    input_data = "/data/input_data/"
+
 
 class TransfermarktData:
     """Class to store the paths of the processed data folders."""
@@ -82,7 +84,7 @@ class TransfermarketFiles:
     files_2019 = "2019.csv"
     files_2020 = "2020.csv"
     files_2021 = "2021.csv"
-    transfermarket = "transfermarter_2022.csv"
+    transfermarket = "transfermarket_2022.csv"
 
 
 class TransferMarketFilesOriginalData:

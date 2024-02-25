@@ -1,4 +1,5 @@
 """ Module to download data from fbref.com """
+
 import os
 import pandas as pd
 from src.utils.fbref import Fbref
