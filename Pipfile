@@ -9,6 +9,14 @@ pylint = "*"
 lxml = "*"
 black = "*"
 scikit-learn = "*"
+matplotlib = "*"
+statsmodels = "*"
+seaborn = "*"
+plotly = "*"
+nbformat = "==4.2.0"
+mglearn = "*"
+tensorflow = "*"
+joblib = "*"
 
 [dev-packages]
 
